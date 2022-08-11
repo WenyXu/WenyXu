@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (today)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
 - [timtadh/lexmachine](https://github.com/timtadh/lexmachine) - Lex machinary for go. (2 days ago)
 - [blynn/nex](https://github.com/blynn/nex) - Lexer for Go (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey (2 days ago)
 - [xianlubird/mydocker](https://github.com/xianlubird/mydocker) - &lt;&lt;自己动手写docker&gt;&gt; 源码 (2 days ago)
 - [akangakang/cloud-computing-lab](https://github.com/akangakang/cloud-computing-lab) - 2020-2021-2 SE359 云计算系统设计与开发 🍿Reliable Data Transport Protocol 🍟send and receive packets with DPDK 🍔QoS Implementation with DPDK 🥞MapReduce 🍕Naive gDocs (3 days ago)
-- [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn&#39;t good enough (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
