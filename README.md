@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (today)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (1 day ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
 - [timtadh/lexmachine](https://github.com/timtadh/lexmachine) - Lex machinary for go. (3 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [AZHenley/teenytinycompiler](https://github.com/AZHenley/teenytinycompiler) - A small BASIC-to-C compiler written in Python. (3 days ago)
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey (3 days ago)
 - [xianlubird/mydocker](https://github.com/xianlubird/mydocker) - &lt;&lt;自己动手写docker&gt;&gt; 源码 (3 days ago)
-- [akangakang/cloud-computing-lab](https://github.com/akangakang/cloud-computing-lab) - 2020-2021-2 SE359 云计算系统设计与开发 🍿Reliable Data Transport Protocol 🍟send and receive packets with DPDK 🍔QoS Implementation with DPDK 🥞MapReduce 🍕Naive gDocs (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
