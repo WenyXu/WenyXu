@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(pkg/parser): impl expression eval](https://github.com/casbin-mesh/neo/pull/54) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (today)
 - [feat(neo/executor): introduce plan builder](https://github.com/casbin-mesh/neo/pull/52) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
 - [feat: seq scan &amp; update executor](https://github.com/casbin-mesh/neo/pull/49) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
 - [test(neo/executor): add tests for insert executor](https://github.com/casbin-mesh/neo/pull/48) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
@@ -23,7 +24,6 @@ Hi 👋 Weny here.
 - [feat(primitive/btuple): add btuple](https://github.com/casbin-mesh/neo/pull/29) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
 - [feat(primitive): add meta](https://github.com/casbin-mesh/neo/pull/28) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
 - [feat(db): add db interfaces](https://github.com/casbin-mesh/neo/pull/27) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
-- [chore(.github/action): update CI env go version to 1.18](https://github.com/casbin/casbin-mesh/pull/61) on [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
