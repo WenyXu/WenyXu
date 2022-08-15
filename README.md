@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Veykril/tlborm](https://github.com/Veykril/tlborm) - The Little Book of Rust Macros (updated fork)  (today)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painless, and efficiently (today)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (today)
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [outcaste-io/badger](https://github.com/outcaste-io/badger) - Fast Key-Value DB in Go (6 days ago)
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥         推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-codetop (6 days ago)
 - [lotabout/Let-s-build-a-compiler](https://github.com/lotabout/Let-s-build-a-compiler) - A C &amp; x86 version of the &#34;Let&#39;s Build a Compiler&#34; by Jack Crenshaw  (6 days ago)
-- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
