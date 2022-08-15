@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (today)
+- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (today)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (3 days ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (4 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (5 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [lotabout/Let-s-build-a-compiler](https://github.com/lotabout/Let-s-build-a-compiler) - A C &amp; x86 version of the &#34;Let&#39;s Build a Compiler&#34; by Jack Crenshaw  (6 days ago)
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (6 days ago)
 - [AZHenley/teenytinycompiler](https://github.com/AZHenley/teenytinycompiler) - A small BASIC-to-C compiler written in Python. (6 days ago)
-- [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey (6 days ago)
-- [xianlubird/mydocker](https://github.com/xianlubird/mydocker) - &lt;&lt;自己动手写docker&gt;&gt; 源码 (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
