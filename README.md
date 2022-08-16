@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [doc: add code and executor docs](https://github.com/casbin-mesh/neo/pull/55) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (today)
 - [feat(pkg/parser): impl expression eval](https://github.com/casbin-mesh/neo/pull/54) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 days ago)
 - [feat(neo/executor): introduce plan builder](https://github.com/casbin-mesh/neo/pull/52) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
 - [feat: seq scan &amp; update executor](https://github.com/casbin-mesh/neo/pull/49) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
@@ -23,7 +24,6 @@ Hi 👋 Weny here.
 - [feat(primitive/bsontype): add type definitions](https://github.com/casbin-mesh/neo/pull/30) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
 - [feat(primitive/btuple): add btuple](https://github.com/casbin-mesh/neo/pull/29) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
 - [feat(primitive): add meta](https://github.com/casbin-mesh/neo/pull/28) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
-- [feat(db): add db interfaces](https://github.com/casbin-mesh/neo/pull/27) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
