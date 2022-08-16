@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (today)
+- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (today)
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go (1 day ago)
 - [Veykril/tlborm](https://github.com/Veykril/tlborm) - The Little Book of Rust Macros (updated fork)  (1 day ago)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painless, and efficiently (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [bbuck/go-lexer](https://github.com/bbuck/go-lexer) - Lexer based on Rob Pike&#39;s talk on YouTube (view README) (1 week ago)
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (1 week ago)
 - [OneSizeFitsQuorum/MIT6.824-2021](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) - 4 labs &#43; 2 challenges &#43; 4 docs (1 week ago)
-- [outcaste-io/badger](https://github.com/outcaste-io/badger) - Fast Key-Value DB in Go (1 week ago)
-- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥         推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-codetop (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
