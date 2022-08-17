@@ -45,7 +45,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (1 week ago)
+- [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (today)
 - [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (1 month ago)
 - [casbin-mesh/luopan](https://github.com/casbin-mesh/luopan) - The GUI for Casbin-Mesh (1 month ago)
 - [casbin-mesh/website](https://github.com/casbin-mesh/website) -  (3 months ago)
@@ -56,7 +56,7 @@ Hi 👋 Weny here.
 - [RinChanNOWWW](https://github.com/RinChanNOWWW)
 - [Rolemodel01291](https://github.com/Rolemodel01291)
 - [pinhe91](https://github.com/pinhe91)
-- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [xiaotianxt](https://github.com/xiaotianxt)
+- [xubingfeng19](https://github.com/xubingfeng19)
 
 
