@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (today)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (2 days ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (2 days ago)
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go (3 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [blynn/nex](https://github.com/blynn/nex) - Lexer for Go (1 week ago)
 - [bbuck/go-lexer](https://github.com/bbuck/go-lexer) - Lexer based on Rob Pike&#39;s talk on YouTube (view README) (1 week ago)
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (1 week ago)
-- [OneSizeFitsQuorum/MIT6.824-2021](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) - 4 labs &#43; 2 challenges &#43; 4 docs (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
