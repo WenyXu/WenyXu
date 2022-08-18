@@ -4,7 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(neo/executor): add index scan executor](https://github.com/casbin-mesh/neo/pull/57) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 day ago)
+- [feat(neo/executor): add multi-index &amp; index scan executor](https://github.com/casbin-mesh/neo/pull/57) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 day ago)
 - [doc: add code and executor docs](https://github.com/casbin-mesh/neo/pull/55) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 days ago)
 - [feat(pkg/parser): impl expression eval](https://github.com/casbin-mesh/neo/pull/54) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 days ago)
 - [feat(neo/executor): introduce plan builder](https://github.com/casbin-mesh/neo/pull/52) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
