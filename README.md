@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (today)
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (today)
 - [wa-lang/ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) - :books: µGo语言实现(从头开发一个迷你Go语言编译器)[Go版本&#43;Rust版本] (today)
 - [bytecodealliance/wasm-spec-interpreter](https://github.com/bytecodealliance/wasm-spec-interpreter) - Rust bindings for the Wasm spec interpreter. (today)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 week ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
-- [timtadh/lexmachine](https://github.com/timtadh/lexmachine) - Lex machinary for go. (1 week ago)
-- [blynn/nex](https://github.com/blynn/nex) - Lexer for Go (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
