@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [bytecodealliance/wasm-spec-interpreter](https://github.com/bytecodealliance/wasm-spec-interpreter) - Rust bindings for the Wasm spec interpreter. (today)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 days ago)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (4 days ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (4 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [timtadh/lexmachine](https://github.com/timtadh/lexmachine) - Lex machinary for go. (1 week ago)
 - [blynn/nex](https://github.com/blynn/nex) - Lexer for Go (1 week ago)
 - [bbuck/go-lexer](https://github.com/bbuck/go-lexer) - Lexer based on Rob Pike&#39;s talk on YouTube (view README) (1 week ago)
-- [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
