@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (today)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (1 day ago)
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (1 day ago)
 - [wa-lang/ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) - :books: µGo语言实现(从头开发一个迷你Go语言编译器)[Go版本&#43;Rust版本] (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (6 days ago)
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (6 days ago)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 week ago)
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (1 week ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
