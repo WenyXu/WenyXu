@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (today)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (3 days ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (3 days ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (4 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painless, and efficiently (1 week ago)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 week ago)
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (1 week ago)
-- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
