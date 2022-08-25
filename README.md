@@ -56,7 +56,7 @@ Hi 👋 Weny here.
 - [RinChanNOWWW](https://github.com/RinChanNOWWW)
 - [Rolemodel01291](https://github.com/Rolemodel01291)
 - [pinhe91](https://github.com/pinhe91)
+- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [xiaotianxt](https://github.com/xiaotianxt)
-- [xubingfeng19](https://github.com/xubingfeng19)
 
 
