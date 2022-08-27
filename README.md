@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler (today)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (3 days ago)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (6 days ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (6 days ago)
@@ -41,11 +42,10 @@ Hi 👋 Weny here.
 - [Veykril/tlborm](https://github.com/Veykril/tlborm) - The Little Book of Rust Macros (updated fork)  (1 week ago)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painless, and efficiently (1 week ago)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 week ago)
-- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (1 day ago)
+- [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (today)
 - [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (1 month ago)
 - [casbin-mesh/luopan](https://github.com/casbin-mesh/luopan) - The GUI for Casbin-Mesh (2 months ago)
 - [casbin-mesh/website](https://github.com/casbin-mesh/website) -  (3 months ago)
