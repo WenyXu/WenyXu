@@ -4,6 +4,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor(expression/iterator): refactor iterators](https://github.com/casbin-mesh/neo/pull/60) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (today)
+- [fix(pkg/parser): fix parsing assessor typos](https://github.com/casbin-mesh/neo/pull/59) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (today)
 - [feat(neo/executor): add multi-index &amp; index scan executor](https://github.com/casbin-mesh/neo/pull/57) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
 - [doc: add code and executor docs](https://github.com/casbin-mesh/neo/pull/55) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
 - [feat(pkg/parser): impl expression eval](https://github.com/casbin-mesh/neo/pull/54) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 weeks ago)
@@ -22,8 +24,6 @@ Hi 👋 Weny here.
 - [feat(neo): engine code layout](https://github.com/casbin-mesh/neo/pull/33) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
 - [feat(primitive/index): index transactions](https://github.com/casbin-mesh/neo/pull/32) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
 - [feat(bschema): add BSchema basic interface definition](https://github.com/casbin-mesh/neo/pull/31) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
-- [feat(primitive/bsontype): add type definitions](https://github.com/casbin-mesh/neo/pull/30) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
-- [feat(primitive/btuple): add btuple](https://github.com/casbin-mesh/neo/pull/29) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
