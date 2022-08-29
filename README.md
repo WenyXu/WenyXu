@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [doc: add planner doc](https://github.com/casbin-mesh/neo/pull/62) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (today)
 - [feat(pkg/expression): introduce expression subtree pruning](https://github.com/casbin-mesh/neo/pull/61) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 days ago)
 - [refactor(expression/iterator): refactor iterators](https://github.com/casbin-mesh/neo/pull/60) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 days ago)
 - [fix(pkg/parser): fix parsing assessor typos](https://github.com/casbin-mesh/neo/pull/59) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 days ago)
@@ -23,10 +24,11 @@ Hi 👋 Weny here.
 - [feat(eval): support injecting context into functions](https://github.com/Knetic/govaluate/pull/163) on [Knetic/govaluate](https://github.com/Knetic/govaluate) (1 month ago)
 - [feat(neo/utils): add model config reader](https://github.com/casbin-mesh/neo/pull/34) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
 - [feat(neo): engine code layout](https://github.com/casbin-mesh/neo/pull/33) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 month ago)
-- [feat(primitive/index): index transactions](https://github.com/casbin-mesh/neo/pull/32) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 months ago)
 
 #### ⭐ Check out my recent stars
 
+- [bilibili/gengine](https://github.com/bilibili/gengine) -  (today)
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (today)
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler (2 days ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (5 days ago)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (1 week ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (1 week ago)
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go (2 weeks ago)
 - [Veykril/tlborm](https://github.com/Veykril/tlborm) - The Little Book of Rust Macros (updated fork)  (2 weeks ago)
-- [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painless, and efficiently (2 weeks ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
