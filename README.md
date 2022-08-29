@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia) - DDIA 逐章精读 (today)
 - [bilibili/gengine](https://github.com/bilibili/gengine) -  (today)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (today)
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (1 week ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (1 week ago)
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go (2 weeks ago)
-- [Veykril/tlborm](https://github.com/Veykril/tlborm) - The Little Book of Rust Macros (updated fork)  (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
