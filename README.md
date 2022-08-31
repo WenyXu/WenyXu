@@ -4,11 +4,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [doc: add planner doc](https://github.com/casbin-mesh/neo/pull/62) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 day ago)
-- [feat(pkg/expression): introduce expression subtree pruning](https://github.com/casbin-mesh/neo/pull/61) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 days ago)
-- [refactor(expression/iterator): refactor iterators](https://github.com/casbin-mesh/neo/pull/60) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 days ago)
-- [fix(pkg/parser): fix parsing assessor typos](https://github.com/casbin-mesh/neo/pull/59) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 days ago)
-- [feat(neo/executor): add multi-index &amp; index scan executor](https://github.com/casbin-mesh/neo/pull/57) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
+- [doc: add planner doc](https://github.com/casbin-mesh/neo/pull/62) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 days ago)
+- [feat(pkg/expression): introduce expression subtree pruning](https://github.com/casbin-mesh/neo/pull/61) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (4 days ago)
+- [refactor(expression/iterator): refactor iterators](https://github.com/casbin-mesh/neo/pull/60) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (4 days ago)
+- [fix(pkg/parser): fix parsing assessor typos](https://github.com/casbin-mesh/neo/pull/59) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (4 days ago)
+- [feat(neo/executor): add multi-index &amp; index scan executor](https://github.com/casbin-mesh/neo/pull/57) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 weeks ago)
 - [doc: add code and executor docs](https://github.com/casbin-mesh/neo/pull/55) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 weeks ago)
 - [feat(pkg/parser): impl expression eval](https://github.com/casbin-mesh/neo/pull/54) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 weeks ago)
 - [feat(neo/executor): introduce plan builder](https://github.com/casbin-mesh/neo/pull/52) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 weeks ago)
@@ -27,11 +27,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia) - DDIA 逐章精读 (1 day ago)
-- [bilibili/gengine](https://github.com/bilibili/gengine) -  (1 day ago)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (1 day ago)
-- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler (3 days ago)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (6 days ago)
+- [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia) - DDIA 逐章精读 (2 days ago)
+- [bilibili/gengine](https://github.com/bilibili/gengine) -  (2 days ago)
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (2 days ago)
+- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler (4 days ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 week ago)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (1 week ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (1 week ago)
@@ -45,7 +45,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (today)
+- [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (1 day ago)
 - [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (1 month ago)
 - [casbin-mesh/luopan](https://github.com/casbin-mesh/luopan) - The GUI for Casbin-Mesh (2 months ago)
 - [casbin-mesh/website](https://github.com/casbin-mesh/website) -  (3 months ago)
