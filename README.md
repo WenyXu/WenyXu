@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine (today)
 - [MIT-DB-Class/course-info-2018](https://github.com/MIT-DB-Class/course-info-2018) - Course info for 6.814/6.830 Fall 2018 (1 day ago)
 - [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia) - DDIA 逐章精读 (1 week ago)
 - [bilibili/gengine](https://github.com/bilibili/gengine) -  (1 week ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [bytecodealliance/wasm-spec-interpreter](https://github.com/bytecodealliance/wasm-spec-interpreter) - Rust bindings for the Wasm spec interpreter. (2 weeks ago)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 weeks ago)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (3 weeks ago)
-- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
