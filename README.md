@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(neo/executor): introduce expressions as predicates](https://github.com/casbin-mesh/neo/pull/65) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (today)
 - [doc: add planner doc](https://github.com/casbin-mesh/neo/pull/62) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
 - [feat(pkg/expression): introduce expression subtree pruning](https://github.com/casbin-mesh/neo/pull/61) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
 - [refactor(expression/iterator): refactor iterators](https://github.com/casbin-mesh/neo/pull/60) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
@@ -23,7 +24,6 @@ Hi 👋 Weny here.
 - [feat(eval): support injecting context into functions](https://github.com/casbin-mesh/govaluate/pull/1) on [casbin-mesh/govaluate](https://github.com/casbin-mesh/govaluate) (2 months ago)
 - [feat(eval): support injecting context into functions](https://github.com/Knetic/govaluate/pull/163) on [Knetic/govaluate](https://github.com/Knetic/govaluate) (2 months ago)
 - [feat(neo/utils): add model config reader](https://github.com/casbin-mesh/neo/pull/34) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 months ago)
-- [feat(neo): engine code layout](https://github.com/casbin-mesh/neo/pull/33) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 months ago)
 
 #### ⭐ Check out my recent stars
 
