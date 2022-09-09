@@ -27,8 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine (1 day ago)
-- [MIT-DB-Class/course-info-2018](https://github.com/MIT-DB-Class/course-info-2018) - Course info for 6.814/6.830 Fall 2018 (2 days ago)
+- [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine (2 days ago)
+- [MIT-DB-Class/course-info-2018](https://github.com/MIT-DB-Class/course-info-2018) - Course info for 6.814/6.830 Fall 2018 (3 days ago)
 - [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia) - DDIA 逐章精读 (1 week ago)
 - [bilibili/gengine](https://github.com/bilibili/gengine) -  (1 week ago)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (1 week ago)
