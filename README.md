@@ -27,6 +27,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language. (today)
+- [BugenZhao/litchi-rs](https://github.com/BugenZhao/litchi-rs) - An x86-64 kernel with ~100% Rust (originally) in a week. `async` inside! (today)
+- [woai3c/MIT6.828](https://github.com/woai3c/MIT6.828) - 实现一个操作系统内核 (today)
+- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (today)
 - [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (today)
 - [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine (3 days ago)
 - [MIT-DB-Class/course-info-2018](https://github.com/MIT-DB-Class/course-info-2018) - Course info for 6.814/6.830 Fall 2018 (4 days ago)
@@ -38,10 +42,6 @@ Hi 👋 Weny here.
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (2 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 weeks ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (3 weeks ago)
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (3 weeks ago)
-- [wa-lang/ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) - :books: µGo语言实现(从头开发一个迷你Go语言编译器)[Go版本&#43;Rust版本] (3 weeks ago)
-- [bytecodealliance/wasm-spec-interpreter](https://github.com/bytecodealliance/wasm-spec-interpreter) - Rust bindings for the Wasm spec interpreter. (3 weeks ago)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
