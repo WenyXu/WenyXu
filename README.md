@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (today)
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language. (2 days ago)
 - [BugenZhao/litchi-rs](https://github.com/BugenZhao/litchi-rs) - An x86-64 kernel with ~100% Rust (originally) in a week. `async` inside! (2 days ago)
 - [woai3c/MIT6.828](https://github.com/woai3c/MIT6.828) - 实现一个操作系统内核 (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 weeks ago)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (3 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (3 weeks ago)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
