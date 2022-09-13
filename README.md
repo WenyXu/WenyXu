@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team (today)
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (1 day ago)
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language. (3 days ago)
 - [BugenZhao/litchi-rs](https://github.com/BugenZhao/litchi-rs) - An x86-64 kernel with ~100% Rust (originally) in a week. `async` inside! (3 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler (2 weeks ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 weeks ago)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (3 weeks ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
