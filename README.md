@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures (today)
+- [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It&#39;s a New Kind of Wrapper for Exposing LLVM (Safely) (today)
 - [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser (today)
 - [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team (today)
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia) - DDIA 逐章精读 (2 weeks ago)
 - [bilibili/gengine](https://github.com/bilibili/gengine) -  (2 weeks ago)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (2 weeks ago)
-- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler (2 weeks ago)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
