@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust (WIP) (today)
 - [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures (today)
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It&#39;s a New Kind of Wrapper for Exposing LLVM (Safely) (today)
 - [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [MIT-DB-Class/course-info-2018](https://github.com/MIT-DB-Class/course-info-2018) - Course info for 6.814/6.830 Fall 2018 (1 week ago)
 - [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia) - DDIA 逐章精读 (2 weeks ago)
 - [bilibili/gengine](https://github.com/bilibili/gengine) -  (2 weeks ago)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
