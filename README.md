@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [yzy1996/English-Writing](https://github.com/yzy1996/English-Writing) - Enhance Your English Writing (today)
+- [pbeshai/use-query-params](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization. (today)
 - [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust (WIP) (1 day ago)
 - [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures (1 day ago)
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It&#39;s a New Kind of Wrapper for Exposing LLVM (Safely) (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (4 days ago)
 - [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine (1 week ago)
 - [MIT-DB-Class/course-info-2018](https://github.com/MIT-DB-Class/course-info-2018) - Course info for 6.814/6.830 Fall 2018 (1 week ago)
-- [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia) - DDIA 逐章精读 (2 weeks ago)
-- [bilibili/gengine](https://github.com/bilibili/gengine) -  (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
