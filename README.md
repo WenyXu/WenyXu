@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (today)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. (today)
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (today)
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser (4 days ago)
 - [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team (4 days ago)
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (5 days ago)
-- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [isHuangXin](https://github.com/isHuangXin)
 - [Ziy1-Tan](https://github.com/Ziy1-Tan)
 - [RinChanNOWWW](https://github.com/RinChanNOWWW)
 - [Rolemodel01291](https://github.com/Rolemodel01291)
 - [pinhe91](https://github.com/pinhe91)
-- [peter-kimanzi](https://github.com/peter-kimanzi)
 
 
