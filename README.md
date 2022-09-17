@@ -27,6 +27,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. (today)
+- [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (today)
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. (today)
+- [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources (1 day ago)
 - [yzy1996/English-Writing](https://github.com/yzy1996/English-Writing) - Enhance Your English Writing (3 days ago)
 - [pbeshai/use-query-params](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization. (3 days ago)
@@ -37,11 +42,6 @@ Hi 👋 Weny here.
 - [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team (4 days ago)
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (5 days ago)
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language. (1 week ago)
-- [BugenZhao/litchi-rs](https://github.com/BugenZhao/litchi-rs) - An x86-64 kernel with ~100% Rust (originally) in a week. `async` inside! (1 week ago)
-- [woai3c/MIT6.828](https://github.com/woai3c/MIT6.828) - 实现一个操作系统内核 (1 week ago)
-- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (1 week ago)
-- [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (1 week ago)
-- [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Ziy1-Tan](https://github.com/Ziy1-Tan)
 - [RinChanNOWWW](https://github.com/RinChanNOWWW)
 - [Rolemodel01291](https://github.com/Rolemodel01291)
 - [pinhe91](https://github.com/pinhe91)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
-- [xiaotianxt](https://github.com/xiaotianxt)
 
 
