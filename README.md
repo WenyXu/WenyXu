@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [lyleshaw](https://github.com/lyleshaw)
 - [isHuangXin](https://github.com/isHuangXin)
 - [Ziy1-Tan](https://github.com/Ziy1-Tan)
 - [RinChanNOWWW](https://github.com/RinChanNOWWW)
 - [Rolemodel01291](https://github.com/Rolemodel01291)
-- [pinhe91](https://github.com/pinhe91)
 
 
