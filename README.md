@@ -4,10 +4,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(style): fix styling issues](https://github.com/arco-design/arco-design-pro/pull/78) on [arco-design/arco-design-pro](https://github.com/arco-design/arco-design-pro) (today)
-- [fix(pkg/expression): fix it changes immutable primitive](https://github.com/casbin-mesh/neo/pull/67) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 days ago)
+- [fix(style): fix styling issues](https://github.com/arco-design/arco-design-pro/pull/78) on [arco-design/arco-design-pro](https://github.com/arco-design/arco-design-pro) (1 day ago)
+- [fix(pkg/expression): fix it changes immutable primitive](https://github.com/casbin-mesh/neo/pull/67) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 days ago)
 - [feat(neo/executor): introduce expressions as predicates](https://github.com/casbin-mesh/neo/pull/65) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
-- [doc: add planner doc](https://github.com/casbin-mesh/neo/pull/62) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 weeks ago)
+- [doc: add planner doc](https://github.com/casbin-mesh/neo/pull/62) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 weeks ago)
 - [feat(pkg/expression): introduce expression subtree pruning](https://github.com/casbin-mesh/neo/pull/61) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 weeks ago)
 - [refactor(expression/iterator): refactor iterators](https://github.com/casbin-mesh/neo/pull/60) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 weeks ago)
 - [fix(pkg/parser): fix parsing assessor typos](https://github.com/casbin-mesh/neo/pull/59) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 weeks ago)
@@ -27,25 +27,25 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (1 day ago)
-- [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (1 day ago)
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. (1 day ago)
-- [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (1 day ago)
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. (1 day ago)
-- [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine (1 day ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
-- [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources (2 days ago)
-- [yzy1996/English-Writing](https://github.com/yzy1996/English-Writing) - Enhance Your English Writing (4 days ago)
-- [pbeshai/use-query-params](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization. (4 days ago)
-- [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust (WIP) (5 days ago)
-- [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures (5 days ago)
-- [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It&#39;s a New Kind of Wrapper for Exposing LLVM (Safely) (5 days ago)
-- [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser (5 days ago)
-- [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team (5 days ago)
+- [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (2 days ago)
+- [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (2 days ago)
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. (2 days ago)
+- [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (2 days ago)
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. (2 days ago)
+- [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources (3 days ago)
+- [yzy1996/English-Writing](https://github.com/yzy1996/English-Writing) - Enhance Your English Writing (5 days ago)
+- [pbeshai/use-query-params](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization. (5 days ago)
+- [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust (WIP) (6 days ago)
+- [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures (6 days ago)
+- [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It&#39;s a New Kind of Wrapper for Exposing LLVM (Safely) (6 days ago)
+- [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser (6 days ago)
+- [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (today)
+- [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (1 day ago)
 - [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (1 week ago)
 - [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (2 months ago)
 - [casbin-mesh/luopan](https://github.com/casbin-mesh/luopan) - The GUI for Casbin-Mesh (2 months ago)
@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [jameszhangyukun](https://github.com/jameszhangyukun)
 - [Weijun-H](https://github.com/Weijun-H)
 - [lyleshaw](https://github.com/lyleshaw)
 - [isHuangXin](https://github.com/isHuangXin)
 - [Ziy1-Tan](https://github.com/Ziy1-Tan)
-- [RinChanNOWWW](https://github.com/RinChanNOWWW)
 
 
