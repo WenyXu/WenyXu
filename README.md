@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (today)
 - [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (2 days ago)
 - [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (2 days ago)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures (6 days ago)
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It&#39;s a New Kind of Wrapper for Exposing LLVM (Safely) (6 days ago)
 - [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser (6 days ago)
-- [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
