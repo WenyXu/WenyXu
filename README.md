@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. (today)
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (2 days ago)
 - [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (4 days ago)
 - [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (4 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust (WIP) (1 week ago)
 - [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures (1 week ago)
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It&#39;s a New Kind of Wrapper for Exposing LLVM (Safely) (1 week ago)
-- [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
