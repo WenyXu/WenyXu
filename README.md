@@ -46,7 +46,7 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (6 days ago)
-- [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (2 weeks ago)
+- [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (1 week ago)
 - [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (2 months ago)
 - [casbin-mesh/luopan](https://github.com/casbin-mesh/luopan) - The GUI for Casbin-Mesh (3 months ago)
 - [casbin-mesh/website](https://github.com/casbin-mesh/website) -  (4 months ago)
