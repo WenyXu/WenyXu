@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript&#39;s largest type utility library (today)
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版 (1 week ago)
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript&#39;s type system written in TypeScript&#39;s type system (1 week ago)
 - [andygrove/sqlparser-rs](https://github.com/andygrove/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 week ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. (2 weeks ago)
 - [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine (2 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
-- [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
