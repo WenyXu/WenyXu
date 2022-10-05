@@ -27,14 +27,14 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [segmentio/fasthash](https://github.com/segmentio/fasthash) - Go package porting the standard hashing algorithms to a more efficient implementation. (today)
-- [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript&#39;s largest type utility library (3 days ago)
+- [segmentio/fasthash](https://github.com/segmentio/fasthash) - Go package porting the standard hashing algorithms to a more efficient implementation. (1 day ago)
+- [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript&#39;s largest type utility library (4 days ago)
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版 (1 week ago)
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript&#39;s type system written in TypeScript&#39;s type system (1 week ago)
 - [andygrove/sqlparser-rs](https://github.com/andygrove/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 week ago)
 - [thedodd/wither](https://github.com/thedodd/wither) - An ODM for MongoDB built on the official MongoDB Rust driver. (1 week ago)
-- [danilop/yas3fs](https://github.com/danilop/yas3fs) - YAS3FS (Yet Another S3-backed File System) is a Filesystem in Userspace (FUSE) interface to Amazon S3. It was inspired by s3fs but rewritten from scratch to implement a distributed cache synchronized by Amazon SNS notifications. A web console is provided to easily monitor the nodes of a cluster. (1 week ago)
-- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. (1 week ago)
+- [danilop/yas3fs](https://github.com/danilop/yas3fs) - YAS3FS (Yet Another S3-backed File System) is a Filesystem in Userspace (FUSE) interface to Amazon S3. It was inspired by s3fs but rewritten from scratch to implement a distributed cache synchronized by Amazon SNS notifications. A web console is provided to easily monitor the nodes of a cluster. (2 weeks ago)
+- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. (2 weeks ago)
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (2 weeks ago)
 - [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (2 weeks ago)
 - [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (2 weeks ago)
@@ -45,7 +45,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/algo](https://github.com/WenyXu/algo) -  (today)
+- [WenyXu/algo](https://github.com/WenyXu/algo) -  (1 day ago)
 - [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (2 weeks ago)
 - [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (2 weeks ago)
 - [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (2 months ago)
