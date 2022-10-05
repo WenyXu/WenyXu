@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [c8ef](https://github.com/c8ef)
 - [jameszhangyukun](https://github.com/jameszhangyukun)
 - [Weijun-H](https://github.com/Weijun-H)
 - [lyleshaw](https://github.com/lyleshaw)
 - [isHuangXin](https://github.com/isHuangXin)
-- [Ziy1-Tan](https://github.com/Ziy1-Tan)
 
 
