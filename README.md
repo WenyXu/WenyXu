@@ -27,6 +27,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. (today)
+- [twinlogix/typetta](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. (today)
+- [aerogear/graphback](https://github.com/aerogear/graphback) - Graphback - Out of the box GraphQL server and client  (today)
+- [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach (today)
 - [zebresel-com/mongodm](https://github.com/zebresel-com/mongodm) - A golang object document mapper (ODM) for MongoDB (today)
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services (today)
 - [mit-pdos/xv6-riscv-book](https://github.com/mit-pdos/xv6-riscv-book) - Text describing xv6 on RISC-V (2 days ago)
@@ -38,10 +42,6 @@ Hi 👋 Weny here.
 - [andygrove/sqlparser-rs](https://github.com/andygrove/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 weeks ago)
 - [thedodd/wither](https://github.com/thedodd/wither) - An ODM for MongoDB built on the official MongoDB Rust driver. (2 weeks ago)
 - [danilop/yas3fs](https://github.com/danilop/yas3fs) - YAS3FS (Yet Another S3-backed File System) is a Filesystem in Userspace (FUSE) interface to Amazon S3. It was inspired by s3fs but rewritten from scratch to implement a distributed cache synchronized by Amazon SNS notifications. A web console is provided to easily monitor the nodes of a cluster. (2 weeks ago)
-- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. (2 weeks ago)
-- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (2 weeks ago)
-- [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (2 weeks ago)
-- [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
