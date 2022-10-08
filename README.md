@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent. (today)
 - [apollographql/supergraph-demo-fed2](https://github.com/apollographql/supergraph-demo-fed2) - Demo for Federation 2 (today)
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (1 day ago)
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps. (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [pingcap/community](https://github.com/pingcap/community) - TiDB community content (3 days ago)
 - [segmentio/fasthash](https://github.com/segmentio/fasthash) - Go package porting the standard hashing algorithms to a more efficient implementation. (4 days ago)
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript&#39;s largest type utility library (1 week ago)
-- [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版 (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
