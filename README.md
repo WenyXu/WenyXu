@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [senrok/registration-next-ui](https://github.com/senrok/registration-next-ui) - Registration next generation UI (today)
 - [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (today)
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent. (2 days ago)
 - [apollographql/supergraph-demo-fed2](https://github.com/apollographql/supergraph-demo-fed2) - Demo for Federation 2 (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services (3 days ago)
 - [mit-pdos/xv6-riscv-book](https://github.com/mit-pdos/xv6-riscv-book) - Text describing xv6 on RISC-V (5 days ago)
 - [pingcap/community](https://github.com/pingcap/community) - TiDB community content (5 days ago)
-- [segmentio/fasthash](https://github.com/segmentio/fasthash) - Go package porting the standard hashing algorithms to a more efficient implementation. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
