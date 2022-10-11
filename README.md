@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(README.md): fix typos ](https://github.com/zitadel/oidc/pull/227) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [wip/core-engine](https://github.com/casbin-mesh/neo/pull/69) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (6 days ago)
 - [feat(optimizer): introduce optimizer](https://github.com/casbin-mesh/neo/pull/68) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 weeks ago)
 - [fix(style): fix styling issues](https://github.com/arco-design/arco-design-pro/pull/78) on [arco-design/arco-design-pro](https://github.com/arco-design/arco-design-pro) (3 weeks ago)
@@ -23,7 +24,6 @@ Hi 👋 Weny here.
 - [feat: introduce executor engine](https://github.com/casbin-mesh/neo/pull/43) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 months ago)
 - [feat(neo/model): add model defs](https://github.com/casbin-mesh/neo/pull/41) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 months ago)
 - [feat: add in-mem meta ](https://github.com/casbin-mesh/neo/pull/40) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 months ago)
-- [feat(neo/index): add simple mvto index](https://github.com/casbin-mesh/neo/pull/38) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 months ago)
 
 #### ⭐ Check out my recent stars
 
