@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (today)
+- [tikv/titan](https://github.com/tikv/titan) - A RocksDB plugin for key-value separation, inspired by WiscKey. (today)
 - [senrok/registration-next-ui](https://github.com/senrok/registration-next-ui) - Registration next generation UI (1 day ago)
 - [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (1 day ago)
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent. (3 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach (4 days ago)
 - [zebresel-com/mongodm](https://github.com/zebresel-com/mongodm) - A golang object document mapper (ODM) for MongoDB (4 days ago)
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services (4 days ago)
-- [mit-pdos/xv6-riscv-book](https://github.com/mit-pdos/xv6-riscv-book) - Text describing xv6 on RISC-V (6 days ago)
-- [pingcap/community](https://github.com/pingcap/community) - TiDB community content (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
