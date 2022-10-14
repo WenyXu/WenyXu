@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (today)
 - [Xuanwo/reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs. (today)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (3 days ago)
 - [tikv/titan](https://github.com/tikv/titan) - A RocksDB plugin for key-value separation, inspired by WiscKey. (3 days ago)
@@ -41,15 +42,14 @@ Hi 👋 Weny here.
 - [twinlogix/typetta](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. (1 week ago)
 - [aerogear/graphback](https://github.com/aerogear/graphback) - Graphback - Out of the box GraphQL server and client  (1 week ago)
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach (1 week ago)
-- [zebresel-com/mongodm](https://github.com/zebresel-com/mongodm) - A golang object document mapper (ODM) for MongoDB (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [senrok/YaDAL](https://github.com/senrok/YaDAL) - Yet Another Data Access Layer, inspired by Databend&#39;s OpenDAL (today)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently (today)
 - [WenyXu/algo](https://github.com/WenyXu/algo) -  (1 week ago)
 - [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (3 weeks ago)
 - [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (4 weeks ago)
-- [casbin/casbin-mesh](https://github.com/casbin/casbin-mesh) - A scalable authorization layer built on Casbin (3 months ago)
 
 #### 👯 Check out my recent followers
 
