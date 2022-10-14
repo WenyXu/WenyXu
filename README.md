@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful. (today)
 - [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer, deeply inspired by Databend&#39;s OpenDAL (today)
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (today)
 - [Xuanwo/reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs. (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language (1 week ago)
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. (1 week ago)
 - [twinlogix/typetta](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. (1 week ago)
-- [aerogear/graphback](https://github.com/aerogear/graphback) - Graphback - Out of the box GraphQL server and client  (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
