@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Xuanwo/reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs. (today)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (3 days ago)
 - [tikv/titan](https://github.com/tikv/titan) - A RocksDB plugin for key-value separation, inspired by WiscKey. (3 days ago)
 - [senrok/registration-next-ui](https://github.com/senrok/registration-next-ui) - Registration next generation UI (4 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [aerogear/graphback](https://github.com/aerogear/graphback) - Graphback - Out of the box GraphQL server and client  (1 week ago)
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach (1 week ago)
 - [zebresel-com/mongodm](https://github.com/zebresel-com/mongodm) - A golang object document mapper (ODM) for MongoDB (1 week ago)
-- [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
