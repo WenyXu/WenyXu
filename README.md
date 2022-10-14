@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: replace the hard code to X_AMZ_BUCKET_REGION constant](https://github.com/datafuselabs/opendal/pull/866) on [datafuselabs/opendal](https://github.com/datafuselabs/opendal) (today)
 - [fix(README.md): fix typos ](https://github.com/zitadel/oidc/pull/227) on [zitadel/oidc](https://github.com/zitadel/oidc) (3 days ago)
 - [wip/core-engine](https://github.com/casbin-mesh/neo/pull/69) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
 - [feat(optimizer): introduce optimizer](https://github.com/casbin-mesh/neo/pull/68) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 weeks ago)
@@ -23,7 +24,6 @@ Hi 👋 Weny here.
 - [refactor: refactor schema executor](https://github.com/casbin-mesh/neo/pull/47) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 months ago)
 - [feat: introduce executor engine](https://github.com/casbin-mesh/neo/pull/43) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 months ago)
 - [feat(neo/model): add model defs](https://github.com/casbin-mesh/neo/pull/41) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 months ago)
-- [feat: add in-mem meta ](https://github.com/casbin-mesh/neo/pull/40) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 months ago)
 
 #### ⭐ Check out my recent stars
 
