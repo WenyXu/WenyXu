@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer, inspired by Databend&#39;s OpenDAL (today)
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (today)
 - [Xuanwo/reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs. (today)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (3 days ago)
@@ -41,11 +42,10 @@ Hi 👋 Weny here.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. (1 week ago)
 - [twinlogix/typetta](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. (1 week ago)
 - [aerogear/graphback](https://github.com/aerogear/graphback) - Graphback - Out of the box GraphQL server and client  (1 week ago)
-- [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [senrok/YaDAL](https://github.com/senrok/YaDAL) - Yet Another Data Access Layer, inspired by Databend&#39;s OpenDAL (today)
+- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer, inspired by Databend&#39;s OpenDAL (today)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently (today)
 - [WenyXu/algo](https://github.com/WenyXu/algo) -  (1 week ago)
 - [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (3 weeks ago)
