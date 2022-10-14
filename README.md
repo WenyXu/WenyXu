@@ -27,7 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer, inspired by Databend&#39;s OpenDAL (today)
+- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer, deeply inspired by Databend&#39;s OpenDAL (today)
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (today)
 - [Xuanwo/reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs. (today)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (3 days ago)
@@ -45,7 +45,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer, inspired by Databend&#39;s OpenDAL (today)
+- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer, deeply inspired by Databend&#39;s OpenDAL (today)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently (today)
 - [WenyXu/algo](https://github.com/WenyXu/algo) -  (1 week ago)
 - [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (3 weeks ago)
