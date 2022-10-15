@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(providers): add fs provider](https://github.com/senrok/yadal/pull/1) on [senrok/yadal](https://github.com/senrok/yadal) (today)
 - [refactor: replace the hard code to X_AMZ_BUCKET_REGION constant](https://github.com/datafuselabs/opendal/pull/866) on [datafuselabs/opendal](https://github.com/datafuselabs/opendal) (1 day ago)
 - [fix(README.md): fix typos ](https://github.com/zitadel/oidc/pull/227) on [zitadel/oidc](https://github.com/zitadel/oidc) (4 days ago)
 - [wip/core-engine](https://github.com/casbin-mesh/neo/pull/69) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
@@ -23,7 +24,6 @@ Hi 👋 Weny here.
 - [test(neo/executor): add tests for insert executor](https://github.com/casbin-mesh/neo/pull/48) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 months ago)
 - [refactor: refactor schema executor](https://github.com/casbin-mesh/neo/pull/47) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (2 months ago)
 - [feat: introduce executor engine](https://github.com/casbin-mesh/neo/pull/43) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 months ago)
-- [feat(neo/model): add model defs](https://github.com/casbin-mesh/neo/pull/41) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 months ago)
 
 #### ⭐ Check out my recent stars
 
