@@ -28,7 +28,7 @@ Hi 👋 Weny here.
 #### ⭐ Check out my recent stars
 
 - [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful. (1 day ago)
-- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer, deeply inspired by Databend&#39;s OpenDAL (1 day ago)
+- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (1 day ago)
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (1 day ago)
 - [Xuanwo/reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs. (1 day ago)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (4 days ago)
@@ -45,7 +45,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer, deeply inspired by Databend&#39;s OpenDAL (today)
+- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (today)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently (1 day ago)
 - [WenyXu/algo](https://github.com/WenyXu/algo) -  (1 week ago)
 - [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (3 weeks ago)
