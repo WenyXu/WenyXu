@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) -  (today)
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) -  (today)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 day ago)
 - [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful. (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [apollographql/supergraph-demo-fed2](https://github.com/apollographql/supergraph-demo-fed2) - Demo for Federation 2 (1 week ago)
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (1 week ago)
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps. (1 week ago)
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
