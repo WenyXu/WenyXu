@@ -8,7 +8,7 @@ Hi 👋 Weny here.
 - [docs: enhance examples](https://github.com/senrok/yadal/pull/3) on [senrok/yadal](https://github.com/senrok/yadal) (1 day ago)
 - [feat(providers): add fs provider](https://github.com/senrok/yadal/pull/1) on [senrok/yadal](https://github.com/senrok/yadal) (2 days ago)
 - [refactor: replace the hard code to X_AMZ_BUCKET_REGION constant](https://github.com/datafuselabs/opendal/pull/866) on [datafuselabs/opendal](https://github.com/datafuselabs/opendal) (3 days ago)
-- [fix(README.md): fix typos ](https://github.com/zitadel/oidc/pull/227) on [zitadel/oidc](https://github.com/zitadel/oidc) (6 days ago)
+- [docs(README.md): fix typos ](https://github.com/zitadel/oidc/pull/227) on [zitadel/oidc](https://github.com/zitadel/oidc) (6 days ago)
 - [wip/core-engine](https://github.com/casbin-mesh/neo/pull/69) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (1 week ago)
 - [feat(optimizer): introduce optimizer](https://github.com/casbin-mesh/neo/pull/68) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (3 weeks ago)
 - [fix(style): fix styling issues](https://github.com/arco-design/arco-design-pro/pull/78) on [arco-design/arco-design-pro](https://github.com/arco-design/arco-design-pro) (4 weeks ago)
@@ -45,11 +45,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
 - [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (1 day ago)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently (3 days ago)
 - [WenyXu/algo](https://github.com/WenyXu/algo) -  (1 week ago)
 - [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (4 weeks ago)
-- [casbin-mesh/neo](https://github.com/casbin-mesh/neo) - Casbin Neo (neo for new engine option) (1 month ago)
 
 #### 👯 Check out my recent followers
 
