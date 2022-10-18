@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (today)
 - [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) -  (2 days ago)
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) -  (2 days ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (3 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent. (1 week ago)
 - [apollographql/supergraph-demo-fed2](https://github.com/apollographql/supergraph-demo-fed2) - Demo for Federation 2 (1 week ago)
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (1 week ago)
-- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
