@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go (today)
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell. (today)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (today)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (2 days ago)
 - [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) -  (4 days ago)
@@ -40,16 +42,14 @@ Hi 👋 Weny here.
 - [tikv/titan](https://github.com/tikv/titan) - A RocksDB plugin for key-value separation, inspired by WiscKey. (1 week ago)
 - [senrok/registration-next-ui](https://github.com/senrok/registration-next-ui) - Registration next generation UI (1 week ago)
 - [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (1 week ago)
-- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent. (1 week ago)
-- [apollographql/supergraph-demo-fed2](https://github.com/apollographql/supergraph-demo-fed2) - Demo for Federation 2 (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (today)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 days ago)
 - [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (4 days ago)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently (6 days ago)
 - [WenyXu/algo](https://github.com/WenyXu/algo) -  (2 weeks ago)
-- [senrok/mongo-graphql](https://github.com/senrok/mongo-graphql) -  (1 month ago)
 
 #### 👯 Check out my recent followers
 
