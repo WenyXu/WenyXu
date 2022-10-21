@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [PaesslerAG/gval](https://github.com/PaesslerAG/gval) - Expression evaluation in golang (today)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 day ago)
 - [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go (1 day ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell. (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [Xuanwo/reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs. (1 week ago)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (1 week ago)
 - [tikv/titan](https://github.com/tikv/titan) - A RocksDB plugin for key-value separation, inspired by WiscKey. (1 week ago)
-- [senrok/registration-next-ui](https://github.com/senrok/registration-next-ui) - Registration next generation UI (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
