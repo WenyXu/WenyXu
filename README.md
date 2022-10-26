@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (today)
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) - Expression evaluation in golang (5 days ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (6 days ago)
 - [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go (6 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (1 week ago)
 - [Xuanwo/reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs. (1 week ago)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (2 weeks ago)
-- [tikv/titan](https://github.com/tikv/titan) - A RocksDB plugin for key-value separation, inspired by WiscKey. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
