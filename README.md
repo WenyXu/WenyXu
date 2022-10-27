@@ -27,12 +27,12 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (today)
-- [PaesslerAG/gval](https://github.com/PaesslerAG/gval) - Expression evaluation in golang (5 days ago)
-- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (6 days ago)
-- [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go (6 days ago)
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell. (6 days ago)
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (6 days ago)
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (1 day ago)
+- [PaesslerAG/gval](https://github.com/PaesslerAG/gval) - Expression evaluation in golang (6 days ago)
+- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 week ago)
+- [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go (1 week ago)
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell. (1 week ago)
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (1 week ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
 - [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) -  (1 week ago)
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) -  (1 week ago)
@@ -45,7 +45,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (6 days ago)
+- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 week ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
 - [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (1 week ago)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently (1 week ago)
