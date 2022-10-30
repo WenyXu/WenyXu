@@ -54,9 +54,9 @@ Hi 👋 Weny here.
 #### 👯 Check out my recent followers
 
 - [toum120](https://github.com/toum120)
-- [daweedkob](https://github.com/daweedkob)
 - [c8ef](https://github.com/c8ef)
 - [jameszhangyukun](https://github.com/jameszhangyukun)
 - [Weijun-H](https://github.com/Weijun-H)
+- [lyleshaw](https://github.com/lyleshaw)
 
 
