@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (today)
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (today)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15&#43; databases and any API. (5 days ago)
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&amp;A community for product technical support, customer support, user communication, and more. (5 days ago)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (6 days ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) -  (2 weeks ago)
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) -  (2 weeks ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 weeks ago)
-- [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful. (2 weeks ago)
-- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (2 weeks ago)
-- [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
