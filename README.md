@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [dase314/db_impl_course](https://github.com/dase314/db_impl_course) -  (today)
 - [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (2 days ago)
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (2 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (2 weeks ago)
 - [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) -  (2 weeks ago)
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) -  (2 weeks ago)
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
