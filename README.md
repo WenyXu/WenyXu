@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Starrylay/awesome-HUST-CS-MIPS-CPU](https://github.com/Starrylay/awesome-HUST-CS-MIPS-CPU) - HUSTCS19级沈承磊的组原课设/华中科技大学计算机组成原理课程设计/MIPS五段流水CPU/华中科技大学计算机组成原理课程设计/华科组原课设/MIPS-CPU/单周期/流水线/分支预测。来自学长的溺爱x，让你copy的明白。 (today)
 - [medusalix/xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories (1 day ago)
 - [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system (1 day ago)
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&amp;A community for product technical support, customer support, user communication, and more. (1 week ago)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (1 week ago)
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) - Expression evaluation in golang (2 weeks ago)
-- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
