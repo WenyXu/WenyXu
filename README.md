@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms (today)
 - [KKould/KipDB](https://github.com/KKould/KipDB) - 轻量级、异步 基于LSM Leveled Compaction K-V数据库 (1 day ago)
 - [mhamrah/gql](https://github.com/mhamrah/gql) - A Ragel &#43; Yacc GraphQL toolkit for Go (2 days ago)
 - [Starrylay/awesome-HUST-CS-MIPS-CPU](https://github.com/Starrylay/awesome-HUST-CS-MIPS-CPU) - HUSTCS19级沈承磊的组原课设/华中科技大学计算机组成原理课程设计/MIPS五段流水CPU/华中科技大学计算机组成原理课程设计/华科组原课设/MIPS-CPU/单周期/流水线/分支预测。来自学长的溺爱x，让你copy的明白。 (3 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (1 week ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15&#43; databases and any API. (1 week ago)
-- [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&amp;A community for product technical support, customer support, user communication, and more. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
