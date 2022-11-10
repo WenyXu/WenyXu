@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (today)
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms (1 day ago)
 - [KKould/KipDB](https://github.com/KKould/KipDB) - 轻量级、异步 基于LSM Leveled Compaction K-V数据库 (2 days ago)
 - [mhamrah/gql](https://github.com/mhamrah/gql) - A Ragel &#43; Yacc GraphQL toolkit for Go (3 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (1 week ago)
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (1 week ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15&#43; databases and any API. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
