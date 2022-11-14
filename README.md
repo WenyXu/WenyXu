@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [datafuselabs/weekly](https://github.com/datafuselabs/weekly) - This week in Databend: an elastic and reliable cloud warehouse (today)
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (4 days ago)
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms (5 days ago)
 - [KKould/KipDB](https://github.com/KKould/KipDB) - 轻量级、异步 基于LSM Leveled Compaction K-V数据库 (6 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [dase314/db_impl_course](https://github.com/dase314/db_impl_course) -  (1 week ago)
 - [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (1 week ago)
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (1 week ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
