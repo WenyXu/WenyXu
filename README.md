@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (today)
 - [datafuselabs/weekly](https://github.com/datafuselabs/weekly) - This week in Databend: an elastic and reliable cloud warehouse (1 day ago)
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (5 days ago)
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms (6 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID&#43;&#43; Logitech devices (1 week ago)
 - [dase314/db_impl_course](https://github.com/dase314/db_impl_course) -  (1 week ago)
 - [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (2 weeks ago)
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
