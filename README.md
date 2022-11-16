@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [graph-gophers/dataloader](https://github.com/graph-gophers/dataloader) - Implementation of Facebook&#39;s DataLoader in Golang (today)
+- [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration (today)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (1 day ago)
 - [datafuselabs/weekly](https://github.com/datafuselabs/weekly) - This week in Databend: an elastic and reliable cloud warehouse (2 days ago)
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (6 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译 (1 week ago)
 - [SpanDB/SpanDB](https://github.com/SpanDB/SpanDB) - A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage (1 week ago)
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID&#43;&#43; Logitech devices (1 week ago)
-- [dase314/db_impl_course](https://github.com/dase314/db_impl_course) -  (1 week ago)
-- [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
