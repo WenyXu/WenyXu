@@ -4,7 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(fs): fix creating sub-dir bugs](https://github.com/senrok/yadal/pull/5) on [senrok/yadal](https://github.com/senrok/yadal) (today)
+- [fix(fs): fix creating sub-dir bugs](https://github.com/senrok/yadal/pull/5) on [senrok/yadal](https://github.com/senrok/yadal) (1 day ago)
 - [chore(.chglog): add chglog config](https://github.com/senrok/yadal/pull/4) on [senrok/yadal](https://github.com/senrok/yadal) (1 month ago)
 - [docs: enhance examples](https://github.com/senrok/yadal/pull/3) on [senrok/yadal](https://github.com/senrok/yadal) (1 month ago)
 - [feat(providers): add fs provider](https://github.com/senrok/yadal/pull/1) on [senrok/yadal](https://github.com/senrok/yadal) (1 month ago)
@@ -27,10 +27,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (today)
-- [datafuselabs/weekly](https://github.com/datafuselabs/weekly) - This week in Databend: an elastic and reliable cloud warehouse (1 day ago)
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (5 days ago)
-- [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms (6 days ago)
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (1 day ago)
+- [datafuselabs/weekly](https://github.com/datafuselabs/weekly) - This week in Databend: an elastic and reliable cloud warehouse (2 days ago)
+- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (6 days ago)
+- [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms (1 week ago)
 - [KKould/KipDB](https://github.com/KKould/KipDB) - 轻量级、异步 基于LSM Leveled Compaction K-V数据库 (1 week ago)
 - [mhamrah/gql](https://github.com/mhamrah/gql) - A Ragel &#43; Yacc GraphQL toolkit for Go (1 week ago)
 - [Starrylay/awesome-HUST-CS-MIPS-CPU](https://github.com/Starrylay/awesome-HUST-CS-MIPS-CPU) - HUSTCS19级沈承磊的组原课设/华中科技大学计算机组成原理课程设计/MIPS五段流水CPU/华中科技大学计算机组成原理课程设计/华科组原课设/MIPS-CPU/单周期/流水线/分支预测。来自学长的溺爱x，让你copy的明白。 (1 week ago)
@@ -45,10 +45,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (today)
+- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (1 day ago)
 - [senrok/go-odm](https://github.com/senrok/go-odm) - Golang Object Document Mapping for MongoDB (1 week ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (3 weeks ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (4 weeks ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 month ago)
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently (1 month ago)
 
 #### 👯 Check out my recent followers
