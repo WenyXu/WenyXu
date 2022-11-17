@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (today)
 - [graph-gophers/dataloader](https://github.com/graph-gophers/dataloader) - Implementation of Facebook&#39;s DataLoader in Golang (1 day ago)
 - [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration (1 day ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (1 week ago)
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译 (1 week ago)
 - [SpanDB/SpanDB](https://github.com/SpanDB/SpanDB) - A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage (2 weeks ago)
-- [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID&#43;&#43; Logitech devices (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
