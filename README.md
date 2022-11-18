@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [dtolnay/reflect](https://github.com/dtolnay/reflect) - Compile-time reflection API for developing robust procedural macros (proof of concept) (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (today)
+- [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React (today)
 - [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - gqlfmt formats your GraphQL files. like gofmt. (1 day ago)
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (1 day ago)
 - [graph-gophers/dataloader](https://github.com/graph-gophers/dataloader) - Implementation of Facebook&#39;s DataLoader in Golang (2 days ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [mhamrah/gql](https://github.com/mhamrah/gql) - A Ragel &#43; Yacc GraphQL toolkit for Go (1 week ago)
 - [Starrylay/awesome-HUST-CS-MIPS-CPU](https://github.com/Starrylay/awesome-HUST-CS-MIPS-CPU) - HUSTCS19级沈承磊的组原课设/华中科技大学计算机组成原理课程设计/MIPS五段流水CPU/华中科技大学计算机组成原理课程设计/华科组原课设/MIPS-CPU/单周期/流水线/分支预测。来自学长的溺爱x，让你copy的明白。 (1 week ago)
 - [medusalix/xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories (1 week ago)
-- [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system (1 week ago)
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (1 week ago)
-- [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译 (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
