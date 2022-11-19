@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [AbdeenM](https://github.com/AbdeenM)
 - [mrmign](https://github.com/mrmign)
 - [nikitavoloboev](https://github.com/nikitavoloboev)
 - [toum120](https://github.com/toum120)
 - [c8ef](https://github.com/c8ef)
-- [jameszhangyukun](https://github.com/jameszhangyukun)
 
 
