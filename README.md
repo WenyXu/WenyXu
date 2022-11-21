@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (today)
+- [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (today)
+- [cnrv/riscv-innovations](https://github.com/cnrv/riscv-innovations) - RISC-V is where innovation happens! (today)
 - [vektah/gqlparser](https://github.com/vektah/gqlparser) - A port of the parser from graphql-js into golang (2 days ago)
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (3 days ago)
 - [dtolnay/reflect](https://github.com/dtolnay/reflect) - Compile-time reflection API for developing robust procedural macros (proof of concept) (3 days ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (6 days ago)
 - [datafuselabs/weekly](https://github.com/datafuselabs/weekly) - This week in Databend: an elastic and reliable cloud warehouse (1 week ago)
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (1 week ago)
-- [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms (1 week ago)
-- [KKould/KipDB](https://github.com/KKould/KipDB) - 轻量级、异步 基于LSM Leveled Compaction K-V数据库 (1 week ago)
-- [mhamrah/gql](https://github.com/mhamrah/gql) - A Ragel &#43; Yacc GraphQL toolkit for Go (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
