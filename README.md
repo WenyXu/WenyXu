@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (today)
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar. (today)
 - [vescale/zgraph](https://github.com/vescale/zgraph) - An embeddable graph database for large-scale vertices and edges (today)
 - [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (6 days ago)
 - [graph-gophers/dataloader](https://github.com/graph-gophers/dataloader) - Implementation of Facebook&#39;s DataLoader in Golang (1 week ago)
 - [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration (1 week ago)
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
