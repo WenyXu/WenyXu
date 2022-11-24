@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (today)
+- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (today)
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. (1 day ago)
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (1 day ago)
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar. (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (6 days ago)
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React (6 days ago)
 - [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - gqlfmt formats your GraphQL files. like gofmt. (1 week ago)
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (1 week ago)
-- [graph-gophers/dataloader](https://github.com/graph-gophers/dataloader) - Implementation of Facebook&#39;s DataLoader in Golang (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
