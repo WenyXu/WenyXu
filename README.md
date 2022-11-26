@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) - 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.  (today)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (2 days ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (2 days ago)
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. (3 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [dtolnay/reflect](https://github.com/dtolnay/reflect) - Compile-time reflection API for developing robust procedural macros (proof of concept) (1 week ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (1 week ago)
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React (1 week ago)
-- [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - gqlfmt formats your GraphQL files. like gofmt. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
