@@ -46,10 +46,10 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (6 days ago)
+- [senrok/graphql-kit](https://github.com/senrok/graphql-kit) -  (3 weeks ago)
 - [senrok/go-odm](https://github.com/senrok/go-odm) - Golang Object Document Mapping for MongoDB (1 month ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 month ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 month ago)
-- [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently (1 month ago)
 
 #### 👯 Check out my recent followers
 
