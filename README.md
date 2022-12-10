@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go. (today)
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go (2 days ago)
 - [XenitAB/go-oidc-middleware](https://github.com/XenitAB/go-oidc-middleware) - OpenID Connect (OIDC) http middleware for Go (3 days ago)
 - [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go. (1 week ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (2 weeks ago)
 - [cnrv/riscv-innovations](https://github.com/cnrv/riscv-innovations) - RISC-V is where innovation happens! (2 weeks ago)
 - [vektah/gqlparser](https://github.com/vektah/gqlparser) - A port of the parser from graphql-js into golang (3 weeks ago)
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
