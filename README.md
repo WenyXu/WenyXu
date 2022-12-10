@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [chen3feng/stl4go](https://github.com/chen3feng/stl4go) - Generic Container and Algorithm Library for Go (today)
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (today)
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go. (today)
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go (2 days ago)
 - [XenitAB/go-oidc-middleware](https://github.com/XenitAB/go-oidc-middleware) - OpenID Connect (OIDC) http middleware for Go (3 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [vescale/zgraph](https://github.com/vescale/zgraph) - An embeddable graph database for large-scale vertices and edges (2 weeks ago)
 - [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (2 weeks ago)
 - [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (2 weeks ago)
-- [cnrv/riscv-innovations](https://github.com/cnrv/riscv-innovations) - RISC-V is where innovation happens! (2 weeks ago)
-- [vektah/gqlparser](https://github.com/vektah/gqlparser) - A port of the parser from graphql-js into golang (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
