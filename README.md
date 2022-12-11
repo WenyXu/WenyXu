@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (today)
 - [chen3feng/stl4go](https://github.com/chen3feng/stl4go) - Generic Container and Algorithm Library for Go (1 day ago)
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (1 day ago)
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go. (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar. (2 weeks ago)
 - [vescale/zgraph](https://github.com/vescale/zgraph) - An embeddable graph database for large-scale vertices and edges (2 weeks ago)
 - [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (2 weeks ago)
-- [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
