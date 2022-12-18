@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - Tools to write high performance GraphQL applications using Go/Golang. (today)
 - [NeteaseYanxuan/OSSA](https://github.com/NeteaseYanxuan/OSSA) - Taro官方推荐的企业级多端 UI 库。目前已支持React语法。 (2 days ago)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C&#43;&#43; or JavaScript. (3 days ago)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (6 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) - 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.  (3 weeks ago)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (3 weeks ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (3 weeks ago)
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
