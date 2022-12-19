@@ -27,11 +27,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - Tools to write high performance GraphQL applications using Go/Golang. (today)
-- [NeteaseYanxuan/OSSA](https://github.com/NeteaseYanxuan/OSSA) - Taro官方推荐的企业级多端 UI 库。目前已支持React语法。 (2 days ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C&#43;&#43; or JavaScript. (3 days ago)
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (6 days ago)
-- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (6 days ago)
+- [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - Tools to write high performance GraphQL applications using Go/Golang. (1 day ago)
+- [NeteaseYanxuan/OSSA](https://github.com/NeteaseYanxuan/OSSA) - Taro官方推荐的企业级多端 UI 库。目前已支持React语法。 (3 days ago)
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C&#43;&#43; or JavaScript. (4 days ago)
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 week ago)
+- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (1 week ago)
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (1 week ago)
 - [chen3feng/stl4go](https://github.com/chen3feng/stl4go) - Generic Container and Algorithm Library for Go (1 week ago)
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (1 week ago)
@@ -48,7 +48,7 @@ Hi 👋 Weny here.
 - [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (1 week ago)
 - [senrok/graphql-kit](https://github.com/senrok/graphql-kit) -  (1 week ago)
 - [senrok/go-odm](https://github.com/senrok/go-odm) - Golang Object Document Mapping for MongoDB (1 month ago)
-- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 month ago)
+- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (2 months ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 months ago)
 
 #### 👯 Check out my recent followers
