@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (today)
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (today)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (today)
 - [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go. (1 week ago)
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go (1 week ago)
 - [XenitAB/go-oidc-middleware](https://github.com/XenitAB/go-oidc-middleware) - OpenID Connect (OIDC) http middleware for Go (1 week ago)
-- [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
