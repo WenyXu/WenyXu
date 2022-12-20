@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript (today)
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (today)
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (today)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (1 week ago)
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go. (1 week ago)
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go (1 week ago)
-- [XenitAB/go-oidc-middleware](https://github.com/XenitAB/go-oidc-middleware) - OpenID Connect (OIDC) http middleware for Go (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
