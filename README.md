@@ -27,14 +27,14 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript (today)
-- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (today)
-- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (today)
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (today)
-- [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ (1 day ago)
-- [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - Tools to write high performance GraphQL applications using Go/Golang. (2 days ago)
-- [NeteaseYanxuan/OSSA](https://github.com/NeteaseYanxuan/OSSA) - Taro官方推荐的企业级多端 UI 库。目前已支持React语法。 (4 days ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C&#43;&#43; or JavaScript. (5 days ago)
+- [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript (1 day ago)
+- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (1 day ago)
+- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (1 day ago)
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (1 day ago)
+- [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ (2 days ago)
+- [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - Tools to write high performance GraphQL applications using Go/Golang. (3 days ago)
+- [NeteaseYanxuan/OSSA](https://github.com/NeteaseYanxuan/OSSA) - Taro官方推荐的企业级多端 UI 库。目前已支持React语法。 (5 days ago)
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C&#43;&#43; or JavaScript. (6 days ago)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 week ago)
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (1 week ago)
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (1 week ago)
