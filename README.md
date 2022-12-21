@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rustcc/hackathon2022](https://github.com/rustcc/hackathon2022) - hackathon2022 for rustcc (today)
+- [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter (today)
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (today)
 - [GZTimeWalker/YYDB](https://github.com/GZTimeWalker/YYDB) - Yat another MySQL storage engine. DB course project. (today)
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 week ago)
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (1 week ago)
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (1 week ago)
-- [chen3feng/stl4go](https://github.com/chen3feng/stl4go) - Generic Container and Algorithm Library for Go (1 week ago)
-- [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
