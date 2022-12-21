@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (today)
+- [GZTimeWalker/YYDB](https://github.com/GZTimeWalker/YYDB) - Yat another MySQL storage engine. DB course project. (today)
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript (1 day ago)
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (1 day ago)
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (1 week ago)
 - [chen3feng/stl4go](https://github.com/chen3feng/stl4go) - Generic Container and Algorithm Library for Go (1 week ago)
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (1 week ago)
-- [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go. (1 week ago)
-- [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
