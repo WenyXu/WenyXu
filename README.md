@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine (today)
+- [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang (today)
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (today)
 - [AltarIbnL/Multi-keyword-fuzzy-searchable-encryption](https://github.com/AltarIbnL/Multi-keyword-fuzzy-searchable-encryption) - The Description of the project you can watch my blog (1 day ago)
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (1 day ago)
 - [rustcc/hackathon2022](https://github.com/rustcc/hackathon2022) - hackathon2022 for rustcc (2 days ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (3 days ago)
 - [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ (4 days ago)
 - [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - Tools to write high performance GraphQL applications using Go/Golang. (5 days ago)
-- [NeteaseYanxuan/OSSA](https://github.com/NeteaseYanxuan/OSSA) - Taro官方推荐的企业级多端 UI 库。目前已支持React语法。 (1 week ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C&#43;&#43; or JavaScript. (1 week ago)
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
