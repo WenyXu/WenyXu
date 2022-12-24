@@ -36,7 +36,7 @@ Hi 👋 Weny here.
 - [rustcc/hackathon2022](https://github.com/rustcc/hackathon2022) - hackathon2022 for rustcc (3 days ago)
 - [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter (3 days ago)
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (3 days ago)
-- [GZTimeWalker/YYDB](https://github.com/GZTimeWalker/YYDB) - Yat another MySQL storage engine. DB course project. (3 days ago)
+- [GZTimeWalker/YYDB](https://github.com/GZTimeWalker/YYDB) - Yat another MySQL storage engine, a database course project. (3 days ago)
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript (4 days ago)
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (4 days ago)
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (4 days ago)
