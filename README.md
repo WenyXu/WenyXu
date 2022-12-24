@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (today)
 - [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine (1 day ago)
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang (1 day ago)
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (4 days ago)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (4 days ago)
 - [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ (5 days ago)
-- [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - Tools to write high performance GraphQL applications using Go/Golang. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
