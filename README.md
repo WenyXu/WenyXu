@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [go-test/deep](https://github.com/go-test/deep) - Golang deep variable equality test that returns human-readable differences (today)
+- [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client (today)
+- [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW. (today)
 - [auth0/webauthn.me](https://github.com/auth0/webauthn.me) - webauthn.me, learn more about the Web Authentication API or try the debugger. (today)
 - [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers and Node. (today)
 - [veraison/go-cose](https://github.com/veraison/go-cose) - go library for CBOR Object Signing and Encryption (COSE) (today)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang (2 days ago)
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (2 days ago)
 - [AltarIbnL/Multi-keyword-fuzzy-searchable-encryption](https://github.com/AltarIbnL/Multi-keyword-fuzzy-searchable-encryption) - The Description of the project you can watch my blog (3 days ago)
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (3 days ago)
-- [rustcc/hackathon2022](https://github.com/rustcc/hackathon2022) - hackathon2022 for rustcc (4 days ago)
-- [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
