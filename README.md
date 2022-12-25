@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [herrjemand/awesome-webauthn](https://github.com/herrjemand/awesome-webauthn) - A curated list of awesome WebAuthn/FIDO2 and now Passkey resources (today)
+- [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang (today)
+- [github/webauthn-json](https://github.com/github/webauthn-json) - 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url. (today)
 - [openacid/low](https://github.com/openacid/low) - low level data type and utils in Golang. (1 day ago)
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (1 day ago)
 - [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine (2 days ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (4 days ago)
 - [GZTimeWalker/YYDB](https://github.com/GZTimeWalker/YYDB) - Yat another MySQL storage engine, a database course project. (4 days ago)
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript (5 days ago)
-- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (5 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (5 days ago)
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
