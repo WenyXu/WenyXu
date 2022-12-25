@@ -27,21 +27,21 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (today)
-- [go-test/deep](https://github.com/go-test/deep) - Golang deep variable equality test that returns human-readable differences (today)
-- [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client (today)
-- [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW. (today)
-- [auth0/webauthn.me](https://github.com/auth0/webauthn.me) - webauthn.me, learn more about the Web Authentication API or try the debugger. (today)
-- [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers and Node. (today)
-- [veraison/go-cose](https://github.com/veraison/go-cose) - go library for CBOR Object Signing and Encryption (COSE) (today)
-- [herrjemand/awesome-webauthn](https://github.com/herrjemand/awesome-webauthn) - A curated list of awesome WebAuthn/FIDO2 and now Passkey resources (today)
-- [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang (today)
-- [github/webauthn-json](https://github.com/github/webauthn-json) - 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url. (today)
-- [openacid/low](https://github.com/openacid/low) - low level data type and utils in Golang. (1 day ago)
-- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (1 day ago)
-- [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine (2 days ago)
-- [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang (2 days ago)
-- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (2 days ago)
+- [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language. (today)
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go. (today)
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes (today)
+- [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces. (today)
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (today)
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. (today)
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (today)
+- [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍 (today)
+- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go. (today)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (today)
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language. (today)
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (today)
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform (today)
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (today)
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible. (today)
 
 #### 👷 Check out what I'm currently working on
 
