@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (today)
 - [go-test/deep](https://github.com/go-test/deep) - Golang deep variable equality test that returns human-readable differences (today)
 - [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client (today)
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW. (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine (2 days ago)
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang (2 days ago)
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (2 days ago)
-- [AltarIbnL/Multi-keyword-fuzzy-searchable-encryption](https://github.com/AltarIbnL/Multi-keyword-fuzzy-searchable-encryption) - The Description of the project you can watch my blog (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
