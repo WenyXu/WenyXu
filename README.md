@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [joetifa2003/mm-go](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang (today)
+- [repeale/fp-go](https://github.com/repeale/fp-go) - Fp-go is a collection of Functional Programming helpers powered by Golang 1.18&#43; generics. (today)
+- [mattn/anko](https://github.com/mattn/anko) - Scriptable interpreter written in golang (today)
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language. (today)
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go. (today)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes (today)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (today)
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language. (today)
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (today)
-- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform (today)
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (today)
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible. (today)
 
 #### 👷 Check out what I'm currently working on
 
