@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [auth0/webauthn.me](https://github.com/auth0/webauthn.me) - webauthn.me, learn more about the Web Authentication API or try the debugger. (today)
+- [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers and Node. (today)
+- [veraison/go-cose](https://github.com/veraison/go-cose) - go library for CBOR Object Signing and Encryption (COSE) (today)
 - [herrjemand/awesome-webauthn](https://github.com/herrjemand/awesome-webauthn) - A curated list of awesome WebAuthn/FIDO2 and now Passkey resources (today)
 - [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang (today)
 - [github/webauthn-json](https://github.com/github/webauthn-json) - 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url. (today)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (3 days ago)
 - [rustcc/hackathon2022](https://github.com/rustcc/hackathon2022) - hackathon2022 for rustcc (4 days ago)
 - [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter (4 days ago)
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (4 days ago)
-- [GZTimeWalker/YYDB](https://github.com/GZTimeWalker/YYDB) - Yat another MySQL storage engine, a database course project. (4 days ago)
-- [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
