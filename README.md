@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser) (today)
 - [joetifa2003/mm-go](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang (1 day ago)
 - [repeale/fp-go](https://github.com/repeale/fp-go) - Fp-go is a collection of Functional Programming helpers powered by Golang 1.18&#43; generics. (1 day ago)
 - [mattn/anko](https://github.com/mattn/anko) - Scriptable interpreter written in golang (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go. (1 day ago)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (1 day ago)
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language. (1 day ago)
-- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (1 day ago)
 
 #### 👷 Check out what I'm currently working on
 
