@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [dhconnelly/rtreego](https://github.com/dhconnelly/rtreego) - an R-Tree library for Go (today)
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps. (1 day ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (1 day ago)
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 day ago)
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser) (1 day ago)
 - [joetifa2003/mm-go](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang (2 days ago)
-- [repeale/fp-go](https://github.com/repeale/fp-go) - Fp-go is a collection of Functional Programming helpers powered by Golang 1.18&#43; generics. (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
