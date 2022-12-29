@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (today)
+- [cypress-io/github-action](https://github.com/cypress-io/github-action) - GitHub Action for running Cypress end-to-end tests (today)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes (1 day ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 day ago)
 - [dhconnelly/rtreego](https://github.com/dhconnelly/rtreego) - an R-Tree library for Go (2 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (3 days ago)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (3 days ago)
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (3 days ago)
-- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust (3 days ago)
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
