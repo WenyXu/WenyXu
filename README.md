@@ -27,6 +27,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (today)
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (today)
+- [AntmJS/vantui](https://github.com/AntmJS/vantui) - 基于vant-weapp实现的Taro-React版及H5-React版组件库https://antmjs.github.io/vantui/#/home (today)
+- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (today)
+- [armon/go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees (today)
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (1 day ago)
 - [cypress-io/github-action](https://github.com/cypress-io/github-action) - GitHub Action for running Cypress end-to-end tests (1 day ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes (2 days ago)
@@ -37,11 +42,6 @@ Hi 👋 Weny here.
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r (4 days ago)
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system (4 days ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (4 days ago)
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (4 days ago)
-- [sundy-li/pa](https://github.com/sundy-li/pa) - A native storage format for apache arrow (4 days ago)
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (4 days ago)
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (4 days ago)
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
