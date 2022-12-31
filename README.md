@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick (today)
 - [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web) (today)
 - [rustbase/rustbase](https://github.com/rustbase/rustbase) - A noSQL key-value database cross-platform program written in Rust. (today)
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes (3 days ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (3 days ago)
 - [dhconnelly/rtreego](https://github.com/dhconnelly/rtreego) - an R-Tree library for Go (4 days ago)
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps. (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
