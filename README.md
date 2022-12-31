@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Tencent/soter](https://github.com/Tencent/soter) - A secure and quick biometric authentication standard and platform in Android held by Tencent. (today)
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick (today)
 - [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web) (today)
 - [rustbase/rustbase](https://github.com/rustbase/rustbase) - A noSQL key-value database cross-platform program written in Rust. (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [cypress-io/github-action](https://github.com/cypress-io/github-action) - GitHub Action for running Cypress end-to-end tests (2 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes (3 days ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (3 days ago)
-- [dhconnelly/rtreego](https://github.com/dhconnelly/rtreego) - an R-Tree library for Go (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
