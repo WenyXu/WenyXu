@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web) (today)
+- [rustbase/rustbase](https://github.com/rustbase/rustbase) - A noSQL key-value database cross-platform program written in Rust. (today)
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books (today)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable &amp; Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。 (today)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (3 days ago)
 - [dhconnelly/rtreego](https://github.com/dhconnelly/rtreego) - an R-Tree library for Go (4 days ago)
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps. (5 days ago)
-- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (5 days ago)
-- [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
