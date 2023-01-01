@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (today)
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together (1 day ago)
 - [Tencent/soter](https://github.com/Tencent/soter) - A secure and quick biometric authentication standard and platform in Android held by Tencent. (1 day ago)
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [armon/go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees (2 days ago)
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (3 days ago)
 - [cypress-io/github-action](https://github.com/cypress-io/github-action) - GitHub Action for running Cypress end-to-end tests (3 days ago)
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
