@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) - Flutter tools for embedded Linux (eLinux) (today)
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects. (today)
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (today)
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages. (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web) (2 days ago)
 - [rustbase/rustbase](https://github.com/rustbase/rustbase) - A noSQL key-value database cross-platform program written in Rust. (2 days ago)
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books (2 days ago)
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable &amp; Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。 (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
