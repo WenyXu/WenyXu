@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [openkraken/kraken](https://github.com/openkraken/kraken) - A web standards-compliant, high-performance rendering engine based on Flutter. (today)
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. (today)
 - [sony/flutter-elinux](https://github.com/sony/flutter-elinux) - Flutter tools for embedded Linux (eLinux) (1 day ago)
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects. (1 day ago)
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [Tencent/soter](https://github.com/Tencent/soter) - A secure and quick biometric authentication standard and platform in Android held by Tencent. (3 days ago)
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick (3 days ago)
 - [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web) (3 days ago)
-- [rustbase/rustbase](https://github.com/rustbase/rustbase) - A noSQL key-value database cross-platform program written in Rust. (3 days ago)
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
