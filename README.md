@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model (today)
 - [ConnectEverything/nats-by-example](https://github.com/ConnectEverything/nats-by-example) - Collection of runnable, reference examples using NATS (https://nats.io) (today)
 - [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server (today)
 - [daptin/daptin](https://github.com/daptin/daptin) - Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A (today)
 - [openkraken/kraken](https://github.com/openkraken/kraken) - A web standards-compliant, high-performance rendering engine based on Flutter. (2 days ago)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. (2 days ago)
-- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) - Flutter tools for embedded Linux (eLinux) (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
