@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes (today)
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost (today)
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (today)
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh) - Chinese translation of Bjarne Stroustrup&#39;s HOPL4 paper (3 days ago)
 - [turingcell/turingcell](https://github.com/turingcell/turingcell) - TuringCell: Run Linux over Paxos/Raft (4 days ago)
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (4 days ago)
-- [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
