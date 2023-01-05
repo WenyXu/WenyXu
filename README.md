@@ -27,6 +27,14 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ConnectEverything/nats-by-example](https://github.com/ConnectEverything/nats-by-example) - Collection of runnable, reference examples using NATS (https://nats.io) (today)
+- [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server (today)
+- [daptin/daptin](https://github.com/daptin/daptin) - Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS (today)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (today)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (today)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile &amp; Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. (today)
+- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform (today)
+- [bmizerany/pat](https://github.com/bmizerany/pat) -  (today)
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes (today)
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost (today)
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (today)
@@ -34,14 +42,6 @@ Hi 👋 Weny here.
 - [openkraken/kraken](https://github.com/openkraken/kraken) - A web standards-compliant, high-performance rendering engine based on Flutter. (2 days ago)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. (2 days ago)
 - [sony/flutter-elinux](https://github.com/sony/flutter-elinux) - Flutter tools for embedded Linux (eLinux) (3 days ago)
-- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects. (3 days ago)
-- [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (3 days ago)
-- [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages. (3 days ago)
-- [qor/transition](https://github.com/qor/transition) - Transition is a Golang state machine implementation (3 days ago)
-- [qor/i18n](https://github.com/qor/i18n) - I18n is a golang implementation, provides internationalization support for your application, with different backends support (3 days ago)
-- [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh) - Chinese translation of Bjarne Stroustrup&#39;s HOPL4 paper (3 days ago)
-- [turingcell/turingcell](https://github.com/turingcell/turingcell) - TuringCell: Run Linux over Paxos/Raft (4 days ago)
-- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
