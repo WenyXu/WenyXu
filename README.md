@@ -4,7 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(fs): change openfile &amp; makedir filemode](https://github.com/senrok/yadal/pull/7) on [senrok/yadal](https://github.com/senrok/yadal) (3 weeks ago)
+- [fix(fs): change openfile &amp; makedir filemode](https://github.com/senrok/yadal/pull/7) on [senrok/yadal](https://github.com/senrok/yadal) (4 weeks ago)
 - [fix(fs): make sure writing and creating file is truncated](https://github.com/senrok/yadal/pull/6) on [senrok/yadal](https://github.com/senrok/yadal) (1 month ago)
 - [fix(fs): fix creating sub-dir bugs](https://github.com/senrok/yadal/pull/5) on [senrok/yadal](https://github.com/senrok/yadal) (1 month ago)
 - [chore(.chglog): add chglog config](https://github.com/senrok/yadal/pull/4) on [senrok/yadal](https://github.com/senrok/yadal) (2 months ago)
@@ -27,21 +27,21 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [aserebryakov/trie-rs](https://github.com/aserebryakov/trie-rs) - Library implementing the prefix tree in Rust (today)
-- [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go (today)
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model (today)
-- [ConnectEverything/nats-by-example](https://github.com/ConnectEverything/nats-by-example) - Collection of runnable, reference examples using NATS (https://nats.io) (today)
-- [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server (today)
-- [daptin/daptin](https://github.com/daptin/daptin) - Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS (today)
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (today)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (today)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile &amp; Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. (today)
-- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform (today)
-- [bmizerany/pat](https://github.com/bmizerany/pat) -  (today)
-- [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes (today)
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost (today)
-- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (today)
-- [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A (today)
+- [aserebryakov/trie-rs](https://github.com/aserebryakov/trie-rs) - Library implementing the prefix tree in Rust (1 day ago)
+- [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go (1 day ago)
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model (1 day ago)
+- [ConnectEverything/nats-by-example](https://github.com/ConnectEverything/nats-by-example) - Collection of runnable, reference examples using NATS (https://nats.io) (1 day ago)
+- [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server (1 day ago)
+- [daptin/daptin](https://github.com/daptin/daptin) - Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS (1 day ago)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (1 day ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (1 day ago)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile &amp; Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. (1 day ago)
+- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform (1 day ago)
+- [bmizerany/pat](https://github.com/bmizerany/pat) -  (1 day ago)
+- [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes (1 day ago)
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost (1 day ago)
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (1 day ago)
+- [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A (1 day ago)
 
 #### 👷 Check out what I'm currently working on
 
