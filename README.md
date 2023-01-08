@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [enisdenjo/graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client. (today)
+- [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (today)
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (today)
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C&#43;&#43; (2 days ago)
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. (2 days ago)
 - [aserebryakov/trie-rs](https://github.com/aserebryakov/trie-rs) - Library implementing the prefix tree in Rust (3 days ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (3 days ago)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile &amp; Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. (3 days ago)
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform (3 days ago)
-- [bmizerany/pat](https://github.com/bmizerany/pat) -  (3 days ago)
-- [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes (3 days ago)
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
