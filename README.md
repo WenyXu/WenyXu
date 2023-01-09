@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
-- [HyunCafe](https://github.com/HyunCafe)
 - [beluxx](https://github.com/beluxx)
 - [condy0919](https://github.com/condy0919)
 - [iamnmt](https://github.com/iamnmt)
 - [minhdang26403](https://github.com/minhdang26403)
+- [mrmign](https://github.com/mrmign)
 
 
