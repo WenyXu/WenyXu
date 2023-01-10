@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes (today)
+- [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification (today)
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (today)
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples (today)
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager (today)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [aserebryakov/trie-rs](https://github.com/aserebryakov/trie-rs) - Library implementing the prefix tree in Rust (5 days ago)
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go (5 days ago)
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model (5 days ago)
-- [ConnectEverything/nats-by-example](https://github.com/ConnectEverything/nats-by-example) - Collection of runnable, reference examples using NATS (https://nats.io) (5 days ago)
-- [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
