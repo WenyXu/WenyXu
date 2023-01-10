@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (today)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes (today)
 - [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification (today)
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. (4 days ago)
 - [aserebryakov/trie-rs](https://github.com/aserebryakov/trie-rs) - Library implementing the prefix tree in Rust (5 days ago)
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go (5 days ago)
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
