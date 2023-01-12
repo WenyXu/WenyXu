@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications. (today)
+- [Eun/go-hit](https://github.com/Eun/go-hit) - http integration test framework (today)
+- [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network (today)
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter (2 days ago)
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go. (2 days ago)
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. (2 days ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager (2 days ago)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (2 days ago)
 - [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》 (3 days ago)
-- [enisdenjo/graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client. (4 days ago)
-- [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (4 days ago)
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
