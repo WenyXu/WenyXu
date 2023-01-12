@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (today)
+- [dragonly/pingcap_interview](https://github.com/dragonly/pingcap_interview) - pingcap 面试小作业 (today)
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (today)
 - [cncf/wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG (today)
 - [fission/fission-workflows](https://github.com/fission/fission-workflows) - Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions (today)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (2 days ago)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes (2 days ago)
 - [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification (2 days ago)
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (2 days ago)
-- [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
