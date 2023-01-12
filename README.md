@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cncf/wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG (today)
+- [fission/fission-workflows](https://github.com/fission/fission-workflows) - Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions (today)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications. (today)
 - [Eun/go-hit](https://github.com/Eun/go-hit) - http integration test framework (today)
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network (today)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (2 days ago)
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples (2 days ago)
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager (2 days ago)
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (2 days ago)
-- [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》 (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
