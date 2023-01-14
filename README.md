@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone&#39;s everything. (today)
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (2 days ago)
 - [dragonly/pingcap_interview](https://github.com/dragonly/pingcap_interview) - pingcap 面试小作业 (2 days ago)
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (4 days ago)
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (4 days ago)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes (4 days ago)
-- [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
