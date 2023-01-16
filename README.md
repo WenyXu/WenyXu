@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2 (today)
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone&#39;s everything. (2 days ago)
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (4 days ago)
 - [dragonly/pingcap_interview](https://github.com/dragonly/pingcap_interview) - pingcap 面试小作业 (4 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. (6 days ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (6 days ago)
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (6 days ago)
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
