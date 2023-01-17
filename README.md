@@ -27,6 +27,13 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network (today)
+- [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (today)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (today)
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform (today)
+- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource. (today)
+- [kubevela/workflow](https://github.com/kubevela/workflow) - Declarative Workflow of KubeVela which can run as standalone. (today)
+- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (today)
 - [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2 (1 day ago)
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone&#39;s everything. (3 days ago)
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (5 days ago)
@@ -35,13 +42,6 @@ Hi 👋 Weny here.
 - [cncf/wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG (5 days ago)
 - [fission/fission-workflows](https://github.com/fission/fission-workflows) - Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions (5 days ago)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications. (5 days ago)
-- [Eun/go-hit](https://github.com/Eun/go-hit) - http integration test framework (5 days ago)
-- [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network (5 days ago)
-- [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter (1 week ago)
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go. (1 week ago)
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. (1 week ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (1 week ago)
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
