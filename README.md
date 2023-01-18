@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang (today)
 - [koute/schnellru](https://github.com/koute/schnellru) - A fast and flexible LRU map. (today)
 - [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (today)
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (1 day ago)
 - [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2 (2 days ago)
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone&#39;s everything. (4 days ago)
-- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
