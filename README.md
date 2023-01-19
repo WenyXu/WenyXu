@@ -27,6 +27,12 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. (today)
+- [ufcg-lsd/computer-systems-reading](https://github.com/ufcg-lsd/computer-systems-reading) - Paper trail for the www.lsd.ufcg.edu.br reading group on systems (today)
+- [dataArtisans/yahoo-streaming-benchmark](https://github.com/dataArtisans/yahoo-streaming-benchmark) - An extension of Yahoo&#39;s Benchmarks (today)
+- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (today)
+- [Nugine/s3s](https://github.com/Nugine/s3s) - S3 Service Adapter (today)
+- [emilk/ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM (today)
 - [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang (1 day ago)
 - [koute/schnellru](https://github.com/koute/schnellru) - A fast and flexible LRU map. (1 day ago)
 - [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (1 day ago)
@@ -36,12 +42,6 @@ Hi 👋 Weny here.
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network (2 days ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (2 days ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 days ago)
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform (2 days ago)
-- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource. (2 days ago)
-- [kubevela/workflow](https://github.com/kubevela/workflow) - Declarative Workflow of KubeVela which can run as standalone. (2 days ago)
-- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (2 days ago)
-- [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2 (3 days ago)
-- [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone&#39;s everything. (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
