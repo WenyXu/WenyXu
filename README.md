@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (today)
+- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Instant distributed traces without code changes. 🚀 Boost existing monitoring tools with higher-quality data (today)
+- [argusdusty/Ferret](https://github.com/argusdusty/Ferret) - An optimized substring search engine written in Go (today)
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache BookKeeper - a scalable, fault tolerant and low latency storage service optimized for append-only workloads (1 day ago)
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (1 day ago)
 - [xlambein/syntactic-for](https://github.com/xlambein/syntactic-for) - A syntactic &#34;for&#34; loop Rust macro (1 day ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang (3 days ago)
 - [koute/schnellru](https://github.com/koute/schnellru) - A fast and flexible LRU map. (3 days ago)
 - [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (3 days ago)
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (3 days ago)
-- [kprotty/usync](https://github.com/kprotty/usync) - Small, fast, synchronization primitives (3 days ago)
-- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
