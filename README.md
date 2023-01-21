@@ -27,21 +27,21 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache BookKeeper - a scalable, fault tolerant and low latency storage service optimized for append-only workloads (today)
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (today)
-- [xlambein/syntactic-for](https://github.com/xlambein/syntactic-for) - A syntactic &#34;for&#34; loop Rust macro (today)
-- [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. (1 day ago)
-- [ufcg-lsd/computer-systems-reading](https://github.com/ufcg-lsd/computer-systems-reading) - Paper trail for the www.lsd.ufcg.edu.br reading group on systems (1 day ago)
-- [dataArtisans/yahoo-streaming-benchmark](https://github.com/dataArtisans/yahoo-streaming-benchmark) - An extension of Yahoo&#39;s Benchmarks (1 day ago)
-- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (1 day ago)
-- [Nugine/s3s](https://github.com/Nugine/s3s) - S3 Service Adapter (1 day ago)
-- [emilk/ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM (1 day ago)
-- [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang (2 days ago)
-- [koute/schnellru](https://github.com/koute/schnellru) - A fast and flexible LRU map. (2 days ago)
-- [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (2 days ago)
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (2 days ago)
-- [kprotty/usync](https://github.com/kprotty/usync) - Small, fast, synchronization primitives (2 days ago)
-- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (2 days ago)
+- [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache BookKeeper - a scalable, fault tolerant and low latency storage service optimized for append-only workloads (1 day ago)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (1 day ago)
+- [xlambein/syntactic-for](https://github.com/xlambein/syntactic-for) - A syntactic &#34;for&#34; loop Rust macro (1 day ago)
+- [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. (2 days ago)
+- [ufcg-lsd/computer-systems-reading](https://github.com/ufcg-lsd/computer-systems-reading) - Paper trail for the www.lsd.ufcg.edu.br reading group on systems (2 days ago)
+- [dataArtisans/yahoo-streaming-benchmark](https://github.com/dataArtisans/yahoo-streaming-benchmark) - An extension of Yahoo&#39;s Benchmarks (2 days ago)
+- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (2 days ago)
+- [Nugine/s3s](https://github.com/Nugine/s3s) - S3 Service Adapter (2 days ago)
+- [emilk/ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM (2 days ago)
+- [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang (3 days ago)
+- [koute/schnellru](https://github.com/koute/schnellru) - A fast and flexible LRU map. (3 days ago)
+- [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (3 days ago)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (3 days ago)
+- [kprotty/usync](https://github.com/kprotty/usync) - Small, fast, synchronization primitives (3 days ago)
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
