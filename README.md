@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (today)
 - [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (1 day ago)
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Instant distributed traces without code changes. 🚀 Boost existing monitoring tools with higher-quality data (1 day ago)
 - [argusdusty/Ferret](https://github.com/argusdusty/Ferret) - An optimized substring search engine written in Go (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [emilk/ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM (3 days ago)
 - [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang (4 days ago)
 - [koute/schnellru](https://github.com/koute/schnellru) - A fast and flexible LRU map. (4 days ago)
-- [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
