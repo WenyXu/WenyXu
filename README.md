@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (today)
+- [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust (today)
 - [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (today)
 - [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (1 day ago)
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Instant distributed traces without code changes. 🚀 Boost existing monitoring tools with higher-quality data (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (3 days ago)
 - [Nugine/s3s](https://github.com/Nugine/s3s) - S3 Service Adapter (3 days ago)
 - [emilk/ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM (3 days ago)
-- [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang (4 days ago)
-- [koute/schnellru](https://github.com/koute/schnellru) - A fast and flexible LRU map. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
