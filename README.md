@@ -27,21 +27,21 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (today)
-- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Instant distributed traces without code changes. 🚀 Boost existing monitoring tools with higher-quality data (today)
-- [argusdusty/Ferret](https://github.com/argusdusty/Ferret) - An optimized substring search engine written in Go (today)
-- [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache BookKeeper - a scalable, fault tolerant and low latency storage service optimized for append-only workloads (1 day ago)
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (1 day ago)
-- [xlambein/syntactic-for](https://github.com/xlambein/syntactic-for) - A syntactic &#34;for&#34; loop Rust macro (1 day ago)
-- [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. (2 days ago)
-- [ufcg-lsd/computer-systems-reading](https://github.com/ufcg-lsd/computer-systems-reading) - Paper trail for the www.lsd.ufcg.edu.br reading group on systems (2 days ago)
-- [dataArtisans/yahoo-streaming-benchmark](https://github.com/dataArtisans/yahoo-streaming-benchmark) - An extension of Yahoo&#39;s Benchmarks (2 days ago)
-- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (2 days ago)
-- [Nugine/s3s](https://github.com/Nugine/s3s) - S3 Service Adapter (2 days ago)
-- [emilk/ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM (2 days ago)
-- [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang (3 days ago)
-- [koute/schnellru](https://github.com/koute/schnellru) - A fast and flexible LRU map. (3 days ago)
-- [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (3 days ago)
+- [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (1 day ago)
+- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Instant distributed traces without code changes. 🚀 Boost existing monitoring tools with higher-quality data (1 day ago)
+- [argusdusty/Ferret](https://github.com/argusdusty/Ferret) - An optimized substring search engine written in Go (1 day ago)
+- [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache BookKeeper - a scalable, fault tolerant and low latency storage service optimized for append-only workloads (2 days ago)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (2 days ago)
+- [xlambein/syntactic-for](https://github.com/xlambein/syntactic-for) - A syntactic &#34;for&#34; loop Rust macro (2 days ago)
+- [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. (3 days ago)
+- [ufcg-lsd/computer-systems-reading](https://github.com/ufcg-lsd/computer-systems-reading) - Paper trail for the www.lsd.ufcg.edu.br reading group on systems (3 days ago)
+- [dataArtisans/yahoo-streaming-benchmark](https://github.com/dataArtisans/yahoo-streaming-benchmark) - An extension of Yahoo&#39;s Benchmarks (3 days ago)
+- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (3 days ago)
+- [Nugine/s3s](https://github.com/Nugine/s3s) - S3 Service Adapter (3 days ago)
+- [emilk/ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM (3 days ago)
+- [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang (4 days ago)
+- [koute/schnellru](https://github.com/koute/schnellru) - A fast and flexible LRU map. (4 days ago)
+- [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
