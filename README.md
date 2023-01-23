@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data. (today)
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (1 day ago)
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust (1 day ago)
 - [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [dataArtisans/yahoo-streaming-benchmark](https://github.com/dataArtisans/yahoo-streaming-benchmark) - An extension of Yahoo&#39;s Benchmarks (4 days ago)
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (4 days ago)
 - [Nugine/s3s](https://github.com/Nugine/s3s) - S3 Service Adapter (4 days ago)
-- [emilk/ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
