@@ -27,6 +27,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust (today)
+- [hyperium/h3](https://github.com/hyperium/h3) -  (today)
+- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client (today)
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (today)
+- [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol (today)
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data. (today)
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (1 day ago)
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust (1 day ago)
@@ -37,11 +42,6 @@ Hi 👋 Weny here.
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache BookKeeper - a scalable, fault tolerant and low latency storage service optimized for append-only workloads (3 days ago)
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (3 days ago)
 - [xlambein/syntactic-for](https://github.com/xlambein/syntactic-for) - A syntactic &#34;for&#34; loop Rust macro (3 days ago)
-- [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. (4 days ago)
-- [ufcg-lsd/computer-systems-reading](https://github.com/ufcg-lsd/computer-systems-reading) - Paper trail for the www.lsd.ufcg.edu.br reading group on systems (4 days ago)
-- [dataArtisans/yahoo-streaming-benchmark](https://github.com/dataArtisans/yahoo-streaming-benchmark) - An extension of Yahoo&#39;s Benchmarks (4 days ago)
-- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (4 days ago)
-- [Nugine/s3s](https://github.com/Nugine/s3s) - S3 Service Adapter (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
