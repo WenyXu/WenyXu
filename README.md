@@ -27,21 +27,21 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program (1 day ago)
-- [eugene-bulkin/rust-bk-tree](https://github.com/eugene-bulkin/rust-bk-tree) - A BK-tree implementation in Rust. (1 day ago)
-- [microsoft/ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux) - A Linux network throughput multiple-thread benchmark tool. (1 day ago)
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com (1 day ago)
-- [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team. (1 day ago)
-- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust (1 day ago)
-- [hyperium/h3](https://github.com/hyperium/h3) -  (1 day ago)
-- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client (1 day ago)
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (1 day ago)
-- [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol (1 day ago)
-- [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data. (1 day ago)
-- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (2 days ago)
-- [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust (2 days ago)
-- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (2 days ago)
-- [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (3 days ago)
+- [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program (2 days ago)
+- [eugene-bulkin/rust-bk-tree](https://github.com/eugene-bulkin/rust-bk-tree) - A BK-tree implementation in Rust. (2 days ago)
+- [microsoft/ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux) - A Linux network throughput multiple-thread benchmark tool. (2 days ago)
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com (2 days ago)
+- [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team. (2 days ago)
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust (2 days ago)
+- [hyperium/h3](https://github.com/hyperium/h3) -  (2 days ago)
+- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client (2 days ago)
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (2 days ago)
+- [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol (2 days ago)
+- [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data. (2 days ago)
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (3 days ago)
+- [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust (3 days ago)
+- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (3 days ago)
+- [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
