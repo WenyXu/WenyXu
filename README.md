@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [LeonHartley/Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust (today)
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application. (today)
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (today)
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (3 days ago)
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol (3 days ago)
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data. (3 days ago)
-- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
