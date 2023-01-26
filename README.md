@@ -4,6 +4,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [WIP Raft with rust](https://github.com/WenyXu/talent-plan/pull/1) on [WenyXu/talent-plan](https://github.com/WenyXu/talent-plan) (today)
+- [(WIP) raft with rust](https://github.com/pingcap/talent-plan/pull/456) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (today)
 - [fix(fs): change openfile &amp; makedir filemode](https://github.com/senrok/yadal/pull/7) on [senrok/yadal](https://github.com/senrok/yadal) (1 month ago)
 - [fix(fs): make sure writing and creating file is truncated](https://github.com/senrok/yadal/pull/6) on [senrok/yadal](https://github.com/senrok/yadal) (1 month ago)
 - [fix(fs): fix creating sub-dir bugs](https://github.com/senrok/yadal/pull/5) on [senrok/yadal](https://github.com/senrok/yadal) (2 months ago)
@@ -22,8 +24,6 @@ Hi 👋 Weny here.
 - [refactor(expression/iterator): refactor iterators](https://github.com/casbin-mesh/neo/pull/60) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [fix(pkg/parser): fix parsing assessor typos](https://github.com/casbin-mesh/neo/pull/59) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [feat(neo/executor): add multi-index &amp; index scan executor](https://github.com/casbin-mesh/neo/pull/57) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
-- [doc: add code and executor docs](https://github.com/casbin-mesh/neo/pull/55) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
-- [feat(pkg/parser): impl expression eval](https://github.com/casbin-mesh/neo/pull/54) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 
 #### ⭐ Check out my recent stars
 
