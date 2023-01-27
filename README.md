@@ -27,6 +27,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications. (today)
+- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern multiple reverse shell sessions manager written in go (today)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (today)
+- [fiberplane/autometrics-rs](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries (today)
 - [LeonHartley/Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust (1 day ago)
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application. (1 day ago)
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 day ago)
@@ -38,10 +42,6 @@ Hi 👋 Weny here.
 - [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team. (4 days ago)
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust (4 days ago)
 - [hyperium/h3](https://github.com/hyperium/h3) -  (4 days ago)
-- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client (4 days ago)
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (4 days ago)
-- [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol (4 days ago)
-- [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
