@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context (today)
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications. (2 days ago)
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern multiple reverse shell sessions manager written in go (2 days ago)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com (6 days ago)
 - [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team. (6 days ago)
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust (6 days ago)
-- [hyperium/h3](https://github.com/hyperium/h3) -  (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
