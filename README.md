@@ -18,7 +18,7 @@ Hi 👋 Weny here.
 - [feat(optimizer): introduce optimizer](https://github.com/casbin-mesh/neo/pull/68) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (4 months ago)
 - [fix(style): fix styling issues](https://github.com/arco-design/arco-design-pro/pull/78) on [arco-design/arco-design-pro](https://github.com/arco-design/arco-design-pro) (4 months ago)
 - [fix(pkg/expression): fix it changes immutable primitive](https://github.com/casbin-mesh/neo/pull/67) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (4 months ago)
-- [feat(neo/executor): introduce expressions as predicates](https://github.com/casbin-mesh/neo/pull/65) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (4 months ago)
+- [feat(neo/executor): introduce expressions as predicates](https://github.com/casbin-mesh/neo/pull/65) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [doc: add planner doc](https://github.com/casbin-mesh/neo/pull/62) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [feat(pkg/expression): introduce expression subtree pruning](https://github.com/casbin-mesh/neo/pull/61) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [refactor(expression/iterator): refactor iterators](https://github.com/casbin-mesh/neo/pull/60) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
@@ -36,12 +36,12 @@ Hi 👋 Weny here.
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application. (1 week ago)
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 week ago)
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust (1 week ago)
-- [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program (1 week ago)
-- [eugene-bulkin/rust-bk-tree](https://github.com/eugene-bulkin/rust-bk-tree) - A BK-tree implementation in Rust. (1 week ago)
-- [microsoft/ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux) - A Linux network throughput multiple-thread benchmark tool. (1 week ago)
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com (1 week ago)
-- [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team. (1 week ago)
-- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust (1 week ago)
+- [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program (2 weeks ago)
+- [eugene-bulkin/rust-bk-tree](https://github.com/eugene-bulkin/rust-bk-tree) - A BK-tree implementation in Rust. (2 weeks ago)
+- [microsoft/ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux) - A Linux network throughput multiple-thread benchmark tool. (2 weeks ago)
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com (2 weeks ago)
+- [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team. (2 weeks ago)
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
