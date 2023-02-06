@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (today)
+- [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (today)
+- [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal (today)
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service. (today)
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context (1 week ago)
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications. (1 week ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust (1 week ago)
 - [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program (2 weeks ago)
 - [eugene-bulkin/rust-bk-tree](https://github.com/eugene-bulkin/rust-bk-tree) - A BK-tree implementation in Rust. (2 weeks ago)
-- [microsoft/ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux) - A Linux network throughput multiple-thread benchmark tool. (2 weeks ago)
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com (2 weeks ago)
-- [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
