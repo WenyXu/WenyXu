@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library (today)
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 day ago)
 - [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (1 day ago)
 - [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 week ago)
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust (1 week ago)
 - [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program (2 weeks ago)
-- [eugene-bulkin/rust-bk-tree](https://github.com/eugene-bulkin/rust-bk-tree) - A BK-tree implementation in Rust. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
