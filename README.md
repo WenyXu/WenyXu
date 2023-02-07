@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [risinglightdb/sql-optimizer-labs](https://github.com/risinglightdb/sql-optimizer-labs) - 🚧 Build a SQL optimizer in 1000 lines of Rust using egg. (today)
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library (today)
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 day ago)
 - [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application. (1 week ago)
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 week ago)
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust (1 week ago)
-- [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
