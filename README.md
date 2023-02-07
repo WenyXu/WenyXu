@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 - [WIP Raft with rust](https://github.com/WenyXu/talent-plan/pull/1) on [WenyXu/talent-plan](https://github.com/WenyXu/talent-plan) (1 week ago)
 - [(WIP) raft with rust](https://github.com/pingcap/talent-plan/pull/456) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (1 week ago)
-- [fix(fs): change openfile &amp; makedir filemode](https://github.com/senrok/yadal/pull/7) on [senrok/yadal](https://github.com/senrok/yadal) (1 month ago)
+- [fix(fs): change openfile &amp; makedir filemode](https://github.com/senrok/yadal/pull/7) on [senrok/yadal](https://github.com/senrok/yadal) (2 months ago)
 - [fix(fs): make sure writing and creating file is truncated](https://github.com/senrok/yadal/pull/6) on [senrok/yadal](https://github.com/senrok/yadal) (2 months ago)
 - [fix(fs): fix creating sub-dir bugs](https://github.com/senrok/yadal/pull/5) on [senrok/yadal](https://github.com/senrok/yadal) (2 months ago)
 - [chore(.chglog): add chglog config](https://github.com/senrok/yadal/pull/4) on [senrok/yadal](https://github.com/senrok/yadal) (3 months ago)
@@ -27,10 +27,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (today)
-- [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (today)
-- [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal (today)
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service. (today)
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 day ago)
+- [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (1 day ago)
+- [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal (1 day ago)
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service. (1 day ago)
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context (1 week ago)
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications. (1 week ago)
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern multiple reverse shell sessions manager written in go (1 week ago)
