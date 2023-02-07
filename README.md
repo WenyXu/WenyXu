@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [lizhuohua/linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust) -  (today)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (today)
+- [duo-labs/webauthn](https://github.com/duo-labs/webauthn) - WebAuthn (FIDO2) server library written in Go  (today)
 - [luispedro/diskhash](https://github.com/luispedro/diskhash) - Diskbased (persistent) hashtable (today)
 - [risinglightdb/sql-optimizer-labs](https://github.com/risinglightdb/sql-optimizer-labs) - 🚧 Build a SQL optimizer in 1000 lines of Rust using egg. (today)
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library (today)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern multiple reverse shell sessions manager written in go (1 week ago)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 week ago)
 - [fiberplane/autometrics-rs](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries (1 week ago)
-- [LeonHartley/Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust (1 week ago)
-- [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application. (1 week ago)
-- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
