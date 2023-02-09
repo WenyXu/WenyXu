@@ -4,8 +4,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [WIP Raft with rust](https://github.com/WenyXu/talent-plan/pull/1) on [WenyXu/talent-plan](https://github.com/WenyXu/talent-plan) (1 week ago)
-- [(WIP) raft with rust](https://github.com/pingcap/talent-plan/pull/456) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (1 week ago)
+- [WIP Raft with rust](https://github.com/WenyXu/talent-plan/pull/1) on [WenyXu/talent-plan](https://github.com/WenyXu/talent-plan) (2 weeks ago)
+- [(WIP) raft with rust](https://github.com/pingcap/talent-plan/pull/456) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (2 weeks ago)
 - [fix(fs): change openfile &amp; makedir filemode](https://github.com/senrok/yadal/pull/7) on [senrok/yadal](https://github.com/senrok/yadal) (2 months ago)
 - [fix(fs): make sure writing and creating file is truncated](https://github.com/senrok/yadal/pull/6) on [senrok/yadal](https://github.com/senrok/yadal) (2 months ago)
 - [fix(fs): fix creating sub-dir bugs](https://github.com/senrok/yadal/pull/5) on [senrok/yadal](https://github.com/senrok/yadal) (2 months ago)
@@ -27,19 +27,19 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [datafuselabs/summer-of-code](https://github.com/datafuselabs/summer-of-code) - Summer of Code with Datafuse Labs (today)
-- [v6d-io/v6d](https://github.com/v6d-io/v6d) - vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage) (today)
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Alternative to Parquet. 100x faster for random access, automatic versioning, optimized for computer vision, bioinformatics, spatial and ML data. Apache Arrow and DuckDB compatible. (today)
-- [lizhuohua/linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust) -  (1 day ago)
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 day ago)
-- [duo-labs/webauthn](https://github.com/duo-labs/webauthn) - WebAuthn (FIDO2) server library written in Go  (1 day ago)
-- [luispedro/diskhash](https://github.com/luispedro/diskhash) - Diskbased (persistent) hashtable (1 day ago)
-- [risinglightdb/sql-optimizer-labs](https://github.com/risinglightdb/sql-optimizer-labs) - 🚧 Build a SQL optimizer in 1000 lines of Rust using egg. (1 day ago)
-- [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library (1 day ago)
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (2 days ago)
-- [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (2 days ago)
-- [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal (2 days ago)
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service. (2 days ago)
+- [datafuselabs/summer-of-code](https://github.com/datafuselabs/summer-of-code) - Summer of Code with Datafuse Labs (1 day ago)
+- [v6d-io/v6d](https://github.com/v6d-io/v6d) - vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage) (1 day ago)
+- [eto-ai/lance](https://github.com/eto-ai/lance) - Alternative to Parquet. 100x faster for random access, automatic versioning, optimized for computer vision, bioinformatics, spatial and ML data. Apache Arrow and DuckDB compatible. (1 day ago)
+- [lizhuohua/linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust) -  (2 days ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (2 days ago)
+- [duo-labs/webauthn](https://github.com/duo-labs/webauthn) - WebAuthn (FIDO2) server library written in Go  (2 days ago)
+- [luispedro/diskhash](https://github.com/luispedro/diskhash) - Diskbased (persistent) hashtable (2 days ago)
+- [risinglightdb/sql-optimizer-labs](https://github.com/risinglightdb/sql-optimizer-labs) - 🚧 Build a SQL optimizer in 1000 lines of Rust using egg. (2 days ago)
+- [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library (2 days ago)
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (3 days ago)
+- [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (3 days ago)
+- [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal (3 days ago)
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service. (3 days ago)
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context (1 week ago)
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications. (1 week ago)
 
