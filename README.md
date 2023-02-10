@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps (today)
+- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort. (today)
 - [datafuselabs/summer-of-code](https://github.com/datafuselabs/summer-of-code) - Summer of Code with Datafuse Labs (2 days ago)
 - [v6d-io/v6d](https://github.com/v6d-io/v6d) - vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage) (2 days ago)
 - [eto-ai/lance](https://github.com/eto-ai/lance) - Alternative to Parquet. 100x faster for random access, automatic versioning, optimized for computer vision, bioinformatics, spatial and ML data. Apache Arrow and DuckDB compatible. (2 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (4 days ago)
 - [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal (4 days ago)
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service. (4 days ago)
-- [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context (1 week ago)
-- [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
