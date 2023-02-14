@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (today)
+- [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust. (today)
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps (4 days ago)
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort. (4 days ago)
 - [datafuselabs/summer-of-code](https://github.com/datafuselabs/summer-of-code) - Summer of Code with Datafuse Labs (6 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library (1 week ago)
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 week ago)
 - [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (1 week ago)
-- [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal (1 week ago)
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
