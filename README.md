@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (today)
+- [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox) - Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow. (today)
+- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB (today)
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (2 days ago)
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust. (2 days ago)
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps (6 days ago)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [duo-labs/webauthn](https://github.com/duo-labs/webauthn) - WebAuthn (FIDO2) server library written in Go  (1 week ago)
 - [luispedro/diskhash](https://github.com/luispedro/diskhash) - Diskbased (persistent) hashtable (1 week ago)
 - [risinglightdb/sql-optimizer-labs](https://github.com/risinglightdb/sql-optimizer-labs) - 🚧 Build a SQL optimizer in 1000 lines of Rust using egg. (1 week ago)
-- [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library (1 week ago)
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 week ago)
-- [avfs/avfs](https://github.com/avfs/avfs) - Another Virtual File System for Go (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
