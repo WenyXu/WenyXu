@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (today)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 day ago)
 - [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox) - Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow. (1 day ago)
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
 - [duo-labs/webauthn](https://github.com/duo-labs/webauthn) - WebAuthn (FIDO2) server library written in Go  (1 week ago)
 - [luispedro/diskhash](https://github.com/luispedro/diskhash) - Diskbased (persistent) hashtable (1 week ago)
-- [risinglightdb/sql-optimizer-labs](https://github.com/risinglightdb/sql-optimizer-labs) - 🚧 Build a SQL optimizer in 1000 lines of Rust using egg. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
