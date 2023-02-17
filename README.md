@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [NervJS/taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库 (today)
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (today)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 day ago)
 - [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox) - Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow. (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [lizhuohua/linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust) -  (1 week ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
 - [duo-labs/webauthn](https://github.com/duo-labs/webauthn) - WebAuthn (FIDO2) server library written in Go  (1 week ago)
-- [luispedro/diskhash](https://github.com/luispedro/diskhash) - Diskbased (persistent) hashtable (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
