@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [jun0315](https://github.com/jun0315)
 - [aucker](https://github.com/aucker)
 - [elhadjx](https://github.com/elhadjx)
 - [Monster-007](https://github.com/Monster-007)
 - [ZhengLin-Li](https://github.com/ZhengLin-Li)
-- [beluxx](https://github.com/beluxx)
 
 
