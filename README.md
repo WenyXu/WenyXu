@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Amanieu/thread_local-rs](https://github.com/Amanieu/thread_local-rs) - Per-object thread-local storage for Rust (today)
 - [time-rs/time](https://github.com/time-rs/time) - Simple time handling in Rust (1 day ago)
 - [rivosinc/qemu](https://github.com/rivosinc/qemu) -  (1 day ago)
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations. (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort. (1 week ago)
 - [datafuselabs/summer-of-code](https://github.com/datafuselabs/summer-of-code) - Summer of Code with Datafuse Labs (1 week ago)
 - [v6d-io/v6d](https://github.com/v6d-io/v6d) - vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage) (1 week ago)
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Alternative to Parquet. 100x faster for random access, includes a vector index and automatic versioning. Apache Arrow and DuckDB compatible. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
-- [HyunCafe](https://github.com/HyunCafe)
 - [jun0315](https://github.com/jun0315)
 - [aucker](https://github.com/aucker)
 - [elhadjx](https://github.com/elhadjx)
 - [Monster-007](https://github.com/Monster-007)
+- [ZhengLin-Li](https://github.com/ZhengLin-Li)
 
 
