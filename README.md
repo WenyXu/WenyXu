@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (today)
 - [Amanieu/thread_local-rs](https://github.com/Amanieu/thread_local-rs) - Per-object thread-local storage for Rust (today)
 - [time-rs/time](https://github.com/time-rs/time) - Simple time handling in Rust (1 day ago)
 - [rivosinc/qemu](https://github.com/rivosinc/qemu) -  (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps (1 week ago)
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort. (1 week ago)
 - [datafuselabs/summer-of-code](https://github.com/datafuselabs/summer-of-code) - Summer of Code with Datafuse Labs (1 week ago)
-- [v6d-io/v6d](https://github.com/v6d-io/v6d) - vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
