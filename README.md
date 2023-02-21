@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [KuangjuX/hypocaust](https://github.com/KuangjuX/hypocaust) - hypocaust, a S-mode trap and emulate type-1 hypervisor run on RISC-V machine. (today)
+- [couchbase/moss](https://github.com/couchbase/moss) - moss - a simple, fast, ordered, persistable, key-val storage library for golang (today)
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (2 days ago)
 - [Amanieu/thread_local-rs](https://github.com/Amanieu/thread_local-rs) - Per-object thread-local storage for Rust (2 days ago)
 - [time-rs/time](https://github.com/time-rs/time) - Simple time handling in Rust (3 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (1 week ago)
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust. (1 week ago)
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps (1 week ago)
-- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort. (1 week ago)
-- [datafuselabs/summer-of-code](https://github.com/datafuselabs/summer-of-code) - Summer of Code with Datafuse Labs (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
