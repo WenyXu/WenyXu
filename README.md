@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: implement Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1064) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: refactor execute_stream to non-async method](https://github.com/GreptimeTeam/greptimedb/pull/980) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add close method for the region trait](https://github.com/GreptimeTeam/greptimedb/pull/970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [WIP Raft with rust](https://github.com/WenyXu/talent-plan/pull/1) on [WenyXu/talent-plan](https://github.com/WenyXu/talent-plan) (3 weeks ago)
@@ -23,7 +24,6 @@ Hi 👋 Weny here.
 - [feat(neo/executor): introduce expressions as predicates](https://github.com/casbin-mesh/neo/pull/65) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [doc: add planner doc](https://github.com/casbin-mesh/neo/pull/62) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [feat(pkg/expression): introduce expression subtree pruning](https://github.com/casbin-mesh/neo/pull/61) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
-- [refactor(expression/iterator): refactor iterators](https://github.com/casbin-mesh/neo/pull/60) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 
 #### ⭐ Check out my recent stars
 
