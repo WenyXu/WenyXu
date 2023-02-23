@@ -33,7 +33,7 @@ Hi 👋 Weny here.
 - [couchbase/moss](https://github.com/couchbase/moss) - moss - a simple, fast, ordered, persistable, key-val storage library for golang (2 days ago)
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (4 days ago)
 - [Amanieu/thread_local-rs](https://github.com/Amanieu/thread_local-rs) - Per-object thread-local storage for Rust (4 days ago)
-- [time-rs/time](https://github.com/time-rs/time) - Simple time handling in Rust (5 days ago)
+- [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling. (5 days ago)
 - [rivosinc/qemu](https://github.com/rivosinc/qemu) -  (5 days ago)
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations. (5 days ago)
 - [NervJS/taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库 (6 days ago)
@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [vinland-avalon](https://github.com/vinland-avalon)
 - [jun0315](https://github.com/jun0315)
 - [aucker](https://github.com/aucker)
 - [elhadjx](https://github.com/elhadjx)
 - [Monster-007](https://github.com/Monster-007)
-- [ZhengLin-Li](https://github.com/ZhengLin-Li)
 
 
