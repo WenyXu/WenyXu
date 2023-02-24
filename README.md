@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [sunng87](https://github.com/sunng87)
 - [vinland-avalon](https://github.com/vinland-avalon)
 - [jun0315](https://github.com/jun0315)
 - [aucker](https://github.com/aucker)
 - [elhadjx](https://github.com/elhadjx)
-- [Monster-007](https://github.com/Monster-007)
 
 
