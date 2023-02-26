@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (today)
+- [sunchao/leveldb-rs](https://github.com/sunchao/leveldb-rs) - LevelDB: Rust implementation (today)
+- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (today)
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (today)
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书 (today)
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (today)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (3 days ago)
 - [KuangjuX/hypocaust](https://github.com/KuangjuX/hypocaust) - hypocaust, a S-mode trap and emulate type-1 hypervisor run on RISC-V machine. (5 days ago)
 - [couchbase/moss](https://github.com/couchbase/moss) - moss - a simple, fast, ordered, persistable, key-val storage library for golang (5 days ago)
-- [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (1 week ago)
-- [Amanieu/thread_local-rs](https://github.com/Amanieu/thread_local-rs) - Per-object thread-local storage for Rust (1 week ago)
-- [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
