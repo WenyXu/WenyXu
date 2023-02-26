@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (today)
 - [feat: implement Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1064) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [refactor: refactor execute_stream to non-async method](https://github.com/GreptimeTeam/greptimedb/pull/980) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add close method for the region trait](https://github.com/GreptimeTeam/greptimedb/pull/970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -23,10 +24,16 @@ Hi 👋 Weny here.
 - [fix(pkg/expression): fix it changes immutable primitive](https://github.com/casbin-mesh/neo/pull/67) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [feat(neo/executor): introduce expressions as predicates](https://github.com/casbin-mesh/neo/pull/65) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [doc: add planner doc](https://github.com/casbin-mesh/neo/pull/62) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (6 months ago)
-- [feat(pkg/expression): introduce expression subtree pruning](https://github.com/casbin-mesh/neo/pull/61) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (6 months ago)
 
 #### ⭐ Check out my recent stars
 
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (today)
+- [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书 (today)
+- [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (today)
+- [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator (today)
+- [Evian-Zhang/llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) - LLVM IR入门指南 (today)
+- [modal-labs/blobnet](https://github.com/modal-labs/blobnet) - Fast (&lt;200 μs) content-addressed file server and tiered cache backed by non-volatile storage (today)
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. (today)
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (3 days ago)
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Open-source low code platform that lets you build data apps in minutes. Implements a Real Time SQL Engine and an embedded cache for fast queries.  (3 days ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (3 days ago)
@@ -35,13 +42,6 @@ Hi 👋 Weny here.
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (1 week ago)
 - [Amanieu/thread_local-rs](https://github.com/Amanieu/thread_local-rs) - Per-object thread-local storage for Rust (1 week ago)
 - [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling. (1 week ago)
-- [rivosinc/qemu](https://github.com/rivosinc/qemu) -  (1 week ago)
-- [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations. (1 week ago)
-- [NervJS/taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库 (1 week ago)
-- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (1 week ago)
-- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 week ago)
-- [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox) - Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow. (1 week ago)
-- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
