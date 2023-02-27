@@ -4,6 +4,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add FlashTableExpr](https://github.com/GreptimeTeam/greptime-proto/pull/11) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
+- [feat: implement flush method for mito table](https://github.com/GreptimeTeam/greptimedb/pull/1094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement Copy From parser](https://github.com/GreptimeTeam/greptimedb/pull/1092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix panic when the root is not specified](https://github.com/GreptimeTeam/greptimedb/pull/1089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 day ago)
@@ -22,8 +24,6 @@ Hi 👋 Weny here.
 - [docs(README.md): fix typos ](https://github.com/zitadel/oidc/pull/227) on [zitadel/oidc](https://github.com/zitadel/oidc) (4 months ago)
 - [wip/core-engine](https://github.com/casbin-mesh/neo/pull/69) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (4 months ago)
 - [feat(optimizer): introduce optimizer](https://github.com/casbin-mesh/neo/pull/68) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
-- [fix(style): fix styling issues](https://github.com/arco-design/arco-design-pro/pull/78) on [arco-design/arco-design-pro](https://github.com/arco-design/arco-design-pro) (5 months ago)
-- [fix(pkg/expression): fix it changes immutable primitive](https://github.com/casbin-mesh/neo/pull/67) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 
 #### ⭐ Check out my recent stars
 
