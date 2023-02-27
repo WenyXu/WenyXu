@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: implement Copy From parser](https://github.com/GreptimeTeam/greptimedb/pull/1092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix panic when the root is not specified](https://github.com/GreptimeTeam/greptimedb/pull/1089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 day ago)
 - [feat: implement Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1064) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -23,7 +24,6 @@ Hi 👋 Weny here.
 - [feat(optimizer): introduce optimizer](https://github.com/casbin-mesh/neo/pull/68) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 - [fix(style): fix styling issues](https://github.com/arco-design/arco-design-pro/pull/78) on [arco-design/arco-design-pro](https://github.com/arco-design/arco-design-pro) (5 months ago)
 - [fix(pkg/expression): fix it changes immutable primitive](https://github.com/casbin-mesh/neo/pull/67) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
-- [feat(neo/executor): introduce expressions as predicates](https://github.com/casbin-mesh/neo/pull/65) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (5 months ago)
 
 #### ⭐ Check out my recent stars
 
