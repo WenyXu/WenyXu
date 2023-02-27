@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [stripe/stripe-go](https://github.com/stripe/stripe-go) - Go library for the Stripe API.     (today)
 - [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework. (1 day ago)
 - [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (1 day ago)
 - [sunchao/leveldb-rs](https://github.com/sunchao/leveldb-rs) - LevelDB: Rust implementation (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (4 days ago)
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Open-source low code platform that lets you build data apps in minutes. Implements a Real Time SQL Engine and an embedded cache for fast queries.  (4 days ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (4 days ago)
-- [KuangjuX/hypocaust](https://github.com/KuangjuX/hypocaust) - hypocaust, a S-mode trap and emulate type-1 hypervisor run on RISC-V machine. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
