@@ -4,9 +4,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (today)
-- [feat: implement Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1064) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [refactor: refactor execute_stream to non-async method](https://github.com/GreptimeTeam/greptimedb/pull/980) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 day ago)
+- [feat: implement Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1064) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [refactor: refactor execute_stream to non-async method](https://github.com/GreptimeTeam/greptimedb/pull/980) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add close method for the region trait](https://github.com/GreptimeTeam/greptimedb/pull/970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [WIP Raft with rust](https://github.com/WenyXu/talent-plan/pull/1) on [WenyXu/talent-plan](https://github.com/WenyXu/talent-plan) (1 month ago)
 - [(WIP) raft with rust](https://github.com/pingcap/talent-plan/pull/456) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (1 month ago)
@@ -27,25 +27,25 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework. (today)
-- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (today)
-- [sunchao/leveldb-rs](https://github.com/sunchao/leveldb-rs) - LevelDB: Rust implementation (today)
-- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (today)
-- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (today)
-- [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书 (today)
-- [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (today)
-- [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator (today)
-- [Evian-Zhang/llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) - LLVM IR入门指南 (today)
-- [modal-labs/blobnet](https://github.com/modal-labs/blobnet) - Fast (&lt;200 μs) content-addressed file server and tiered cache backed by non-volatile storage (today)
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. (today)
-- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (3 days ago)
-- [getdozer/dozer](https://github.com/getdozer/dozer) - Open-source low code platform that lets you build data apps in minutes. Implements a Real Time SQL Engine and an embedded cache for fast queries.  (3 days ago)
-- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (3 days ago)
-- [KuangjuX/hypocaust](https://github.com/KuangjuX/hypocaust) - hypocaust, a S-mode trap and emulate type-1 hypervisor run on RISC-V machine. (5 days ago)
+- [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework. (1 day ago)
+- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (1 day ago)
+- [sunchao/leveldb-rs](https://github.com/sunchao/leveldb-rs) - LevelDB: Rust implementation (1 day ago)
+- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (1 day ago)
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (1 day ago)
+- [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书 (1 day ago)
+- [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (1 day ago)
+- [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator (1 day ago)
+- [Evian-Zhang/llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) - LLVM IR入门指南 (1 day ago)
+- [modal-labs/blobnet](https://github.com/modal-labs/blobnet) - Fast (&lt;200 μs) content-addressed file server and tiered cache backed by non-volatile storage (1 day ago)
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. (1 day ago)
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (4 days ago)
+- [getdozer/dozer](https://github.com/getdozer/dozer) - Open-source low code platform that lets you build data apps in minutes. Implements a Real Time SQL Engine and an embedded cache for fast queries.  (4 days ago)
+- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (4 days ago)
+- [KuangjuX/hypocaust](https://github.com/KuangjuX/hypocaust) - hypocaust, a S-mode trap and emulate type-1 hypervisor run on RISC-V machine. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (today)
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 day ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (1 week ago)
 - [WenyXu/resume](https://github.com/WenyXu/resume) -  (1 month ago)
 - [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (2 months ago)
