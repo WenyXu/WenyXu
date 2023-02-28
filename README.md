@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool (today)
+- [C2FO/vfs](https://github.com/C2FO/vfs) - Pluggable, extensible virtual file system for Go (today)
+- [AzureMarker/shaku](https://github.com/AzureMarker/shaku) - Compile Time Dependency lnjection Library for Rust (today)
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (today)
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript (today)
 - [greyli/helloflask](https://github.com/greyli/helloflask) - Hello, Flask! (today)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书 (2 days ago)
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (2 days ago)
 - [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator (2 days ago)
-- [Evian-Zhang/llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) - LLVM IR入门指南 (2 days ago)
-- [modal-labs/blobnet](https://github.com/modal-labs/blobnet) - Fast (&lt;200 μs) content-addressed file server and tiered cache backed by non-volatile storage (2 days ago)
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
