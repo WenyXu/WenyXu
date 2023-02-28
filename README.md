@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree) - Instrument await-tree for actor-based applications. (today)
 - [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool (today)
 - [C2FO/vfs](https://github.com/C2FO/vfs) - Pluggable, extensible virtual file system for Go (today)
 - [AzureMarker/shaku](https://github.com/AzureMarker/shaku) - Compile Time Dependency lnjection Library for Rust (today)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (2 days ago)
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书 (2 days ago)
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (2 days ago)
-- [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
