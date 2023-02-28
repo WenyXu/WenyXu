@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript (today)
+- [greyli/helloflask](https://github.com/greyli/helloflask) - Hello, Flask! (today)
 - [stripe/stripe-go](https://github.com/stripe/stripe-go) - Go library for the Stripe API.     (1 day ago)
 - [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework. (2 days ago)
 - [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (2 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [modal-labs/blobnet](https://github.com/modal-labs/blobnet) - Fast (&lt;200 μs) content-addressed file server and tiered cache backed by non-volatile storage (2 days ago)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. (2 days ago)
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (5 days ago)
-- [getdozer/dozer](https://github.com/getdozer/dozer) - Open-source low code platform that lets you build data apps in minutes. Implements a Real Time SQL Engine and an embedded cache for fast queries.  (5 days ago)
-- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
