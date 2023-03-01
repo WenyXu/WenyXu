@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add FlushTableExpr to DdlRequest](https://github.com/GreptimeTeam/greptime-proto/pull/12) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [chore: bump greptime-proto to latest(8365873)](https://github.com/GreptimeTeam/greptimedb/pull/1102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add FlushTableExpr](https://github.com/GreptimeTeam/greptime-proto/pull/11) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
 - [feat: implement flush method for mito table](https://github.com/GreptimeTeam/greptimedb/pull/1094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -23,7 +24,6 @@ Hi 👋 Weny here.
 - [feat(providers): add fs provider](https://github.com/senrok/yadal/pull/1) on [senrok/yadal](https://github.com/senrok/yadal) (4 months ago)
 - [refactor: replace the hard code to X_AMZ_BUCKET_REGION constant](https://github.com/datafuselabs/opendal/pull/866) on [datafuselabs/opendal](https://github.com/datafuselabs/opendal) (4 months ago)
 - [docs(README.md): fix typos ](https://github.com/zitadel/oidc/pull/227) on [zitadel/oidc](https://github.com/zitadel/oidc) (4 months ago)
-- [wip/core-engine](https://github.com/casbin-mesh/neo/pull/69) on [casbin-mesh/neo](https://github.com/casbin-mesh/neo) (4 months ago)
 
 #### ⭐ Check out my recent stars
 
