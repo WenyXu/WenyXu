@@ -5,7 +5,7 @@ Hi 👋 Weny here.
 #### 🔨 Check out my recent pull requests
 
 - [feat: add FlushTableExpr to DdlRequest](https://github.com/GreptimeTeam/greptime-proto/pull/12) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [chore: bump greptime-proto to latest(8365873)](https://github.com/GreptimeTeam/greptimedb/pull/1102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [chore: bump greptime-proto to latest(ad01872)](https://github.com/GreptimeTeam/greptimedb/pull/1102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add FlushTableExpr](https://github.com/GreptimeTeam/greptime-proto/pull/11) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
 - [feat: implement flush method for mito table](https://github.com/GreptimeTeam/greptimedb/pull/1094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: implement Copy From parser](https://github.com/GreptimeTeam/greptimedb/pull/1092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
