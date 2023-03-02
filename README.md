@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [GreptimeTeam/greptimedb-client-go](https://github.com/GreptimeTeam/greptimedb-client-go) - GreptimeDB Go Client (today)
 - [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree) - Instrument await-tree for actor-based applications. (2 days ago)
 - [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool (2 days ago)
 - [C2FO/vfs](https://github.com/C2FO/vfs) - Pluggable, extensible virtual file system for Go (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (4 days ago)
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (4 days ago)
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书 (4 days ago)
-- [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
