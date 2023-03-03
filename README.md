@@ -27,6 +27,12 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [microsoft/TypeScript-Compiler-Notes](https://github.com/microsoft/TypeScript-Compiler-Notes) - A repo containing notes about the TypeScript Compiler codebase (today)
+- [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) - :book: 【译】NUS CS1101s SICP JavaScript 描述 (today)
+- [Hywan/weld](https://github.com/Hywan/weld) - Experimental stuff. Don&#39;t spend your time here for the moment. (today)
+- [compilerla/conventional-pre-commit](https://github.com/compilerla/conventional-pre-commit) - A pre-commit hook that checks commit messages for Conventional Commits formatting (today)
+- [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb) - JSONB implement in rust (today)
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app  (today)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (today)
 - [GreptimeTeam/greptimedb-client-go](https://github.com/GreptimeTeam/greptimedb-client-go) - GreptimeDB Go Client (1 day ago)
 - [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree) - Instrument await-tree for actor-based applications. (3 days ago)
@@ -36,12 +42,6 @@ Hi 👋 Weny here.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (3 days ago)
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript (3 days ago)
 - [greyli/helloflask](https://github.com/greyli/helloflask) - Hello, Flask! (3 days ago)
-- [stripe/stripe-go](https://github.com/stripe/stripe-go) - Go library for the Stripe API.     (4 days ago)
-- [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework. (5 days ago)
-- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (5 days ago)
-- [sunchao/leveldb-rs](https://github.com/sunchao/leveldb-rs) - LevelDB: Rust implementation (5 days ago)
-- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (5 days ago)
-- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
