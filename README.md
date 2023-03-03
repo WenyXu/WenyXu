@@ -27,6 +27,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go. (today)
+- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (today)
+- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF) (today)
 - [microsoft/TypeScript-Compiler-Notes](https://github.com/microsoft/TypeScript-Compiler-Notes) - A repo containing notes about the TypeScript Compiler codebase (today)
 - [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) - :book: 【译】NUS CS1101s SICP JavaScript 描述 (today)
 - [Hywan/weld](https://github.com/Hywan/weld) - Experimental stuff. Don&#39;t spend your time here for the moment. (today)
@@ -39,9 +42,6 @@ Hi 👋 Weny here.
 - [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool (3 days ago)
 - [C2FO/vfs](https://github.com/C2FO/vfs) - Pluggable, extensible virtual file system for Go (3 days ago)
 - [AzureMarker/shaku](https://github.com/AzureMarker/shaku) - Compile Time Dependency lnjection Library for Rust (3 days ago)
-- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (3 days ago)
-- [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript (3 days ago)
-- [greyli/helloflask](https://github.com/greyli/helloflask) - Hello, Flask! (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
