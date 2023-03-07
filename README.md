@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust (today)
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go. (4 days ago)
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (4 days ago)
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF) (4 days ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree) - Instrument await-tree for actor-based applications. (1 week ago)
 - [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool (1 week ago)
 - [C2FO/vfs](https://github.com/C2FO/vfs) - Pluggable, extensible virtual file system for Go (1 week ago)
-- [AzureMarker/shaku](https://github.com/AzureMarker/shaku) - Compile Time Dependency lnjection Library for Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
