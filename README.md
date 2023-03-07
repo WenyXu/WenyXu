@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats (today)
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (today)
 - [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust (today)
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go. (4 days ago)
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (4 days ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (4 days ago)
 - [GreptimeTeam/greptimedb-client-go](https://github.com/GreptimeTeam/greptimedb-client-go) - GreptimeDB Go Client (5 days ago)
 - [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree) - Instrument await-tree for actor-based applications. (1 week ago)
-- [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool (1 week ago)
-- [C2FO/vfs](https://github.com/C2FO/vfs) - Pluggable, extensible virtual file system for Go (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
