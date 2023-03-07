@@ -53,10 +53,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
-- [anndaniels414](https://github.com/anndaniels414)
 - [MinecraftFuns](https://github.com/MinecraftFuns)
 - [e1ijah1](https://github.com/e1ijah1)
 - [sunng87](https://github.com/sunng87)
 - [vinland-avalon](https://github.com/vinland-avalon)
+- [jun0315](https://github.com/jun0315)
 
 
