@@ -45,18 +45,18 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (6 days ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 week ago)
 - [WenyXu/resume](https://github.com/WenyXu/resume) -  (1 month ago)
-- [senrok/graphql-kit](https://github.com/senrok/graphql-kit) -  (2 months ago)
+- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (2 months ago)
 
 #### 👯 Check out my recent followers
 
+- [anndaniels414](https://github.com/anndaniels414)
 - [MinecraftFuns](https://github.com/MinecraftFuns)
 - [e1ijah1](https://github.com/e1ijah1)
 - [sunng87](https://github.com/sunng87)
 - [vinland-avalon](https://github.com/vinland-avalon)
-- [jun0315](https://github.com/jun0315)
 
 
