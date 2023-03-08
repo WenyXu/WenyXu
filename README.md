@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [arindas/laminarmq](https://github.com/arindas/laminarmq) - A scalable, distributed message queue powered by a segmented, partitioned, replicated and immutable log. (today)
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats (1 day ago)
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (1 day ago)
 - [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app  (5 days ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (5 days ago)
 - [GreptimeTeam/greptimedb-client-go](https://github.com/GreptimeTeam/greptimedb-client-go) - GreptimeDB Go Client (6 days ago)
-- [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree) - Instrument await-tree for actor-based applications. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
