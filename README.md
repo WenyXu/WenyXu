@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [kennytm/dbgen](https://github.com/kennytm/dbgen) - Generate random test cases for databases (today)
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends (today)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (today)
 - [magiclen/educe](https://github.com/magiclen/educe) - This crate provides procedural macros to help you implement Rust-built-in traits quickly. (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [microsoft/TypeScript-Compiler-Notes](https://github.com/microsoft/TypeScript-Compiler-Notes) - A repo containing notes about the TypeScript Compiler codebase (6 days ago)
 - [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) - :book: 【译】NUS CS1101s SICP JavaScript 描述 (6 days ago)
 - [Hywan/weld](https://github.com/Hywan/weld) - Experimental stuff. Don&#39;t spend your time here for the moment. (6 days ago)
-- [compilerla/conventional-pre-commit](https://github.com/compilerla/conventional-pre-commit) - A pre-commit hook that checks commit messages for Conventional Commits formatting (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
