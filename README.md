@@ -27,6 +27,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends (today)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (today)
 - [magiclen/educe](https://github.com/magiclen/educe) - This crate provides procedural macros to help you implement Rust-built-in traits quickly. (1 day ago)
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (1 day ago)
 - [arindas/laminarmq](https://github.com/arindas/laminarmq) - A scalable, distributed message queue powered by a segmented, partitioned, replicated and immutable log. (1 day ago)
@@ -40,8 +42,6 @@ Hi 👋 Weny here.
 - [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) - :book: 【译】NUS CS1101s SICP JavaScript 描述 (6 days ago)
 - [Hywan/weld](https://github.com/Hywan/weld) - Experimental stuff. Don&#39;t spend your time here for the moment. (6 days ago)
 - [compilerla/conventional-pre-commit](https://github.com/compilerla/conventional-pre-commit) - A pre-commit hook that checks commit messages for Conventional Commits formatting (6 days ago)
-- [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb) - JSONB implement in rust (6 days ago)
-- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app  (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
