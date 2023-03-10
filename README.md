@@ -4,8 +4,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: code styling](https://github.com/GreptimeTeam/greptimedb/pull/1137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: implement table flush](https://github.com/GreptimeTeam/greptimedb/pull/1121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: code styling](https://github.com/GreptimeTeam/greptimedb/pull/1137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: implement table flush](https://github.com/GreptimeTeam/greptimedb/pull/1121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add FlushTableExpr to DdlRequest](https://github.com/GreptimeTeam/greptime-proto/pull/12) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [chore: bump greptime-proto to latest(ad01872)](https://github.com/GreptimeTeam/greptimedb/pull/1102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add FlushTableExpr](https://github.com/GreptimeTeam/greptime-proto/pull/11) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -15,7 +15,7 @@ Hi 👋 Weny here.
 - [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 week ago)
 - [feat: implement Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1064) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: refactor execute_stream to non-async method](https://github.com/GreptimeTeam/greptimedb/pull/980) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add close method for the region trait](https://github.com/GreptimeTeam/greptimedb/pull/970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [feat: add close method for the region trait](https://github.com/GreptimeTeam/greptimedb/pull/970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [WIP Raft with rust](https://github.com/WenyXu/talent-plan/pull/1) on [WenyXu/talent-plan](https://github.com/WenyXu/talent-plan) (1 month ago)
 - [(WIP) raft with rust](https://github.com/pingcap/talent-plan/pull/456) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (1 month ago)
 - [fix(fs): change openfile &amp; makedir filemode](https://github.com/senrok/yadal/pull/7) on [senrok/yadal](https://github.com/senrok/yadal) (3 months ago)
@@ -27,29 +27,29 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [kennytm/dbgen](https://github.com/kennytm/dbgen) - Generate random test cases for databases (today)
-- [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends (today)
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (today)
-- [magiclen/educe](https://github.com/magiclen/educe) - This crate provides procedural macros to help you implement Rust-built-in traits quickly. (1 day ago)
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (1 day ago)
-- [arindas/laminarmq](https://github.com/arindas/laminarmq) - A scalable, distributed message queue powered by a segmented, partitioned, replicated and immutable log. (1 day ago)
-- [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats (2 days ago)
-- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (2 days ago)
-- [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust (2 days ago)
-- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go. (6 days ago)
-- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (6 days ago)
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF) (6 days ago)
-- [microsoft/TypeScript-Compiler-Notes](https://github.com/microsoft/TypeScript-Compiler-Notes) - A repo containing notes about the TypeScript Compiler codebase (6 days ago)
-- [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) - :book: 【译】NUS CS1101s SICP JavaScript 描述 (6 days ago)
-- [Hywan/weld](https://github.com/Hywan/weld) - Experimental stuff. Don&#39;t spend your time here for the moment. (6 days ago)
+- [kennytm/dbgen](https://github.com/kennytm/dbgen) - Generate random test cases for databases (1 day ago)
+- [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends (1 day ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 day ago)
+- [magiclen/educe](https://github.com/magiclen/educe) - This crate provides procedural macros to help you implement Rust-built-in traits quickly. (2 days ago)
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (2 days ago)
+- [arindas/laminarmq](https://github.com/arindas/laminarmq) - A scalable, distributed message queue powered by a segmented, partitioned, replicated and immutable log. (2 days ago)
+- [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats (3 days ago)
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (3 days ago)
+- [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust (3 days ago)
+- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go. (1 week ago)
+- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (1 week ago)
+- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF) (1 week ago)
+- [microsoft/TypeScript-Compiler-Notes](https://github.com/microsoft/TypeScript-Compiler-Notes) - A repo containing notes about the TypeScript Compiler codebase (1 week ago)
+- [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) - :book: 【译】NUS CS1101s SICP JavaScript 描述 (1 week ago)
+- [Hywan/weld](https://github.com/Hywan/weld) - Experimental stuff. Don&#39;t spend your time here for the moment. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 week ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 week ago)
 - [WenyXu/resume](https://github.com/WenyXu/resume) -  (1 month ago)
-- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (2 months ago)
+- [senrok/yadal](https://github.com/senrok/yadal) - Yet Another Data Access Layer: Accessing S3, POSIX in the same way. Deeply inspired by Databend&#39;s OpenDAL (3 months ago)
 
 #### 👯 Check out my recent followers
 
