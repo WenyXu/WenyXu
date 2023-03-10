@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler. (today)
 - [kennytm/dbgen](https://github.com/kennytm/dbgen) - Generate random test cases for databases (1 day ago)
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends (1 day ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 day ago)
@@ -41,7 +42,6 @@ Hi 👋 Weny here.
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF) (1 week ago)
 - [microsoft/TypeScript-Compiler-Notes](https://github.com/microsoft/TypeScript-Compiler-Notes) - A repo containing notes about the TypeScript Compiler codebase (1 week ago)
 - [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) - :book: 【译】NUS CS1101s SICP JavaScript 描述 (1 week ago)
-- [Hywan/weld](https://github.com/Hywan/weld) - Experimental stuff. Don&#39;t spend your time here for the moment. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
