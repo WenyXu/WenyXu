@@ -4,6 +4,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add shutdown for datanode](https://github.com/GreptimeTeam/greptimedb/pull/1160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: make the cmd hold the application instance](https://github.com/GreptimeTeam/greptimedb/pull/1159) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: code styling](https://github.com/GreptimeTeam/greptimedb/pull/1137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: implement table flush](https://github.com/GreptimeTeam/greptimedb/pull/1121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add FlushTableExpr to DdlRequest](https://github.com/GreptimeTeam/greptime-proto/pull/12) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -22,8 +24,6 @@ Hi 👋 Weny here.
 - [fix(fs): make sure writing and creating file is truncated](https://github.com/senrok/yadal/pull/6) on [senrok/yadal](https://github.com/senrok/yadal) (3 months ago)
 - [fix(fs): fix creating sub-dir bugs](https://github.com/senrok/yadal/pull/5) on [senrok/yadal](https://github.com/senrok/yadal) (3 months ago)
 - [chore(.chglog): add chglog config](https://github.com/senrok/yadal/pull/4) on [senrok/yadal](https://github.com/senrok/yadal) (4 months ago)
-- [docs: enhance examples](https://github.com/senrok/yadal/pull/3) on [senrok/yadal](https://github.com/senrok/yadal) (4 months ago)
-- [feat(providers): add fs provider](https://github.com/senrok/yadal/pull/1) on [senrok/yadal](https://github.com/senrok/yadal) (4 months ago)
 
 #### ⭐ Check out my recent stars
 
