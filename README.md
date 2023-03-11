@@ -27,6 +27,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [madsim-rs/MadRaft](https://github.com/madsim-rs/MadRaft) - The labs of Raft consensus algorithm based on MadSim. (today)
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. (today)
 - [GuillaumeGomez/rustc-tools](https://github.com/GuillaumeGomez/rustc-tools) - Some internal rustc tools made accessible (today)
 - [motifland/yfs](https://github.com/motifland/yfs) - Synchronize text files between browser and disk using Yjs and the File System Access API (today)
@@ -35,13 +36,12 @@ Hi 👋 Weny here.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (today)
 - [ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str) - A memory efficient string type that can store up to 24* bytes on the stack (today)
 - [moka-rs/moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust (today)
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler. (1 day ago)
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️ (1 day ago)
 - [kennytm/dbgen](https://github.com/kennytm/dbgen) - Generate random test cases for databases (2 days ago)
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends (2 days ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (2 days ago)
 - [magiclen/educe](https://github.com/magiclen/educe) - This crate provides procedural macros to help you implement Rust-built-in traits quickly. (3 days ago)
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (3 days ago)
-- [arindas/laminarmq](https://github.com/arindas/laminarmq) - A scalable, distributed message queue powered by a segmented, partitioned, replicated and immutable log. (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
