@@ -4,6 +4,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add shutdown for frontend](https://github.com/GreptimeTeam/greptimedb/pull/1161) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add shutdown for datanode](https://github.com/GreptimeTeam/greptimedb/pull/1160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: make the cmd hold the application instance](https://github.com/GreptimeTeam/greptimedb/pull/1159) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: code styling](https://github.com/GreptimeTeam/greptimedb/pull/1137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -23,10 +24,17 @@ Hi 👋 Weny here.
 - [fix(fs): change openfile &amp; makedir filemode](https://github.com/senrok/yadal/pull/7) on [senrok/yadal](https://github.com/senrok/yadal) (3 months ago)
 - [fix(fs): make sure writing and creating file is truncated](https://github.com/senrok/yadal/pull/6) on [senrok/yadal](https://github.com/senrok/yadal) (3 months ago)
 - [fix(fs): fix creating sub-dir bugs](https://github.com/senrok/yadal/pull/5) on [senrok/yadal](https://github.com/senrok/yadal) (3 months ago)
-- [chore(.chglog): add chglog config](https://github.com/senrok/yadal/pull/4) on [senrok/yadal](https://github.com/senrok/yadal) (4 months ago)
 
 #### ⭐ Check out my recent stars
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. (today)
+- [GuillaumeGomez/rustc-tools](https://github.com/GuillaumeGomez/rustc-tools) - Some internal rustc tools made accessible (today)
+- [motifland/yfs](https://github.com/motifland/yfs) - Synchronize text files between browser and disk using Yjs and the File System Access API (today)
+- [rigtorp/awesome-lockfree](https://github.com/rigtorp/awesome-lockfree) - A collection of resources on wait-free and lock-free programming (today)
+- [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel &amp; MicroVM Compilation and Deployment Platform (today)
+- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (today)
+- [ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str) - A memory efficient string type that can store up to 24* bytes on the stack (today)
+- [moka-rs/moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust (today)
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler. (1 day ago)
 - [kennytm/dbgen](https://github.com/kennytm/dbgen) - Generate random test cases for databases (2 days ago)
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends (2 days ago)
@@ -34,14 +42,6 @@ Hi 👋 Weny here.
 - [magiclen/educe](https://github.com/magiclen/educe) - This crate provides procedural macros to help you implement Rust-built-in traits quickly. (3 days ago)
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (3 days ago)
 - [arindas/laminarmq](https://github.com/arindas/laminarmq) - A scalable, distributed message queue powered by a segmented, partitioned, replicated and immutable log. (3 days ago)
-- [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats (4 days ago)
-- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (4 days ago)
-- [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust (4 days ago)
-- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go. (1 week ago)
-- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (1 week ago)
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF) (1 week ago)
-- [microsoft/TypeScript-Compiler-Notes](https://github.com/microsoft/TypeScript-Compiler-Notes) - A repo containing notes about the TypeScript Compiler codebase (1 week ago)
-- [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) - :book: 【译】NUS CS1101s SICP JavaScript 描述 (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
