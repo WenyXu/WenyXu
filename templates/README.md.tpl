@@ -2,6 +2,8 @@ Hi 👋 Weny here.
 
 💻 Interested in the database system and distributed system.
 
+~🍺 Open to Remote/Intern Job Opportunities~
+
 #### 🔨 Check out my recent pull requests
 {{range recentPullRequests 20}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
