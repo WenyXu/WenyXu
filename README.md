@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: implement create external table parser](https://github.com/GreptimeTeam/greptimedb/pull/1252) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: add copy clause sqlness tests](https://github.com/GreptimeTeam/greptimedb/pull/1198) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: run a specific test](https://github.com/GreptimeTeam/docs/pull/257) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [refactor: combine Copy To and Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1197) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (4 weeks ago)
 - [feat: implement Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1064) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: refactor execute_stream to non-async method](https://github.com/GreptimeTeam/greptimedb/pull/980) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add close method for the region trait](https://github.com/GreptimeTeam/greptimedb/pull/970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [shuiyisong](https://github.com/shuiyisong)
 - [zhyass](https://github.com/zhyass)
 - [GaoYusong](https://github.com/GaoYusong)
 - [G-u-c82](https://github.com/G-u-c82)
 - [Fengys123](https://github.com/Fengys123)
-- [Jacen-cpu](https://github.com/Jacen-cpu)
 
 
