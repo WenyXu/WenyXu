@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [BurtonQin/lockbud](https://github.com/BurtonQin/lockbud) - Statically detect Rust deadlocks bugs (today)
 - [apache/arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow (today)
 - [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (today)
 - [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (today)
@@ -41,9 +42,8 @@ Hi 👋 Weny here.
 - [tokio-rs/turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests (2 days ago)
 - [tristanpemble/wasm-shared-memory](https://github.com/tristanpemble/wasm-shared-memory) - a proof of concept of how to share memory between WASM module instantiations with Rust and Wasmtime (2 days ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc&#39;s goal is to be a fast, friendly, functional language. (2 days ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (3 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD (3 days ago)
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. (3 days ago)
-- [9fans/plan9port](https://github.com/9fans/plan9port) - Plan 9 from User Space (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
