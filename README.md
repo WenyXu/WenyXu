@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tokio-rs/rdbc](https://github.com/tokio-rs/rdbc) - Rust DataBase Connectivity (RDBC) :: Common Rust API for database drivers (today)
 - [nmandery/h3ron](https://github.com/nmandery/h3ron) - Rust crates for the H3 geospatial indexing system (1 day ago)
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI. (1 day ago)
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data (4 days ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
-- [Ravenbrook/mps](https://github.com/Ravenbrook/mps) - The Memory Pool System (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
