@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement create external table parser](https://github.com/GreptimeTeam/greptimedb/pull/1252) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: implement create external table parser](https://github.com/GreptimeTeam/greptimedb/pull/1252) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test: add copy clause sqlness tests](https://github.com/GreptimeTeam/greptimedb/pull/1198) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: run a specific test](https://github.com/GreptimeTeam/docs/pull/257) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [refactor: combine Copy To and Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1197) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add shutdown for standalone and metasrv](https://github.com/GreptimeTeam/greptimedb/pull/1174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: add shutdown for standalone and metasrv](https://github.com/GreptimeTeam/greptimedb/pull/1174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: implement CONNECTION clause of Copy To](https://github.com/GreptimeTeam/greptimedb/pull/1163) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add shutdown for frontend](https://github.com/GreptimeTeam/greptimedb/pull/1161) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add shutdown for datanode](https://github.com/GreptimeTeam/greptimedb/pull/1160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -23,34 +23,34 @@ Hi 👋 Weny here.
 - [feat: implement flush method for mito table](https://github.com/GreptimeTeam/greptimedb/pull/1094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: implement Copy From parser](https://github.com/GreptimeTeam/greptimedb/pull/1092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: fix panic when the root is not specified](https://github.com/GreptimeTeam/greptimedb/pull/1089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (4 weeks ago)
+- [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 month ago)
 - [feat: implement Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1064) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: refactor execute_stream to non-async method](https://github.com/GreptimeTeam/greptimedb/pull/980) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [nmandery/h3ron](https://github.com/nmandery/h3ron) - Rust crates for the H3 geospatial indexing system (today)
-- [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI. (today)
-- [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust (today)
-- [LearningOS/rCore-Tutorial-Guide-2023S](https://github.com/LearningOS/rCore-Tutorial-Guide-2023S) -  (1 day ago)
-- [tokio-rs/loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust. (1 day ago)
-- [tokio-rs/turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests (1 day ago)
-- [tristanpemble/wasm-shared-memory](https://github.com/tristanpemble/wasm-shared-memory) - a proof of concept of how to share memory between WASM module instantiations with Rust and Wasmtime (1 day ago)
-- [roc-lang/roc](https://github.com/roc-lang/roc) - Roc&#39;s goal is to be a fast, friendly, functional language. (1 day ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (2 days ago)
-- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. (2 days ago)
-- [9fans/plan9port](https://github.com/9fans/plan9port) - Plan 9 from User Space (3 days ago)
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [Ravenbrook/mps](https://github.com/Ravenbrook/mps) - The Memory Pool System (3 days ago)
+- [nmandery/h3ron](https://github.com/nmandery/h3ron) - Rust crates for the H3 geospatial indexing system (1 day ago)
+- [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI. (1 day ago)
+- [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust (1 day ago)
+- [LearningOS/rCore-Tutorial-Guide-2023S](https://github.com/LearningOS/rCore-Tutorial-Guide-2023S) -  (2 days ago)
+- [tokio-rs/loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust. (2 days ago)
+- [tokio-rs/turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests (2 days ago)
+- [tristanpemble/wasm-shared-memory](https://github.com/tristanpemble/wasm-shared-memory) - a proof of concept of how to share memory between WASM module instantiations with Rust and Wasmtime (2 days ago)
+- [roc-lang/roc](https://github.com/roc-lang/roc) - Roc&#39;s goal is to be a fast, friendly, functional language. (2 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (3 days ago)
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. (3 days ago)
+- [9fans/plan9port](https://github.com/9fans/plan9port) - Plan 9 from User Space (4 days ago)
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
+- [Ravenbrook/mps](https://github.com/Ravenbrook/mps) - The Memory Pool System (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (6 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 weeks ago)
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (4 weeks ago)
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 month ago)
 - [WenyXu/resume](https://github.com/WenyXu/resume) -  (2 months ago)
 
 #### 👯 Check out my recent followers
