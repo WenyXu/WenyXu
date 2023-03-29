@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: update install cargo-nextest command](https://github.com/GreptimeTeam/docs/pull/284) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: support multi table engines](https://github.com/GreptimeTeam/greptimedb/pull/1277) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: file external table RFC](https://github.com/GreptimeTeam/greptimedb/pull/1274) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement create external table parser](https://github.com/GreptimeTeam/greptimedb/pull/1252) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,10 +26,15 @@ Hi 👋 Weny here.
 - [feat: implement flush method for mito table](https://github.com/GreptimeTeam/greptimedb/pull/1094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: implement Copy From parser](https://github.com/GreptimeTeam/greptimedb/pull/1092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix panic when the root is not specified](https://github.com/GreptimeTeam/greptimedb/pull/1089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
+- [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine (today)
+- [sqweek/dialog](https://github.com/sqweek/dialog) - Simple cross-platform dialog API for go-lang (today)
+- [goccmack/gocc](https://github.com/goccmack/gocc) - Parser / Scanner Generator (today)
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. (today)
+- [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel. (today)
+- [datafuselabs/databend-client](https://github.com/datafuselabs/databend-client) - Databend driver for rust, etc. (today)
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code. (today)
 - [BurtonQin/lockbud](https://github.com/BurtonQin/lockbud) - Statically detect Rust deadlocks bugs (1 day ago)
 - [apache/arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow (1 day ago)
@@ -38,12 +44,6 @@ Hi 👋 Weny here.
 - [nmandery/h3ron](https://github.com/nmandery/h3ron) - Rust crates for the H3 geospatial indexing system (2 days ago)
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI. (2 days ago)
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust (2 days ago)
-- [LearningOS/rCore-Tutorial-Guide-2023S](https://github.com/LearningOS/rCore-Tutorial-Guide-2023S) -  (3 days ago)
-- [tokio-rs/loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust. (3 days ago)
-- [tokio-rs/turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests (3 days ago)
-- [tristanpemble/wasm-shared-memory](https://github.com/tristanpemble/wasm-shared-memory) - a proof of concept of how to share memory between WASM module instantiations with Rust and Wasmtime (3 days ago)
-- [roc-lang/roc](https://github.com/roc-lang/roc) - Roc&#39;s goal is to be a fast, friendly, functional language. (3 days ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
