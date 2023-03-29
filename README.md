@@ -29,6 +29,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀 (today)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (today)
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (today)
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (today)
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine (today)
 - [sqweek/dialog](https://github.com/sqweek/dialog) - Simple cross-platform dialog API for go-lang (today)
 - [goccmack/gocc](https://github.com/goccmack/gocc) - Parser / Scanner Generator (today)
@@ -40,10 +44,6 @@ Hi 👋 Weny here.
 - [apache/arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow (1 day ago)
 - [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (1 day ago)
 - [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (1 day ago)
-- [tokio-rs/rdbc](https://github.com/tokio-rs/rdbc) - Rust DataBase Connectivity (RDBC) :: Common Rust API for database drivers (1 day ago)
-- [nmandery/h3ron](https://github.com/nmandery/h3ron) - Rust crates for the H3 geospatial indexing system (2 days ago)
-- [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI. (2 days ago)
-- [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
