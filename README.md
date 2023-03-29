@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: file external table RFC](https://github.com/GreptimeTeam/greptimedb/pull/1274) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement create external table parser](https://github.com/GreptimeTeam/greptimedb/pull/1252) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [test: add copy clause sqlness tests](https://github.com/GreptimeTeam/greptimedb/pull/1198) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: run a specific test](https://github.com/GreptimeTeam/docs/pull/257) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -25,10 +26,10 @@ Hi 👋 Weny here.
 - [fix: fix panic when the root is not specified](https://github.com/GreptimeTeam/greptimedb/pull/1089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(docs): fix typos](https://github.com/apache/arrow-datafusion/pull/5403) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 month ago)
 - [feat: implement Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1064) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: refactor execute_stream to non-async method](https://github.com/GreptimeTeam/greptimedb/pull/980) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
+- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code. (today)
 - [BurtonQin/lockbud](https://github.com/BurtonQin/lockbud) - Statically detect Rust deadlocks bugs (1 day ago)
 - [apache/arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow (1 day ago)
 - [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [tristanpemble/wasm-shared-memory](https://github.com/tristanpemble/wasm-shared-memory) - a proof of concept of how to share memory between WASM module instantiations with Rust and Wasmtime (3 days ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc&#39;s goal is to be a fast, friendly, functional language. (3 days ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD (4 days ago)
-- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
