@@ -29,6 +29,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (today)
+- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (today)
+- [xiaoyang-sde/rust-kernel-riscv](https://github.com/xiaoyang-sde/rust-kernel-riscv) - RISC-V kernel implemented with Rust (today)
+- [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) - An optimized implementation of librsync in pure Rust. (today)
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀 (1 day ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 day ago)
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (1 day ago)
@@ -40,10 +44,6 @@ Hi 👋 Weny here.
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel. (1 day ago)
 - [datafuselabs/databend-client](https://github.com/datafuselabs/databend-client) - Databend driver for rust, etc. (1 day ago)
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code. (1 day ago)
-- [BurtonQin/lockbud](https://github.com/BurtonQin/lockbud) - Statically detect Rust deadlocks bugs (2 days ago)
-- [apache/arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow (2 days ago)
-- [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (2 days ago)
-- [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
