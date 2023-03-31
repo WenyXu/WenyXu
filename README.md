@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cloudquery/pg_gpt](https://github.com/cloudquery/pg_gpt) - Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language. (today)
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (1 day ago)
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (1 day ago)
 - [xiaoyang-sde/rust-kernel-riscv](https://github.com/xiaoyang-sde/rust-kernel-riscv) - RISC-V kernel implemented with Rust (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. (2 days ago)
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel. (2 days ago)
 - [datafuselabs/databend-client](https://github.com/datafuselabs/databend-client) - Databend driver for rust, etc. (2 days ago)
-- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code. (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
