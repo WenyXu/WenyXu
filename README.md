@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [terry-xuan-gao](https://github.com/terry-xuan-gao)
 - [shuiyisong](https://github.com/shuiyisong)
 - [zhyass](https://github.com/zhyass)
 - [GaoYusong](https://github.com/GaoYusong)
 - [G-u-c82](https://github.com/G-u-c82)
-- [Fengys123](https://github.com/Fengys123)
 
 
