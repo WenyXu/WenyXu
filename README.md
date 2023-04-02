@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [nbdd0121/stackful](https://github.com/nbdd0121/stackful) - Free conversion between async and sync in Rust (today)
+- [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support. (today)
 - [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64) (2 days ago)
 - [cloudquery/pg_gpt](https://github.com/cloudquery/pg_gpt) - Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language. (2 days ago)
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (3 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine (4 days ago)
 - [sqweek/dialog](https://github.com/sqweek/dialog) - Simple cross-platform dialog API for go-lang (4 days ago)
 - [goccmack/gocc](https://github.com/goccmack/gocc) - Parser / Scanner Generator (4 days ago)
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. (4 days ago)
-- [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
