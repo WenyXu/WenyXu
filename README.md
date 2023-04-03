@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (today)
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (today)
+- [gwierzchowski/csv-async](https://github.com/gwierzchowski/csv-async) - CSV parsing in async context (today)
 - [nbdd0121/stackful](https://github.com/nbdd0121/stackful) - Free conversion between async and sync in Rust (1 day ago)
 - [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support. (1 day ago)
 - [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64) (3 days ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (5 days ago)
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (5 days ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (5 days ago)
-- [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine (5 days ago)
-- [sqweek/dialog](https://github.com/sqweek/dialog) - Simple cross-platform dialog API for go-lang (5 days ago)
-- [goccmack/gocc](https://github.com/goccmack/gocc) - Parser / Scanner Generator (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
