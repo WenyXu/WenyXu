@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [pjtatlow/jammdb](https://github.com/pjtatlow/jammdb) - Just Another Memory Mapped Database (today)
 - [databendcn/data-infra](https://github.com/databendcn/data-infra) - Data Infra 研究社 (today)
 - [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code (today)
 - [allan2/dotenvy](https://github.com/allan2/dotenvy) - A well-maintained fork of the Rust dotenv crate (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (5 days ago)
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (5 days ago)
 - [xiaoyang-sde/rust-kernel-riscv](https://github.com/xiaoyang-sde/rust-kernel-riscv) - RISC-V kernel implemented with Rust (5 days ago)
-- [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) - An optimized implementation of librsync in pure Rust. (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
