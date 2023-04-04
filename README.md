@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce file table engine](https://github.com/GreptimeTeam/greptimedb/pull/1323) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: support multi table engines in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/1316) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add engine field for CreateTableExpr](https://github.com/GreptimeTeam/greptime-proto/pull/25) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
 - [docs: update install cargo-nextest command](https://github.com/GreptimeTeam/docs/pull/284) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add FlushTableExpr to DdlRequest](https://github.com/GreptimeTeam/greptime-proto/pull/12) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [chore: bump greptime-proto to latest(ad01872)](https://github.com/GreptimeTeam/greptimedb/pull/1102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add FlushTableExpr](https://github.com/GreptimeTeam/greptime-proto/pull/11) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
-- [feat: implement flush method for mito table](https://github.com/GreptimeTeam/greptimedb/pull/1094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
