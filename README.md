@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rustsbi/sbi-spec](https://github.com/rustsbi/sbi-spec) - Definitions and constants in RISC-V Supervisor Binary Interface (RISC-V SBI) (today)
 - [pjtatlow/jammdb](https://github.com/pjtatlow/jammdb) - Just Another Memory Mapped Database (today)
 - [databendcn/data-infra](https://github.com/databendcn/data-infra) - Data Infra 研究社 (today)
 - [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [cloudquery/pg_gpt](https://github.com/cloudquery/pg_gpt) - Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language. (4 days ago)
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (5 days ago)
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (5 days ago)
-- [xiaoyang-sde/rust-kernel-riscv](https://github.com/xiaoyang-sde/rust-kernel-riscv) - RISC-V kernel implemented with Rust (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
