@@ -29,6 +29,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [databendcn/data-infra](https://github.com/databendcn/data-infra) - Data Infra 研究社 (today)
+- [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code (today)
+- [allan2/dotenvy](https://github.com/allan2/dotenvy) - A well-maintained fork of the Rust dotenv crate (today)
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model (today)
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (1 day ago)
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1 day ago)
 - [gwierzchowski/csv-async](https://github.com/gwierzchowski/csv-async) - CSV parsing in async context (1 day ago)
@@ -40,10 +44,6 @@ Hi 👋 Weny here.
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (5 days ago)
 - [xiaoyang-sde/rust-kernel-riscv](https://github.com/xiaoyang-sde/rust-kernel-riscv) - RISC-V kernel implemented with Rust (5 days ago)
 - [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) - An optimized implementation of librsync in pure Rust. (5 days ago)
-- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀 (6 days ago)
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (6 days ago)
-- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (6 days ago)
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
