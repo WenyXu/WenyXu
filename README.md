@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension (today)
+- [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask (today)
+- [cnrv/translation-team](https://github.com/cnrv/translation-team) - Translation Team for RISC-V Ecosystem. Driven by RISC-V China Community. (today)
 - [jonhoo/rust-tcp](https://github.com/jonhoo/rust-tcp) - A learning experience in implementing TCP in Rust (today)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (today)
 - [pandax381/microps](https://github.com/pandax381/microps) - An implementation of a small TCP/IP protocol stack for learning. (today)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [allan2/dotenvy](https://github.com/allan2/dotenvy) - A well-maintained fork of the Rust dotenv crate (1 day ago)
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model (1 day ago)
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (2 days ago)
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (2 days ago)
-- [gwierzchowski/csv-async](https://github.com/gwierzchowski/csv-async) - CSV parsing in async context (2 days ago)
-- [nbdd0121/stackful](https://github.com/nbdd0121/stackful) - Free conversion between async and sync in Rust (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
