@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (today)
 - [rustsbi/sbi-spec](https://github.com/rustsbi/sbi-spec) - Definitions and constants in RISC-V Supervisor Binary Interface (RISC-V SBI) (1 day ago)
 - [pjtatlow/jammdb](https://github.com/pjtatlow/jammdb) - Just Another Memory Mapped Database (1 day ago)
 - [databendcn/data-infra](https://github.com/databendcn/data-infra) - Data Infra 研究社 (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64) (5 days ago)
 - [cloudquery/pg_gpt](https://github.com/cloudquery/pg_gpt) - Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language. (5 days ago)
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (6 days ago)
-- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
