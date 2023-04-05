@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [jonhoo/rust-tcp](https://github.com/jonhoo/rust-tcp) - A learning experience in implementing TCP in Rust (today)
+- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (today)
 - [pandax381/microps](https://github.com/pandax381/microps) - An implementation of a small TCP/IP protocol stack for learning. (today)
 - [remzi-arpacidusseau/ostep-translations](https://github.com/remzi-arpacidusseau/ostep-translations) - Various translations of OSTEP can be found here. Help the cause and contribute! (today)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (today)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (2 days ago)
 - [gwierzchowski/csv-async](https://github.com/gwierzchowski/csv-async) - CSV parsing in async context (2 days ago)
 - [nbdd0121/stackful](https://github.com/nbdd0121/stackful) - Free conversion between async and sync in Rust (3 days ago)
-- [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support. (3 days ago)
-- [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64) (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
