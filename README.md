@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [utam0k/r9cc](https://github.com/utam0k/r9cc) - Toy C compiler (today)
+- [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend (today)
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension (1 day ago)
 - [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask (1 day ago)
 - [cnrv/translation-team](https://github.com/cnrv/translation-team) - Translation Team for RISC-V Ecosystem. Driven by RISC-V China Community. (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [databendcn/data-infra](https://github.com/databendcn/data-infra) - Data Infra 研究社 (2 days ago)
 - [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code (2 days ago)
 - [allan2/dotenvy](https://github.com/allan2/dotenvy) - A well-maintained fork of the Rust dotenv crate (2 days ago)
-- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model (2 days ago)
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
