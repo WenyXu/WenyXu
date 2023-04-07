@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine  (today)
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Arroyo is a distributed stream processing engine written in Rust (today)
 - [utam0k/r9cc](https://github.com/utam0k/r9cc) - Toy C compiler (1 day ago)
 - [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend (1 day ago)
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension (2 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [rustsbi/sbi-spec](https://github.com/rustsbi/sbi-spec) - Definitions and constants in RISC-V Supervisor Binary Interface (RISC-V SBI) (3 days ago)
 - [pjtatlow/jammdb](https://github.com/pjtatlow/jammdb) - Just Another Memory Mapped Database (3 days ago)
 - [databendcn/data-infra](https://github.com/databendcn/data-infra) - Data Infra 研究社 (3 days ago)
-- [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code (3 days ago)
-- [allan2/dotenvy](https://github.com/allan2/dotenvy) - A well-maintained fork of the Rust dotenv crate (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
