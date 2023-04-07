@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (today)
+- [Nemo157/async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust&#39;s async IO types (today)
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine  (today)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Arroyo is a distributed stream processing engine written in Rust (today)
 - [utam0k/r9cc](https://github.com/utam0k/r9cc) - Toy C compiler (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [remzi-arpacidusseau/ostep-translations](https://github.com/remzi-arpacidusseau/ostep-translations) - Various translations of OSTEP can be found here. Help the cause and contribute! (2 days ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 days ago)
 - [rustsbi/sbi-spec](https://github.com/rustsbi/sbi-spec) - Definitions and constants in RISC-V Supervisor Binary Interface (RISC-V SBI) (3 days ago)
-- [pjtatlow/jammdb](https://github.com/pjtatlow/jammdb) - Just Another Memory Mapped Database (3 days ago)
-- [databendcn/data-infra](https://github.com/databendcn/data-infra) - Data Infra 研究社 (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
