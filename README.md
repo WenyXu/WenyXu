@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [test: add infer schema with limit test for csv](https://github.com/apache/arrow-datafusion/pull/5926) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (today)
 - [feat: introduce file table engine](https://github.com/GreptimeTeam/greptimedb/pull/1323) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: support multi table engines in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/1316) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat: add engine field for CreateTableExpr](https://github.com/GreptimeTeam/greptime-proto/pull/25) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: implement table flush](https://github.com/GreptimeTeam/greptimedb/pull/1121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add FlushTableExpr to DdlRequest](https://github.com/GreptimeTeam/greptime-proto/pull/12) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [chore: bump greptime-proto to latest(ad01872)](https://github.com/GreptimeTeam/greptimedb/pull/1102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add FlushTableExpr](https://github.com/GreptimeTeam/greptime-proto/pull/11) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
