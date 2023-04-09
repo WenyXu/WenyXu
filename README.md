@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists (today)
 - [andygrove/bdt](https://github.com/andygrove/bdt) - Boring Data Tool (1 day ago)
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (1 day ago)
 - [colin-kiegel/rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - derive builder implementation for rust structs (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [cnrv/translation-team](https://github.com/cnrv/translation-team) - Translation Team for RISC-V Ecosystem. Driven by RISC-V China Community. (4 days ago)
 - [jonhoo/rust-tcp](https://github.com/jonhoo/rust-tcp) - A learning experience in implementing TCP in Rust (4 days ago)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (4 days ago)
-- [pandax381/microps](https://github.com/pandax381/microps) - An implementation of a small TCP/IP protocol stack for learning. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [SleepyLGod](https://github.com/SleepyLGod)
 - [WuTao18](https://github.com/WuTao18)
 - [terry-xuan-gao](https://github.com/terry-xuan-gao)
 - [shuiyisong](https://github.com/shuiyisong)
 - [zhyass](https://github.com/zhyass)
-- [GaoYusong](https://github.com/GaoYusong)
 
 
