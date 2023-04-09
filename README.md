@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [sheepdog/sheepdog](https://github.com/sheepdog/sheepdog) - Distributed Storage System for QEMU (today)
+- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust. (today)
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists (today)
 - [andygrove/bdt](https://github.com/andygrove/bdt) - Boring Data Tool (1 day ago)
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension (4 days ago)
 - [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask (4 days ago)
 - [cnrv/translation-team](https://github.com/cnrv/translation-team) - Translation Team for RISC-V Ecosystem. Driven by RISC-V China Community. (4 days ago)
-- [jonhoo/rust-tcp](https://github.com/jonhoo/rust-tcp) - A learning experience in implementing TCP in Rust (4 days ago)
-- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
