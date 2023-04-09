@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go. (today)
+- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (today)
 - [sheepdog/sheepdog](https://github.com/sheepdog/sheepdog) - Distributed Storage System for QEMU (today)
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust. (today)
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists (today)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [utam0k/r9cc](https://github.com/utam0k/r9cc) - Toy C compiler (3 days ago)
 - [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend (3 days ago)
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension (4 days ago)
-- [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask (4 days ago)
-- [cnrv/translation-team](https://github.com/cnrv/translation-team) - Translation Team for RISC-V Ecosystem. Driven by RISC-V China Community. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
