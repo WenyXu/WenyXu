@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Dousir9](https://github.com/Dousir9)
+- [Wind-Gone](https://github.com/Wind-Gone)
 - [SleepyLGod](https://github.com/SleepyLGod)
 - [WuTao18](https://github.com/WuTao18)
 - [terry-xuan-gao](https://github.com/terry-xuan-gao)
-- [shuiyisong](https://github.com/shuiyisong)
-- [zhyass](https://github.com/zhyass)
 
 
