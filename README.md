@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor from BufReader&lt;Read&gt; to BufRead](https://github.com/apache/arrow-rs/pull/4041) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (today)
 - [feat: implement infer schema from single file](https://github.com/GreptimeTeam/greptimedb/pull/1348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: amend fmt-toml](https://github.com/GreptimeTeam/greptimedb/pull/1347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: add infer schema with limit test for csv](https://github.com/apache/arrow-datafusion/pull/5926) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add shutdown for datanode](https://github.com/GreptimeTeam/greptimedb/pull/1160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [refactor: make the cmd hold the application instance](https://github.com/GreptimeTeam/greptimedb/pull/1159) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [chore: code styling](https://github.com/GreptimeTeam/greptimedb/pull/1137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: implement table flush](https://github.com/GreptimeTeam/greptimedb/pull/1121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
