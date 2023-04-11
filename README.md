@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: treat slack as the first-class citizen](https://github.com/GreptimeTeam/greptimedb/pull/1361) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: add tests for file table engine](https://github.com/GreptimeTeam/greptimedb/pull/1353) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [Use BufRead for JSON Schema Inference](https://github.com/apache/arrow-rs/pull/4041) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 days ago)
 - [feat: implement infer schema from single file](https://github.com/GreptimeTeam/greptimedb/pull/1348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: implement CONNECTION clause of Copy To](https://github.com/GreptimeTeam/greptimedb/pull/1163) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add shutdown for frontend](https://github.com/GreptimeTeam/greptimedb/pull/1161) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add shutdown for datanode](https://github.com/GreptimeTeam/greptimedb/pull/1160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: make the cmd hold the application instance](https://github.com/GreptimeTeam/greptimedb/pull/1159) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
