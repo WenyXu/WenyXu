@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: support to create external table](https://github.com/GreptimeTeam/greptimedb/pull/1372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce file stream](https://github.com/GreptimeTeam/greptimedb/pull/1367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: treat slack as the first-class citizen](https://github.com/GreptimeTeam/greptimedb/pull/1361) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test: add tests for file table engine](https://github.com/GreptimeTeam/greptimedb/pull/1353) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,10 +26,10 @@ Hi 👋 Weny here.
 - [refactor: combine Copy To and Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1197) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add shutdown for standalone and metasrv](https://github.com/GreptimeTeam/greptimedb/pull/1174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: implement CONNECTION clause of Copy To](https://github.com/GreptimeTeam/greptimedb/pull/1163) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add shutdown for frontend](https://github.com/GreptimeTeam/greptimedb/pull/1161) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
+- [Xuanwo/serfig](https://github.com/Xuanwo/serfig) - Layered configuration system built upon serde (today)
 - [smol-rs/futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators. (3 days ago)
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go. (3 days ago)
 - [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine  (5 days ago)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Arroyo is a distributed stream processing engine written in Rust (5 days ago)
 - [utam0k/r9cc](https://github.com/utam0k/r9cc) - Toy C compiler (6 days ago)
-- [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
