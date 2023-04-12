@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce file stream](https://github.com/GreptimeTeam/greptimedb/pull/1367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: treat slack as the first-class citizen](https://github.com/GreptimeTeam/greptimedb/pull/1361) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test: add tests for file table engine](https://github.com/GreptimeTeam/greptimedb/pull/1353) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [Use BufRead for JSON Schema Inference](https://github.com/apache/arrow-rs/pull/4041) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add shutdown for standalone and metasrv](https://github.com/GreptimeTeam/greptimedb/pull/1174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: implement CONNECTION clause of Copy To](https://github.com/GreptimeTeam/greptimedb/pull/1163) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add shutdown for frontend](https://github.com/GreptimeTeam/greptimedb/pull/1161) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add shutdown for datanode](https://github.com/GreptimeTeam/greptimedb/pull/1160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
