@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization (today)
 - [Xuanwo/serfig](https://github.com/Xuanwo/serfig) - Layered configuration system built upon serde (1 day ago)
 - [smol-rs/futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators. (4 days ago)
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go. (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [Nemo157/async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust&#39;s async IO types (6 days ago)
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine  (6 days ago)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Arroyo is a distributed stream processing engine written in Rust (6 days ago)
-- [utam0k/r9cc](https://github.com/utam0k/r9cc) - Toy C compiler (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
