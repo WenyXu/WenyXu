@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (today)
 - [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization (today)
 - [Xuanwo/serfig](https://github.com/Xuanwo/serfig) - Layered configuration system built upon serde (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [colin-kiegel/rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - derive builder implementation for rust structs (5 days ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (6 days ago)
 - [Nemo157/async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust&#39;s async IO types (6 days ago)
-- [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine  (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
