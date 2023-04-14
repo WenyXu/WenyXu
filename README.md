@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: make JsonOpener and CsvOpener public](https://github.com/apache/arrow-datafusion/pull/6004) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (today)
 - [feat: support to create external table](https://github.com/GreptimeTeam/greptimedb/pull/1372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: introduce file stream](https://github.com/GreptimeTeam/greptimedb/pull/1367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [docs: treat slack as the first-class citizen](https://github.com/GreptimeTeam/greptimedb/pull/1361) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [docs: run a specific test](https://github.com/GreptimeTeam/docs/pull/257) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [refactor: combine Copy To and Copy From](https://github.com/GreptimeTeam/greptimedb/pull/1197) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: add shutdown for standalone and metasrv](https://github.com/GreptimeTeam/greptimedb/pull/1174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: implement CONNECTION clause of Copy To](https://github.com/GreptimeTeam/greptimedb/pull/1163) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
