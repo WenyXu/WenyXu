@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (1 day ago)
 - [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (6 days ago)
 - [colin-kiegel/rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - derive builder implementation for rust structs (6 days ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (1 week ago)
-- [Nemo157/async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust&#39;s async IO types (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
