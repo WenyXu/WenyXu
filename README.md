@@ -8,7 +8,7 @@ Hi 👋 Weny here.
 
 - [chore: make JsonOpener and CsvOpener public](https://github.com/apache/arrow-datafusion/pull/6004) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (today)
 - [feat: support to create external table](https://github.com/GreptimeTeam/greptimedb/pull/1372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: introduce file stream](https://github.com/GreptimeTeam/greptimedb/pull/1367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: implement JsonOpener and CsvOpener](https://github.com/GreptimeTeam/greptimedb/pull/1367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [docs: treat slack as the first-class citizen](https://github.com/GreptimeTeam/greptimedb/pull/1361) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [test: add tests for file table engine](https://github.com/GreptimeTeam/greptimedb/pull/1353) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [Use BufRead for JSON Schema Inference](https://github.com/apache/arrow-rs/pull/4041) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (5 days ago)
