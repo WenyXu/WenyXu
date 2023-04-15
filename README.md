@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection. (today)
 - [kw7oe/mini-db](https://github.com/kw7oe/mini-db) - A mini dbms implementation in Rust. (1 day ago)
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine (1 day ago)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more. (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively (1 day ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (2 days ago)
-- [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
