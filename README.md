@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [mrdrivingduck](https://github.com/mrdrivingduck)
 - [Tom-CaoZH](https://github.com/Tom-CaoZH)
 - [haohuaijin](https://github.com/haohuaijin)
 - [Dousir9](https://github.com/Dousir9)
 - [Wind-Gone](https://github.com/Wind-Gone)
-- [SleepyLGod](https://github.com/SleepyLGod)
 
 
