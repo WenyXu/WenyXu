@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust (today)
+- [yetone/mirdb](https://github.com/yetone/mirdb) - MirDB: A Persistent Key-Value Store with Memcached protocol. (today)
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection. (1 day ago)
 - [kw7oe/mini-db](https://github.com/kw7oe/mini-db) - A mini dbms implementation in Rust. (2 days ago)
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine (2 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [wishawa/enjoin](https://github.com/wishawa/enjoin) - syntax-level async join enabling branching control flow and shared mutable borrow (2 days ago)
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结&#43;润色&#43;审稿&#43;审稿回复 (2 days ago)
 - [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively (2 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
-- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
