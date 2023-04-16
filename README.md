@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [mrdrivingduck/paper-outline](https://github.com/mrdrivingduck/paper-outline) - 🔍 To record the papers I have read. (today)
 - [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust (today)
 - [yetone/mirdb](https://github.com/yetone/mirdb) - MirDB: A Persistent Key-Value Store with Memcached protocol. (today)
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection. (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [Escape-Technologies/graphql-armor](https://github.com/Escape-Technologies/graphql-armor) - 🛡️ The missing GraphQL security security layer for Apollo GraphQL and Yoga / Envelop servers 🛡️ (2 days ago)
 - [wishawa/enjoin](https://github.com/wishawa/enjoin) - syntax-level async join enabling branching control flow and shared mutable borrow (2 days ago)
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结&#43;润色&#43;审稿&#43;审稿回复 (2 days ago)
-- [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
