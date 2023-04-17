@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: move stmt_options_to_table_options to query crate](https://github.com/GreptimeTeam/greptimedb/pull/1403) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: refactor stmt_options_to_table_options](https://github.com/GreptimeTeam/greptimedb/pull/1403) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: fix clippy](https://github.com/GreptimeTeam/greptimedb/pull/1387) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: make JsonOpener and CsvOpener public](https://github.com/apache/arrow-datafusion/pull/6004) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (3 days ago)
 - [feat: support to create external table](https://github.com/GreptimeTeam/greptimedb/pull/1372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
