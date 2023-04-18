@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Okabe-Rintarou-0](https://github.com/Okabe-Rintarou-0)
 - [mrdrivingduck](https://github.com/mrdrivingduck)
 - [Tom-CaoZH](https://github.com/Tom-CaoZH)
 - [haohuaijin](https://github.com/haohuaijin)
 - [Dousir9](https://github.com/Dousir9)
-- [Wind-Gone](https://github.com/Wind-Gone)
 
 
