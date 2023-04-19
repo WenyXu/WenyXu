@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: implement parsing format from hashmap](https://github.com/GreptimeTeam/greptimedb/pull/1420) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: refactor stmt_options_to_table_options](https://github.com/GreptimeTeam/greptimedb/pull/1403) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: fix clippy](https://github.com/GreptimeTeam/greptimedb/pull/1387) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore: make JsonOpener and CsvOpener public](https://github.com/apache/arrow-datafusion/pull/6004) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (5 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [docs: file external table RFC](https://github.com/GreptimeTeam/greptimedb/pull/1274) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: implement create external table parser](https://github.com/GreptimeTeam/greptimedb/pull/1252) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [test: add copy clause sqlness tests](https://github.com/GreptimeTeam/greptimedb/pull/1198) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [docs: run a specific test](https://github.com/GreptimeTeam/docs/pull/257) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
