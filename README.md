@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust) - P523 Course in Rust (today)
+- [siriusdemon/Rare](https://github.com/siriusdemon/Rare) - Build your own Riscv Emulator in Rust. (today)
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! (today)
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (today)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (today)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [yetone/mirdb](https://github.com/yetone/mirdb) - MirDB: A Persistent Key-Value Store with Memcached protocol. (4 days ago)
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection. (5 days ago)
 - [kw7oe/mini-db](https://github.com/kw7oe/mini-db) - A mini dbms implementation in Rust. (6 days ago)
-- [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine (6 days ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
