@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rkusa/wasm-sqlite](https://github.com/rkusa/wasm-sqlite) - [Experimental] SQLite compiled to WASM with pluggable page storage. (today)
 - [alttch/myval](https://github.com/alttch/myval) - Lightweight Apache Arrow data frame for Rust (today)
 - [komora-io/marble](https://github.com/komora-io/marble) - garbage-collecting on-disk object store, supporting higher level KV stores and databases. (today)
 - [agerasev/ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host (5 days ago)
 - [penberg/mvcc-rs](https://github.com/penberg/mvcc-rs) - Optimistic multi-version concurrency control (MVCC) for main memory databases, written in Rust. (5 days ago)
 - [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust. (6 days ago)
-- [mrdrivingduck/paper-outline](https://github.com/mrdrivingduck/paper-outline) - 🔍 To record the papers I have read. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
