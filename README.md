@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rustwasm/team](https://github.com/rustwasm/team) - A point of coordination for all things Rust and WebAssembly (today)
+- [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates  (today)
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (today)
 - [rkusa/wasm-sqlite](https://github.com/rkusa/wasm-sqlite) - [Experimental] SQLite compiled to WASM with pluggable page storage. (today)
 - [alttch/myval](https://github.com/alttch/myval) - Lightweight Apache Arrow data frame for Rust (today)
 - [komora-io/marble](https://github.com/komora-io/marble) - garbage-collecting on-disk object store, supporting higher level KV stores and databases. (today)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (2 days ago)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (3 days ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (5 days ago)
-- [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host (5 days ago)
-- [penberg/mvcc-rs](https://github.com/penberg/mvcc-rs) - Optimistic multi-version concurrency control (MVCC) for main memory databases, written in Rust. (5 days ago)
-- [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
