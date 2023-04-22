@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (today)
 - [siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust) - P523 Course in Rust (2 days ago)
 - [siriusdemon/Rare](https://github.com/siriusdemon/Rare) - Build your own Riscv Emulator in Rust. (2 days ago)
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust (6 days ago)
 - [yetone/mirdb](https://github.com/yetone/mirdb) - MirDB: A Persistent Key-Value Store with Memcached protocol. (6 days ago)
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection. (1 week ago)
-- [kw7oe/mini-db](https://github.com/kw7oe/mini-db) - A mini dbms implementation in Rust. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
