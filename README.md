@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [agerasev/ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data (today)
 - [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (today)
 - [siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust) - P523 Course in Rust (2 days ago)
 - [siriusdemon/Rare](https://github.com/siriusdemon/Rare) - Build your own Riscv Emulator in Rust. (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [mrdrivingduck/paper-outline](https://github.com/mrdrivingduck/paper-outline) - 🔍 To record the papers I have read. (6 days ago)
 - [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust (6 days ago)
 - [yetone/mirdb](https://github.com/yetone/mirdb) - MirDB: A Persistent Key-Value Store with Memcached protocol. (6 days ago)
-- [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
