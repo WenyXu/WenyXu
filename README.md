@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [alttch/myval](https://github.com/alttch/myval) - Lightweight Apache Arrow data frame for Rust (today)
 - [komora-io/marble](https://github.com/komora-io/marble) - garbage-collecting on-disk object store, supporting higher level KV stores and databases. (today)
 - [agerasev/ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data (today)
 - [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [penberg/mvcc-rs](https://github.com/penberg/mvcc-rs) - Optimistic multi-version concurrency control (MVCC) for main memory databases, written in Rust. (5 days ago)
 - [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust. (6 days ago)
 - [mrdrivingduck/paper-outline](https://github.com/mrdrivingduck/paper-outline) - 🔍 To record the papers I have read. (6 days ago)
-- [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
