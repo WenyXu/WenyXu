@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement ApproximateBufWriter](https://github.com/GreptimeTeam/greptimedb/pull/1439) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [refactor: refactor BufferedWriter](https://github.com/GreptimeTeam/greptimedb/pull/1439) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: replace Copy Format with datasource Format](https://github.com/GreptimeTeam/greptimedb/pull/1435) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: support creating the physical plan for JSON and CSV files](https://github.com/GreptimeTeam/greptimedb/pull/1424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat: implement ParquetFileReaderFactory](https://github.com/GreptimeTeam/greptimedb/pull/1423) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
