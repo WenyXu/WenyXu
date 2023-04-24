@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3 (today)
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson (today)
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust (today)
 - [rustwasm/team](https://github.com/rustwasm/team) - A point of coordination for all things Rust and WebAssembly (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [siriusdemon/Rare](https://github.com/siriusdemon/Rare) - Build your own Riscv Emulator in Rust. (4 days ago)
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! (4 days ago)
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (4 days ago)
-- [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
