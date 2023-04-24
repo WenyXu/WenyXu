@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [zhangxu1814](https://github.com/zhangxu1814)
 - [sacloudy](https://github.com/sacloudy)
 - [aprimadi](https://github.com/aprimadi)
 - [Okabe-Rintarou-0](https://github.com/Okabe-Rintarou-0)
 - [mrdrivingduck](https://github.com/mrdrivingduck)
-- [Tom-CaoZH](https://github.com/Tom-CaoZH)
 
 
