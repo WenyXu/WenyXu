@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson (today)
+- [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust (today)
 - [rustwasm/team](https://github.com/rustwasm/team) - A point of coordination for all things Rust and WebAssembly (2 days ago)
 - [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates  (2 days ago)
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (2 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! (4 days ago)
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (4 days ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (4 days ago)
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (5 days ago)
-- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
