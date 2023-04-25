@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [frankmcsherry/blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important. (today)
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3 (1 day ago)
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson (1 day ago)
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust) - P523 Course in Rust (5 days ago)
 - [siriusdemon/Rare](https://github.com/siriusdemon/Rare) - Build your own Riscv Emulator in Rust. (5 days ago)
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! (5 days ago)
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
