@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: refactor copy from executor](https://github.com/GreptimeTeam/greptimedb/pull/1475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: support to copy table from/to CSV and JSON format file](https://github.com/GreptimeTeam/greptimedb/pull/1475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: support to create parquet format external table](https://github.com/GreptimeTeam/greptimedb/pull/1463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test: add tests for external table](https://github.com/GreptimeTeam/greptimedb/pull/1460) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: refactor BufferedWriter](https://github.com/GreptimeTeam/greptimedb/pull/1439) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
