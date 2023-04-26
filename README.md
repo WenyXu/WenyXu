@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (today)
 - [rust-vmm/vm-memory](https://github.com/rust-vmm/vm-memory) - Virtual machine&#39;s guest memory crate (today)
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (today)
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important. (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [komora-io/marble](https://github.com/komora-io/marble) - garbage-collecting on-disk object store, supporting higher level KV stores and databases. (4 days ago)
 - [agerasev/ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data (4 days ago)
 - [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (4 days ago)
-- [siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust) - P523 Course in Rust (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
