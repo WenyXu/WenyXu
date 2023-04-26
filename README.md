@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (today)
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important. (1 day ago)
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3 (2 days ago)
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (4 days ago)
 - [siriusdemon/P523-Rust](https://github.com/siriusdemon/P523-Rust) - P523 Course in Rust (6 days ago)
 - [siriusdemon/Rare](https://github.com/siriusdemon/Rare) - Build your own Riscv Emulator in Rust. (6 days ago)
-- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
