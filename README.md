@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor copy from executor](https://github.com/GreptimeTeam/greptimedb/pull/1475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: support to create parquet format external table](https://github.com/GreptimeTeam/greptimedb/pull/1463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test: add tests for external table](https://github.com/GreptimeTeam/greptimedb/pull/1460) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: refactor BufferedWriter](https://github.com/GreptimeTeam/greptimedb/pull/1439) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [chore: amend fmt-toml](https://github.com/GreptimeTeam/greptimedb/pull/1347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [test: add infer schema with limit test for csv](https://github.com/apache/arrow-datafusion/pull/5926) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (2 weeks ago)
 - [feat: introduce file table engine](https://github.com/GreptimeTeam/greptimedb/pull/1323) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: support multi table engines in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/1316) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,7 +47,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 week ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (2 weeks ago)
 - [LearningOS/rust-rustlings-WenyXu](https://github.com/LearningOS/rust-rustlings-WenyXu) - rust-rustlings-WenyXu created by GitHub Classroom (2 weeks ago)
