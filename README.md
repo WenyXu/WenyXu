@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [memnoth/unix-v6](https://github.com/memnoth/unix-v6) - UNIX 6th Edition Kernel Source Code (today)
+- [willemt/raft](https://github.com/willemt/raft) - C implementation of the Raft Consensus protocol, BSD licensed (today)
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (1 day ago)
 - [rust-vmm/vm-memory](https://github.com/rust-vmm/vm-memory) - Virtual machine&#39;s guest memory crate (1 day ago)
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [rkusa/wasm-sqlite](https://github.com/rkusa/wasm-sqlite) - [Experimental] SQLite compiled to WASM with pluggable page storage. (5 days ago)
 - [alttch/myval](https://github.com/alttch/myval) - Lightweight Apache Arrow data frame for Rust (5 days ago)
 - [komora-io/marble](https://github.com/komora-io/marble) - garbage-collecting on-disk object store, supporting higher level KV stores and databases. (5 days ago)
-- [agerasev/ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data (5 days ago)
-- [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
