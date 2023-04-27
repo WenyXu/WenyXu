@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (today)
 - [memnoth/unix-v6](https://github.com/memnoth/unix-v6) - UNIX 6th Edition Kernel Source Code (today)
 - [willemt/raft](https://github.com/willemt/raft) - C implementation of the Raft Consensus protocol, BSD licensed (today)
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (5 days ago)
 - [rkusa/wasm-sqlite](https://github.com/rkusa/wasm-sqlite) - [Experimental] SQLite compiled to WASM with pluggable page storage. (5 days ago)
 - [alttch/myval](https://github.com/alttch/myval) - Lightweight Apache Arrow data frame for Rust (5 days ago)
-- [komora-io/marble](https://github.com/komora-io/marble) - garbage-collecting on-disk object store, supporting higher level KV stores and databases. (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
