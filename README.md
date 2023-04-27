@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: add s3 region info](https://github.com/GreptimeTeam/greptimedb/pull/1486) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: remove info log](https://github.com/GreptimeTeam/greptimedb/pull/1483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: support to copy table from/to CSV and JSON format file](https://github.com/GreptimeTeam/greptimedb/pull/1475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: support to create parquet format external table](https://github.com/GreptimeTeam/greptimedb/pull/1463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [Use BufRead for JSON Schema Inference](https://github.com/apache/arrow-rs/pull/4041) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
 - [feat: implement infer schema from single file](https://github.com/GreptimeTeam/greptimedb/pull/1348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: amend fmt-toml](https://github.com/GreptimeTeam/greptimedb/pull/1347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [test: add infer schema with limit test for csv](https://github.com/apache/arrow-datafusion/pull/5926) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
