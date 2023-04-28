@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Enet4/faiss](https://github.com/Enet4/faiss) - A library for efficient similarity search and clustering of dense vectors. (today)
+- [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss (today)
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. (today)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (today)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (today)
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (1 day ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3 (4 days ago)
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson (4 days ago)
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust (4 days ago)
-- [rustwasm/team](https://github.com/rustwasm/team) - A point of coordination for all things Rust and WebAssembly (6 days ago)
-- [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates  (6 days ago)
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
