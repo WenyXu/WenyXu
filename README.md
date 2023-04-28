@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [xen0n/larva](https://github.com/xen0n/larva) - PoC LoongArch - RISC-V emulator (today)
 - [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (today)
 - [Enet4/faiss](https://github.com/Enet4/faiss) - A library for efficient similarity search and clustering of dense vectors. (today)
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (2 days ago)
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important. (3 days ago)
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3 (4 days ago)
-- [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
