@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (today)
+- [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (today)
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (1 day ago)
 - [memnoth/unix-v6](https://github.com/memnoth/unix-v6) - UNIX 6th Edition Kernel Source Code (1 day ago)
 - [willemt/raft](https://github.com/willemt/raft) - C implementation of the Raft Consensus protocol, BSD licensed (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [rustwasm/team](https://github.com/rustwasm/team) - A point of coordination for all things Rust and WebAssembly (6 days ago)
 - [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates  (6 days ago)
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (6 days ago)
-- [rkusa/wasm-sqlite](https://github.com/rkusa/wasm-sqlite) - [Experimental] SQLite compiled to WASM with pluggable page storage. (6 days ago)
-- [alttch/myval](https://github.com/alttch/myval) - Lightweight Apache Arrow data frame for Rust (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
