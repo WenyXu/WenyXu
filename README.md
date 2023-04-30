@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility (today)
 - [xen0n/larva](https://github.com/xen0n/larva) - PoC LoongArch - RISC-V emulator (2 days ago)
 - [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (2 days ago)
 - [Enet4/faiss](https://github.com/Enet4/faiss) - A library for efficient similarity search and clustering of dense vectors. (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [rust-vmm/vm-memory](https://github.com/rust-vmm/vm-memory) - Virtual machine&#39;s guest memory crate (4 days ago)
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (4 days ago)
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important. (5 days ago)
-- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3 (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
