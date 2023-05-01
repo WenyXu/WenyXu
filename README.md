@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [despreston/go-craq](https://github.com/despreston/go-craq) - CRAQ (Chain Replication with Apportioned Queries) in Go (today)
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility (1 day ago)
 - [xen0n/larva](https://github.com/xen0n/larva) - PoC LoongArch - RISC-V emulator (3 days ago)
 - [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (5 days ago)
 - [rust-vmm/vm-memory](https://github.com/rust-vmm/vm-memory) - Virtual machine&#39;s guest memory crate (5 days ago)
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (5 days ago)
-- [frankmcsherry/blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
