@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (today)
+- [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui (today)
+- [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading &amp; backtesting systems (today)
 - [despreston/go-craq](https://github.com/despreston/go-craq) - CRAQ (Chain Replication with Apportioned Queries) in Go (3 days ago)
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility (4 days ago)
 - [xen0n/larva](https://github.com/xen0n/larva) - PoC LoongArch - RISC-V emulator (6 days ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (1 week ago)
 - [memnoth/unix-v6](https://github.com/memnoth/unix-v6) - UNIX 6th Edition Kernel Source Code (1 week ago)
 - [willemt/raft](https://github.com/willemt/raft) - C implementation of the Raft Consensus protocol, BSD licensed (1 week ago)
-- [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (1 week ago)
-- [rust-vmm/vm-memory](https://github.com/rust-vmm/vm-memory) - Virtual machine&#39;s guest memory crate (1 week ago)
-- [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
