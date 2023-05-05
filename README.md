@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [GreptimeTeam/greptimedb-client-rust](https://github.com/GreptimeTeam/greptimedb-client-rust) - A client for greptimedb grpc protocol (today)
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (1 day ago)
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui (1 day ago)
 - [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading &amp; backtesting systems (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (1 week ago)
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (1 week ago)
 - [memnoth/unix-v6](https://github.com/memnoth/unix-v6) - UNIX 6th Edition Kernel Source Code (1 week ago)
-- [willemt/raft](https://github.com/willemt/raft) - C implementation of the Raft Consensus protocol, BSD licensed (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
