@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: unify code styling](https://github.com/GreptimeTeam/greptimedb/pull/1518) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: update go-generated code](https://github.com/GreptimeTeam/greptime-proto/pull/31) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat: add query external data docs](https://github.com/GreptimeTeam/docs/pull/341) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix: add s3 region info](https://github.com/GreptimeTeam/greptimedb/pull/1492) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: support to create external table](https://github.com/GreptimeTeam/greptimedb/pull/1372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: implement JsonOpener and CsvOpener](https://github.com/GreptimeTeam/greptimedb/pull/1367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: treat slack as the first-class citizen](https://github.com/GreptimeTeam/greptimedb/pull/1361) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [test: add tests for file table engine](https://github.com/GreptimeTeam/greptimedb/pull/1353) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [4kangjc](https://github.com/4kangjc)
 - [DevilExileSu](https://github.com/DevilExileSu)
 - [nowinkeyy](https://github.com/nowinkeyy)
 - [zhangxu1814](https://github.com/zhangxu1814)
 - [sacloudy](https://github.com/sacloudy)
-- [aprimadi](https://github.com/aprimadi)
 
 
