@@ -6,6 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: unify code styling](https://github.com/GreptimeTeam/greptimedb/pull/1523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [chore(datasource): make CompressionType follow the style of the guide](https://github.com/GreptimeTeam/greptimedb/pull/1522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: Copy from must follow the order of table fields issue](https://github.com/GreptimeTeam/greptimedb/pull/1521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: unify code styling](https://github.com/GreptimeTeam/greptimedb/pull/1518) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: update go-generated code](https://github.com/GreptimeTeam/greptime-proto/pull/31) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat: add query external data docs](https://github.com/GreptimeTeam/docs/pull/341) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -23,9 +26,6 @@ Hi 👋 Weny here.
 - [refactor: refactor stmt_options_to_table_options](https://github.com/GreptimeTeam/greptimedb/pull/1403) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: fix clippy](https://github.com/GreptimeTeam/greptimedb/pull/1387) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: make JsonOpener and CsvOpener public](https://github.com/apache/arrow-datafusion/pull/6004) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (3 weeks ago)
-- [feat: support to create external table](https://github.com/GreptimeTeam/greptimedb/pull/1372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: implement JsonOpener and CsvOpener](https://github.com/GreptimeTeam/greptimedb/pull/1367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [docs: treat slack as the first-class citizen](https://github.com/GreptimeTeam/greptimedb/pull/1361) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
