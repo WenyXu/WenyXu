@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository) (today)
 - [hashicorp/raft-wal](https://github.com/hashicorp/raft-wal) - experimental raft storage (today)
 - [GreptimeTeam/greptimedb-client-rust](https://github.com/GreptimeTeam/greptimedb-client-rust) - A client for greptimedb grpc protocol (today)
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. (1 week ago)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 week ago)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (1 week ago)
-- [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
