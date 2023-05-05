@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - &#34;Small vector&#34; optimization for Rust: store up to a small number of items on the stack (today)
+- [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel (today)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository) (today)
 - [hashicorp/raft-wal](https://github.com/hashicorp/raft-wal) - experimental raft storage (today)
 - [GreptimeTeam/greptimedb-client-rust](https://github.com/GreptimeTeam/greptimedb-client-rust) - A client for greptimedb grpc protocol (today)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [Enet4/faiss](https://github.com/Enet4/faiss) - A library for efficient similarity search and clustering of dense vectors. (1 week ago)
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss (1 week ago)
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. (1 week ago)
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 week ago)
-- [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
