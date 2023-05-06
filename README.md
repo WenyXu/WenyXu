@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (today)
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time (1 day ago)
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - &#34;Small vector&#34; optimization for Rust: store up to a small number of items on the stack (1 day ago)
 - [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [xen0n/larva](https://github.com/xen0n/larva) - PoC LoongArch - RISC-V emulator (1 week ago)
 - [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (1 week ago)
 - [Enet4/faiss](https://github.com/Enet4/faiss) - A library for efficient similarity search and clustering of dense vectors. (1 week ago)
-- [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
