@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks. (today)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (today)
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules (1 day ago)
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading &amp; backtesting systems (3 days ago)
 - [despreston/go-craq](https://github.com/despreston/go-craq) - CRAQ (Chain Replication with Apportioned Queries) in Go (6 days ago)
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility (1 week ago)
-- [xen0n/larva](https://github.com/xen0n/larva) - PoC LoongArch - RISC-V emulator (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
