@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (today)
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules (1 day ago)
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (1 day ago)
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [despreston/go-craq](https://github.com/despreston/go-craq) - CRAQ (Chain Replication with Apportioned Queries) in Go (6 days ago)
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility (1 week ago)
 - [xen0n/larva](https://github.com/xen0n/larva) - PoC LoongArch - RISC-V emulator (1 week ago)
-- [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
