@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2023年春季OS课程Slides (today)
 - [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks. (1 day ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (1 day ago)
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui (4 days ago)
 - [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading &amp; backtesting systems (4 days ago)
 - [despreston/go-craq](https://github.com/despreston/go-craq) - CRAQ (Chain Replication with Apportioned Queries) in Go (1 week ago)
-- [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
