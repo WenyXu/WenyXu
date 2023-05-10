@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (today)
+- [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust. (today)
+- [Andy-Python-Programmer/aero](https://github.com/Andy-Python-Programmer/aero) - Aero is a new modern, experimental, UNIX-like operating system following the monolithic kernel design. Supporting modern PC features such as long mode, 5-level paging, and SMP (multicore), to name a few. (today)
 - [foreverbell/xv6fs](https://github.com/foreverbell/xv6fs) - xv6::file_system re-implemented in Rust and FUSE. (2 days ago)
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2023年春季OS课程Slides (2 days ago)
 - [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks. (3 days ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository) (5 days ago)
 - [hashicorp/raft-wal](https://github.com/hashicorp/raft-wal) - experimental raft storage (5 days ago)
 - [GreptimeTeam/greptimedb-client-rust](https://github.com/GreptimeTeam/greptimedb-client-rust) - A client for greptimedb grpc protocol (5 days ago)
-- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (6 days ago)
-- [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui (6 days ago)
-- [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading &amp; backtesting systems (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
