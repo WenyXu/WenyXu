@@ -8,7 +8,7 @@ Hi 👋 Weny here.
 
 - [refactor: change mailbox_messages to mailbox_message](https://github.com/GreptimeTeam/greptimedb/pull/1557) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: change mailbox_messages to mailbox_message](https://github.com/GreptimeTeam/greptime-proto/pull/33) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [feat(datanode): implement instruction handler](https://github.com/GreptimeTeam/greptimedb/pull/1547) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(datanode): iImplement the heartbeat response handler](https://github.com/GreptimeTeam/greptimedb/pull/1547) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: unify code styling](https://github.com/GreptimeTeam/greptimedb/pull/1523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore(datasource): make CompressionType follow the style of the guide](https://github.com/GreptimeTeam/greptimedb/pull/1522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [fix: Copy from must follow the order of table fields issue](https://github.com/GreptimeTeam/greptimedb/pull/1521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
