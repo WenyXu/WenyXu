@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: change mailbox_messages to mailbox_message](https://github.com/GreptimeTeam/greptime-proto/pull/33) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat(datanode): implement instruction handler](https://github.com/GreptimeTeam/greptimedb/pull/1547) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: unify code styling](https://github.com/GreptimeTeam/greptimedb/pull/1523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore(datasource): make CompressionType follow the style of the guide](https://github.com/GreptimeTeam/greptimedb/pull/1522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: implement ParquetFileReaderFactory](https://github.com/GreptimeTeam/greptimedb/pull/1423) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: implement parsing format from hashmap](https://github.com/GreptimeTeam/greptimedb/pull/1420) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: refactor stmt_options_to_table_options](https://github.com/GreptimeTeam/greptimedb/pull/1403) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: fix clippy](https://github.com/GreptimeTeam/greptimedb/pull/1387) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
