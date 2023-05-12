@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add options docs of copy clause](https://github.com/GreptimeTeam/docs/pull/357) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [feat: add create external table reference](https://github.com/GreptimeTeam/docs/pull/356) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: implement CloseRegionHandler](https://github.com/GreptimeTeam/greptimedb/pull/1569) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement OpenTableHandler](https://github.com/GreptimeTeam/greptimedb/pull/1567) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: change mailbox_messages to mailbox_message](https://github.com/GreptimeTeam/greptimedb/pull/1557) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -24,8 +26,6 @@ Hi 👋 Weny here.
 - [feat: support to create parquet format external table](https://github.com/GreptimeTeam/greptimedb/pull/1463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [test: add tests for external table](https://github.com/GreptimeTeam/greptimedb/pull/1460) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: refactor BufferedWriter](https://github.com/GreptimeTeam/greptimedb/pull/1439) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: replace Copy Format with datasource Format](https://github.com/GreptimeTeam/greptimedb/pull/1435) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: support creating the physical plan for JSON and CSV files](https://github.com/GreptimeTeam/greptimedb/pull/1424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
