@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [add axfs_os module](https://github.com/rcore-os/arceos/pull/46) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (today)
 - [add ensure macro](https://github.com/rcore-os/arceos/pull/44) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (today)
 - [Azure stars main](https://github.com/WenyXu/arceos/pull/2) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (today)
 - [CI: seperate U mode and S mode initially](https://github.com/WenyXu/arceos/pull/1) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (today)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add query external data docs](https://github.com/GreptimeTeam/docs/pull/341) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [fix: add s3 region info](https://github.com/GreptimeTeam/greptimedb/pull/1492) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: add s3 region info](https://github.com/GreptimeTeam/greptimedb/pull/1486) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: remove info log](https://github.com/GreptimeTeam/greptimedb/pull/1483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
