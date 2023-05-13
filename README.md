@@ -6,7 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [Azure starts main](https://github.com/WenyXu/arceos/pull/2) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (today)
+- [add ensure macro](https://github.com/rcore-os/arceos/pull/44) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (today)
+- [Azure stars main](https://github.com/WenyXu/arceos/pull/2) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (today)
 - [CI: seperate U mode and S mode initially](https://github.com/WenyXu/arceos/pull/1) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (today)
 - [feat: seperate U mode and S mode initially](https://github.com/rcore-os/arceos/pull/43) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (today)
 - [feat: add options docs of copy clause](https://github.com/GreptimeTeam/docs/pull/357) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: add s3 region info](https://github.com/GreptimeTeam/greptimedb/pull/1492) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: add s3 region info](https://github.com/GreptimeTeam/greptimedb/pull/1486) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: remove info log](https://github.com/GreptimeTeam/greptimedb/pull/1483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: support to copy table from/to CSV and JSON format file](https://github.com/GreptimeTeam/greptimedb/pull/1475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,11 +47,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (4 weeks ago)
-- [LearningOS/rust-rustlings-WenyXu](https://github.com/LearningOS/rust-rustlings-WenyXu) - rust-rustlings-WenyXu created by GitHub Classroom (1 month ago)
 
 #### 👯 Check out my recent followers
 
