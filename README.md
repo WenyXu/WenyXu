@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [Azure starts main](https://github.com/WenyXu/arceos/pull/2) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (today)
 - [CI: seperate U mode and S mode initially](https://github.com/WenyXu/arceos/pull/1) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (today)
 - [feat: seperate U mode and S mode initially](https://github.com/rcore-os/arceos/pull/43) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (today)
 - [feat: add options docs of copy clause](https://github.com/GreptimeTeam/docs/pull/357) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: add s3 region info](https://github.com/GreptimeTeam/greptimedb/pull/1486) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: remove info log](https://github.com/GreptimeTeam/greptimedb/pull/1483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: support to copy table from/to CSV and JSON format file](https://github.com/GreptimeTeam/greptimedb/pull/1475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: support to create parquet format external table](https://github.com/GreptimeTeam/greptimedb/pull/1463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
