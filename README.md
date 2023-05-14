@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb) - An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data. (today)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (4 days ago)
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust. (4 days ago)
 - [Andy-Python-Programmer/aero](https://github.com/Andy-Python-Programmer/aero) - Aero is a new modern, experimental, UNIX-like operating system following the monolithic kernel design. Supporting modern PC features such as long mode, 5-level paging, and SMP (multicore), to name a few. (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel (1 week ago)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository) (1 week ago)
 - [hashicorp/raft-wal](https://github.com/hashicorp/raft-wal) - experimental raft storage (1 week ago)
-- [GreptimeTeam/greptimedb-client-rust](https://github.com/GreptimeTeam/greptimedb-client-rust) - A client for greptimedb grpc protocol (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
