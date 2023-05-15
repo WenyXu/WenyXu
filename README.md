@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [carlosgaldino/gotenksfs](https://github.com/carlosgaldino/gotenksfs) - A file system on top of your file system (today)
 - [RalfJung/minirust](https://github.com/RalfJung/minirust) - A precise specification for &#34;Rust lite / MIR plus&#34; (today)
 - [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb) - An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data. (1 day ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (5 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time (1 week ago)
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - &#34;Small vector&#34; optimization for Rust: store up to a small number of items on the stack (1 week ago)
 - [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel (1 week ago)
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
