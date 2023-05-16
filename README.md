@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: remove region number validation](https://github.com/GreptimeTeam/greptimedb/pull/1593) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [add axfs_os module](https://github.com/rcore-os/arceos/pull/46) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (3 days ago)
 - [add ensure macro](https://github.com/rcore-os/arceos/pull/44) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (3 days ago)
 - [Azure stars main](https://github.com/WenyXu/arceos/pull/2) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: update go-generated code](https://github.com/GreptimeTeam/greptime-proto/pull/31) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat: add query external data docs](https://github.com/GreptimeTeam/docs/pull/341) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [fix: add s3 region info](https://github.com/GreptimeTeam/greptimedb/pull/1492) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: add s3 region info](https://github.com/GreptimeTeam/greptimedb/pull/1486) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
