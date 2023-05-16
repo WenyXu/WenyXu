@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [vorner/arc-swap](https://github.com/vorner/arc-swap) - Support atomic operations on Arc itself (today)
 - [carlosgaldino/gotenksfs](https://github.com/carlosgaldino/gotenksfs) - A file system on top of your file system (1 day ago)
 - [RalfJung/minirust](https://github.com/RalfJung/minirust) - A precise specification for &#34;Rust lite / MIR plus&#34; (1 day ago)
 - [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb) - An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data. (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (1 week ago)
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time (1 week ago)
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - &#34;Small vector&#34; optimization for Rust: store up to a small number of items on the stack (1 week ago)
-- [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
