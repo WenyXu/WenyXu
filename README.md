@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor axtask](https://github.com/Azure-stars/arceos/pull/1) on [Azure-stars/arceos](https://github.com/Azure-stars/arceos) (today)
+- [Refactor/refactor axtask](https://github.com/WenyXu/arceos/pull/4) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (today)
 - [fix: fix datanode cannot start while failing to open tables](https://github.com/GreptimeTeam/greptimedb/pull/1601) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix doesn&#39;t release closed regions issue](https://github.com/GreptimeTeam/greptimedb/pull/1596) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [Main merged](https://github.com/WenyXu/arceos/pull/3) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (1 day ago)
@@ -24,8 +26,6 @@ Hi 👋 Weny here.
 - [feat(datanode): iImplement the heartbeat response handler](https://github.com/GreptimeTeam/greptimedb/pull/1547) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: unify code styling](https://github.com/GreptimeTeam/greptimedb/pull/1523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore(datasource): make CompressionType follow the style of the guide](https://github.com/GreptimeTeam/greptimedb/pull/1522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: Copy from must follow the order of table fields issue](https://github.com/GreptimeTeam/greptimedb/pull/1521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [chore: unify code styling](https://github.com/GreptimeTeam/greptimedb/pull/1518) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
