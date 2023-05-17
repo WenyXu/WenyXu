@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix close region issue](https://github.com/GreptimeTeam/greptimedb/pull/1596) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: fix doesn&#39;t release closed regions issue](https://github.com/GreptimeTeam/greptimedb/pull/1596) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [Main merged](https://github.com/WenyXu/arceos/pull/3) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (1 day ago)
 - [fix: remove region number validation](https://github.com/GreptimeTeam/greptimedb/pull/1593) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [add axfs_os module](https://github.com/rcore-os/arceos/pull/46) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (4 days ago)
