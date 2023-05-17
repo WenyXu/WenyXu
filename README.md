@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust (today)
+- [riscv-rust/riscv-rust-quickstart](https://github.com/riscv-rust/riscv-rust-quickstart) - A template for building Rust applications for HiFive1 boards (today)
 - [vorner/arc-swap](https://github.com/vorner/arc-swap) - Support atomic operations on Arc itself (1 day ago)
 - [carlosgaldino/gotenksfs](https://github.com/carlosgaldino/gotenksfs) - A file system on top of your file system (2 days ago)
 - [RalfJung/minirust](https://github.com/RalfJung/minirust) - A precise specification for &#34;Rust lite / MIR plus&#34; (2 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (1 week ago)
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules (1 week ago)
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (1 week ago)
-- [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time (1 week ago)
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - &#34;Small vector&#34; optimization for Rust: store up to a small number of items on the stack (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
