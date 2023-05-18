@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (today)
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (1 day ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust (1 day ago)
 - [riscv-rust/riscv-rust-quickstart](https://github.com/riscv-rust/riscv-rust-quickstart) - A template for building Rust applications for HiFive1 boards (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2023年春季OS课程Slides (1 week ago)
 - [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks. (1 week ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (1 week ago)
-- [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
