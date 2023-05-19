@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [redox-os/relibc](https://github.com/redox-os/relibc) - Mirror of https://gitlab.redox-os.org/redox-os/relibc (today)
+- [rust-embedded/riscv-rt](https://github.com/rust-embedded/riscv-rt) - Minimal runtime / startup for RISC-V CPU&#39;s. (today)
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm). (today)
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers (today)
 - [leizongmin/gpt-lisp](https://github.com/leizongmin/gpt-lisp) - GPT-Lisp is a simple Lisp interpreter implemented with the help of Claude, Anthropic&#39;s Constitutional AI assistant. Claude guided me through the process of designing, implementing, and testing the interpreter using C. (today)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 day ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb) - An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data. (5 days ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 week ago)
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust. (1 week ago)
-- [Andy-Python-Programmer/aero](https://github.com/Andy-Python-Programmer/aero) - Aero is a new modern, experimental, UNIX-like operating system following the monolithic kernel design. Supporting modern PC features such as long mode, 5-level paging, and SMP (multicore), to name a few. (1 week ago)
-- [foreverbell/xv6fs](https://github.com/foreverbell/xv6fs) - xv6::file_system re-implemented in Rust and FUSE. (1 week ago)
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2023年春季OS课程Slides (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
