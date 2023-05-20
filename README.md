@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (today)
 - [redox-os/relibc](https://github.com/redox-os/relibc) - Mirror of https://gitlab.redox-os.org/redox-os/relibc (1 day ago)
 - [rust-embedded/riscv-rt](https://github.com/rust-embedded/riscv-rt) - Minimal runtime / startup for RISC-V CPU&#39;s. (1 day ago)
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm). (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [RalfJung/minirust](https://github.com/RalfJung/minirust) - A precise specification for &#34;Rust lite / MIR plus&#34; (5 days ago)
 - [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb) - An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data. (6 days ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 week ago)
-- [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
