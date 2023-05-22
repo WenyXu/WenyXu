@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [KuangjuX/hypocaust-2](https://github.com/KuangjuX/hypocaust-2) - hypocaust-2, a type-1 hypervisor with H extension run on RISC-V machine (today)
+- [mit-pdos/RVirt](https://github.com/mit-pdos/RVirt) - RISC-V hypervisor written in Rust (today)
 - [hermitcore/libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system (today)
 - [r9os/r9](https://github.com/r9os/r9) - The R9 operating system (today)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust (5 days ago)
 - [riscv-rust/riscv-rust-quickstart](https://github.com/riscv-rust/riscv-rust-quickstart) - A template for building Rust applications for HiFive1 boards (5 days ago)
 - [vorner/arc-swap](https://github.com/vorner/arc-swap) - Support atomic operations on Arc itself (6 days ago)
-- [carlosgaldino/gotenksfs](https://github.com/carlosgaldino/gotenksfs) - A file system on top of your file system (1 week ago)
-- [RalfJung/minirust](https://github.com/RalfJung/minirust) - A precise specification for &#34;Rust lite / MIR plus&#34; (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
