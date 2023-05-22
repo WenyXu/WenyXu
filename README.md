@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [r9os/r9](https://github.com/r9os/r9) - The R9 operating system (today)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 days ago)
 - [redox-os/relibc](https://github.com/redox-os/relibc) - Mirror of https://gitlab.redox-os.org/redox-os/relibc (3 days ago)
 - [rust-embedded/riscv-rt](https://github.com/rust-embedded/riscv-rt) - Minimal runtime / startup for RISC-V CPU&#39;s. (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [carlosgaldino/gotenksfs](https://github.com/carlosgaldino/gotenksfs) - A file system on top of your file system (1 week ago)
 - [RalfJung/minirust](https://github.com/RalfJung/minirust) - A precise specification for &#34;Rust lite / MIR plus&#34; (1 week ago)
 - [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb) - An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data. (1 week ago)
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
