@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: fix code styling](https://github.com/GreptimeTeam/greptimedb/pull/1623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor axtask](https://github.com/Azure-stars/arceos/pull/1) on [Azure-stars/arceos](https://github.com/Azure-stars/arceos) (5 days ago)
 - [Refactor/refactor axtask](https://github.com/WenyXu/arceos/pull/4) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (5 days ago)
 - [fix: fix datanode cannot start while failing to open tables](https://github.com/GreptimeTeam/greptimedb/pull/1601) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: change mailbox_messages to mailbox_message](https://github.com/GreptimeTeam/greptime-proto/pull/33) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat(datanode): iImplement the heartbeat response handler](https://github.com/GreptimeTeam/greptimedb/pull/1547) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: unify code styling](https://github.com/GreptimeTeam/greptimedb/pull/1523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore(datasource): make CompressionType follow the style of the guide](https://github.com/GreptimeTeam/greptimedb/pull/1522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
