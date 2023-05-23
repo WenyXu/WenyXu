@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add heartbeat response handler for frontend](https://github.com/GreptimeTeam/greptimedb/pull/1627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: move heartbeat response handler to common](https://github.com/GreptimeTeam/greptimedb/pull/1627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: fix code styling](https://github.com/GreptimeTeam/greptimedb/pull/1623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor axtask](https://github.com/Azure-stars/arceos/pull/1) on [Azure-stars/arceos](https://github.com/Azure-stars/arceos) (6 days ago)
 - [Refactor/refactor axtask](https://github.com/WenyXu/arceos/pull/4) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (6 days ago)
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [QuenKar](https://github.com/QuenKar)
 - [bigdaronlee163](https://github.com/bigdaronlee163)
 - [Radeity](https://github.com/Radeity)
 - [4kangjc](https://github.com/4kangjc)
 - [DevilExileSu](https://github.com/DevilExileSu)
-- [nowinkeyy](https://github.com/nowinkeyy)
 
 
