@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add heartbeat response handler for frontend](https://github.com/GreptimeTeam/greptimedb/pull/1627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: fix code styling](https://github.com/GreptimeTeam/greptimedb/pull/1623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor axtask](https://github.com/Azure-stars/arceos/pull/1) on [Azure-stars/arceos](https://github.com/Azure-stars/arceos) (6 days ago)
 - [Refactor/refactor axtask](https://github.com/WenyXu/arceos/pull/4) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (6 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: change mailbox_messages to mailbox_message](https://github.com/GreptimeTeam/greptimedb/pull/1557) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: change mailbox_messages to mailbox_message](https://github.com/GreptimeTeam/greptime-proto/pull/33) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat(datanode): iImplement the heartbeat response handler](https://github.com/GreptimeTeam/greptimedb/pull/1547) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: unify code styling](https://github.com/GreptimeTeam/greptimedb/pull/1523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
