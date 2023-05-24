@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tokio-rs/simulation](https://github.com/tokio-rs/simulation) - Framework for simulating distributed applications (today)
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security (today)
 - [hermitcore/uhyve](https://github.com/hermitcore/uhyve) - A minimal hypervisor for RustyHermit (today)
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers (5 days ago)
 - [leizongmin/gpt-lisp](https://github.com/leizongmin/gpt-lisp) - GPT-Lisp is a simple Lisp interpreter implemented with the help of Claude, Anthropic&#39;s Constitutional AI assistant. Claude guided me through the process of designing, implementing, and testing the interpreter using C. (5 days ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (6 days ago)
-- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
