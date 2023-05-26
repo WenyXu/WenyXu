@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [matthieu-m/static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting (today)
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ (today)
 - [tokio-rs/simulation](https://github.com/tokio-rs/simulation) - Framework for simulating distributed applications (2 days ago)
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [rust-embedded/riscv-rt](https://github.com/rust-embedded/riscv-rt) - Minimal runtime / startup for RISC-V CPU&#39;s. (1 week ago)
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm). (1 week ago)
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers (1 week ago)
-- [leizongmin/gpt-lisp](https://github.com/leizongmin/gpt-lisp) - GPT-Lisp is a simple Lisp interpreter implemented with the help of Claude, Anthropic&#39;s Constitutional AI assistant. Claude guided me through the process of designing, implementing, and testing the interpreter using C. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
