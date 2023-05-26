@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix typo](https://github.com/GreptimeTeam/greptimedb/pull/1649) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add invalidate table cache handler](https://github.com/GreptimeTeam/greptimedb/pull/1633) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: move the common part of the heartbeat response handler to common](https://github.com/GreptimeTeam/greptimedb/pull/1627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: fix code styling](https://github.com/GreptimeTeam/greptimedb/pull/1623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -25,10 +26,10 @@ Hi 👋 Weny here.
 - [feat: implement CloseRegionHandler](https://github.com/GreptimeTeam/greptimedb/pull/1569) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: implement OpenTableHandler](https://github.com/GreptimeTeam/greptimedb/pull/1567) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: change mailbox_messages to mailbox_message](https://github.com/GreptimeTeam/greptimedb/pull/1557) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: change mailbox_messages to mailbox_message](https://github.com/GreptimeTeam/greptime-proto/pull/33) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ (today)
 - [tokio-rs/simulation](https://github.com/tokio-rs/simulation) - Framework for simulating distributed applications (2 days ago)
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security (2 days ago)
 - [hermitcore/uhyve](https://github.com/hermitcore/uhyve) - A minimal hypervisor for RustyHermit (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm). (1 week ago)
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers (1 week ago)
 - [leizongmin/gpt-lisp](https://github.com/leizongmin/gpt-lisp) - GPT-Lisp is a simple Lisp interpreter implemented with the help of Claude, Anthropic&#39;s Constitutional AI assistant. Claude guided me through the process of designing, implementing, and testing the interpreter using C. (1 week ago)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
