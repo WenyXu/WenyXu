@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: move code out of loop](https://github.com/GreptimeTeam/greptimedb/pull/1657) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add table_id to datanode heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1656) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add keep lease handler for frontend node](https://github.com/GreptimeTeam/greptimedb/pull/1655) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix type casting issue](https://github.com/GreptimeTeam/greptimedb/pull/1652) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [Azure stars main](https://github.com/WenyXu/arceos/pull/2) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (2 weeks ago)
 - [CI: seperate U mode and S mode initially](https://github.com/WenyXu/arceos/pull/1) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (2 weeks ago)
 - [feat: seperate U mode and S mode initially](https://github.com/rcore-os/arceos/pull/43) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (2 weeks ago)
-- [feat: add options docs of copy clause](https://github.com/GreptimeTeam/docs/pull/357) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
