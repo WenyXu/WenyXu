@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add invalidate cache step](https://github.com/GreptimeTeam/greptimedb/pull/1658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: change table_id type to u32](https://github.com/GreptimeTeam/greptime-proto/pull/40) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [refactor: move code out of loop](https://github.com/GreptimeTeam/greptimedb/pull/1657) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add table_id to datanode heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1656) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [add axfs_os module](https://github.com/rcore-os/arceos/pull/46) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (2 weeks ago)
 - [add ensure macro](https://github.com/rcore-os/arceos/pull/44) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (2 weeks ago)
 - [Azure stars main](https://github.com/WenyXu/arceos/pull/2) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (2 weeks ago)
-- [CI: seperate U mode and S mode initially](https://github.com/WenyXu/arceos/pull/1) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
