@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (today)
 - [infinohq/infino](https://github.com/infinohq/infino) - Infino - Fast and scalable service to store time series and logs - written in Rust (2 days ago)
 - [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation (2 days ago)
 - [matthieu-m/static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [r9os/r9](https://github.com/r9os/r9) - The R9 operating system (1 week ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 week ago)
 - [redox-os/relibc](https://github.com/redox-os/relibc) - Mirror of https://gitlab.redox-os.org/redox-os/relibc (1 week ago)
-- [rust-embedded/riscv-rt](https://github.com/rust-embedded/riscv-rt) - Minimal runtime / startup for RISC-V CPU&#39;s. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
