@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (today)
 - [flexible-address-space/flexspace](https://github.com/flexible-address-space/flexspace) - Code of the paper &#34;Building an Efficient Key-Value Store in a Flexible Address Space&#34;, EuroSys &#39;22 (1 day ago)
 - [ydataai/ydata-synthetic](https://github.com/ydataai/ydata-synthetic) - Synthetic data generators for tabular and time-series data (1 day ago)
 - [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [KuangjuX/hypocaust-2](https://github.com/KuangjuX/hypocaust-2) - hypocaust-2, a type-1 hypervisor with H extension run on RISC-V machine (1 week ago)
 - [mit-pdos/RVirt](https://github.com/mit-pdos/RVirt) - RISC-V hypervisor written in Rust (1 week ago)
 - [hermitcore/libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system (1 week ago)
-- [r9os/r9](https://github.com/r9os/r9) - The R9 operating system (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
