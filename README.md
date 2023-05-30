@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [test: add write test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/1673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: remove table_id in RegionStat](https://github.com/GreptimeTeam/greptime-proto/pull/43) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix: invalidate table route cache](https://github.com/GreptimeTeam/greptimedb/pull/1663) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add invalidate cache step](https://github.com/GreptimeTeam/greptimedb/pull/1658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: fix doesn&#39;t release closed regions issue](https://github.com/GreptimeTeam/greptimedb/pull/1596) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [Main merged](https://github.com/WenyXu/arceos/pull/3) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (2 weeks ago)
 - [fix: remove region number validation](https://github.com/GreptimeTeam/greptimedb/pull/1593) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [add axfs_os module](https://github.com/rcore-os/arceos/pull/46) on [rcore-os/arceos](https://github.com/rcore-os/arceos) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
