@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [blackbeam/rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust. (today)
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (1 day ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 days ago)
 - [flexible-address-space/flexspace](https://github.com/flexible-address-space/flexspace) - Code of the paper &#34;Building an Efficient Key-Value Store in a Flexible Address Space&#34;, EuroSys &#39;22 (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [hermitcore/uhyve](https://github.com/hermitcore/uhyve) - A minimal hypervisor for RustyHermit (1 week ago)
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse (1 week ago)
 - [KuangjuX/hypocaust-2](https://github.com/KuangjuX/hypocaust-2) - hypocaust-2, a type-1 hypervisor with H extension run on RISC-V machine (1 week ago)
-- [mit-pdos/RVirt](https://github.com/mit-pdos/RVirt) - RISC-V hypervisor written in Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
