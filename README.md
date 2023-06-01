@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (today)
 - [blackbeam/rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust. (today)
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (1 day ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security (1 week ago)
 - [hermitcore/uhyve](https://github.com/hermitcore/uhyve) - A minimal hypervisor for RustyHermit (1 week ago)
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse (1 week ago)
-- [KuangjuX/hypocaust-2](https://github.com/KuangjuX/hypocaust-2) - hypocaust-2, a type-1 hypervisor with H extension run on RISC-V machine (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
