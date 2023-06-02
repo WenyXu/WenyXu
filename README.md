@@ -47,7 +47,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (2 weeks ago)
