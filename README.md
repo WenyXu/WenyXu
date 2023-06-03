@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (today)
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust (1 day ago)
 - [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. (1 day ago)
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [matthieu-m/static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting (1 week ago)
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ (1 week ago)
 - [tokio-rs/simulation](https://github.com/tokio-rs/simulation) - Framework for simulating distributed applications (1 week ago)
-- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
