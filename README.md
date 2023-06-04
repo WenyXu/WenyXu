@@ -6,10 +6,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: enable region failover test](https://github.com/GreptimeTeam/greptimedb/pull/1699) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [test: add write test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/1673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: remove table_id in RegionStat](https://github.com/GreptimeTeam/greptime-proto/pull/43) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
-- [fix: invalidate table route cache](https://github.com/GreptimeTeam/greptimedb/pull/1663) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: enable region failover test](https://github.com/GreptimeTeam/greptimedb/pull/1699) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [test: add write test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/1673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: remove table_id in RegionStat](https://github.com/GreptimeTeam/greptime-proto/pull/43) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
+- [fix: invalidate table route cache](https://github.com/GreptimeTeam/greptimedb/pull/1663) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: add invalidate cache step](https://github.com/GreptimeTeam/greptimedb/pull/1658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: change table_id type to u32](https://github.com/GreptimeTeam/greptime-proto/pull/40) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [refactor: move code out of loop](https://github.com/GreptimeTeam/greptimedb/pull/1657) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -29,16 +29,16 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (today)
-- [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust (1 day ago)
-- [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. (1 day ago)
-- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (2 days ago)
-- [blackbeam/rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust. (2 days ago)
-- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (3 days ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (4 days ago)
-- [flexible-address-space/flexspace](https://github.com/flexible-address-space/flexspace) - Code of the paper &#34;Building an Efficient Key-Value Store in a Flexible Address Space&#34;, EuroSys &#39;22 (5 days ago)
-- [ydataai/ydata-synthetic](https://github.com/ydataai/ydata-synthetic) - Synthetic data generators for tabular and time-series data (5 days ago)
-- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (5 days ago)
+- [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (1 day ago)
+- [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust (2 days ago)
+- [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. (2 days ago)
+- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (3 days ago)
+- [blackbeam/rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust. (3 days ago)
+- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (4 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (5 days ago)
+- [flexible-address-space/flexspace](https://github.com/flexible-address-space/flexspace) - Code of the paper &#34;Building an Efficient Key-Value Store in a Flexible Address Space&#34;, EuroSys &#39;22 (6 days ago)
+- [ydataai/ydata-synthetic](https://github.com/ydataai/ydata-synthetic) - Synthetic data generators for tabular and time-series data (6 days ago)
+- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (6 days ago)
 - [infinohq/infino](https://github.com/infinohq/infino) - Infino - Fast and scalable service to store time series and logs - written in Rust (1 week ago)
 - [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation (1 week ago)
 - [matthieu-m/static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting (1 week ago)
@@ -47,10 +47,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (5 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
-- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (2 weeks ago)
+- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (3 weeks ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 month ago)
 
 #### 👯 Check out my recent followers
