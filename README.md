@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (today)
+- [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform (today)
 - [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (1 day ago)
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust (2 days ago)
 - [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. (2 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [infinohq/infino](https://github.com/infinohq/infino) - Infino - Fast and scalable service to store time series and logs - written in Rust (1 week ago)
 - [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation (1 week ago)
 - [matthieu-m/static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting (1 week ago)
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ (1 week ago)
-- [tokio-rs/simulation](https://github.com/tokio-rs/simulation) - Framework for simulating distributed applications (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
