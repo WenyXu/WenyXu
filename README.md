@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (today)
 - [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem (1 day ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 day ago)
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [ydataai/ydata-synthetic](https://github.com/ydataai/ydata-synthetic) - Synthetic data generators for tabular and time-series data (1 week ago)
 - [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (1 week ago)
 - [infinohq/infino](https://github.com/infinohq/infino) - Infino - Fast and scalable service to store time series and logs - written in Rust (1 week ago)
-- [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
