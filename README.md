@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [test(chaos-master): add an example test](https://github.com/GreptimeTeam/greptimedb/pull/1736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add chaos testing toolkit](https://github.com/GreptimeTeam/greptimedb/pull/1713) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: enable region failover test](https://github.com/GreptimeTeam/greptimedb/pull/1699) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [test: add write test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/1673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor axtask](https://github.com/Azure-stars/Starry/pull/1) on [Azure-stars/Starry](https://github.com/Azure-stars/Starry) (2 weeks ago)
 - [Refactor/refactor axtask](https://github.com/WenyXu/arceos/pull/4) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (2 weeks ago)
 - [fix: fix datanode cannot start while failing to open tables](https://github.com/GreptimeTeam/greptimedb/pull/1601) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: fix doesn&#39;t release closed regions issue](https://github.com/GreptimeTeam/greptimedb/pull/1596) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
