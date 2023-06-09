@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source, cloud-native data infrastructure designed to help application developers and platform engineers manage database and analytical workloads on Kubernetes. It is cloud-neutral and supports multiple cloud service providers, offering a unified and declarative approach to increase productivity in DevOps practices. (today)
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (4 days ago)
 - [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem (5 days ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (5 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [flexible-address-space/flexspace](https://github.com/flexible-address-space/flexspace) - Code of the paper &#34;Building an Efficient Key-Value Store in a Flexible Address Space&#34;, EuroSys &#39;22 (1 week ago)
 - [ydataai/ydata-synthetic](https://github.com/ydataai/ydata-synthetic) - Synthetic data generators for tabular and time-series data (1 week ago)
 - [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (1 week ago)
-- [infinohq/infino](https://github.com/infinohq/infino) - Infino - Fast and scalable service to store time series and logs - written in Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
