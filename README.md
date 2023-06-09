@@ -29,7 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps application developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on Kubernetes. It&#39;s cloud-neutral and supports multiple cloud choices, including AWS, Azure, GCP, AlibabaCloud. (today)
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud. (today)
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (4 days ago)
 - [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem (5 days ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (5 days ago)
