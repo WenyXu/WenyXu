@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [KKould](https://github.com/KKould)
 - [abdallah-sultan](https://github.com/abdallah-sultan)
 - [WangTingZheng](https://github.com/WangTingZheng)
 - [QuenKar](https://github.com/QuenKar)
 - [bigdaronlee163](https://github.com/bigdaronlee163)
-- [Radeity](https://github.com/Radeity)
 
 
