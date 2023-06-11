@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [test(chaos-master): add an example test](https://github.com/GreptimeTeam/greptimedb/pull/1736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: add chaos testing toolkit](https://github.com/GreptimeTeam/greptimedb/pull/1713) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [test(chaos-master): add an example test](https://github.com/GreptimeTeam/greptimedb/pull/1736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: add chaos testing toolkit](https://github.com/GreptimeTeam/greptimedb/pull/1713) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: enable region failover test](https://github.com/GreptimeTeam/greptimedb/pull/1699) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [test: add write test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/1673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: remove table_id in RegionStat](https://github.com/GreptimeTeam/greptime-proto/pull/43) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -29,11 +29,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud. (1 day ago)
-- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (5 days ago)
-- [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem (6 days ago)
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (6 days ago)
-- [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform (6 days ago)
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud. (2 days ago)
+- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (6 days ago)
+- [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem (1 week ago)
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 week ago)
+- [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform (1 week ago)
 - [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (1 week ago)
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust (1 week ago)
 - [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. (1 week ago)
@@ -50,7 +50,7 @@ Hi 👋 Weny here.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
-- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (3 weeks ago)
+- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (4 weeks ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 month ago)
 
 #### 👯 Check out my recent followers
