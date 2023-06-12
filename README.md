@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: remove datanode mysql-addr](https://github.com/GreptimeTeam/gtctl/pull/81) on [GreptimeTeam/gtctl](https://github.com/GreptimeTeam/gtctl) (today)
 - [chore: make MetaKvBackend public](https://github.com/GreptimeTeam/greptimedb/pull/1761) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test(chaos-master): add an example test](https://github.com/GreptimeTeam/greptimedb/pull/1736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: add chaos testing toolkit](https://github.com/GreptimeTeam/greptimedb/pull/1713) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: move the common part of the heartbeat response handler to common](https://github.com/GreptimeTeam/greptimedb/pull/1627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: fix code styling](https://github.com/GreptimeTeam/greptimedb/pull/1623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor axtask](https://github.com/Azure-stars/Starry/pull/1) on [Azure-stars/Starry](https://github.com/Azure-stars/Starry) (3 weeks ago)
-- [Refactor/refactor axtask](https://github.com/WenyXu/arceos/pull/4) on [WenyXu/arceos](https://github.com/WenyXu/arceos) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,18 +47,18 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/gtctl](https://github.com/GreptimeTeam/gtctl) - gtctl is a command-line tool for managing GreptimeDB cluster. (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
 - [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (4 weeks ago)
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 month ago)
 
 #### 👯 Check out my recent followers
 
+- [zyy17](https://github.com/zyy17)
 - [KKould](https://github.com/KKould)
 - [abdallah-sultan](https://github.com/abdallah-sultan)
 - [WangTingZheng](https://github.com/WangTingZheng)
 - [QuenKar](https://github.com/QuenKar)
-- [bigdaronlee163](https://github.com/bigdaronlee163)
 
 
