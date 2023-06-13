@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: enable azblob tests](https://github.com/GreptimeTeam/greptimedb/pull/1765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove datanode mysql-addr](https://github.com/GreptimeTeam/gtctl/pull/81) on [GreptimeTeam/gtctl](https://github.com/GreptimeTeam/gtctl) (1 day ago)
 - [chore: make MetaKvBackend public](https://github.com/GreptimeTeam/greptimedb/pull/1761) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test(chaos-master): add an example test](https://github.com/GreptimeTeam/greptimedb/pull/1736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add invalidate table cache handler](https://github.com/GreptimeTeam/greptimedb/pull/1633) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: move the common part of the heartbeat response handler to common](https://github.com/GreptimeTeam/greptimedb/pull/1627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: fix code styling](https://github.com/GreptimeTeam/greptimedb/pull/1623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [refactor axtask](https://github.com/Azure-stars/Starry/pull/1) on [Azure-stars/Starry](https://github.com/Azure-stars/Starry) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
