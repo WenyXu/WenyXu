@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal&#39;s home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale. (today)
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking (2 days ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 days ago)
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具） (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. (1 week ago)
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (2 weeks ago)
 - [blackbeam/rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust. (2 weeks ago)
-- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [loloxwg](https://github.com/loloxwg)
 - [zyy17](https://github.com/zyy17)
 - [KKould](https://github.com/KKould)
 - [abdallah-sultan](https://github.com/abdallah-sultan)
 - [WangTingZheng](https://github.com/WangTingZheng)
-- [QuenKar](https://github.com/QuenKar)
 
 
