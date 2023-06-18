@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [khonsulabs/okaywal](https://github.com/khonsulabs/okaywal) - A Write Ahead Log (WAL) implementation in Rust (today)
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB (2 days ago)
 - [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal&#39;s home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale. (3 days ago)
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking (5 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (2 weeks ago)
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust (2 weeks ago)
 - [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. (2 weeks ago)
-- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
