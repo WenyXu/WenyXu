@@ -29,6 +29,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [gtk-rs/gtk-rs-core](https://github.com/gtk-rs/gtk-rs-core) - Rust bindings for GNOME libraries (today)
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (today)
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (today)
+- [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C&#43;&#43; libraries from Rust (today)
+- [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format (today)
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer (today)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (today)
 - [khonsulabs/okaywal](https://github.com/khonsulabs/okaywal) - A Write Ahead Log (WAL) implementation in Rust (today)
@@ -39,11 +44,6 @@ Hi 👋 Weny here.
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具） (1 week ago)
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs (1 week ago)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud. (1 week ago)
-- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (1 week ago)
-- [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem (2 weeks ago)
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (2 weeks ago)
-- [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform (2 weeks ago)
-- [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
