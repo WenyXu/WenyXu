@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C&#43;&#43; code into a Rust library (today)
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust (1 day ago)
 - [gtk-rs/gtk-rs-core](https://github.com/gtk-rs/gtk-rs-core) - Rust bindings for GNOME libraries (2 days ago)
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking (1 week ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 week ago)
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具） (1 week ago)
-- [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
