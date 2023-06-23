@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: support to copy from orc format](https://github.com/GreptimeTeam/greptimedb/pull/1814) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add debug log for heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1770) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: add missing description](https://github.com/chaos-mesh/website/pull/389) on [chaos-mesh/website](https://github.com/chaos-mesh/website) (1 week ago)
 - [feat: enable azblob tests](https://github.com/GreptimeTeam/greptimedb/pull/1765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: fix type casting issue](https://github.com/GreptimeTeam/greptimedb/pull/1652) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: support to load missing region](https://github.com/GreptimeTeam/greptimedb/pull/1651) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: fix typo](https://github.com/GreptimeTeam/greptimedb/pull/1649) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [feat: add invalidate table cache handler](https://github.com/GreptimeTeam/greptimedb/pull/1633) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
