@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support to copy from orc format](https://github.com/GreptimeTeam/greptimedb/pull/1814) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: support to copy from orc format](https://github.com/GreptimeTeam/greptimedb/pull/1814) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: add debug log for heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1770) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: add missing description](https://github.com/chaos-mesh/website/pull/389) on [chaos-mesh/website](https://github.com/chaos-mesh/website) (1 week ago)
 - [feat: enable azblob tests](https://github.com/GreptimeTeam/greptimedb/pull/1765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -18,9 +18,9 @@ Hi 👋 Weny here.
 - [test: add write test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/1673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: remove table_id in RegionStat](https://github.com/GreptimeTeam/greptime-proto/pull/43) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [fix: invalidate table route cache](https://github.com/GreptimeTeam/greptimedb/pull/1663) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add invalidate cache step](https://github.com/GreptimeTeam/greptimedb/pull/1658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: change table_id type to u32](https://github.com/GreptimeTeam/greptime-proto/pull/40) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
-- [refactor: move code out of loop](https://github.com/GreptimeTeam/greptimedb/pull/1657) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [feat: add invalidate cache step](https://github.com/GreptimeTeam/greptimedb/pull/1658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [fix: change table_id type to u32](https://github.com/GreptimeTeam/greptime-proto/pull/40) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 weeks ago)
+- [refactor: move code out of loop](https://github.com/GreptimeTeam/greptimedb/pull/1657) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: acquire table_id from region_id](https://github.com/GreptimeTeam/greptimedb/pull/1656) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: add keep lease handler for frontend node](https://github.com/GreptimeTeam/greptimedb/pull/1655) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: fix type casting issue](https://github.com/GreptimeTeam/greptimedb/pull/1652) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
@@ -29,17 +29,17 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (today)
-- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C&#43;&#43; code into a Rust library (3 days ago)
-- [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust (4 days ago)
-- [gtk-rs/gtk-rs-core](https://github.com/gtk-rs/gtk-rs-core) - Rust bindings for GNOME libraries (5 days ago)
-- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (5 days ago)
-- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (5 days ago)
-- [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C&#43;&#43; libraries from Rust (5 days ago)
-- [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format (5 days ago)
-- [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer (5 days ago)
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (5 days ago)
-- [khonsulabs/okaywal](https://github.com/khonsulabs/okaywal) - A Write Ahead Log (WAL) implementation in Rust (5 days ago)
+- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 day ago)
+- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C&#43;&#43; code into a Rust library (4 days ago)
+- [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust (5 days ago)
+- [gtk-rs/gtk-rs-core](https://github.com/gtk-rs/gtk-rs-core) - Rust bindings for GNOME libraries (6 days ago)
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (6 days ago)
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (6 days ago)
+- [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C&#43;&#43; libraries from Rust (6 days ago)
+- [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format (6 days ago)
+- [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer (6 days ago)
+- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (6 days ago)
+- [khonsulabs/okaywal](https://github.com/khonsulabs/okaywal) - A Write Ahead Log (WAL) implementation in Rust (6 days ago)
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB (1 week ago)
 - [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal&#39;s home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale. (1 week ago)
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking (1 week ago)
@@ -47,7 +47,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (today)
+- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 day ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 week ago)
 - [GreptimeTeam/gtctl](https://github.com/GreptimeTeam/gtctl) - gtctl is a command-line tool for managing GreptimeDB cluster. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 weeks ago)
