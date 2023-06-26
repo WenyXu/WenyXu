@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: refactor dn heartbeat task creating](https://github.com/GreptimeTeam/greptimedb/pull/1832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor(datanode): move Instance heartbeat task to Datanode struct](https://github.com/GreptimeTeam/greptimedb/pull/1832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove redundant code](https://github.com/GreptimeTeam/greptimedb/pull/1821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: support to copy from orc format](https://github.com/GreptimeTeam/greptimedb/pull/1814) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: add debug log for heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1770) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
