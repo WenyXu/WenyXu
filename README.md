@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor dn heartbeat task creating](https://github.com/GreptimeTeam/greptimedb/pull/1832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove redundant code](https://github.com/GreptimeTeam/greptimedb/pull/1821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: support to copy from orc format](https://github.com/GreptimeTeam/greptimedb/pull/1814) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: add debug log for heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1770) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: acquire table_id from region_id](https://github.com/GreptimeTeam/greptimedb/pull/1656) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add keep lease handler for frontend node](https://github.com/GreptimeTeam/greptimedb/pull/1655) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix type casting issue](https://github.com/GreptimeTeam/greptimedb/pull/1652) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: support to load missing region](https://github.com/GreptimeTeam/greptimedb/pull/1651) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
