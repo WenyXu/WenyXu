@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1845) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add ddl task service](https://github.com/GreptimeTeam/greptime-proto/pull/53) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [refactor(datanode): move Instance heartbeat task to Datanode struct](https://github.com/GreptimeTeam/greptimedb/pull/1832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: remove redundant code](https://github.com/GreptimeTeam/greptimedb/pull/1821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: change table_id type to u32](https://github.com/GreptimeTeam/greptime-proto/pull/40) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [refactor: move code out of loop](https://github.com/GreptimeTeam/greptimedb/pull/1657) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: acquire table_id from region_id](https://github.com/GreptimeTeam/greptimedb/pull/1656) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add keep lease handler for frontend node](https://github.com/GreptimeTeam/greptimedb/pull/1655) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
