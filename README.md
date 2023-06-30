@@ -29,7 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [WenyXu/gt-term](https://github.com/WenyXu/gt-term) -  (today)
+- [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (today)
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno (today)
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (today)
 - [learnedsystems/RMI](https://github.com/learnedsystems/RMI) - The recursive model index, a learned index structure (1 day ago)
@@ -47,7 +47,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/gt-term](https://github.com/WenyXu/gt-term) -  (today)
+- [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (2 days ago)
