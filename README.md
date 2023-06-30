@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [GreptimeTeam/greptimedb-client-py](https://github.com/GreptimeTeam/greptimedb-client-py) -  (today)
+- [teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry) -  (today)
 - [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (today)
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno (today)
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (today)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (1 week ago)
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (1 week ago)
 - [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C&#43;&#43; libraries from Rust (1 week ago)
-- [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format (1 week ago)
-- [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
