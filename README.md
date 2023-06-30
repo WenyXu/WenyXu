@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno (today)
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (today)
 - [learnedsystems/RMI](https://github.com/learnedsystems/RMI) - The recursive model index, a learned index structure (1 day ago)
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol. (5 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format (1 week ago)
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer (1 week ago)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (1 week ago)
-- [khonsulabs/okaywal](https://github.com/khonsulabs/okaywal) - A Write Ahead Log (WAL) implementation in Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
