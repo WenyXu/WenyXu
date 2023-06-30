@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (today)
 - [learnedsystems/RMI](https://github.com/learnedsystems/RMI) - The recursive model index, a learned index structure (1 day ago)
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol. (5 days ago)
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (6 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer (1 week ago)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (1 week ago)
 - [khonsulabs/okaywal](https://github.com/khonsulabs/okaywal) - A Write Ahead Log (WAL) implementation in Rust (1 week ago)
-- [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
