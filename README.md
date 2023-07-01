@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: switch to using create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1861) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add ddl client](https://github.com/GreptimeTeam/greptimedb/pull/1856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: bump orc-rust to 0319acd](https://github.com/GreptimeTeam/greptimedb/pull/1847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: add create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1845) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: remove table_id in RegionStat](https://github.com/GreptimeTeam/greptime-proto/pull/43) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [fix: invalidate table route cache](https://github.com/GreptimeTeam/greptimedb/pull/1663) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add invalidate cache step](https://github.com/GreptimeTeam/greptimedb/pull/1658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: change table_id type to u32](https://github.com/GreptimeTeam/greptime-proto/pull/40) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -42,7 +42,7 @@ Hi 👋 Weny here.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (today)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (today)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output (today)
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js (today)
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends (today)
 - [ByteStorage/FlyDB](https://github.com/ByteStorage/FlyDB) - The high-performance kv storage engine based on bitcask paper made in golang (today)
 
 #### 👷 Check out what I'm currently working on
