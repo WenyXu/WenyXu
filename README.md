@@ -29,21 +29,21 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). (today)
+- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust (today)
+- [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes. (today)
+- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course (today)
+- [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow. (today)
+- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (today)
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries (today)
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language. (today)
+- [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language (today)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (today)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (today)
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output (today)
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js (today)
+- [ByteStorage/FlyDB](https://github.com/ByteStorage/FlyDB) - The high-performance kv storage engine based on bitcask paper made in golang (today)
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy (today)
-- [GreptimeTeam/greptimedb-client-py](https://github.com/GreptimeTeam/greptimedb-client-py) -  (1 day ago)
-- [teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry) -  (1 day ago)
-- [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (1 day ago)
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno (1 day ago)
-- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (1 day ago)
-- [learnedsystems/RMI](https://github.com/learnedsystems/RMI) - The recursive model index, a learned index structure (2 days ago)
-- [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol. (6 days ago)
-- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (1 week ago)
-- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 week ago)
-- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C&#43;&#43; code into a Rust library (1 week ago)
-- [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust (1 week ago)
-- [gtk-rs/gtk-rs-core](https://github.com/gtk-rs/gtk-rs-core) - Rust bindings for GNOME libraries (1 week ago)
-- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (1 week ago)
-- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
