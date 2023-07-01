@@ -6,12 +6,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add ddl client](https://github.com/GreptimeTeam/greptimedb/pull/1856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: bump orc-rust to 0319acd](https://github.com/GreptimeTeam/greptimedb/pull/1847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1845) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add ddl task service](https://github.com/GreptimeTeam/greptime-proto/pull/53) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
-- [refactor(datanode): move Instance heartbeat task to Datanode struct](https://github.com/GreptimeTeam/greptimedb/pull/1832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [refactor: remove redundant code](https://github.com/GreptimeTeam/greptimedb/pull/1821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add ddl client](https://github.com/GreptimeTeam/greptimedb/pull/1856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: bump orc-rust to 0319acd](https://github.com/GreptimeTeam/greptimedb/pull/1847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1845) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add ddl task service](https://github.com/GreptimeTeam/greptime-proto/pull/53) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
+- [refactor(datanode): move Instance heartbeat task to Datanode struct](https://github.com/GreptimeTeam/greptimedb/pull/1832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [refactor: remove redundant code](https://github.com/GreptimeTeam/greptimedb/pull/1821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: support to copy from orc format](https://github.com/GreptimeTeam/greptimedb/pull/1814) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add debug log for heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1770) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: add missing description](https://github.com/chaos-mesh/website/pull/389) on [chaos-mesh/website](https://github.com/chaos-mesh/website) (2 weeks ago)
@@ -29,14 +29,14 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [GreptimeTeam/greptimedb-client-py](https://github.com/GreptimeTeam/greptimedb-client-py) -  (today)
-- [teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry) -  (today)
-- [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (today)
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno (today)
-- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (today)
-- [learnedsystems/RMI](https://github.com/learnedsystems/RMI) - The recursive model index, a learned index structure (1 day ago)
-- [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol. (5 days ago)
-- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (6 days ago)
+- [GreptimeTeam/greptimedb-client-py](https://github.com/GreptimeTeam/greptimedb-client-py) -  (1 day ago)
+- [teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry) -  (1 day ago)
+- [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (1 day ago)
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno (1 day ago)
+- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (1 day ago)
+- [learnedsystems/RMI](https://github.com/learnedsystems/RMI) - The recursive model index, a learned index structure (2 days ago)
+- [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol. (6 days ago)
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (1 week ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 week ago)
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C&#43;&#43; code into a Rust library (1 week ago)
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust (1 week ago)
@@ -47,10 +47,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
-- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 days ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (2 days ago)
+- [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
+- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (3 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 days ago)
 - [GreptimeTeam/gtctl](https://github.com/GreptimeTeam/gtctl) - gtctl is a command-line tool for managing GreptimeDB cluster. (2 weeks ago)
 
 #### 👯 Check out my recent followers
