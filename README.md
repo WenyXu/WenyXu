@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy (today)
 - [GreptimeTeam/greptimedb-client-py](https://github.com/GreptimeTeam/greptimedb-client-py) -  (1 day ago)
 - [teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry) -  (1 day ago)
 - [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [gtk-rs/gtk-rs-core](https://github.com/gtk-rs/gtk-rs-core) - Rust bindings for GNOME libraries (1 week ago)
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (1 week ago)
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (1 week ago)
-- [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C&#43;&#43; libraries from Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
