@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Mellorsssss](https://github.com/Mellorsssss)
 - [Nateiru](https://github.com/Nateiru)
 - [shawnh2](https://github.com/shawnh2)
 - [platoneko](https://github.com/platoneko)
 - [xzhseh](https://github.com/xzhseh)
-- [loloxwg](https://github.com/loloxwg)
 
 
