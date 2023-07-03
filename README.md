@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs (today)
 - [serde-rs/bytes](https://github.com/serde-rs/bytes) - Wrapper types to enable optimized handling of &amp;[u8] and Vec&lt;u8&gt; (today)
 - [datenlord/lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash) - A rust implementation of lock free cuckoo hashmap (2 days ago)
 - [google/zerocopy](https://github.com/google/zerocopy) -  (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language. (2 days ago)
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language (2 days ago)
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (2 days ago)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
