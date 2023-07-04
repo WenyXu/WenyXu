@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (today)
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs (1 day ago)
 - [serde-rs/bytes](https://github.com/serde-rs/bytes) - Wrapper types to enable optimized handling of &amp;[u8] and Vec&lt;u8&gt; (1 day ago)
 - [datenlord/lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash) - A rust implementation of lock free cuckoo hashmap (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries (3 days ago)
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language. (3 days ago)
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language (3 days ago)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
