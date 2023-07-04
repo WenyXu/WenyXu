@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: implement Display for TableRouteKey](https://github.com/GreptimeTeam/greptimedb/pull/1879) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: implement alter table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement drop table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1872) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: switch to using create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1861) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: add ddl client](https://github.com/GreptimeTeam/greptimedb/pull/1856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -24,8 +26,6 @@ Hi 👋 Weny here.
 - [feat: add chaos testing toolkit](https://github.com/GreptimeTeam/greptimedb/pull/1713) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: enable region failover test](https://github.com/GreptimeTeam/greptimedb/pull/1699) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [test: add write test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/1673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: remove table_id in RegionStat](https://github.com/GreptimeTeam/greptime-proto/pull/43) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
-- [fix: invalidate table route cache](https://github.com/GreptimeTeam/greptimedb/pull/1663) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
