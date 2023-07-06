@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: bump proto to 917ead6](https://github.com/GreptimeTeam/greptimedb/pull/1892) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: Add DropTableTask, AlterTableTask](https://github.com/GreptimeTeam/greptime-proto/pull/54) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [fix: fix broken CI 😢](https://github.com/GreptimeTeam/greptimedb/pull/1884) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: implement Display for TableRouteKey](https://github.com/GreptimeTeam/greptimedb/pull/1879) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: remove datanode mysql-addr](https://github.com/GreptimeTeam/gtctl/pull/81) on [GreptimeTeam/gtctl](https://github.com/GreptimeTeam/gtctl) (3 weeks ago)
 - [chore: make MetaKvBackend public](https://github.com/GreptimeTeam/greptimedb/pull/1761) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [test(chaos-master): add an example test](https://github.com/GreptimeTeam/greptimedb/pull/1736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add chaos testing toolkit](https://github.com/GreptimeTeam/greptimedb/pull/1713) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
