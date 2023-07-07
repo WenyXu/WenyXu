@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust. (today)
+- [apple-oss-distributions/distribution-macOS](https://github.com/apple-oss-distributions/distribution-macOS) -  (today)
 - [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (1 day ago)
 - [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (3 days ago)
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs (4 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course (6 days ago)
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow. (6 days ago)
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (6 days ago)
-- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries (6 days ago)
-- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
