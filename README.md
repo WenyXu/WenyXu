@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust (today)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (today)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (today)
 - [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust. (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). (6 days ago)
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust (6 days ago)
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes. (6 days ago)
-- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
