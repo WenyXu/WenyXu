@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat!: rename WITH parameter ENDPOINT_URL to ENDPOINT](https://github.com/GreptimeTeam/greptimedb/pull/1904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix typo](https://github.com/GreptimeTeam/docs/pull/468) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: switch to using drop table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1901) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump orc-rust to 0.2.4](https://github.com/GreptimeTeam/greptimedb/pull/1894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: support to copy from orc format](https://github.com/GreptimeTeam/greptimedb/pull/1814) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: add debug log for heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1770) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: add missing description](https://github.com/chaos-mesh/website/pull/389) on [chaos-mesh/website](https://github.com/chaos-mesh/website) (3 weeks ago)
-- [feat: enable azblob tests](https://github.com/GreptimeTeam/greptimedb/pull/1765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
