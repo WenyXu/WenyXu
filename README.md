@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix typo](https://github.com/GreptimeTeam/docs/pull/468) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: switch to using drop table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1901) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump orc-rust to 0.2.4](https://github.com/GreptimeTeam/greptimedb/pull/1894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: bump proto to 917ead6](https://github.com/GreptimeTeam/greptimedb/pull/1892) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [chore: add debug log for heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1770) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: add missing description](https://github.com/chaos-mesh/website/pull/389) on [chaos-mesh/website](https://github.com/chaos-mesh/website) (3 weeks ago)
 - [feat: enable azblob tests](https://github.com/GreptimeTeam/greptimedb/pull/1765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [refactor: remove datanode mysql-addr](https://github.com/GreptimeTeam/gtctl/pull/81) on [GreptimeTeam/gtctl](https://github.com/GreptimeTeam/gtctl) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,7 +47,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 day ago)
 - [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (1 week ago)
