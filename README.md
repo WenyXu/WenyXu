@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (today)
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas (today)
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust (today)
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [serde-rs/bytes](https://github.com/serde-rs/bytes) - Wrapper types to enable optimized handling of &amp;[u8] and Vec&lt;u8&gt; (5 days ago)
 - [datenlord/lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash) - A rust implementation of lock free cuckoo hashmap (1 week ago)
 - [google/zerocopy](https://github.com/google/zerocopy) -  (1 week ago)
-- [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
