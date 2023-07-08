@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas (today)
+- [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust (today)
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows (today)
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust (1 day ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 day ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (1 day ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [datenlord/lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash) - A rust implementation of lock free cuckoo hashmap (1 week ago)
 - [google/zerocopy](https://github.com/google/zerocopy) -  (1 week ago)
 - [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml (1 week ago)
-- [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). (1 week ago)
-- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust (1 week ago)
-- [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [silver-ymz](https://github.com/silver-ymz)
 - [Mellorsssss](https://github.com/Mellorsssss)
 - [Nateiru](https://github.com/Nateiru)
 - [shawnh2](https://github.com/shawnh2)
 - [platoneko](https://github.com/platoneko)
-- [xzhseh](https://github.com/xzhseh)
 
 
