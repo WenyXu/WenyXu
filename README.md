@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [jamesmunns/internet-of-streams](https://github.com/jamesmunns/internet-of-streams) - An IoT project focused on teaching embedded, rustlang, and IoT concepts through coding streams (today)
 - [rosedblabs/wal](https://github.com/rosedblabs/wal) - Write Ahead Log for LSM or bitcask storage. (1 day ago)
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (1 day ago)
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (5 days ago)
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs (6 days ago)
 - [serde-rs/bytes](https://github.com/serde-rs/bytes) - Wrapper types to enable optimized handling of &amp;[u8] and Vec&lt;u8&gt; (6 days ago)
-- [datenlord/lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash) - A rust implementation of lock free cuckoo hashmap (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
