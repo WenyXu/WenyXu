@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (today)
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (1 day ago)
 - [jamesmunns/internet-of-streams](https://github.com/jamesmunns/internet-of-streams) - An IoT project focused on teaching embedded, rustlang, and IoT concepts through coding streams (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust. (3 days ago)
 - [apple-oss-distributions/distribution-macOS](https://github.com/apple-oss-distributions/distribution-macOS) -  (3 days ago)
 - [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (4 days ago)
-- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
