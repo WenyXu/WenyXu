@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: cast orc data against output schema ](https://github.com/GreptimeTeam/greptimedb/pull/1922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/1913) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat!: rename WITH parameter ENDPOINT_URL to ENDPOINT](https://github.com/GreptimeTeam/greptimedb/pull/1904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: fix typo](https://github.com/GreptimeTeam/docs/pull/468) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor(datanode): move Instance heartbeat task to Datanode struct](https://github.com/GreptimeTeam/greptimedb/pull/1832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: remove redundant code](https://github.com/GreptimeTeam/greptimedb/pull/1821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: support to copy from orc format](https://github.com/GreptimeTeam/greptimedb/pull/1814) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: add debug log for heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/1770) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
