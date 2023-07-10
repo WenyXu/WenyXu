@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (today)
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (1 day ago)
 - [jamesmunns/internet-of-streams](https://github.com/jamesmunns/internet-of-streams) - An IoT project focused on teaching embedded, rustlang, and IoT concepts through coding streams (1 day ago)
 - [rosedblabs/wal](https://github.com/rosedblabs/wal) - Write Ahead Log for LSM or bitcask storage. (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [apple-oss-distributions/distribution-macOS](https://github.com/apple-oss-distributions/distribution-macOS) -  (3 days ago)
 - [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (4 days ago)
 - [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (6 days ago)
-- [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
