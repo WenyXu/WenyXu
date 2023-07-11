@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust (today)
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 day ago)
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (4 days ago)
 - [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust. (4 days ago)
 - [apple-oss-distributions/distribution-macOS](https://github.com/apple-oss-distributions/distribution-macOS) -  (4 days ago)
-- [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [fengjiachun](https://github.com/fengjiachun)
 - [silver-ymz](https://github.com/silver-ymz)
 - [Mellorsssss](https://github.com/Mellorsssss)
 - [Nateiru](https://github.com/Nateiru)
 - [shawnh2](https://github.com/shawnh2)
-- [platoneko](https://github.com/platoneko)
 
 
