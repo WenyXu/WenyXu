@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/1933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add table version to alter expr](https://github.com/GreptimeTeam/greptime-proto/pull/58) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix: fix uncaught error 🥲](https://github.com/GreptimeTeam/greptimedb/pull/1929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix uncaught error](https://github.com/GreptimeTeam/greptimedb/pull/1924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add ddl client](https://github.com/GreptimeTeam/greptimedb/pull/1856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: bump orc-rust to 0319acd](https://github.com/GreptimeTeam/greptimedb/pull/1847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1845) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add ddl task service](https://github.com/GreptimeTeam/greptime-proto/pull/53) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
