@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix frontend meta client option issue](https://github.com/GreptimeTeam/greptimedb/pull/1939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: meta procedure options](https://github.com/GreptimeTeam/greptimedb/pull/1937) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/1933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add table version to alter expr](https://github.com/GreptimeTeam/greptime-proto/pull/58) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
@@ -25,10 +26,10 @@ Hi 👋 Weny here.
 - [feat: implement drop table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1872) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: switch to using create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1861) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add ddl client](https://github.com/GreptimeTeam/greptimedb/pull/1856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [chore: bump orc-rust to 0319acd](https://github.com/GreptimeTeam/greptimedb/pull/1847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
+- [GreptimeTeam/greptimedb-client-cpp](https://github.com/GreptimeTeam/greptimedb-client-cpp) - GreptimeDB C&#43;&#43; Client (today)
 - [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust (today)
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (4 days ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (4 days ago)
 - [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust. (4 days ago)
-- [apple-oss-distributions/distribution-macOS](https://github.com/apple-oss-distributions/distribution-macOS) -  (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
