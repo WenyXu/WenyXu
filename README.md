@@ -48,7 +48,7 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (6 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (today)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (6 days ago)
 - [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (1 week ago)
 - [GreptimeTeam/gtctl](https://github.com/GreptimeTeam/gtctl) - gtctl is a command-line tool for managing GreptimeDB cluster. (1 month ago)
