@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rdaum/rart-rs](https://github.com/rdaum/rart-rs) - An Adaptive Radix Tree implementation. (today)
 - [GreptimeTeam/greptimedb-client-cpp](https://github.com/GreptimeTeam/greptimedb-client-cpp) - GreptimeDB C&#43;&#43; Client (2 days ago)
 - [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust (2 days ago)
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust (6 days ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (6 days ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (6 days ago)
-- [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
