@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (today)
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves (today)
 - [tfpk/lifetimekata](https://github.com/tfpk/lifetimekata) - An exploration of lifetimes in Rust. (today)
 - [hikari-no-yume/touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [jamesmunns/internet-of-streams](https://github.com/jamesmunns/internet-of-streams) - An IoT project focused on teaching embedded, rustlang, and IoT concepts through coding streams (4 days ago)
 - [rosedblabs/wal](https://github.com/rosedblabs/wal) - Write Ahead Log for LSM or bitcask storage. (5 days ago)
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (5 days ago)
-- [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [maulvialf](https://github.com/maulvialf)
 - [Chiro11](https://github.com/Chiro11)
 - [etolbakov](https://github.com/etolbakov)
 - [v0y4g3r](https://github.com/v0y4g3r)
 - [El-even-11](https://github.com/El-even-11)
-- [fengjiachun](https://github.com/fengjiachun)
 
 
