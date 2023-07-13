@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: invalidate table cache after altering](https://github.com/GreptimeTeam/greptimedb/pull/1951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix frontend meta client option issue](https://github.com/GreptimeTeam/greptimedb/pull/1939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: meta procedure options](https://github.com/GreptimeTeam/greptimedb/pull/1937) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/1933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: implement alter table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement drop table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1872) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: switch to using create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1861) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add ddl client](https://github.com/GreptimeTeam/greptimedb/pull/1856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
