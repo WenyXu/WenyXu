@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tfpk/lifetimekata](https://github.com/tfpk/lifetimekata) - An exploration of lifetimes in Rust. (today)
+- [hikari-no-yume/touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps (today)
+- [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more. (today)
 - [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis. (today)
 - [rdaum/rart-rs](https://github.com/rdaum/rart-rs) - An Adaptive Radix Tree implementation. (today)
 - [GreptimeTeam/greptimedb-client-cpp](https://github.com/GreptimeTeam/greptimedb-client-cpp) - GreptimeDB C&#43;&#43; Client (2 days ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (5 days ago)
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas (5 days ago)
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust (5 days ago)
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows (5 days ago)
-- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust (6 days ago)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
