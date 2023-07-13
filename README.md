@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis. (today)
 - [rdaum/rart-rs](https://github.com/rdaum/rart-rs) - An Adaptive Radix Tree implementation. (today)
 - [GreptimeTeam/greptimedb-client-cpp](https://github.com/GreptimeTeam/greptimedb-client-cpp) - GreptimeDB C&#43;&#43; Client (2 days ago)
 - [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows (5 days ago)
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust (6 days ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (6 days ago)
-- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
