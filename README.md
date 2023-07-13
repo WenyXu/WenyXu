@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [El-even-11](https://github.com/El-even-11)
 - [fengjiachun](https://github.com/fengjiachun)
 - [silver-ymz](https://github.com/silver-ymz)
 - [Mellorsssss](https://github.com/Mellorsssss)
 - [Nateiru](https://github.com/Nateiru)
-- [shawnh2](https://github.com/shawnh2)
 
 
