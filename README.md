@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Chiro11](https://github.com/Chiro11)
 - [etolbakov](https://github.com/etolbakov)
 - [v0y4g3r](https://github.com/v0y4g3r)
 - [El-even-11](https://github.com/El-even-11)
 - [fengjiachun](https://github.com/fengjiachun)
-- [silver-ymz](https://github.com/silver-ymz)
 
 
