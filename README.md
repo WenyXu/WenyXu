@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project (today)
+- [jeromefroe/lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache (today)
 - [TaKO8Ki/qcc](https://github.com/TaKO8Ki/qcc) - [WIP] A toy C compiler written in Rust (today)
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (1 day ago)
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (4 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (4 days ago)
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (5 days ago)
-- [jamesmunns/internet-of-streams](https://github.com/jamesmunns/internet-of-streams) - An IoT project focused on teaching embedded, rustlang, and IoT concepts through coding streams (5 days ago)
-- [rosedblabs/wal](https://github.com/rosedblabs/wal) - Write Ahead Log for LSM or bitcask storage. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [noemiecode](https://github.com/noemiecode)
 - [NiwakaDev](https://github.com/NiwakaDev)
 - [maulvialf](https://github.com/maulvialf)
 - [Chiro11](https://github.com/Chiro11)
 - [etolbakov](https://github.com/etolbakov)
-- [v0y4g3r](https://github.com/v0y4g3r)
 
 
