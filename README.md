@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL (today)
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes. (3 days ago)
 - [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project (3 days ago)
 - [jeromefroe/lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [GreptimeTeam/greptimedb-client-cpp](https://github.com/GreptimeTeam/greptimedb-client-cpp) - GreptimeDB C&#43;&#43; Client (6 days ago)
 - [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust (6 days ago)
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (1 week ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
