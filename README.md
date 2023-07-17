@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: move DatanodeAlterTable after InvalidateTableCache](https://github.com/GreptimeTeam/greptimedb/pull/1978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: add ddl idempotent tests of datanode](https://github.com/GreptimeTeam/greptimedb/pull/1966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: expose metasrv `datanode_client_options`](https://github.com/GreptimeTeam/greptimedb/pull/1965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: invalidate table cache after altering](https://github.com/GreptimeTeam/greptimedb/pull/1951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: Add DropTableTask, AlterTableTask](https://github.com/GreptimeTeam/greptime-proto/pull/54) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [fix: fix broken CI 😢](https://github.com/GreptimeTeam/greptimedb/pull/1884) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: implement Display for TableRouteKey](https://github.com/GreptimeTeam/greptimedb/pull/1879) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: implement alter table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
