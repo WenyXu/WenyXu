@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: alter procedure table not found issue](https://github.com/GreptimeTeam/greptimedb/pull/1993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix wait procedure watcher bug](https://github.com/GreptimeTeam/greptimedb/pull/1987) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: move options to common_options](https://github.com/GreptimeTeam/greptimedb/pull/1983) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add examples of s3 URL](https://github.com/GreptimeTeam/docs/pull/491) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: fix typo](https://github.com/GreptimeTeam/docs/pull/468) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat: switch to using drop table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1901) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: bump orc-rust to 0.2.4](https://github.com/GreptimeTeam/greptimedb/pull/1894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [chore: bump proto to 917ead6](https://github.com/GreptimeTeam/greptimedb/pull/1892) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
