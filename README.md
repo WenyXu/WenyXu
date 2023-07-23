@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (today)
 - [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client (3 days ago)
 - [IGI-111/bktree](https://github.com/IGI-111/bktree) - Rust implementation of a BK-tree datastructure (4 days ago)
 - [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure (5 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (1 week ago)
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves (1 week ago)
 - [tfpk/lifetimekata](https://github.com/tfpk/lifetimekata) - An exploration of lifetimes in Rust. (1 week ago)
-- [hikari-no-yume/touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
