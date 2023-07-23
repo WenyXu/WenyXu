@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: alter procedure table not found issue](https://github.com/GreptimeTeam/greptimedb/pull/1993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: fix wait procedure watcher bug](https://github.com/GreptimeTeam/greptimedb/pull/1987) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [refactor: move options to common_options](https://github.com/GreptimeTeam/greptimedb/pull/1983) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: add examples of s3 URL](https://github.com/GreptimeTeam/docs/pull/491) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [refactor: move DatanodeAlterTable after InvalidateTableCache](https://github.com/GreptimeTeam/greptimedb/pull/1978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: alter procedure table not found issue](https://github.com/GreptimeTeam/greptimedb/pull/1993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: fix wait procedure watcher bug](https://github.com/GreptimeTeam/greptimedb/pull/1987) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [refactor: move options to common_options](https://github.com/GreptimeTeam/greptimedb/pull/1983) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: add examples of s3 URL](https://github.com/GreptimeTeam/docs/pull/491) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [refactor: move DatanodeAlterTable after InvalidateTableCache](https://github.com/GreptimeTeam/greptimedb/pull/1978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [test: add ddl idempotent tests of datanode](https://github.com/GreptimeTeam/greptimedb/pull/1966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: expose metasrv `datanode_client_options`](https://github.com/GreptimeTeam/greptimedb/pull/1965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: invalidate table cache after altering](https://github.com/GreptimeTeam/greptimedb/pull/1951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -21,7 +21,7 @@ Hi 👋 Weny here.
 - [fix: fix uncaught error 🥲](https://github.com/GreptimeTeam/greptimedb/pull/1929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix uncaught error](https://github.com/GreptimeTeam/greptimedb/pull/1924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: cast orc data against output schema ](https://github.com/GreptimeTeam/greptimedb/pull/1922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/1913) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [refactor: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/1913) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat!: rename WITH parameter ENDPOINT_URL to ENDPOINT](https://github.com/GreptimeTeam/greptimedb/pull/1904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix typo](https://github.com/GreptimeTeam/docs/pull/468) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [feat: switch to using drop table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1901) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -29,13 +29,13 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client (2 days ago)
-- [IGI-111/bktree](https://github.com/IGI-111/bktree) - Rust implementation of a BK-tree datastructure (3 days ago)
-- [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure (4 days ago)
-- [al8n/fs4-rs](https://github.com/al8n/fs4-rs) - Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix. (4 days ago)
-- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (5 days ago)
-- [RalfJung/rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language (5 days ago)
-- [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL (5 days ago)
+- [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client (3 days ago)
+- [IGI-111/bktree](https://github.com/IGI-111/bktree) - Rust implementation of a BK-tree datastructure (4 days ago)
+- [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure (5 days ago)
+- [al8n/fs4-rs](https://github.com/al8n/fs4-rs) - Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix. (5 days ago)
+- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (6 days ago)
+- [RalfJung/rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language (6 days ago)
+- [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL (6 days ago)
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes. (1 week ago)
 - [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project (1 week ago)
 - [jeromefroe/lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache (1 week ago)
@@ -47,8 +47,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (4 days ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 week ago)
 - [WenyXu/gt-term](https://github.com/WenyXu/gt-term) - Your first Serverless GreptimeDB on Vercel 🤣 (3 weeks ago)
