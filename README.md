@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (today)
 - [waynexia/rgb-action](https://github.com/waynexia/rgb-action) - GitHub Action status in RGB (today)
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (2 days ago)
 - [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client (5 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [jeromefroe/lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache (1 week ago)
 - [TaKO8Ki/qcc](https://github.com/TaKO8Ki/qcc) - [WIP] A toy C compiler written in Rust (1 week ago)
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (1 week ago)
-- [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
