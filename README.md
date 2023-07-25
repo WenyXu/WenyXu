@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add Catalog and Schema Manager](https://github.com/GreptimeTeam/greptimedb/pull/2037) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix parking_lot unresolved](https://github.com/GreptimeTeam/greptimedb/pull/2025) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: alter procedure table not found issue](https://github.com/GreptimeTeam/greptimedb/pull/1993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix wait procedure watcher bug](https://github.com/GreptimeTeam/greptimedb/pull/1987) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/1913) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat!: rename WITH parameter ENDPOINT_URL to ENDPOINT](https://github.com/GreptimeTeam/greptimedb/pull/1904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix typo](https://github.com/GreptimeTeam/docs/pull/468) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [feat: switch to using drop table procedure](https://github.com/GreptimeTeam/greptimedb/pull/1901) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
