@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add Catalog and Schema Manager](https://github.com/GreptimeTeam/greptimedb/pull/2037) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: fix parking_lot unresolved](https://github.com/GreptimeTeam/greptimedb/pull/2025) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add Catalog and Schema Manager](https://github.com/GreptimeTeam/greptimedb/pull/2037) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: fix parking_lot unresolved](https://github.com/GreptimeTeam/greptimedb/pull/2025) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix: alter procedure table not found issue](https://github.com/GreptimeTeam/greptimedb/pull/1993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix wait procedure watcher bug](https://github.com/GreptimeTeam/greptimedb/pull/1987) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: move options to common_options](https://github.com/GreptimeTeam/greptimedb/pull/1983) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -29,9 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (3 days ago)
-- [waynexia/rgb-action](https://github.com/waynexia/rgb-action) - GitHub Action status in RGB (3 days ago)
-- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (5 days ago)
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (4 days ago)
+- [waynexia/rgb-action](https://github.com/waynexia/rgb-action) - GitHub Action status in RGB (4 days ago)
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (6 days ago)
 - [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client (1 week ago)
 - [IGI-111/bktree](https://github.com/IGI-111/bktree) - Rust implementation of a BK-tree datastructure (1 week ago)
 - [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure (1 week ago)
@@ -47,7 +47,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (4 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (2 weeks ago)
