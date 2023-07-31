@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Nateiru/client-cpp-bench](https://github.com/Nateiru/client-cpp-bench) - greptimedb-client-cpp benchmark (today)
+- [rust-lang/cfg-if](https://github.com/rust-lang/cfg-if) - A if/elif-like macro for Rust #[cfg] statements (today)
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (6 days ago)
 - [waynexia/rgb-action](https://github.com/waynexia/rgb-action) - GitHub Action status in RGB (6 days ago)
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (1 week ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes. (2 weeks ago)
 - [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project (2 weeks ago)
 - [jeromefroe/lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache (2 weeks ago)
-- [TaKO8Ki/qcc](https://github.com/TaKO8Ki/qcc) - [WIP] A toy C compiler written in Rust (2 weeks ago)
-- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
