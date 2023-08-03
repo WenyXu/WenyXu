@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage (today)
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (today)
 - [Nateiru/client-cpp-bench](https://github.com/Nateiru/client-cpp-bench) - greptimedb-client-cpp benchmark (3 days ago)
 - [rust-lang/cfg-if](https://github.com/rust-lang/cfg-if) - A if/elif-like macro for Rust #[cfg] statements (3 days ago)
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (1 week ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [RalfJung/rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language (2 weeks ago)
 - [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL (2 weeks ago)
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes. (2 weeks ago)
-- [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project (2 weeks ago)
-- [jeromefroe/lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
