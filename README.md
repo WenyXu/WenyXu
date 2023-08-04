@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Sprinter1999](https://github.com/Sprinter1999)
 - [parkma99](https://github.com/parkma99)
 - [NiwakaDev](https://github.com/NiwakaDev)
 - [maulvialf](https://github.com/maulvialf)
 - [Chiro11](https://github.com/Chiro11)
-- [etolbakov](https://github.com/etolbakov)
 
 
