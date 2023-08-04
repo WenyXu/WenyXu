@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks. (today)
+- [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts) (today)
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage (1 day ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (1 day ago)
 - [Nateiru/client-cpp-bench](https://github.com/Nateiru/client-cpp-bench) - greptimedb-client-cpp benchmark (4 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [al8n/fs4-rs](https://github.com/al8n/fs4-rs) - Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix. (2 weeks ago)
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (2 weeks ago)
 - [RalfJung/rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language (2 weeks ago)
-- [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL (2 weeks ago)
-- [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
