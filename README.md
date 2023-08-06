@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add schema and catalog key migration tool](https://github.com/GreptimeTeam/greptimedb/pull/2048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: add schema and catalog key migration tool](https://github.com/GreptimeTeam/greptimedb/pull/2048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: add Catalog and Schema Manager](https://github.com/GreptimeTeam/greptimedb/pull/2037) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix parking_lot unresolved](https://github.com/GreptimeTeam/greptimedb/pull/2025) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: alter procedure table not found issue](https://github.com/GreptimeTeam/greptimedb/pull/1993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -24,20 +24,20 @@ Hi 👋 Weny here.
 - [fix: fix uncaught error 🥲](https://github.com/GreptimeTeam/greptimedb/pull/1929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: fix uncaught error](https://github.com/GreptimeTeam/greptimedb/pull/1924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: cast orc data against output schema ](https://github.com/GreptimeTeam/greptimedb/pull/1922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [refactor: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/1913) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat!: rename WITH parameter ENDPOINT_URL to ENDPOINT](https://github.com/GreptimeTeam/greptimedb/pull/1904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [refactor: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/1913) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [feat!: rename WITH parameter ENDPOINT_URL to ENDPOINT](https://github.com/GreptimeTeam/greptimedb/pull/1904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks. (1 day ago)
-- [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts) (1 day ago)
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage (2 days ago)
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (2 days ago)
-- [Nateiru/client-cpp-bench](https://github.com/Nateiru/client-cpp-bench) - greptimedb-client-cpp benchmark (5 days ago)
-- [rust-lang/cfg-if](https://github.com/rust-lang/cfg-if) - A if/elif-like macro for Rust #[cfg] statements (5 days ago)
+- [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks. (2 days ago)
+- [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts) (2 days ago)
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage (3 days ago)
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (3 days ago)
+- [Nateiru/client-cpp-bench](https://github.com/Nateiru/client-cpp-bench) - greptimedb-client-cpp benchmark (6 days ago)
+- [rust-lang/cfg-if](https://github.com/rust-lang/cfg-if) - A if/elif-like macro for Rust #[cfg] statements (6 days ago)
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (1 week ago)
 - [waynexia/rgb-action](https://github.com/waynexia/rgb-action) - GitHub Action status in RGB (1 week ago)
-- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (1 week ago)
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (2 weeks ago)
 - [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client (2 weeks ago)
 - [IGI-111/bktree](https://github.com/IGI-111/bktree) - Rust implementation of a BK-tree datastructure (2 weeks ago)
 - [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure (2 weeks ago)
@@ -47,8 +47,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
-- [WenyXu/file_bench](https://github.com/WenyXu/file_bench) -  (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (4 days ago)
+- [WenyXu/file_bench](https://github.com/WenyXu/file_bench) -  (6 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (3 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 weeks ago)
