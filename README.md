@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [frondeus/test-case](https://github.com/frondeus/test-case) - Rust procedural macro attribute for adding test cases easily (today)
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks. (3 days ago)
 - [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts) (3 days ago)
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure (2 weeks ago)
 - [al8n/fs4-rs](https://github.com/al8n/fs4-rs) - Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix. (2 weeks ago)
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (3 weeks ago)
-- [RalfJung/rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
