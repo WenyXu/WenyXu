@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards (today)
 - [servo/ipc-channel](https://github.com/servo/ipc-channel) - A multiprocess drop-in replacement for Rust channels (2 days ago)
 - [frondeus/test-case](https://github.com/frondeus/test-case) - Rust procedural macro attribute for adding test cases easily (2 days ago)
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks. (5 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client (2 weeks ago)
 - [IGI-111/bktree](https://github.com/IGI-111/bktree) - Rust implementation of a BK-tree datastructure (3 weeks ago)
 - [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure (3 weeks ago)
-- [al8n/fs4-rs](https://github.com/al8n/fs4-rs) - Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
