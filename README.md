@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat!: switch to new catalog/schema key](https://github.com/GreptimeTeam/greptimedb/pull/2140) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: return metasrv leader addr](https://github.com/GreptimeTeam/greptimedb/pull/2110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: add schema and catalog key migration tool](https://github.com/GreptimeTeam/greptimedb/pull/2048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add Catalog and Schema Manager](https://github.com/GreptimeTeam/greptimedb/pull/2037) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: fix uncaught error 🥲](https://github.com/GreptimeTeam/greptimedb/pull/1929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix uncaught error](https://github.com/GreptimeTeam/greptimedb/pull/1924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: cast orc data against output schema ](https://github.com/GreptimeTeam/greptimedb/pull/1922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/1913) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
