@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor table metadata manager](https://github.com/GreptimeTeam/greptimedb/pull/2159) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add table route manager and upgrade tool](https://github.com/GreptimeTeam/greptimedb/pull/2145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat!: switch to new catalog/schema key](https://github.com/GreptimeTeam/greptimedb/pull/2140) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: return metasrv leader addr](https://github.com/GreptimeTeam/greptimedb/pull/2110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/1933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add table version to alter expr](https://github.com/GreptimeTeam/greptime-proto/pull/58) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [fix: fix uncaught error 🥲](https://github.com/GreptimeTeam/greptimedb/pull/1929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: fix uncaught error](https://github.com/GreptimeTeam/greptimedb/pull/1924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
