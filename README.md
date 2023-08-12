@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (today)
+- [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust (today)
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (today)
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (today)
 - [orium/rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures (today)
@@ -42,16 +44,14 @@ Hi 👋 Weny here.
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks. (1 week ago)
 - [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts) (1 week ago)
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage (1 week ago)
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (1 week ago)
-- [Nateiru/client-cpp-bench](https://github.com/Nateiru/client-cpp-bench) - greptimedb-client-cpp benchmark (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [WenyXu/postneo](https://github.com/WenyXu/postneo) -  (today)
 - [chaos-mesh/website](https://github.com/chaos-mesh/website) - Source for Chaos Mesh website (3 days ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (5 days ago)
 - [WenyXu/file_bench](https://github.com/WenyXu/file_bench) -  (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
-- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
