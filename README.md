@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [zztaki](https://github.com/zztaki)
 - [gitccl](https://github.com/gitccl)
 - [Dandelionym](https://github.com/Dandelionym)
 - [Sprinter1999](https://github.com/Sprinter1999)
 - [parkma99](https://github.com/parkma99)
-- [NiwakaDev](https://github.com/NiwakaDev)
 
 
