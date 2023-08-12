@@ -29,6 +29,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (today)
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (today)
+- [orium/rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures (today)
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (today)
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light (today)
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge (today)
 - [risingwavelabs/memcomparable](https://github.com/risingwavelabs/memcomparable) - A memcomparable serialization format. (3 days ago)
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards (3 days ago)
@@ -39,11 +44,6 @@ Hi 👋 Weny here.
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage (1 week ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (1 week ago)
 - [Nateiru/client-cpp-bench](https://github.com/Nateiru/client-cpp-bench) - greptimedb-client-cpp benchmark (1 week ago)
-- [rust-lang/cfg-if](https://github.com/rust-lang/cfg-if) - A if/elif-like macro for Rust #[cfg] statements (1 week ago)
-- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (2 weeks ago)
-- [waynexia/rgb-action](https://github.com/waynexia/rgb-action) - GitHub Action status in RGB (2 weeks ago)
-- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (2 weeks ago)
-- [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
