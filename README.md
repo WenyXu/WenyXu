@@ -47,9 +47,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [WenyXu/postneo](https://github.com/WenyXu/postneo) -  (2 days ago)
 - [chaos-mesh/website](https://github.com/chaos-mesh/website) - Source for Chaos Mesh website (5 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 week ago)
 - [WenyXu/file_bench](https://github.com/WenyXu/file_bench) -  (2 weeks ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
 
