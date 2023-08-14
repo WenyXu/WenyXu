@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: update table metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat!: add deserializer for Partition](https://github.com/GreptimeTeam/greptimedb/pull/2169) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: rfc of update metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2165) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: refactor table metadata manager](https://github.com/GreptimeTeam/greptimedb/pull/2159) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: invalidate table cache after altering](https://github.com/GreptimeTeam/greptimedb/pull/1951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix frontend meta client option issue](https://github.com/GreptimeTeam/greptimedb/pull/1939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: meta procedure options](https://github.com/GreptimeTeam/greptimedb/pull/1937) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/1933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
