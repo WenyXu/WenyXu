@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: unite key serialization method](https://github.com/GreptimeTeam/greptimedb/pull/2195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: remove allow-unused](https://github.com/GreptimeTeam/greptimedb/pull/2184) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: update table metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat!: add deserializer for Partition](https://github.com/GreptimeTeam/greptimedb/pull/2169) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [test: add ddl idempotent tests of datanode](https://github.com/GreptimeTeam/greptimedb/pull/1966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: expose metasrv `datanode_client_options`](https://github.com/GreptimeTeam/greptimedb/pull/1965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: invalidate table cache after altering](https://github.com/GreptimeTeam/greptimedb/pull/1951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: fix frontend meta client option issue](https://github.com/GreptimeTeam/greptimedb/pull/1939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
