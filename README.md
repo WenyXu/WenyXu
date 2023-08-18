@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [georust/rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem (today)
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (1 day ago)
 - [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it. (3 days ago)
 - [wspeirs/btree](https://github.com/wspeirs/btree) - On-Disk B&#43; Tree implemented in Rust (6 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [risingwavelabs/memcomparable](https://github.com/risingwavelabs/memcomparable) - A memcomparable serialization format. (1 week ago)
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards (1 week ago)
 - [servo/ipc-channel](https://github.com/servo/ipc-channel) - A multiprocess drop-in replacement for Rust channels (1 week ago)
-- [frondeus/test-case](https://github.com/frondeus/test-case) - Rust procedural macro attribute for adding test cases easily (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
