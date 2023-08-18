@@ -10,7 +10,7 @@ Hi 👋 Weny here.
 - [fix: support to copy from parquet with typecast](https://github.com/GreptimeTeam/greptimedb/pull/2201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: unite key serialization method](https://github.com/GreptimeTeam/greptimedb/pull/2195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: remove allow-unused](https://github.com/GreptimeTeam/greptimedb/pull/2184) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [refactor: update table metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor!: update table metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat!: add deserializer for Partition](https://github.com/GreptimeTeam/greptimedb/pull/2169) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [docs: rfc of update metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2165) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [refactor: refactor table metadata manager](https://github.com/GreptimeTeam/greptimedb/pull/2159) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
