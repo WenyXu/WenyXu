@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang (today)
 - [georust/rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem (4 days ago)
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (5 days ago)
 - [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it. (1 week ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge (1 week ago)
 - [risingwavelabs/memcomparable](https://github.com/risingwavelabs/memcomparable) - A memcomparable serialization format. (1 week ago)
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards (1 week ago)
-- [servo/ipc-channel](https://github.com/servo/ipc-channel) - A multiprocess drop-in replacement for Rust channels (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
