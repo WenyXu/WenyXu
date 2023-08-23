@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL  (today)
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang (1 day ago)
 - [georust/rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem (5 days ago)
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (6 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light (1 week ago)
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge (1 week ago)
 - [risingwavelabs/memcomparable](https://github.com/risingwavelabs/memcomparable) - A memcomparable serialization format. (2 weeks ago)
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
