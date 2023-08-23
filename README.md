@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: fix clippy](https://github.com/GreptimeTeam/greptimedb/pull/2232) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix ddl client can not update leader addr](https://github.com/GreptimeTeam/greptimedb/pull/2205) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [fix: support to copy from parquet with typecast](https://github.com/GreptimeTeam/greptimedb/pull/2201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [refactor: unite key serialization method](https://github.com/GreptimeTeam/greptimedb/pull/2195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: move options to common_options](https://github.com/GreptimeTeam/greptimedb/pull/1983) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add examples of s3 URL](https://github.com/GreptimeTeam/docs/pull/491) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [refactor: move DatanodeAlterTable after InvalidateTableCache](https://github.com/GreptimeTeam/greptimedb/pull/1978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [test: add ddl idempotent tests of datanode](https://github.com/GreptimeTeam/greptimedb/pull/1966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
