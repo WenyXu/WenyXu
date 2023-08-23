@@ -6,10 +6,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix ddl client can not update leader addr](https://github.com/GreptimeTeam/greptimedb/pull/2205) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: support to copy from parquet with typecast](https://github.com/GreptimeTeam/greptimedb/pull/2201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [refactor: unite key serialization method](https://github.com/GreptimeTeam/greptimedb/pull/2195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [chore: remove allow-unused](https://github.com/GreptimeTeam/greptimedb/pull/2184) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: fix ddl client can not update leader addr](https://github.com/GreptimeTeam/greptimedb/pull/2205) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: support to copy from parquet with typecast](https://github.com/GreptimeTeam/greptimedb/pull/2201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor: unite key serialization method](https://github.com/GreptimeTeam/greptimedb/pull/2195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: remove allow-unused](https://github.com/GreptimeTeam/greptimedb/pull/2184) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor!: update table metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat!: add deserializer for Partition](https://github.com/GreptimeTeam/greptimedb/pull/2169) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: rfc of update metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2165) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -29,9 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang (today)
-- [georust/rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem (4 days ago)
-- [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (5 days ago)
+- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang (1 day ago)
+- [georust/rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem (5 days ago)
+- [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (6 days ago)
 - [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it. (1 week ago)
 - [wspeirs/btree](https://github.com/wspeirs/btree) - On-Disk B&#43; Tree implemented in Rust (1 week ago)
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (1 week ago)
@@ -42,14 +42,14 @@ Hi 👋 Weny here.
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (1 week ago)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light (1 week ago)
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge (1 week ago)
-- [risingwavelabs/memcomparable](https://github.com/risingwavelabs/memcomparable) - A memcomparable serialization format. (1 week ago)
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards (1 week ago)
+- [risingwavelabs/memcomparable](https://github.com/risingwavelabs/memcomparable) - A memcomparable serialization format. (2 weeks ago)
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
 - [WenyXu/postneo](https://github.com/WenyXu/postneo) -  (1 week ago)
-- [chaos-mesh/website](https://github.com/chaos-mesh/website) - Source for Chaos Mesh website (1 week ago)
+- [chaos-mesh/website](https://github.com/chaos-mesh/website) - Source for Chaos Mesh website (2 weeks ago)
 - [WenyXu/file_bench](https://github.com/WenyXu/file_bench) -  (3 weeks ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
 
