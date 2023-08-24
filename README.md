@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: set default metasrv procedure retry times to 8 and delay to 5s](https://github.com/GreptimeTeam/greptimedb/pull/2242) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: set default metasrv procedure retry times to 12](https://github.com/GreptimeTeam/greptimedb/pull/2242) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: invalidate cache after altering](https://github.com/GreptimeTeam/greptimedb/pull/2239) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: use table id instead of table ident](https://github.com/GreptimeTeam/greptimedb/pull/2233) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: fix clippy](https://github.com/GreptimeTeam/greptimedb/pull/2232) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [niebayes](https://github.com/niebayes)
 - [0vm](https://github.com/0vm)
 - [zztaki](https://github.com/zztaki)
 - [gitccl](https://github.com/gitccl)
 - [Dandelionym](https://github.com/Dandelionym)
-- [Sprinter1999](https://github.com/Sprinter1999)
 
 
