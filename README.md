@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix RegionAliveKeeper does not find the table after restarting](https://github.com/GreptimeTeam/greptimedb/pull/2249) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: set default metasrv procedure retry times to 12](https://github.com/GreptimeTeam/greptimedb/pull/2242) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: invalidate cache after altering](https://github.com/GreptimeTeam/greptimedb/pull/2239) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: use table id instead of table ident](https://github.com/GreptimeTeam/greptimedb/pull/2233) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add Catalog and Schema Manager](https://github.com/GreptimeTeam/greptimedb/pull/2037) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix parking_lot unresolved](https://github.com/GreptimeTeam/greptimedb/pull/2025) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: alter procedure table not found issue](https://github.com/GreptimeTeam/greptimedb/pull/1993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: fix wait procedure watcher bug](https://github.com/GreptimeTeam/greptimedb/pull/1987) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
