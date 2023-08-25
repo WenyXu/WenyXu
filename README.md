@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (today)
+- [waynexia/cargo-gc](https://github.com/waynexia/cargo-gc) - Where is my space? (today)
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL  (2 days ago)
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang (3 days ago)
 - [georust/rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem (1 week ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [orium/rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures (1 week ago)
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (1 week ago)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light (1 week ago)
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge (1 week ago)
-- [risingwavelabs/memcomparable](https://github.com/risingwavelabs/memcomparable) - A memcomparable serialization format. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
