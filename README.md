@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench) -  (today)
+- [apache/arrow-datafusion-python](https://github.com/apache/arrow-datafusion-python) - Apache Arrow DataFusion Python Bindings (today)
+- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily. (today)
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (today)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 days ago)
 - [waynexia/cargo-gc](https://github.com/waynexia/cargo-gc) - Where is my space? (2 days ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (2 weeks ago)
 - [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust (2 weeks ago)
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (2 weeks ago)
-- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (2 weeks ago)
-- [orium/rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures (2 weeks ago)
-- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
