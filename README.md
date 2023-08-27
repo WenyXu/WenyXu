@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (today)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 days ago)
 - [waynexia/cargo-gc](https://github.com/waynexia/cargo-gc) - Where is my space? (2 days ago)
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL  (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (2 weeks ago)
 - [orium/rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures (2 weeks ago)
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (2 weeks ago)
-- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
