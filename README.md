@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix typoes](https://github.com/GreptimeTeam/greptimedb/pull/2268) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: LoadBase Selector cannot follow the region distribution rules](https://github.com/GreptimeTeam/greptimedb/pull/2259) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: align region numbers to real regions](https://github.com/GreptimeTeam/greptimedb/pull/2257) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: fix RegionAliveKeeper does not find the table after restarting](https://github.com/GreptimeTeam/greptimedb/pull/2249) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat!: switch to new catalog/schema key](https://github.com/GreptimeTeam/greptimedb/pull/2140) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: return metasrv leader addr](https://github.com/GreptimeTeam/greptimedb/pull/2110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add schema and catalog key migration tool](https://github.com/GreptimeTeam/greptimedb/pull/2048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [feat: add Catalog and Schema Manager](https://github.com/GreptimeTeam/greptimedb/pull/2037) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
