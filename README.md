@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: use RegionId region number instead](https://github.com/GreptimeTeam/greptimedb/pull/2273) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: open region does not register catalog/schema](https://github.com/GreptimeTeam/greptimedb/pull/2271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix typoes](https://github.com/GreptimeTeam/greptimedb/pull/2268) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: LoadBase Selector cannot follow the region distribution rules](https://github.com/GreptimeTeam/greptimedb/pull/2259) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: refactor table metadata manager](https://github.com/GreptimeTeam/greptimedb/pull/2159) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add table route manager and upgrade tool](https://github.com/GreptimeTeam/greptimedb/pull/2145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat!: switch to new catalog/schema key](https://github.com/GreptimeTeam/greptimedb/pull/2140) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: return metasrv leader addr](https://github.com/GreptimeTeam/greptimedb/pull/2110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
