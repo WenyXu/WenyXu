@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [blockloop/scan](https://github.com/blockloop/scan) - Tiny lib to scan SQL rows directly to structs, slices, and primitive types (today)
 - [essa-project/anna-rs](https://github.com/essa-project/anna-rs) -  (today)
 - [pacman82/odbc2parquet](https://github.com/pacman82/odbc2parquet) - A command line tool to query an ODBC data source and write the result into a parquet file. (2 days ago)
 - [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [georust/rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem (1 week ago)
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (1 week ago)
 - [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it. (2 weeks ago)
-- [wspeirs/btree](https://github.com/wspeirs/btree) - On-Disk B&#43; Tree implemented in Rust (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
