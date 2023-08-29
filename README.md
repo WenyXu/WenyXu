@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: deregister table after keeper closes table](https://github.com/GreptimeTeam/greptimedb/pull/2278) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: skip procedure if target route is not found](https://github.com/GreptimeTeam/greptimedb/pull/2277) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: use RegionId region number instead](https://github.com/GreptimeTeam/greptimedb/pull/2273) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: open region does not register catalog/schema](https://github.com/GreptimeTeam/greptimedb/pull/2271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat!: add deserializer for Partition](https://github.com/GreptimeTeam/greptimedb/pull/2169) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: rfc of update metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2165) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: refactor table metadata manager](https://github.com/GreptimeTeam/greptimedb/pull/2159) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add table route manager and upgrade tool](https://github.com/GreptimeTeam/greptimedb/pull/2145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
