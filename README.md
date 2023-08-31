@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验 (today)
 - [blockloop/scan](https://github.com/blockloop/scan) - Tiny lib to scan SQL rows directly to structs, slices, and primitive types (2 days ago)
 - [essa-project/anna-rs](https://github.com/essa-project/anna-rs) -  (2 days ago)
 - [pacman82/odbc2parquet](https://github.com/pacman82/odbc2parquet) - A command line tool to query an ODBC data source and write the result into a parquet file. (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang (1 week ago)
 - [georust/rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem (1 week ago)
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (2 weeks ago)
-- [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
