@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor ddl procedure](https://github.com/GreptimeTeam/greptimedb/pull/2304) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: refactor: ddl context](https://github.com/GreptimeTeam/greptimedb/pull/2301) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: deregister table after keeper closes table](https://github.com/GreptimeTeam/greptimedb/pull/2278) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: skip procedure if target route is not found](https://github.com/GreptimeTeam/greptimedb/pull/2277) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [chore: remove allow-unused](https://github.com/GreptimeTeam/greptimedb/pull/2184) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor!: update table metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat!: add deserializer for Partition](https://github.com/GreptimeTeam/greptimedb/pull/2169) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [docs: rfc of update metadata in single txn](https://github.com/GreptimeTeam/greptimedb/pull/2165) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
