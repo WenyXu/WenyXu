@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [evmar/retrowin32](https://github.com/evmar/retrowin32) - windows emulator (today)
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (today)
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验 (2 days ago)
 - [blockloop/scan](https://github.com/blockloop/scan) - Tiny lib to scan SQL rows directly to structs, slices, and primitive types (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [waynexia/cargo-gc](https://github.com/waynexia/cargo-gc) - Where is my space? (1 week ago)
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL  (1 week ago)
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang (1 week ago)
-- [georust/rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
