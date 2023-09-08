@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [RikValens1988](https://github.com/RikValens1988)
 - [Cerdore](https://github.com/Cerdore)
 - [summer-boythink](https://github.com/summer-boythink)
 - [niebayes](https://github.com/niebayes)
 - [0vm](https://github.com/0vm)
-- [zztaki](https://github.com/zztaki)
 
 
