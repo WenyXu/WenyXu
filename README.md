@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: move ShowCreateTable and CreateDatabase to StatementExecutor](https://github.com/GreptimeTeam/greptimedb/pull/2341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [refactor: introduce `DdlTaskExecutor` and refactor statement executor ](https://github.com/GreptimeTeam/greptimedb/pull/2341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: move Sequence to common meta](https://github.com/GreptimeTeam/greptimedb/pull/2337) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: refactor raft engine backend and state store](https://github.com/GreptimeTeam/greptimedb/pull/2336) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: refactor statement executor](https://github.com/GreptimeTeam/greptimedb/pull/2334) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
