@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: rename NEXT_TABLE_ROUTE_PREFIX to TABLE_ROUTE_PREFIX](https://github.com/GreptimeTeam/greptimedb/pull/2348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat!: add gt prefix](https://github.com/GreptimeTeam/greptimedb/pull/2347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: introduce `DdlTaskExecutor` and refactor statement executor ](https://github.com/GreptimeTeam/greptimedb/pull/2341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: move Sequence to common meta](https://github.com/GreptimeTeam/greptimedb/pull/2337) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: fix RegionAliveKeeper does not find the table after restarting](https://github.com/GreptimeTeam/greptimedb/pull/2249) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: set default metasrv procedure retry times to 12](https://github.com/GreptimeTeam/greptimedb/pull/2242) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: invalidate cache after altering](https://github.com/GreptimeTeam/greptimedb/pull/2239) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: use table id instead of table ident](https://github.com/GreptimeTeam/greptimedb/pull/2233) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
