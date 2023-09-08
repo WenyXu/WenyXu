@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [d0iasm/rvemu](https://github.com/d0iasm/rvemu) - RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing). (today)
 - [evmar/retrowin32](https://github.com/evmar/retrowin32) - windows emulator (6 days ago)
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (6 days ago)
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验 (1 week ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 weeks ago)
 - [waynexia/cargo-gc](https://github.com/waynexia/cargo-gc) - Where is my space? (2 weeks ago)
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL  (2 weeks ago)
-- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
