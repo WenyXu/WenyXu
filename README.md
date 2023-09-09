@@ -59,6 +59,6 @@ Hi 👋 Weny here.
 - [Cerdore](https://github.com/Cerdore)
 - [summer-boythink](https://github.com/summer-boythink)
 - [niebayes](https://github.com/niebayes)
-- [0vm](https://github.com/0vm)
+- [zztaki](https://github.com/zztaki)
 
 
