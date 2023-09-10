@@ -6,12 +6,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: rename NEXT_TABLE_ROUTE_PREFIX to TABLE_ROUTE_PREFIX](https://github.com/GreptimeTeam/greptimedb/pull/2348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat!: add gt prefix](https://github.com/GreptimeTeam/greptimedb/pull/2347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [refactor: introduce `DdlTaskExecutor` and refactor statement executor ](https://github.com/GreptimeTeam/greptimedb/pull/2341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor: move Sequence to common meta](https://github.com/GreptimeTeam/greptimedb/pull/2337) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor: refactor raft engine backend and state store](https://github.com/GreptimeTeam/greptimedb/pull/2336) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor: refactor statement executor](https://github.com/GreptimeTeam/greptimedb/pull/2334) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: rename NEXT_TABLE_ROUTE_PREFIX to TABLE_ROUTE_PREFIX](https://github.com/GreptimeTeam/greptimedb/pull/2348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat!: add gt prefix](https://github.com/GreptimeTeam/greptimedb/pull/2347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [refactor: introduce `DdlTaskExecutor` and refactor statement executor ](https://github.com/GreptimeTeam/greptimedb/pull/2341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: move Sequence to common meta](https://github.com/GreptimeTeam/greptimedb/pull/2337) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: refactor raft engine backend and state store](https://github.com/GreptimeTeam/greptimedb/pull/2336) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: refactor statement executor](https://github.com/GreptimeTeam/greptimedb/pull/2334) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [refactor: refactor ddl manager](https://github.com/GreptimeTeam/greptimedb/pull/2306) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: refactor DistInstance](https://github.com/GreptimeTeam/greptimedb/pull/2305) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: refactor ddl procedure](https://github.com/GreptimeTeam/greptimedb/pull/2304) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -29,21 +29,21 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [chyyuu/aos_course_info](https://github.com/chyyuu/aos_course_info) - advanced os course info &amp; some os papers (1 day ago)
-- [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string (1 day ago)
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. (1 day ago)
-- [d0iasm/rvemu](https://github.com/d0iasm/rvemu) - RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing). (1 day ago)
+- [chyyuu/aos_course_info](https://github.com/chyyuu/aos_course_info) - advanced os course info &amp; some os papers (2 days ago)
+- [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string (2 days ago)
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. (2 days ago)
+- [d0iasm/rvemu](https://github.com/d0iasm/rvemu) - RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing). (2 days ago)
 - [evmar/retrowin32](https://github.com/evmar/retrowin32) - windows emulator (1 week ago)
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (1 week ago)
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验 (1 week ago)
 - [blockloop/scan](https://github.com/blockloop/scan) - Tiny lib to scan SQL rows directly to structs, slices, and primitive types (1 week ago)
 - [essa-project/anna-rs](https://github.com/essa-project/anna-rs) -  (1 week ago)
-- [pacman82/odbc2parquet](https://github.com/pacman82/odbc2parquet) - A command line tool to query an ODBC data source and write the result into a parquet file. (1 week ago)
-- [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite (1 week ago)
-- [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench) -  (1 week ago)
-- [apache/arrow-datafusion-python](https://github.com/apache/arrow-datafusion-python) - Apache Arrow DataFusion Python Bindings (1 week ago)
-- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily. (1 week ago)
-- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (1 week ago)
+- [pacman82/odbc2parquet](https://github.com/pacman82/odbc2parquet) - A command line tool to query an ODBC data source and write the result into a parquet file. (2 weeks ago)
+- [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite (2 weeks ago)
+- [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench) -  (2 weeks ago)
+- [apache/arrow-datafusion-python](https://github.com/apache/arrow-datafusion-python) - Apache Arrow DataFusion Python Bindings (2 weeks ago)
+- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily. (2 weeks ago)
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
