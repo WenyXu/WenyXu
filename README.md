@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers (today)
 - [chyyuu/aos_course_info](https://github.com/chyyuu/aos_course_info) - advanced os course info &amp; some os papers (3 days ago)
 - [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string (3 days ago)
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench) -  (2 weeks ago)
 - [apache/arrow-datafusion-python](https://github.com/apache/arrow-datafusion-python) - Apache Arrow DataFusion Python Bindings (2 weeks ago)
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily. (2 weeks ago)
-- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
