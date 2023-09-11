@@ -29,6 +29,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt; (today)
+- [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks (today)
+- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. (today)
+- [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets (today)
+- [jonhoo/flurry](https://github.com/jonhoo/flurry) - A port of Java&#39;s ConcurrentHashMap to Rust (today)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (today)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (today)
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information (today)
@@ -39,11 +44,6 @@ Hi 👋 Weny here.
 - [d0iasm/rvemu](https://github.com/d0iasm/rvemu) - RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing). (3 days ago)
 - [evmar/retrowin32](https://github.com/evmar/retrowin32) - windows emulator (1 week ago)
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (1 week ago)
-- [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验 (1 week ago)
-- [blockloop/scan](https://github.com/blockloop/scan) - Tiny lib to scan SQL rows directly to structs, slices, and primitive types (1 week ago)
-- [essa-project/anna-rs](https://github.com/essa-project/anna-rs) -  (1 week ago)
-- [pacman82/odbc2parquet](https://github.com/pacman82/odbc2parquet) - A command line tool to query an ODBC data source and write the result into a parquet file. (2 weeks ago)
-- [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
