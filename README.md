@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (today)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (today)
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information (today)
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [essa-project/anna-rs](https://github.com/essa-project/anna-rs) -  (1 week ago)
 - [pacman82/odbc2parquet](https://github.com/pacman82/odbc2parquet) - A command line tool to query an ODBC data source and write the result into a parquet file. (2 weeks ago)
 - [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite (2 weeks ago)
-- [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench) -  (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
