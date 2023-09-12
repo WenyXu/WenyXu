@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: bump raft-engine to 22dfb4](https://github.com/GreptimeTeam/greptimedb/pull/2360) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix start issues under standalone mode](https://github.com/GreptimeTeam/greptimedb/pull/2352) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: reduce scope of internal keys](https://github.com/tikv/raft-engine/pull/335) on [tikv/raft-engine](https://github.com/tikv/raft-engine) (2 days ago)
 - [refactor: rename NEXT_TABLE_ROUTE_PREFIX to TABLE_ROUTE_PREFIX](https://github.com/GreptimeTeam/greptimedb/pull/2348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: fix typoes](https://github.com/GreptimeTeam/greptimedb/pull/2268) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: LoadBase Selector cannot follow the region distribution rules](https://github.com/GreptimeTeam/greptimedb/pull/2259) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: align region numbers to real regions](https://github.com/GreptimeTeam/greptimedb/pull/2257) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: fix RegionAliveKeeper does not find the table after restarting](https://github.com/GreptimeTeam/greptimedb/pull/2249) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
