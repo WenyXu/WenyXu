@@ -47,11 +47,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 week ago)
 - [WenyXu/postneo](https://github.com/WenyXu/postneo) -  (1 month ago)
 - [chaos-mesh/website](https://github.com/chaos-mesh/website) - Source for Chaos Mesh website (1 month ago)
 - [WenyXu/file_bench](https://github.com/WenyXu/file_bench) -  (1 month ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
 
 #### 👯 Check out my recent followers
 
