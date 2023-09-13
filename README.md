@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [apache/arrow-flight-sql-postgresql](https://github.com/apache/arrow-flight-sql-postgresql) - Apache Arrow Flight SQL adapter for PostgreSQL (today)
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (1 day ago)
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (1 day ago)
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt; (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [chyyuu/aos_course_info](https://github.com/chyyuu/aos_course_info) - advanced os course info &amp; some os papers (5 days ago)
 - [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string (5 days ago)
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. (5 days ago)
-- [d0iasm/rvemu](https://github.com/d0iasm/rvemu) - RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing). (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
