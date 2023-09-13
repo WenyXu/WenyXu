@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: call `flush` before `sync_all`](https://github.com/apache/incubator-opendal/pull/3053) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [chore: bump raft-engine to 22dfb4](https://github.com/GreptimeTeam/greptimedb/pull/2360) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix start issues under standalone mode](https://github.com/GreptimeTeam/greptimedb/pull/2352) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: reduce scope of internal keys](https://github.com/tikv/raft-engine/pull/335) on [tikv/raft-engine](https://github.com/tikv/raft-engine) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: open region does not register catalog/schema](https://github.com/GreptimeTeam/greptimedb/pull/2271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix typoes](https://github.com/GreptimeTeam/greptimedb/pull/2268) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: LoadBase Selector cannot follow the region distribution rules](https://github.com/GreptimeTeam/greptimedb/pull/2259) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: align region numbers to real regions](https://github.com/GreptimeTeam/greptimedb/pull/2257) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,11 +47,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (today)
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log (1 day ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
 - [WenyXu/postneo](https://github.com/WenyXu/postneo) -  (1 month ago)
 - [chaos-mesh/website](https://github.com/chaos-mesh/website) - Source for Chaos Mesh website (1 month ago)
-- [WenyXu/file_bench](https://github.com/WenyXu/file_bench) -  (1 month ago)
 
 #### 👯 Check out my recent followers
 
