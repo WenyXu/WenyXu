@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust) (today)
 - [apache/arrow-flight-sql-postgresql](https://github.com/apache/arrow-flight-sql-postgresql) - Apache Arrow Flight SQL adapter for PostgreSQL (1 day ago)
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (2 days ago)
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers (3 days ago)
 - [chyyuu/aos_course_info](https://github.com/chyyuu/aos_course_info) - advanced os course info &amp; some os papers (6 days ago)
 - [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string (6 days ago)
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
