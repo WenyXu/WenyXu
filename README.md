@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus) - Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store (today)
 - [chaos-mesh/toda](https://github.com/chaos-mesh/toda) - A hook filesystem and utils to inject IO chaos (today)
 - [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust) (1 day ago)
 - [apache/arrow-flight-sql-postgresql](https://github.com/apache/arrow-flight-sql-postgresql) - Apache Arrow Flight SQL adapter for PostgreSQL (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (4 days ago)
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information (4 days ago)
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers (4 days ago)
-- [chyyuu/aos_course_info](https://github.com/chyyuu/aos_course_info) - advanced os course info &amp; some os papers (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
