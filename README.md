@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix region re-open bug](https://github.com/GreptimeTeam/greptimedb/pull/2408) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: migrate OpenDal to 0.39](https://github.com/GreptimeTeam/greptimedb/pull/2383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: call `flush` before `sync_all`](https://github.com/apache/incubator-opendal/pull/3053) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (2 days ago)
 - [chore: bump raft-engine to 22dfb4](https://github.com/GreptimeTeam/greptimedb/pull/2360) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: skip procedure if target route is not found](https://github.com/GreptimeTeam/greptimedb/pull/2277) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: use RegionId region number instead](https://github.com/GreptimeTeam/greptimedb/pull/2273) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: open region does not register catalog/schema](https://github.com/GreptimeTeam/greptimedb/pull/2271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: fix typoes](https://github.com/GreptimeTeam/greptimedb/pull/2268) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
