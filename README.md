@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [JackTan25/Art-Tree-rs](https://github.com/JackTan25/Art-Tree-rs) - Adaptive-Radix-Tree-implementation in rust, reference to DuckDb implementation (today)
+- [dtolnay/dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe (today)
 - [Yiling-J/theine-go](https://github.com/Yiling-J/theine-go) - high performance in-memory cache (today)
 - [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus) - Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store (1 day ago)
 - [chaos-mesh/toda](https://github.com/chaos-mesh/toda) - A hook filesystem and utils to inject IO chaos (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets (5 days ago)
 - [jonhoo/flurry](https://github.com/jonhoo/flurry) - A port of Java&#39;s ConcurrentHashMap to Rust (5 days ago)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (5 days ago)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (5 days ago)
-- [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
