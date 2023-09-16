@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Yiling-J/theine-go](https://github.com/Yiling-J/theine-go) - high performance in-memory cache (today)
 - [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus) - Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store (1 day ago)
 - [chaos-mesh/toda](https://github.com/chaos-mesh/toda) - A hook filesystem and utils to inject IO chaos (1 day ago)
 - [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust) (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (5 days ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (5 days ago)
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information (5 days ago)
-- [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
