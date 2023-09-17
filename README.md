@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue) - Concurrent multi-producer multi-consumer queue (today)
 - [tikv/jemallocator](https://github.com/tikv/jemallocator) - Rust allocator using jemalloc as a backend (1 day ago)
 - [JackTan25/Art-Tree-rs](https://github.com/JackTan25/Art-Tree-rs) - Adaptive-Radix-Tree-implementation in rust, reference to DuckDb implementation (1 day ago)
 - [dtolnay/dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks (6 days ago)
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. (6 days ago)
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets (6 days ago)
-- [jonhoo/flurry](https://github.com/jonhoo/flurry) - A port of Java&#39;s ConcurrentHashMap to Rust (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
