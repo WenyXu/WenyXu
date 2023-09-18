@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena) - The arena, a fast but limited type of allocator (today)
+- [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust (today)
 - [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue) - Concurrent multi-producer multi-consumer queue (1 day ago)
 - [tikv/jemallocator](https://github.com/tikv/jemallocator) - Rust allocator using jemalloc as a backend (2 days ago)
 - [JackTan25/Art-Tree-rs](https://github.com/JackTan25/Art-Tree-rs) - Adaptive-Radix-Tree-implementation in rust, reference to DuckDb implementation (2 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (6 days ago)
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt; (1 week ago)
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks (1 week ago)
-- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. (1 week ago)
-- [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
