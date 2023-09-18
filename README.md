@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: check version before alter region](https://github.com/GreptimeTeam/greptimedb/pull/2433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: rename coordination to require_lease_before_startup](https://github.com/GreptimeTeam/greptimedb/pull/2431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix incorrect matches](https://github.com/GreptimeTeam/greptimedb/pull/2430) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: start services after first heartbeat response processed](https://github.com/GreptimeTeam/greptimedb/pull/2424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: refactor ddl manager](https://github.com/GreptimeTeam/greptimedb/pull/2306) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: refactor DistInstance](https://github.com/GreptimeTeam/greptimedb/pull/2305) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: refactor ddl procedure](https://github.com/GreptimeTeam/greptimedb/pull/2304) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: refactor: ddl context](https://github.com/GreptimeTeam/greptimedb/pull/2301) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
