@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: bump 0.2.42](https://github.com/WenyXu/orc-rs/pull/6) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (today)
+- [chore: fmt toml](https://github.com/WenyXu/orc-rs/pull/5) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (today)
 - [fix: check version before alter region](https://github.com/GreptimeTeam/greptimedb/pull/2433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: rename coordination to require_lease_before_startup](https://github.com/GreptimeTeam/greptimedb/pull/2431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix incorrect matches](https://github.com/GreptimeTeam/greptimedb/pull/2430) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -24,8 +26,6 @@ Hi 👋 Weny here.
 - [refactor: refactor raft engine backend and state store](https://github.com/GreptimeTeam/greptimedb/pull/2336) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: refactor statement executor](https://github.com/GreptimeTeam/greptimedb/pull/2334) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: refactor ddl manager](https://github.com/GreptimeTeam/greptimedb/pull/2306) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: refactor DistInstance](https://github.com/GreptimeTeam/greptimedb/pull/2305) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: refactor ddl procedure](https://github.com/GreptimeTeam/greptimedb/pull/2304) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,11 +47,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (5 days ago)
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log (6 days ago)
 - [WenyXu/postneo](https://github.com/WenyXu/postneo) -  (1 month ago)
-- [chaos-mesh/website](https://github.com/chaos-mesh/website) - Source for Chaos Mesh website (1 month ago)
 
 #### 👯 Check out my recent followers
 
