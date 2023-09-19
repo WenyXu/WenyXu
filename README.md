@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: unify table metadata cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix open region missing path](https://github.com/GreptimeTeam/greptimedb/pull/2441) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix alter table verification](https://github.com/GreptimeTeam/greptimedb/pull/2437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump 0.2.42](https://github.com/WenyXu/orc-rs/pull/6) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat!: add gt prefix](https://github.com/GreptimeTeam/greptimedb/pull/2347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: introduce `DdlTaskExecutor` and refactor statement executor ](https://github.com/GreptimeTeam/greptimedb/pull/2341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: move Sequence to common meta](https://github.com/GreptimeTeam/greptimedb/pull/2337) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: refactor raft engine backend and state store](https://github.com/GreptimeTeam/greptimedb/pull/2336) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
