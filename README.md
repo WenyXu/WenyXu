@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [al8n/skl-rs](https://github.com/al8n/skl-rs) - A lock-free thread-safe arena based Skiplist impelementation for building memtable. (today)
 - [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena) - The arena, a fast but limited type of allocator (1 day ago)
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust (1 day ago)
 - [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue) - Concurrent multi-producer multi-consumer queue (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (1 week ago)
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (1 week ago)
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt; (1 week ago)
-- [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
