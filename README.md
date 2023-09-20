@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: bring back sqlness and integration tests ](https://github.com/GreptimeTeam/greptimedb/pull/2450) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: unify table metadata cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix open region missing path](https://github.com/GreptimeTeam/greptimedb/pull/2441) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix alter table verification](https://github.com/GreptimeTeam/greptimedb/pull/2437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: rename NEXT_TABLE_ROUTE_PREFIX to TABLE_ROUTE_PREFIX](https://github.com/GreptimeTeam/greptimedb/pull/2348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat!: add gt prefix](https://github.com/GreptimeTeam/greptimedb/pull/2347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: introduce `DdlTaskExecutor` and refactor statement executor ](https://github.com/GreptimeTeam/greptimedb/pull/2341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: move Sequence to common meta](https://github.com/GreptimeTeam/greptimedb/pull/2337) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
