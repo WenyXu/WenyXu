@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix close region bug in `RegionHeartbeatResponseHandler`](https://github.com/GreptimeTeam/greptimedb/pull/2453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: bring back sqlness and integration tests ](https://github.com/GreptimeTeam/greptimedb/pull/2450) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: unify table metadata cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix open region missing path](https://github.com/GreptimeTeam/greptimedb/pull/2441) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: reduce scope of internal keys](https://github.com/tikv/raft-engine/pull/335) on [tikv/raft-engine](https://github.com/tikv/raft-engine) (1 week ago)
 - [refactor: rename NEXT_TABLE_ROUTE_PREFIX to TABLE_ROUTE_PREFIX](https://github.com/GreptimeTeam/greptimedb/pull/2348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat!: add gt prefix](https://github.com/GreptimeTeam/greptimedb/pull/2347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: introduce `DdlTaskExecutor` and refactor statement executor ](https://github.com/GreptimeTeam/greptimedb/pull/2341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
