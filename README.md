@@ -29,6 +29,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (today)
+- [syswonder/rukos](https://github.com/syswonder/rukos) - Rust Unikernel OS (today)
+- [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for Dgraph&#39;s ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache. (today)
+- [danburkert/fs2-rs](https://github.com/danburkert/fs2-rs) - Extended utilities for working with files and filesystems in Rust (today)
 - [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS (today)
 - [al8n/skl-rs](https://github.com/al8n/skl-rs) - A lock-free thread-safe arena based Skiplist impelementation for building memtable. (2 days ago)
 - [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena) - The arena, a fast but limited type of allocator (3 days ago)
@@ -40,10 +44,6 @@ Hi 👋 Weny here.
 - [Yiling-J/theine-go](https://github.com/Yiling-J/theine-go) - high performance in-memory cache (5 days ago)
 - [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus) - Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store (6 days ago)
 - [chaos-mesh/toda](https://github.com/chaos-mesh/toda) - A hook filesystem and utils to inject IO chaos (6 days ago)
-- [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust) (1 week ago)
-- [apache/arrow-flight-sql-postgresql](https://github.com/apache/arrow-flight-sql-postgresql) - Apache Arrow Flight SQL adapter for PostgreSQL (1 week ago)
-- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (1 week ago)
-- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
