@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS (today)
 - [al8n/skl-rs](https://github.com/al8n/skl-rs) - A lock-free thread-safe arena based Skiplist impelementation for building memtable. (2 days ago)
 - [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena) - The arena, a fast but limited type of allocator (3 days ago)
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [apache/arrow-flight-sql-postgresql](https://github.com/apache/arrow-flight-sql-postgresql) - Apache Arrow Flight SQL adapter for PostgreSQL (1 week ago)
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (1 week ago)
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (1 week ago)
-- [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt; (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
