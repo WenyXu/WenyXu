@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [influxdata/pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types (today)
 - [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (1 day ago)
 - [syswonder/rukos](https://github.com/syswonder/rukos) - Rust Unikernel OS (1 day ago)
 - [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for Dgraph&#39;s ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache. (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [dtolnay/dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe (6 days ago)
 - [Yiling-J/theine-go](https://github.com/Yiling-J/theine-go) - high performance in-memory cache (6 days ago)
 - [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus) - Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store (1 week ago)
-- [chaos-mesh/toda](https://github.com/chaos-mesh/toda) - A hook filesystem and utils to inject IO chaos (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
