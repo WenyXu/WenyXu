@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: open region missing options](https://github.com/GreptimeTeam/greptimedb/pull/2473) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: dn doesn&#39;t have chance to send a heartbeat to the new leader](https://github.com/GreptimeTeam/greptimedb/pull/2471) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: bump opendal to 0.40](https://github.com/GreptimeTeam/greptimedb/pull/2465) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: fix close region bug in `RegionHeartbeatResponseHandler`](https://github.com/GreptimeTeam/greptimedb/pull/2453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: call `flush` before `sync_all`](https://github.com/apache/incubator-opendal/pull/3053) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
 - [chore: bump raft-engine to 22dfb4](https://github.com/GreptimeTeam/greptimedb/pull/2360) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix start issues under standalone mode](https://github.com/GreptimeTeam/greptimedb/pull/2352) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: reduce scope of internal keys](https://github.com/tikv/raft-engine/pull/335) on [tikv/raft-engine](https://github.com/tikv/raft-engine) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
