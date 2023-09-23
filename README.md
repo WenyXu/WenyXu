@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (today)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (1 day ago)
 - [influxdata/pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types (1 day ago)
 - [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [tikv/jemallocator](https://github.com/tikv/jemallocator) - Rust allocator using jemalloc as a backend (1 week ago)
 - [JackTan25/Art-Tree-rs](https://github.com/JackTan25/Art-Tree-rs) - Adaptive-Radix-Tree-implementation in rust, reference to DuckDb implementation (1 week ago)
 - [dtolnay/dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe (1 week ago)
-- [Yiling-J/theine-go](https://github.com/Yiling-J/theine-go) - high performance in-memory cache (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
