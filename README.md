@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust (today)
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (1 day ago)
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (1 day ago)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust (6 days ago)
 - [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue) - Concurrent multi-producer multi-consumer queue (1 week ago)
 - [tikv/jemallocator](https://github.com/tikv/jemallocator) - Rust allocator using jemalloc as a backend (1 week ago)
-- [JackTan25/Art-Tree-rs](https://github.com/JackTan25/Art-Tree-rs) - Adaptive-Radix-Tree-implementation in rust, reference to DuckDb implementation (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
