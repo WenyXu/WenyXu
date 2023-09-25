@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [senthil28](https://github.com/senthil28)
 - [jiengup](https://github.com/jiengup)
 - [xujiajiadexiaokeai](https://github.com/xujiajiadexiaokeai)
 - [Cerdore](https://github.com/Cerdore)
 - [summer-boythink](https://github.com/summer-boythink)
-- [niebayes](https://github.com/niebayes)
 
 
