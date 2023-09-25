@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tidwall/raft-fastlog](https://github.com/tidwall/raft-fastlog) - Raft in-memory backend implementation with persistence (today)
 - [tormol/uds](https://github.com/tormol/uds) - A unix domain sockets Rust library (today)
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust (1 day ago)
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [al8n/skl-rs](https://github.com/al8n/skl-rs) - A lock-free thread-safe arena based Skiplist impelementation for building memtable. (6 days ago)
 - [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena) - The arena, a fast but limited type of allocator (1 week ago)
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust (1 week ago)
-- [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue) - Concurrent multi-producer multi-consumer queue (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
