@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Raft implementation in Rust language. The name is not a joke. (today)
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (today)
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (today)
 - [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (6 days ago)
 - [influxdata/pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types (6 days ago)
 - [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (1 week ago)
-- [syswonder/rukos](https://github.com/syswonder/rukos) - Rust Unikernel OS (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
