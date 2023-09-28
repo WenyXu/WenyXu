@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (today)
+- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (today)
 - [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques (today)
 - [datenlord/async-rdma](https://github.com/datenlord/async-rdma) - Easy to use RDMA API in Rust async (today)
 - [rcore-os/buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - A buddy system allocator in pure Rust. (today)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [influxdata/pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types (6 days ago)
 - [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (1 week ago)
 - [syswonder/rukos](https://github.com/syswonder/rukos) - Rust Unikernel OS (1 week ago)
-- [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for Dgraph&#39;s ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache. (1 week ago)
-- [danburkert/fs2-rs](https://github.com/danburkert/fs2-rs) - Extended utilities for working with files and filesystems in Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
