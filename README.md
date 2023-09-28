@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: check push result out of loop](https://github.com/GreptimeTeam/greptimedb/pull/2511) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: re-create heartbeat stream ASAP](https://github.com/GreptimeTeam/greptimedb/pull/2499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: open region missing options](https://github.com/GreptimeTeam/greptimedb/pull/2473) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: dn doesn&#39;t have chance to send a heartbeat to the new leader](https://github.com/GreptimeTeam/greptimedb/pull/2471) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [chore: bump opendal to 0.40](https://github.com/GreptimeTeam/greptimedb/pull/2465) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor: check push result out of loop](https://github.com/GreptimeTeam/greptimedb/pull/2511) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: re-create heartbeat stream ASAP](https://github.com/GreptimeTeam/greptimedb/pull/2499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: open region missing options](https://github.com/GreptimeTeam/greptimedb/pull/2473) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: dn doesn&#39;t have chance to send a heartbeat to the new leader](https://github.com/GreptimeTeam/greptimedb/pull/2471) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: bump opendal to 0.40](https://github.com/GreptimeTeam/greptimedb/pull/2465) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix close region bug in `RegionHeartbeatResponseHandler`](https://github.com/GreptimeTeam/greptimedb/pull/2453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: bring back sqlness and integration tests ](https://github.com/GreptimeTeam/greptimedb/pull/2450) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: unify table metadata cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -29,25 +29,25 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [sunfishcode/origin](https://github.com/sunfishcode/origin) - Program startup and thread support written in Rust (today)
-- [tidwall/raft-fastlog](https://github.com/tidwall/raft-fastlog) - Raft in-memory backend implementation with persistence (2 days ago)
-- [tormol/uds](https://github.com/tormol/uds) - A unix domain sockets Rust library (2 days ago)
-- [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust (3 days ago)
-- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (4 days ago)
-- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (4 days ago)
-- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (5 days ago)
-- [influxdata/pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types (5 days ago)
-- [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (6 days ago)
-- [syswonder/rukos](https://github.com/syswonder/rukos) - Rust Unikernel OS (6 days ago)
-- [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for Dgraph&#39;s ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache. (6 days ago)
-- [danburkert/fs2-rs](https://github.com/danburkert/fs2-rs) - Extended utilities for working with files and filesystems in Rust (6 days ago)
-- [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS (6 days ago)
+- [sunfishcode/origin](https://github.com/sunfishcode/origin) - Program startup and thread support written in Rust (1 day ago)
+- [tidwall/raft-fastlog](https://github.com/tidwall/raft-fastlog) - Raft in-memory backend implementation with persistence (3 days ago)
+- [tormol/uds](https://github.com/tormol/uds) - A unix domain sockets Rust library (3 days ago)
+- [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust (4 days ago)
+- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (5 days ago)
+- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (5 days ago)
+- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (6 days ago)
+- [influxdata/pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types (6 days ago)
+- [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (1 week ago)
+- [syswonder/rukos](https://github.com/syswonder/rukos) - Rust Unikernel OS (1 week ago)
+- [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for Dgraph&#39;s ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache. (1 week ago)
+- [danburkert/fs2-rs](https://github.com/danburkert/fs2-rs) - Extended utilities for working with files and filesystems in Rust (1 week ago)
+- [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS (1 week ago)
 - [al8n/skl-rs](https://github.com/al8n/skl-rs) - A lock-free thread-safe arena based Skiplist impelementation for building memtable. (1 week ago)
 - [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena) - The arena, a fast but limited type of allocator (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 week ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (2 weeks ago)
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log (2 weeks ago)
