@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques (today)
+- [datenlord/async-rdma](https://github.com/datenlord/async-rdma) - Easy to use RDMA API in Rust async (today)
+- [rcore-os/buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - A buddy system allocator in pure Rust. (today)
 - [sunfishcode/origin](https://github.com/sunfishcode/origin) - Program startup and thread support written in Rust (1 day ago)
 - [tidwall/raft-fastlog](https://github.com/tidwall/raft-fastlog) - Raft in-memory backend implementation with persistence (3 days ago)
 - [tormol/uds](https://github.com/tormol/uds) - A unix domain sockets Rust library (3 days ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [syswonder/rukos](https://github.com/syswonder/rukos) - Rust Unikernel OS (1 week ago)
 - [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for Dgraph&#39;s ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache. (1 week ago)
 - [danburkert/fs2-rs](https://github.com/danburkert/fs2-rs) - Extended utilities for working with files and filesystems in Rust (1 week ago)
-- [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS (1 week ago)
-- [al8n/skl-rs](https://github.com/al8n/skl-rs) - A lock-free thread-safe arena based Skiplist impelementation for building memtable. (1 week ago)
-- [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena) - The arena, a fast but limited type of allocator (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
