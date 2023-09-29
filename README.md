@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [al8n/memmapix-rs](https://github.com/al8n/memmapix-rs) - cross-platform Rust API for memory mapped IO (today)
 - [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Raft implementation in Rust language. The name is not a joke. (1 day ago)
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (1 day ago)
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (1 day ago)
@@ -43,15 +44,14 @@ Hi 👋 Weny here.
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (6 days ago)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (1 week ago)
 - [influxdata/pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types (1 week ago)
-- [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [WenyXu/QuoLog](https://github.com/WenyXu/QuoLog) -  (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 week ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (2 weeks ago)
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log (2 weeks ago)
-- [WenyXu/postneo](https://github.com/WenyXu/postneo) -  (1 month ago)
 
 #### 👯 Check out my recent followers
 
