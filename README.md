@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (today)
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language &#43; Versatile Interactive Shell (today)
 - [outcaste-io/ristretto](https://github.com/outcaste-io/ristretto) - A high performance memory-bound Go cache (1 day ago)
 - [al8n/memmapix-rs](https://github.com/al8n/memmapix-rs) - cross-platform Rust API for memory mapped IO (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [tormol/uds](https://github.com/tormol/uds) - A unix domain sockets Rust library (5 days ago)
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust (6 days ago)
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (1 week ago)
-- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
