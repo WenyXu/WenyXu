@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [smol-rs/polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll (today)
+- [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust (today)
+- [smol-rs/event-listener](https://github.com/smol-rs/event-listener) - Notify async tasks or threads (today)
 - [hawkw/mycelium](https://github.com/hawkw/mycelium) - 🍄  an alleged &#39;operating system&#39; (today)
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) - A Rust NFS Server implementation (today)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (today)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques (2 days ago)
 - [datenlord/async-rdma](https://github.com/datenlord/async-rdma) - Easy to use RDMA API in Rust async (2 days ago)
 - [rcore-os/buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - A buddy system allocator in pure Rust. (2 days ago)
-- [sunfishcode/origin](https://github.com/sunfishcode/origin) - Program startup and thread support written in Rust (3 days ago)
-- [tidwall/raft-fastlog](https://github.com/tidwall/raft-fastlog) - Raft in-memory backend implementation with persistence (5 days ago)
-- [tormol/uds](https://github.com/tormol/uds) - A unix domain sockets Rust library (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
