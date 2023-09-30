@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [hawkw/mycelium](https://github.com/hawkw/mycelium) - 🍄  an alleged &#39;operating system&#39; (today)
+- [xetdata/nfsserve](https://github.com/xetdata/nfsserve) - A Rust NFS Server implementation (today)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (today)
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language &#43; Versatile Interactive Shell (today)
 - [outcaste-io/ristretto](https://github.com/outcaste-io/ristretto) - A high performance memory-bound Go cache (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [sunfishcode/origin](https://github.com/sunfishcode/origin) - Program startup and thread support written in Rust (3 days ago)
 - [tidwall/raft-fastlog](https://github.com/tidwall/raft-fastlog) - Raft in-memory backend implementation with persistence (5 days ago)
 - [tormol/uds](https://github.com/tormol/uds) - A unix domain sockets Rust library (5 days ago)
-- [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust (6 days ago)
-- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [arcane4096](https://github.com/arcane4096)
 - [JackTan25](https://github.com/JackTan25)
 - [senthil28](https://github.com/senthil28)
 - [jiengup](https://github.com/jiengup)
 - [xujiajiadexiaokeai](https://github.com/xujiajiadexiaokeai)
-- [Cerdore](https://github.com/Cerdore)
 
 
