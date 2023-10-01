@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (today)
 - [smol-rs/polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll (1 day ago)
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust (1 day ago)
 - [smol-rs/event-listener](https://github.com/smol-rs/event-listener) - Notify async tasks or threads (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (3 days ago)
 - [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques (3 days ago)
 - [datenlord/async-rdma](https://github.com/datenlord/async-rdma) - Easy to use RDMA API in Rust async (3 days ago)
-- [rcore-os/buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - A buddy system allocator in pure Rust. (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
