@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: check push result out of loop](https://github.com/GreptimeTeam/greptimedb/pull/2511) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: re-create heartbeat stream ASAP](https://github.com/GreptimeTeam/greptimedb/pull/2499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: check push result out of loop](https://github.com/GreptimeTeam/greptimedb/pull/2511) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: re-create heartbeat stream ASAP](https://github.com/GreptimeTeam/greptimedb/pull/2499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [fix: open region missing options](https://github.com/GreptimeTeam/greptimedb/pull/2473) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: dn doesn&#39;t have chance to send a heartbeat to the new leader](https://github.com/GreptimeTeam/greptimedb/pull/2471) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: bump opendal to 0.40](https://github.com/GreptimeTeam/greptimedb/pull/2465) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -21,7 +21,7 @@ Hi 👋 Weny here.
 - [fix: check version before alter region](https://github.com/GreptimeTeam/greptimedb/pull/2433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: rename coordination to require_lease_before_startup](https://github.com/GreptimeTeam/greptimedb/pull/2431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix incorrect matches](https://github.com/GreptimeTeam/greptimedb/pull/2430) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: start services after first heartbeat response processed](https://github.com/GreptimeTeam/greptimedb/pull/2424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: start services after first heartbeat response processed](https://github.com/GreptimeTeam/greptimedb/pull/2424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: sync regions between RegionServer and RegionAliveKeeper](https://github.com/GreptimeTeam/greptimedb/pull/2417) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix region re-open bug](https://github.com/GreptimeTeam/greptimedb/pull/2408) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: migrate OpenDal to 0.39](https://github.com/GreptimeTeam/greptimedb/pull/2383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -29,26 +29,26 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [smol-rs/polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll (today)
-- [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust (today)
-- [smol-rs/event-listener](https://github.com/smol-rs/event-listener) - Notify async tasks or threads (today)
-- [hawkw/mycelium](https://github.com/hawkw/mycelium) - 🍄  an alleged &#39;operating system&#39; (today)
-- [xetdata/nfsserve](https://github.com/xetdata/nfsserve) - A Rust NFS Server implementation (today)
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (today)
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language &#43; Versatile Interactive Shell (today)
-- [outcaste-io/ristretto](https://github.com/outcaste-io/ristretto) - A high performance memory-bound Go cache (1 day ago)
-- [al8n/memmapix-rs](https://github.com/al8n/memmapix-rs) - cross-platform Rust API for memory mapped IO (1 day ago)
-- [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Raft implementation in Rust language. The name is not a joke. (2 days ago)
-- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (2 days ago)
-- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (2 days ago)
-- [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques (2 days ago)
-- [datenlord/async-rdma](https://github.com/datenlord/async-rdma) - Easy to use RDMA API in Rust async (2 days ago)
-- [rcore-os/buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - A buddy system allocator in pure Rust. (2 days ago)
+- [smol-rs/polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll (1 day ago)
+- [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust (1 day ago)
+- [smol-rs/event-listener](https://github.com/smol-rs/event-listener) - Notify async tasks or threads (1 day ago)
+- [hawkw/mycelium](https://github.com/hawkw/mycelium) - 🍄  an alleged &#39;operating system&#39; (1 day ago)
+- [xetdata/nfsserve](https://github.com/xetdata/nfsserve) - A Rust NFS Server implementation (1 day ago)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 day ago)
+- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language &#43; Versatile Interactive Shell (1 day ago)
+- [outcaste-io/ristretto](https://github.com/outcaste-io/ristretto) - A high performance memory-bound Go cache (2 days ago)
+- [al8n/memmapix-rs](https://github.com/al8n/memmapix-rs) - cross-platform Rust API for memory mapped IO (2 days ago)
+- [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Raft implementation in Rust language. The name is not a joke. (3 days ago)
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (3 days ago)
+- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (3 days ago)
+- [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques (3 days ago)
+- [datenlord/async-rdma](https://github.com/datenlord/async-rdma) - Easy to use RDMA API in Rust async (3 days ago)
+- [rcore-os/buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - A buddy system allocator in pure Rust. (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/QuoLog](https://github.com/WenyXu/QuoLog) -  (1 day ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
+- [WenyXu/QuoLog](https://github.com/WenyXu/QuoLog) -  (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (4 days ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 week ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (2 weeks ago)
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log (2 weeks ago)
