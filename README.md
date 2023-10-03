@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (today)
 - [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster (today)
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享 (today)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [outcaste-io/ristretto](https://github.com/outcaste-io/ristretto) - A high performance memory-bound Go cache (4 days ago)
 - [al8n/memmapix-rs](https://github.com/al8n/memmapix-rs) - cross-platform Rust API for memory mapped IO (4 days ago)
 - [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Raft implementation in Rust language. The name is not a joke. (5 days ago)
-- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
