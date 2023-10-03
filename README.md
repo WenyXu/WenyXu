@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster (today)
+- [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享 (today)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (1 day ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (2 days ago)
 - [smol-rs/polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll (3 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [al8n/memmapix-rs](https://github.com/al8n/memmapix-rs) - cross-platform Rust API for memory mapped IO (4 days ago)
 - [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Raft implementation in Rust language. The name is not a joke. (5 days ago)
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (5 days ago)
-- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (5 days ago)
-- [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
