@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇 (today)
+- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (today)
 - [lnx-search/rewrk](https://github.com/lnx-search/rewrk) - A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks. (today)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (1 day ago)
 - [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) - A Rust NFS Server implementation (4 days ago)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (4 days ago)
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language &#43; Versatile Interactive Shell (4 days ago)
-- [outcaste-io/ristretto](https://github.com/outcaste-io/ristretto) - A high performance memory-bound Go cache (5 days ago)
-- [al8n/memmapix-rs](https://github.com/al8n/memmapix-rs) - cross-platform Rust API for memory mapped IO (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
