@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add client](https://github.com/quolog/quolog/pull/4) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [test: add tests for append &amp; create stream](https://github.com/quolog/quolog/pull/3) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [docs: add README.md](https://github.com/quolog/quolog/pull/2) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [chore: add github ci config](https://github.com/quolog/quolog/pull/1) on [quolog/quolog](https://github.com/quolog/quolog) (today)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: rename coordination to require_lease_before_startup](https://github.com/GreptimeTeam/greptimedb/pull/2431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix incorrect matches](https://github.com/GreptimeTeam/greptimedb/pull/2430) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: start services after first heartbeat response processed](https://github.com/GreptimeTeam/greptimedb/pull/2424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: sync regions between RegionServer and RegionAliveKeeper](https://github.com/GreptimeTeam/greptimedb/pull/2417) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
