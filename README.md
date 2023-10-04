@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [lnx-search/rewrk](https://github.com/lnx-search/rewrk) - A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks. (today)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (1 day ago)
 - [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster (1 day ago)
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享 (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language &#43; Versatile Interactive Shell (4 days ago)
 - [outcaste-io/ristretto](https://github.com/outcaste-io/ristretto) - A high performance memory-bound Go cache (5 days ago)
 - [al8n/memmapix-rs](https://github.com/al8n/memmapix-rs) - cross-platform Rust API for memory mapped IO (5 days ago)
-- [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Raft implementation in Rust language. The name is not a joke. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
