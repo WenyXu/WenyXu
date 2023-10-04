@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: add github ci config](https://github.com/quolog/quolog/pull/1) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [refactor: check push result out of loop](https://github.com/GreptimeTeam/greptimedb/pull/2511) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: re-create heartbeat stream ASAP](https://github.com/GreptimeTeam/greptimedb/pull/2499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: open region missing options](https://github.com/GreptimeTeam/greptimedb/pull/2473) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: sync regions between RegionServer and RegionAliveKeeper](https://github.com/GreptimeTeam/greptimedb/pull/2417) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix region re-open bug](https://github.com/GreptimeTeam/greptimedb/pull/2408) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: migrate OpenDal to 0.39](https://github.com/GreptimeTeam/greptimedb/pull/2383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: call `flush` before `sync_all`](https://github.com/apache/incubator-opendal/pull/3053) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
