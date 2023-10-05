@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [Update README.md](https://github.com/WenyXu/orc-rs/pull/8) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (today)
+- [Update README.md](https://github.com/WenyXu/orc-rs/pull/7) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (today)
 - [feat: enable tcp no_delay by default for internal services](https://github.com/GreptimeTeam/greptimedb/pull/2527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix out of bounds issue in append](https://github.com/quolog/quolog/pull/7) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [feat: output metadata to bench result](https://github.com/quolog/quolog/pull/6) on [quolog/quolog](https://github.com/quolog/quolog) (today)
@@ -24,11 +26,10 @@ Hi 👋 Weny here.
 - [refactor: unify table metadata cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix open region missing path](https://github.com/GreptimeTeam/greptimedb/pull/2441) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix alter table verification](https://github.com/GreptimeTeam/greptimedb/pull/2437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: bump 0.2.42](https://github.com/WenyXu/orc-rs/pull/6) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
-- [chore: fmt toml](https://github.com/WenyXu/orc-rs/pull/5) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (today)
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇 (1 day ago)
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (1 day ago)
 - [lnx-search/rewrk](https://github.com/lnx-search/rewrk) - A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks. (1 day ago)
@@ -43,13 +44,12 @@ Hi 👋 Weny here.
 - [hawkw/mycelium](https://github.com/hawkw/mycelium) - 🍄  an alleged &#39;operating system&#39; (5 days ago)
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) - A Rust NFS Server implementation (5 days ago)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (5 days ago)
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language &#43; Versatile Interactive Shell (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (today)
 - [quolog/quolog](https://github.com/quolog/quolog) - The Write-Ahead Log Component for Shared-Storage System (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 week ago)
-- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 weeks ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (3 weeks ago)
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log (3 weeks ago)
 
