@@ -48,10 +48,10 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [quolog/quolog](https://github.com/quolog/quolog) - The Write-Ahead Log Component for Shared-Storage System (today)
-- [WenyXu/QuoLog](https://github.com/WenyXu/QuoLog) -  (4 days ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 week ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 weeks ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (3 weeks ago)
+- [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
