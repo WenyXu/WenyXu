@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: port common crates from greptimedb](https://github.com/quolog/quolog/pull/5) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [feat: add client](https://github.com/quolog/quolog/pull/4) on [quolog/quolog](https://github.com/quolog/quolog) (1 day ago)
 - [test: add tests for append &amp; create stream](https://github.com/quolog/quolog/pull/3) on [quolog/quolog](https://github.com/quolog/quolog) (1 day ago)
 - [docs: add README.md](https://github.com/quolog/quolog/pull/2) on [quolog/quolog](https://github.com/quolog/quolog) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: check version before alter region](https://github.com/GreptimeTeam/greptimedb/pull/2433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: rename coordination to require_lease_before_startup](https://github.com/GreptimeTeam/greptimedb/pull/2431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix incorrect matches](https://github.com/GreptimeTeam/greptimedb/pull/2430) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: start services after first heartbeat response processed](https://github.com/GreptimeTeam/greptimedb/pull/2424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,7 +47,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [quolog/quolog](https://github.com/quolog/quolog) - The Write-Ahead Log Component for Shared-Storage System (1 day ago)
+- [quolog/quolog](https://github.com/quolog/quolog) - The Write-Ahead Log Component for Shared-Storage System (today)
 - [WenyXu/QuoLog](https://github.com/WenyXu/QuoLog) -  (4 days ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 week ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 weeks ago)
