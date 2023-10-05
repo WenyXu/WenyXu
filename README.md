@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: use serve_with_shutdown instead](https://github.com/GreptimeTeam/greptimedb/pull/2527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: enable tcp no_delay by default for internal services](https://github.com/GreptimeTeam/greptimedb/pull/2527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix out of bounds issue in append](https://github.com/quolog/quolog/pull/7) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [feat: output metadata to bench result](https://github.com/quolog/quolog/pull/6) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [feat: port common crates from greptimedb](https://github.com/quolog/quolog/pull/5) on [quolog/quolog](https://github.com/quolog/quolog) (today)
