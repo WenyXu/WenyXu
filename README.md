@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: use serve_with_shutdown instead](https://github.com/GreptimeTeam/greptimedb/pull/2527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix out of bounds issue in append](https://github.com/quolog/quolog/pull/7) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [feat: output metadata to bench result](https://github.com/quolog/quolog/pull/6) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [feat: port common crates from greptimedb](https://github.com/quolog/quolog/pull/5) on [quolog/quolog](https://github.com/quolog/quolog) (today)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: fix alter table verification](https://github.com/GreptimeTeam/greptimedb/pull/2437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: bump 0.2.42](https://github.com/WenyXu/orc-rs/pull/6) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
 - [chore: fmt toml](https://github.com/WenyXu/orc-rs/pull/5) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
-- [fix: check version before alter region](https://github.com/GreptimeTeam/greptimedb/pull/2433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
