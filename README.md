@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add cpu pprof ](https://github.com/quolog/quolog/pull/8) on [quolog/quolog](https://github.com/quolog/quolog) (today)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/8) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (1 day ago)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/7) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (1 day ago)
 - [feat: enable tcp no_delay by default for internal services](https://github.com/GreptimeTeam/greptimedb/pull/2527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: bring back sqlness and integration tests ](https://github.com/GreptimeTeam/greptimedb/pull/2450) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: unify table metadata cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix open region missing path](https://github.com/GreptimeTeam/greptimedb/pull/2441) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: fix alter table verification](https://github.com/GreptimeTeam/greptimedb/pull/2437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
