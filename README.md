@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. (today)
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (1 day ago)
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇 (2 days ago)
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [smol-rs/event-listener](https://github.com/smol-rs/event-listener) - Notify async tasks or threads (6 days ago)
 - [hawkw/mycelium](https://github.com/hawkw/mycelium) - 🍄  an alleged &#39;operating system&#39; (6 days ago)
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) - A Rust NFS Server implementation (6 days ago)
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
