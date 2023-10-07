@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: enable no delay for mysql, opentsdb, http](https://github.com/GreptimeTeam/greptimedb/pull/2530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: enable no delay for mysql, opentsdb, http](https://github.com/GreptimeTeam/greptimedb/pull/2530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add append log in stream](https://github.com/quolog/quolog/pull/9) on [quolog/quolog](https://github.com/quolog/quolog) (1 day ago)
 - [feat: add cpu pprof ](https://github.com/quolog/quolog/pull/8) on [quolog/quolog](https://github.com/quolog/quolog) (1 day ago)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/8) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 days ago)
