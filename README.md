@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: enable no delay for mysql, opentsdb, http](https://github.com/GreptimeTeam/greptimedb/pull/2530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add append log in stream](https://github.com/quolog/quolog/pull/9) on [quolog/quolog](https://github.com/quolog/quolog) (1 day ago)
 - [feat: add cpu pprof ](https://github.com/quolog/quolog/pull/8) on [quolog/quolog](https://github.com/quolog/quolog) (1 day ago)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/8) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [chore: bump opendal to 0.40](https://github.com/GreptimeTeam/greptimedb/pull/2465) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix close region bug in `RegionHeartbeatResponseHandler`](https://github.com/GreptimeTeam/greptimedb/pull/2453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: bring back sqlness and integration tests ](https://github.com/GreptimeTeam/greptimedb/pull/2450) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: unify table metadata cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
