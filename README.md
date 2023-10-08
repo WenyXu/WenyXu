@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2540) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor!: compare with origin bytes during the transactions](https://github.com/GreptimeTeam/greptimedb/pull/2538) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: enable no delay for mysql, opentsdb, http](https://github.com/GreptimeTeam/greptimedb/pull/2530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add append log in stream](https://github.com/quolog/quolog/pull/9) on [quolog/quolog](https://github.com/quolog/quolog) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: open region missing options](https://github.com/GreptimeTeam/greptimedb/pull/2473) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: dn doesn&#39;t have chance to send a heartbeat to the new leader](https://github.com/GreptimeTeam/greptimedb/pull/2471) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: bump opendal to 0.40](https://github.com/GreptimeTeam/greptimedb/pull/2465) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: fix close region bug in `RegionHeartbeatResponseHandler`](https://github.com/GreptimeTeam/greptimedb/pull/2453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
