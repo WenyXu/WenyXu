@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (today)
 - [cnrv/riscv-soc-book](https://github.com/cnrv/riscv-soc-book) - 关于RISC-V你所需要知道的一切 (1 day ago)
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. (2 days ago)
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [smol-rs/polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll (1 week ago)
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust (1 week ago)
 - [smol-rs/event-listener](https://github.com/smol-rs/event-listener) - Notify async tasks or threads (1 week ago)
-- [hawkw/mycelium](https://github.com/hawkw/mycelium) - 🍄  an alleged &#39;operating system&#39; (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
