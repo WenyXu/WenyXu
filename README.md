@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [str4d/memuse](https://github.com/str4d/memuse) - Traits for inspecting memory usage of Rust types (today)
 - [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core Rust runtime with IOCP/io_uring/polling. (1 day ago)
 - [bluss/indexmap](https://github.com/bluss/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index (2 days ago)
 - [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos) - OmniPaxos is a distributed log implemented as a Rust library. (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster (1 week ago)
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享 (1 week ago)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (1 week ago)
-- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
