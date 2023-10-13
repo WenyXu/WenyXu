@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language (today)
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (1 day ago)
 - [str4d/memuse](https://github.com/str4d/memuse) - Traits for inspecting memory usage of Rust types (2 days ago)
 - [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core Rust runtime with IOCP/io_uring/polling. (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [lnx-search/rewrk](https://github.com/lnx-search/rewrk) - A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks. (1 week ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (1 week ago)
 - [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster (1 week ago)
-- [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享 (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
