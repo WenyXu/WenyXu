@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std &#43; serde compatible message library for Rust (today)
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust (today)
 - [Rydgel/monkey-rust](https://github.com/Rydgel/monkey-rust) - An interpreter for the Monkey programming language written in Rust (today)
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. (1 week ago)
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (1 week ago)
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇 (1 week ago)
-- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
