@@ -29,6 +29,11 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (today)
+- [aphyr/meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types (today)
+- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (today)
+- [mozilla/rkv](https://github.com/mozilla/rkv) - A simple, humane, typed key-value storage solution. (today)
+- [zshipko/rust-kv](https://github.com/zshipko/rust-kv) - An embedded key/value store for Rust (today)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (1 day ago)
 - [helyim/helyim](https://github.com/helyim/helyim) - seaweedfs implemented in pure Rust (1 day ago)
 - [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std &#43; serde compatible message library for Rust (1 day ago)
@@ -39,11 +44,6 @@ Hi 👋 Weny here.
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (3 days ago)
 - [str4d/memuse](https://github.com/str4d/memuse) - Traits for inspecting memory usage of Rust types (4 days ago)
 - [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core Rust runtime with IOCP/io_uring/polling. (5 days ago)
-- [bluss/indexmap](https://github.com/bluss/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index (6 days ago)
-- [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos) - OmniPaxos is a distributed log implemented as a Rust library. (6 days ago)
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 week ago)
-- [cnrv/riscv-soc-book](https://github.com/cnrv/riscv-soc-book) - 关于RISC-V你所需要知道的一切 (1 week ago)
-- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
