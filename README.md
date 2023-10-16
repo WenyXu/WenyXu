@@ -6,9 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: stop the procedure manager if a new leader is elected](https://github.com/GreptimeTeam/greptimedb/pull/2576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: check table exists before allocating table id](https://github.com/GreptimeTeam/greptimedb/pull/2546) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [refactor: de/encode protobuf-encoded byte array with base64](https://github.com/GreptimeTeam/greptimedb/pull/2545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: stop the procedure manager if a new leader is elected](https://github.com/GreptimeTeam/greptimedb/pull/2576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: check table exists before allocating table id](https://github.com/GreptimeTeam/greptimedb/pull/2546) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [refactor: de/encode protobuf-encoded byte array with base64](https://github.com/GreptimeTeam/greptimedb/pull/2545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: refactor cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2540) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor!: compare with origin bytes during the transactions](https://github.com/GreptimeTeam/greptimedb/pull/2538) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: enable no delay for mysql, opentsdb, http](https://github.com/GreptimeTeam/greptimedb/pull/2530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -29,25 +29,25 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (today)
-- [aphyr/meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types (today)
-- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (today)
-- [mozilla/rkv](https://github.com/mozilla/rkv) - A simple, humane, typed key-value storage solution. (today)
-- [zshipko/rust-kv](https://github.com/zshipko/rust-kv) - An embedded key/value store for Rust (today)
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (1 day ago)
-- [helyim/helyim](https://github.com/helyim/helyim) - seaweedfs implemented in pure Rust (1 day ago)
-- [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std &#43; serde compatible message library for Rust (1 day ago)
-- [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust (1 day ago)
-- [Rydgel/monkey-rust](https://github.com/Rydgel/monkey-rust) - An interpreter for the Monkey programming language written in Rust (1 day ago)
-- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (1 day ago)
-- [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language (2 days ago)
-- [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (3 days ago)
-- [str4d/memuse](https://github.com/str4d/memuse) - Traits for inspecting memory usage of Rust types (4 days ago)
-- [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core Rust runtime with IOCP/io_uring/polling. (5 days ago)
+- [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (1 day ago)
+- [aphyr/meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types (1 day ago)
+- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (1 day ago)
+- [mozilla/rkv](https://github.com/mozilla/rkv) - A simple, humane, typed key-value storage solution. (1 day ago)
+- [zshipko/rust-kv](https://github.com/zshipko/rust-kv) - An embedded key/value store for Rust (1 day ago)
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (2 days ago)
+- [helyim/helyim](https://github.com/helyim/helyim) - seaweedfs implemented in pure Rust (2 days ago)
+- [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std &#43; serde compatible message library for Rust (2 days ago)
+- [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust (2 days ago)
+- [Rydgel/monkey-rust](https://github.com/Rydgel/monkey-rust) - An interpreter for the Monkey programming language written in Rust (2 days ago)
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (2 days ago)
+- [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language (3 days ago)
+- [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (4 days ago)
+- [str4d/memuse](https://github.com/str4d/memuse) - Traits for inspecting memory usage of Rust types (5 days ago)
+- [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core Rust runtime with IOCP/io_uring/polling. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 week ago)
 - [quolog/quolog](https://github.com/quolog/quolog) - The Write-Ahead Log Component for Shared-Storage System (1 week ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (1 week ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 month ago)
