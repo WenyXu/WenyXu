@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [apache/nuttx](https://github.com/apache/nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS) (today)
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (2 days ago)
 - [aphyr/meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types (2 days ago)
 - [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language (4 days ago)
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (5 days ago)
 - [str4d/memuse](https://github.com/str4d/memuse) - Traits for inspecting memory usage of Rust types (6 days ago)
-- [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core Rust runtime with IOCP/io_uring/polling. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
