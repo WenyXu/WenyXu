@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cbiffle/lilos](https://github.com/cbiffle/lilos) - A wee async RTOS for Cortex-M (today)
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. (today)
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (today)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool (today)
 - [lnx-search/datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems. (today)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [zshipko/rust-kv](https://github.com/zshipko/rust-kv) - An embedded key/value store for Rust (3 days ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (4 days ago)
 - [helyim/helyim](https://github.com/helyim/helyim) - seaweedfs implemented in pure Rust (4 days ago)
-- [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std &#43; serde compatible message library for Rust (4 days ago)
-- [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
