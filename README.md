@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (today)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool (today)
 - [lnx-search/datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems. (today)
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [helyim/helyim](https://github.com/helyim/helyim) - seaweedfs implemented in pure Rust (4 days ago)
 - [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std &#43; serde compatible message library for Rust (4 days ago)
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust (4 days ago)
-- [Rydgel/monkey-rust](https://github.com/Rydgel/monkey-rust) - An interpreter for the Monkey programming language written in Rust (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
