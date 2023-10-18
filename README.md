@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool (today)
+- [lnx-search/datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems. (today)
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (today)
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (today)
 - [apache/nuttx](https://github.com/apache/nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS) (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std &#43; serde compatible message library for Rust (4 days ago)
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust (4 days ago)
 - [Rydgel/monkey-rust](https://github.com/Rydgel/monkey-rust) - An interpreter for the Monkey programming language written in Rust (4 days ago)
-- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (4 days ago)
-- [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
