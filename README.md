@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: correct the range behavior in Memory KvBackend](https://github.com/GreptimeTeam/greptimedb/pull/2615) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump 0.2.43](https://github.com/WenyXu/orc-rs/pull/10) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (1 day ago)
 - [feat: stop the procedure manager if a new leader is elected](https://github.com/GreptimeTeam/greptimedb/pull/2576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: check table exists before allocating table id](https://github.com/GreptimeTeam/greptimedb/pull/2546) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [test: add tests for append &amp; create stream](https://github.com/quolog/quolog/pull/3) on [quolog/quolog](https://github.com/quolog/quolog) (2 weeks ago)
 - [docs: add README.md](https://github.com/quolog/quolog/pull/2) on [quolog/quolog](https://github.com/quolog/quolog) (2 weeks ago)
 - [chore: add github ci config](https://github.com/quolog/quolog/pull/1) on [quolog/quolog](https://github.com/quolog/quolog) (2 weeks ago)
-- [refactor: check push result out of loop](https://github.com/GreptimeTeam/greptimedb/pull/2511) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
