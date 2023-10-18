@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (today)
+- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (today)
 - [apache/nuttx](https://github.com/apache/nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS) (1 day ago)
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (3 days ago)
 - [aphyr/meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types (3 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [Rydgel/monkey-rust](https://github.com/Rydgel/monkey-rust) - An interpreter for the Monkey programming language written in Rust (4 days ago)
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (4 days ago)
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language (5 days ago)
-- [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (6 days ago)
-- [str4d/memuse](https://github.com/str4d/memuse) - Traits for inspecting memory usage of Rust types (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
