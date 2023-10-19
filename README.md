@@ -15,20 +15,21 @@ Hi 👋 Weny here.
 - [refactor: refactor cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2540) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor!: compare with origin bytes during the transactions](https://github.com/GreptimeTeam/greptimedb/pull/2538) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: enable no delay for mysql, opentsdb, http](https://github.com/GreptimeTeam/greptimedb/pull/2530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add append log in stream](https://github.com/quolog/quolog/pull/9) on [quolog/quolog](https://github.com/quolog/quolog) (1 week ago)
-- [feat: add cpu pprof ](https://github.com/quolog/quolog/pull/8) on [quolog/quolog](https://github.com/quolog/quolog) (1 week ago)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/8) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/7) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
 - [feat: enable tcp no_delay by default for internal services](https://github.com/GreptimeTeam/greptimedb/pull/2527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: fix out of bounds issue in append](https://github.com/quolog/quolog/pull/7) on [quolog/quolog](https://github.com/quolog/quolog) (2 weeks ago)
-- [feat: output metadata to bench result](https://github.com/quolog/quolog/pull/6) on [quolog/quolog](https://github.com/quolog/quolog) (2 weeks ago)
-- [feat: port common crates from greptimedb](https://github.com/quolog/quolog/pull/5) on [quolog/quolog](https://github.com/quolog/quolog) (2 weeks ago)
-- [feat: add client](https://github.com/quolog/quolog/pull/4) on [quolog/quolog](https://github.com/quolog/quolog) (2 weeks ago)
-- [test: add tests for append &amp; create stream](https://github.com/quolog/quolog/pull/3) on [quolog/quolog](https://github.com/quolog/quolog) (2 weeks ago)
-- [docs: add README.md](https://github.com/quolog/quolog/pull/2) on [quolog/quolog](https://github.com/quolog/quolog) (2 weeks ago)
+- [refactor: check push result out of loop](https://github.com/GreptimeTeam/greptimedb/pull/2511) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix: re-create heartbeat stream ASAP](https://github.com/GreptimeTeam/greptimedb/pull/2499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix: open region missing options](https://github.com/GreptimeTeam/greptimedb/pull/2473) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix: dn doesn&#39;t have chance to send a heartbeat to the new leader](https://github.com/GreptimeTeam/greptimedb/pull/2471) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [chore: bump opendal to 0.40](https://github.com/GreptimeTeam/greptimedb/pull/2465) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [fix: fix close region bug in `RegionHeartbeatResponseHandler`](https://github.com/GreptimeTeam/greptimedb/pull/2453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [feat: bring back sqlness and integration tests ](https://github.com/GreptimeTeam/greptimedb/pull/2450) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [refactor: unify table metadata cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
+- [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator. (today)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (today)
 - [cbiffle/lilos](https://github.com/cbiffle/lilos) - A wee async RTOS for Cortex-M (1 day ago)
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. (1 day ago)
@@ -43,15 +44,14 @@ Hi 👋 Weny here.
 - [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (4 days ago)
 - [mozilla/rkv](https://github.com/mozilla/rkv) - A simple, humane, typed key-value storage solution. (4 days ago)
 - [zshipko/rust-kv](https://github.com/zshipko/rust-kv) - An embedded key/value store for Rust (4 days ago)
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 days ago)
-- [quolog/quolog](https://github.com/quolog/quolog) - The Write-Ahead Log Component for Shared-Storage System (1 week ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 month ago)
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log (1 month ago)
+- [WenyXu/postneo](https://github.com/WenyXu/postneo) -  (2 months ago)
 
 #### 👯 Check out my recent followers
 
