@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (today)
 - [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint) - A linting tool for Chinese language. (today)
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator. (today)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (4 days ago)
 - [aphyr/meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types (4 days ago)
 - [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (4 days ago)
-- [mozilla/rkv](https://github.com/mozilla/rkv) - A simple, humane, typed key-value storage solution. (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
