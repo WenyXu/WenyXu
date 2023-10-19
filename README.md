@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (today)
 - [cbiffle/lilos](https://github.com/cbiffle/lilos) - A wee async RTOS for Cortex-M (1 day ago)
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. (1 day ago)
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [mozilla/rkv](https://github.com/mozilla/rkv) - A simple, humane, typed key-value storage solution. (4 days ago)
 - [zshipko/rust-kv](https://github.com/zshipko/rust-kv) - An embedded key/value store for Rust (4 days ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (5 days ago)
-- [helyim/helyim](https://github.com/helyim/helyim) - seaweedfs implemented in pure Rust (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
