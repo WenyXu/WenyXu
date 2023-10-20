@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust. (today)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (today)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 day ago)
 - [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (1 day ago)
 - [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint) - A linting tool for Chinese language. (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (2 days ago)
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (2 days ago)
 - [apache/nuttx](https://github.com/apache/nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS) (3 days ago)
-- [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (5 days ago)
-- [aphyr/meangirls](https://github.com/aphyr/meangirls) - Convergent Replicated Data Types (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
