@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tokio-rs/slab](https://github.com/tokio-rs/slab) - Slab allocator for Rust (today)
+- [acekingke/yaccgo](https://github.com/acekingke/yaccgo) - YaccGo is an unstantable and debugable Yacc in Go (today)
 - [smol-rs/blocking](https://github.com/smol-rs/blocking) - A thread pool for isolating blocking I/O in async programs (today)
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT real-time operating system (RTOS). (1 day ago)
 - [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust. (1 day ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. (3 days ago)
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (3 days ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool (3 days ago)
-- [lnx-search/datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems. (3 days ago)
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
