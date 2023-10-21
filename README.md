@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [smol-rs/blocking](https://github.com/smol-rs/blocking) - A thread pool for isolating blocking I/O in async programs (today)
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT real-time operating system (RTOS). (1 day ago)
 - [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust. (1 day ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool (3 days ago)
 - [lnx-search/datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems. (3 days ago)
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (3 days ago)
-- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
