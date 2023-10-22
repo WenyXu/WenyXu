@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (today)
 - [tokio-rs/slab](https://github.com/tokio-rs/slab) - Slab allocator for Rust (1 day ago)
 - [acekingke/yaccgo](https://github.com/acekingke/yaccgo) - YaccGo is an unstantable and debugable Yacc in Go (1 day ago)
 - [smol-rs/blocking](https://github.com/smol-rs/blocking) - A thread pool for isolating blocking I/O in async programs (1 day ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [cbiffle/lilos](https://github.com/cbiffle/lilos) - A wee async RTOS for Cortex-M (4 days ago)
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. (4 days ago)
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (4 days ago)
-- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
