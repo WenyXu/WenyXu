@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce the region state](https://github.com/GreptimeTeam/greptime-proto/pull/112) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat: enable metasrv leader cached kv](https://github.com/GreptimeTeam/greptimedb/pull/2629) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: change test_remove_outdated_meta_task sleep time to 40ms](https://github.com/GreptimeTeam/greptimedb/pull/2620) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [fix: correct the range behavior in MemoryKvBackend &amp; RaftEngineBackend](https://github.com/GreptimeTeam/greptimedb/pull/2615) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: dn doesn&#39;t have chance to send a heartbeat to the new leader](https://github.com/GreptimeTeam/greptimedb/pull/2471) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: bump opendal to 0.40](https://github.com/GreptimeTeam/greptimedb/pull/2465) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix close region bug in `RegionHeartbeatResponseHandler`](https://github.com/GreptimeTeam/greptimedb/pull/2453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: bring back sqlness and integration tests ](https://github.com/GreptimeTeam/greptimedb/pull/2450) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
