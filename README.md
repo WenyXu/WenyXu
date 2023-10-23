@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust. (today)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (1 day ago)
 - [tokio-rs/slab](https://github.com/tokio-rs/slab) - Slab allocator for Rust (2 days ago)
 - [acekingke/yaccgo](https://github.com/acekingke/yaccgo) - YaccGo is an unstantable and debugable Yacc in Go (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (4 days ago)
 - [cbiffle/lilos](https://github.com/cbiffle/lilos) - A wee async RTOS for Cortex-M (5 days ago)
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. (5 days ago)
-- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
