@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: remove router rpc](https://github.com/GreptimeTeam/greptimedb/pull/2646) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: remove router rpc](https://github.com/GreptimeTeam/greptime-proto/pull/114) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat: introduce the region lease keeper](https://github.com/GreptimeTeam/greptimedb/pull/2645) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce the region role](https://github.com/GreptimeTeam/greptimedb/pull/2640) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: introduce the region role](https://github.com/GreptimeTeam/greptime-proto/pull/113) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
@@ -24,8 +26,6 @@ Hi 👋 Weny here.
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/7) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
 - [feat: enable tcp no_delay by default for internal services](https://github.com/GreptimeTeam/greptimedb/pull/2527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: check push result out of loop](https://github.com/GreptimeTeam/greptimedb/pull/2511) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: re-create heartbeat stream ASAP](https://github.com/GreptimeTeam/greptimedb/pull/2499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [fix: open region missing options](https://github.com/GreptimeTeam/greptimedb/pull/2473) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
