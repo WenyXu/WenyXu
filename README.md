@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce the region lease keeper](https://github.com/GreptimeTeam/greptimedb/pull/2645) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce the region role](https://github.com/GreptimeTeam/greptimedb/pull/2640) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: introduce the region role](https://github.com/GreptimeTeam/greptime-proto/pull/113) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat: introduce the region state](https://github.com/GreptimeTeam/greptime-proto/pull/112) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: check push result out of loop](https://github.com/GreptimeTeam/greptimedb/pull/2511) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: re-create heartbeat stream ASAP](https://github.com/GreptimeTeam/greptimedb/pull/2499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: open region missing options](https://github.com/GreptimeTeam/greptimedb/pull/2473) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: dn doesn&#39;t have chance to send a heartbeat to the new leader](https://github.com/GreptimeTeam/greptimedb/pull/2471) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
