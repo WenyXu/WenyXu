@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS (today)
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (2 days ago)
 - [rotty/lexpr-rs](https://github.com/rotty/lexpr-rs) - Rust Lisp expression parser and serializer (2 days ago)
 - [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust. (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (6 days ago)
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language. (6 days ago)
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator. (6 days ago)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
