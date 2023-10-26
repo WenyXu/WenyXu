@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [bozaro/lz4-rs](https://github.com/bozaro/lz4-rs) - Rust LZ4 bindins library (today)
+- [PSeitz/lz4_flex](https://github.com/PSeitz/lz4_flex) - Fastest pure Rust implementation of LZ4 compression/decompression. (today)
 - [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS (1 day ago)
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (3 days ago)
 - [rotty/lexpr-rs](https://github.com/rotty/lexpr-rs) - Rust Lisp expression parser and serializer (3 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (6 days ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 week ago)
 - [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (1 week ago)
-- [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language. (1 week ago)
-- [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
