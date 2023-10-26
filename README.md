@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [YANGGMM](https://github.com/YANGGMM)
 - [chrislusf](https://github.com/chrislusf)
 - [john8628](https://github.com/john8628)
 - [glitzma](https://github.com/glitzma)
 - [JackTan25](https://github.com/JackTan25)
-- [senthil28](https://github.com/senthil28)
 
 
