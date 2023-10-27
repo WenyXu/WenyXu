@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: remove move_value](https://github.com/GreptimeTeam/greptimedb/pull/2661) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce the peer state](https://github.com/GreptimeTeam/greptimedb/pull/2649) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [refactor: remove router rpc](https://github.com/GreptimeTeam/greptimedb/pull/2646) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [refactor: remove router rpc](https://github.com/GreptimeTeam/greptime-proto/pull/114) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: enable no delay for mysql, opentsdb, http](https://github.com/GreptimeTeam/greptimedb/pull/2530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/8) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (3 weeks ago)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/7) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (3 weeks ago)
-- [feat: enable tcp no_delay by default for internal services](https://github.com/GreptimeTeam/greptimedb/pull/2527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
