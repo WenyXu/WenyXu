@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [citahub/cita_trie](https://github.com/citahub/cita_trie) - Rust implementation of the Modified Patricia Tree (aka Trie). (today)
 - [bozaro/lz4-rs](https://github.com/bozaro/lz4-rs) - Rust LZ4 bindins library (2 days ago)
 - [PSeitz/lz4_flex](https://github.com/PSeitz/lz4_flex) - Fastest pure Rust implementation of LZ4 compression/decompression. (2 days ago)
 - [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust. (1 week ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 week ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 week ago)
-- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
