@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime (today)
 - [tandasat/Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust) - The materials of &#34;Hypervisor 101 in Rust&#34;, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. (today)
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (today)
 - [Inokinoki/DalFs](https://github.com/Inokinoki/DalFs) -  (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust. (6 days ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (1 week ago)
 - [tokio-rs/slab](https://github.com/tokio-rs/slab) - Slab allocator for Rust (1 week ago)
-- [acekingke/yaccgo](https://github.com/acekingke/yaccgo) - YaccGo is an unstantable and debugable Yacc in Go (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
