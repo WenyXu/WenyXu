@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Inokinoki/DalFs](https://github.com/Inokinoki/DalFs) -  (today)
+- [ardaku/pasts](https://github.com/ardaku/pasts) - Minimal and simpler alternative to the futures crate. (today)
 - [rustsbi/rustsbi-qemu](https://github.com/rustsbi/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI (today)
 - [citahub/cita_trie](https://github.com/citahub/cita_trie) - Rust implementation of the Modified Patricia Tree (aka Trie). (1 day ago)
 - [bozaro/lz4-rs](https://github.com/bozaro/lz4-rs) - Rust LZ4 bindins library (3 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [acekingke/yaccgo](https://github.com/acekingke/yaccgo) - YaccGo is an unstantable and debugable Yacc in Go (1 week ago)
 - [smol-rs/blocking](https://github.com/smol-rs/blocking) - A thread pool for isolating blocking I/O in async programs (1 week ago)
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT real-time operating system (RTOS). (1 week ago)
-- [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust. (1 week ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
