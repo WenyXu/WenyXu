@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tandasat/Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust) - The materials of &#34;Hypervisor 101 in Rust&#34;, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. (today)
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (today)
 - [Inokinoki/DalFs](https://github.com/Inokinoki/DalFs) -  (today)
 - [ardaku/pasts](https://github.com/ardaku/pasts) - Minimal and simpler alternative to the futures crate. (today)
 - [rustsbi/rustsbi-qemu](https://github.com/rustsbi/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI (today)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (1 week ago)
 - [tokio-rs/slab](https://github.com/tokio-rs/slab) - Slab allocator for Rust (1 week ago)
 - [acekingke/yaccgo](https://github.com/acekingke/yaccgo) - YaccGo is an unstantable and debugable Yacc in Go (1 week ago)
-- [smol-rs/blocking](https://github.com/smol-rs/blocking) - A thread pool for isolating blocking I/O in async programs (1 week ago)
-- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT real-time operating system (RTOS). (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
