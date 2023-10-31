@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (today)
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime (2 days ago)
 - [tandasat/Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust) - The materials of &#34;Hypervisor 101 in Rust&#34;, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. (2 days ago)
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (2 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [rotty/lexpr-rs](https://github.com/rotty/lexpr-rs) - Rust Lisp expression parser and serializer (1 week ago)
 - [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust. (1 week ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (1 week ago)
-- [tokio-rs/slab](https://github.com/tokio-rs/slab) - Slab allocator for Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
