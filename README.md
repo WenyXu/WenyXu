@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add leader_status for RegionRoute](https://github.com/GreptimeTeam/greptimedb/pull/2670) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove move_value](https://github.com/GreptimeTeam/greptimedb/pull/2661) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: introduce the peer state](https://github.com/GreptimeTeam/greptimedb/pull/2649) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove router rpc](https://github.com/GreptimeTeam/greptimedb/pull/2646) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor!: compare with origin bytes during the transactions](https://github.com/GreptimeTeam/greptimedb/pull/2538) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: enable no delay for mysql, opentsdb, http](https://github.com/GreptimeTeam/greptimedb/pull/2530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/8) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (3 weeks ago)
-- [Update README.md](https://github.com/WenyXu/orc-rs/pull/7) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
