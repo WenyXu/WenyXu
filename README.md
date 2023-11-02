@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - JSON Schema -&gt; Rust type converter (today)
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (1 day ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 days ago)
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS (1 week ago)
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (1 week ago)
 - [rotty/lexpr-rs](https://github.com/rotty/lexpr-rs) - Rust Lisp expression parser and serializer (1 week ago)
-- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
