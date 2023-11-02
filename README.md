@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: use GrantedRegion instead of region_ids](https://github.com/GreptimeTeam/greptime-proto/pull/117) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat: add leader_status for RegionRoute](https://github.com/GreptimeTeam/greptimedb/pull/2670) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: remove move_value](https://github.com/GreptimeTeam/greptimedb/pull/2661) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: introduce the peer state](https://github.com/GreptimeTeam/greptimedb/pull/2649) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: refactor cache invalidator](https://github.com/GreptimeTeam/greptimedb/pull/2540) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor!: compare with origin bytes during the transactions](https://github.com/GreptimeTeam/greptimedb/pull/2538) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: enable no delay for mysql, opentsdb, http](https://github.com/GreptimeTeam/greptimedb/pull/2530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [Update README.md](https://github.com/WenyXu/orc-rs/pull/8) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
