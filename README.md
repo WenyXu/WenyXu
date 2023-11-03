@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (today)
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - JSON Schema -&gt; Rust type converter (1 day ago)
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (2 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [PSeitz/lz4_flex](https://github.com/PSeitz/lz4_flex) - Fastest pure Rust implementation of LZ4 compression/decompression. (1 week ago)
 - [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS (1 week ago)
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (1 week ago)
-- [rotty/lexpr-rs](https://github.com/rotty/lexpr-rs) - Rust Lisp expression parser and serializer (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
