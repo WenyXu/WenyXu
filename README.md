@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: remove unstable features](https://github.com/datafusion-contrib/datafusion-orc/pull/4) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (today)
 - [feat: decrease the `page size` if the response size exceeds the limit](https://github.com/GreptimeTeam/greptimedb/pull/2689) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: move to datafusion-contrib](https://github.com/datafusion-contrib/datafusion-orc/pull/1) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 day ago)
 - [refactor: unify the KvBackend](https://github.com/GreptimeTeam/greptimedb/pull/2684) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [chore: bump 0.2.43](https://github.com/WenyXu/orc-rs/pull/10) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
 - [feat: stop the procedure manager if a new leader is elected](https://github.com/GreptimeTeam/greptimedb/pull/2576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: check table exists before allocating table id](https://github.com/GreptimeTeam/greptimedb/pull/2546) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [refactor: de/encode protobuf-encoded byte array with base64](https://github.com/GreptimeTeam/greptimedb/pull/2545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
