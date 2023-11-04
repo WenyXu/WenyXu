@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick! (today)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (1 day ago)
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - JSON Schema -&gt; Rust type converter (2 days ago)
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (3 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [bozaro/lz4-rs](https://github.com/bozaro/lz4-rs) - Rust LZ4 bindins library (1 week ago)
 - [PSeitz/lz4_flex](https://github.com/PSeitz/lz4_flex) - Fastest pure Rust implementation of LZ4 compression/decompression. (1 week ago)
 - [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS (1 week ago)
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
