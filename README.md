@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add region migration RFC](https://github.com/GreptimeTeam/greptimedb/pull/2703) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: support to struct datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/26) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 days ago)
 - [feat: support to read tinyint](https://github.com/datafusion-contrib/datafusion-orc/pull/22) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (3 days ago)
 - [chore: remove unstable features](https://github.com/datafusion-contrib/datafusion-orc/pull/4) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: enable metasrv leader cached kv](https://github.com/GreptimeTeam/greptimedb/pull/2629) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: change test_remove_outdated_meta_task sleep time to 40ms](https://github.com/GreptimeTeam/greptimedb/pull/2620) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: correct the range behavior in MemoryKvBackend &amp; RaftEngineBackend](https://github.com/GreptimeTeam/greptimedb/pull/2615) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: bump 0.2.43](https://github.com/WenyXu/orc-rs/pull/10) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
