@@ -6,34 +6,34 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support to struct datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/26) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 day ago)
-- [feat: support to read tinyint](https://github.com/datafusion-contrib/datafusion-orc/pull/22) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 days ago)
-- [chore: remove unstable features](https://github.com/datafusion-contrib/datafusion-orc/pull/4) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (3 days ago)
-- [feat: decrease the `page size` if the response size exceeds the limit](https://github.com/GreptimeTeam/greptimedb/pull/2689) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore: move to datafusion-contrib](https://github.com/datafusion-contrib/datafusion-orc/pull/1) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (4 days ago)
-- [refactor: unify the KvBackend](https://github.com/GreptimeTeam/greptimedb/pull/2684) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: use GrantedRegion instead of region_ids](https://github.com/GreptimeTeam/greptime-proto/pull/117) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
-- [feat: add leader_status for RegionRoute](https://github.com/GreptimeTeam/greptimedb/pull/2670) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: support to struct datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/26) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 days ago)
+- [feat: support to read tinyint](https://github.com/datafusion-contrib/datafusion-orc/pull/22) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (3 days ago)
+- [chore: remove unstable features](https://github.com/datafusion-contrib/datafusion-orc/pull/4) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (4 days ago)
+- [feat: decrease the `page size` if the response size exceeds the limit](https://github.com/GreptimeTeam/greptimedb/pull/2689) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: move to datafusion-contrib](https://github.com/datafusion-contrib/datafusion-orc/pull/1) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (5 days ago)
+- [refactor: unify the KvBackend](https://github.com/GreptimeTeam/greptimedb/pull/2684) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: use GrantedRegion instead of region_ids](https://github.com/GreptimeTeam/greptime-proto/pull/117) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
+- [feat: add leader_status for RegionRoute](https://github.com/GreptimeTeam/greptimedb/pull/2670) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove move_value](https://github.com/GreptimeTeam/greptimedb/pull/2661) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce the peer state](https://github.com/GreptimeTeam/greptimedb/pull/2649) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: remove router rpc](https://github.com/GreptimeTeam/greptimedb/pull/2646) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: remove router rpc](https://github.com/GreptimeTeam/greptime-proto/pull/114) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
-- [feat: introduce the region lease keeper](https://github.com/GreptimeTeam/greptimedb/pull/2645) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: introduce the peer state](https://github.com/GreptimeTeam/greptimedb/pull/2649) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [refactor: remove router rpc](https://github.com/GreptimeTeam/greptimedb/pull/2646) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [refactor: remove router rpc](https://github.com/GreptimeTeam/greptime-proto/pull/114) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
+- [feat: introduce the region lease keeper](https://github.com/GreptimeTeam/greptimedb/pull/2645) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce the region role](https://github.com/GreptimeTeam/greptimedb/pull/2640) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce the region role](https://github.com/GreptimeTeam/greptime-proto/pull/113) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 - [feat: introduce the region state](https://github.com/GreptimeTeam/greptime-proto/pull/112) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 - [feat: enable metasrv leader cached kv](https://github.com/GreptimeTeam/greptimedb/pull/2629) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: change test_remove_outdated_meta_task sleep time to 40ms](https://github.com/GreptimeTeam/greptimedb/pull/2620) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: correct the range behavior in MemoryKvBackend &amp; RaftEngineBackend](https://github.com/GreptimeTeam/greptimedb/pull/2615) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: bump 0.2.43](https://github.com/WenyXu/orc-rs/pull/10) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
+- [chore: bump 0.2.43](https://github.com/WenyXu/orc-rs/pull/10) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick! (2 days ago)
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (3 days ago)
-- [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - JSON Schema -&gt; Rust type converter (4 days ago)
-- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (5 days ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (6 days ago)
+- [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick! (3 days ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (4 days ago)
+- [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - JSON Schema -&gt; Rust type converter (5 days ago)
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (6 days ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 week ago)
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime (1 week ago)
 - [tandasat/Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust) - The materials of &#34;Hypervisor 101 in Rust&#34;, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. (1 week ago)
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (1 week ago)
@@ -47,10 +47,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (1 day ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 days ago)
-- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 weeks ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (2 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (4 days ago)
+- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (3 weeks ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 month ago)
 
 #### 👯 Check out my recent followers
