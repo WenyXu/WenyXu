@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [valyala/bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool (today)
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick! (4 days ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (5 days ago)
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - JSON Schema -&gt; Rust type converter (6 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [citahub/cita_trie](https://github.com/citahub/cita_trie) - Rust implementation of the Modified Patricia Tree (aka Trie). (1 week ago)
 - [bozaro/lz4-rs](https://github.com/bozaro/lz4-rs) - Rust LZ4 bindins library (1 week ago)
 - [PSeitz/lz4_flex](https://github.com/PSeitz/lz4_flex) - Fastest pure Rust implementation of LZ4 compression/decompression. (1 week ago)
-- [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
