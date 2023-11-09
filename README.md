@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: support to map datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/32) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (today)
 - [chore: add codecov config](https://github.com/datafusion-contrib/datafusion-orc/pull/31) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (today)
 - [feat: support to list datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/30) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (today)
 - [refactor: refactor byte/boolean iter](https://github.com/datafusion-contrib/datafusion-orc/pull/29) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (today)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add leader_status for RegionRoute](https://github.com/GreptimeTeam/greptimedb/pull/2670) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove move_value](https://github.com/GreptimeTeam/greptimedb/pull/2661) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce the peer state](https://github.com/GreptimeTeam/greptimedb/pull/2649) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: remove router rpc](https://github.com/GreptimeTeam/greptimedb/pull/2646) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
