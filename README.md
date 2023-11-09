@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: downgrade failed region before closing](https://github.com/GreptimeTeam/greptimedb/pull/2715) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [Update README.md](https://github.com/WenyXu/orc-rs/pull/11) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (1 day ago)
 - [Update README.md  to reflect struct support](https://github.com/datafusion-contrib/datafusion-orc/pull/28) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 days ago)
 - [refactor: refactor region lease keeper](https://github.com/GreptimeTeam/greptimedb/pull/2704) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: introduce the region lease keeper](https://github.com/GreptimeTeam/greptimedb/pull/2645) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce the region role](https://github.com/GreptimeTeam/greptimedb/pull/2640) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce the region role](https://github.com/GreptimeTeam/greptime-proto/pull/113) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
-- [feat: introduce the region state](https://github.com/GreptimeTeam/greptime-proto/pull/112) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
