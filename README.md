@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [Update README.md to reflect list support ](https://github.com/datafusion-contrib/datafusion-orc/pull/35) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (today)
 - [refactor: replace InactiveRegionManager with RegionLeaseKeeper](https://github.com/GreptimeTeam/greptimedb/pull/2729) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: support to map datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/32) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 days ago)
 - [chore: add codecov config](https://github.com/datafusion-contrib/datafusion-orc/pull/31) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: unify the KvBackend](https://github.com/GreptimeTeam/greptimedb/pull/2684) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: use GrantedRegion instead of region_ids](https://github.com/GreptimeTeam/greptime-proto/pull/117) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat: add leader_status for RegionRoute](https://github.com/GreptimeTeam/greptimedb/pull/2670) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: remove move_value](https://github.com/GreptimeTeam/greptimedb/pull/2661) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
