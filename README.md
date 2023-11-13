@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter (today)
 - [valyala/bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool (5 days ago)
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick! (1 week ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (1 week ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [rustsbi/rustsbi-qemu](https://github.com/rustsbi/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI (2 weeks ago)
 - [citahub/cita_trie](https://github.com/citahub/cita_trie) - Rust implementation of the Modified Patricia Tree (aka Trie). (2 weeks ago)
 - [bozaro/lz4-rs](https://github.com/bozaro/lz4-rs) - Rust LZ4 bindins library (2 weeks ago)
-- [PSeitz/lz4_flex](https://github.com/PSeitz/lz4_flex) - Fastest pure Rust implementation of LZ4 compression/decompression. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
