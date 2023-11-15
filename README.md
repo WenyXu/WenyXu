@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: grant lease to opening regions](https://github.com/GreptimeTeam/greptimedb/pull/2752) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add region migration procedure skeleton](https://github.com/GreptimeTeam/greptimedb/pull/2743) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: reduce the scope of the meta server cache](https://github.com/GreptimeTeam/greptimedb/pull/2736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [Update README.md to reflect map support ](https://github.com/datafusion-contrib/datafusion-orc/pull/37) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: support to read tinyint](https://github.com/datafusion-contrib/datafusion-orc/pull/22) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 - [chore: remove unstable features](https://github.com/datafusion-contrib/datafusion-orc/pull/4) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 - [feat: decrease the `page size` if the response size exceeds the limit](https://github.com/GreptimeTeam/greptimedb/pull/2689) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [chore: move to datafusion-contrib](https://github.com/datafusion-contrib/datafusion-orc/pull/1) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
