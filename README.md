@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly. (today)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (today)
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (today)
 - [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C (today)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [tandasat/Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust) - The materials of &#34;Hypervisor 101 in Rust&#34;, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. (2 weeks ago)
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (2 weeks ago)
 - [Inokinoki/DalFs](https://github.com/Inokinoki/DalFs) -  (2 weeks ago)
-- [ardaku/pasts](https://github.com/ardaku/pasts) - Minimal and simpler alternative to the futures crate. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
