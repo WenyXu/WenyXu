@@ -29,6 +29,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (today)
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (today)
+- [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C (today)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter (3 days ago)
 - [valyala/bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool (1 week ago)
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick! (1 week ago)
@@ -41,9 +44,6 @@ Hi 👋 Weny here.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (2 weeks ago)
 - [Inokinoki/DalFs](https://github.com/Inokinoki/DalFs) -  (2 weeks ago)
 - [ardaku/pasts](https://github.com/ardaku/pasts) - Minimal and simpler alternative to the futures crate. (2 weeks ago)
-- [rustsbi/rustsbi-qemu](https://github.com/rustsbi/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI (2 weeks ago)
-- [citahub/cita_trie](https://github.com/citahub/cita_trie) - Rust implementation of the Modified Patricia Tree (aka Trie). (2 weeks ago)
-- [bozaro/lz4-rs](https://github.com/bozaro/lz4-rs) - Rust LZ4 bindins library (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
