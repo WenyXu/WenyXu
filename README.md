@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix exits typos](https://github.com/GreptimeTeam/greptimedb/pull/2772) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add update metadata step for downgrading leader region](https://github.com/GreptimeTeam/greptimedb/pull/2771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add open candidate region step](https://github.com/GreptimeTeam/greptimedb/pull/2757) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add migration start step](https://github.com/GreptimeTeam/greptimedb/pull/2756) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [Update README.md  to reflect struct support](https://github.com/datafusion-contrib/datafusion-orc/pull/28) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 - [refactor: refactor region lease keeper](https://github.com/GreptimeTeam/greptimedb/pull/2704) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add region migration RFC](https://github.com/GreptimeTeam/greptimedb/pull/2703) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: support to struct datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/26) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
