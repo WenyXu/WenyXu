@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [durner/AnyBlob](https://github.com/durner/AnyBlob) - AnyBlob - A Universal Cloud Object Storage Download Manager Built For Cost-Throughput Optimal Analytics! (today)
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest non-cryptographic hashing algorithm 📈. Passes SMHasher quality test suite ✅ (1 day ago)
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (5 days ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (5 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 weeks ago)
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime (3 weeks ago)
 - [tandasat/Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust) - The materials of &#34;Hypervisor 101 in Rust&#34;, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. (3 weeks ago)
-- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
