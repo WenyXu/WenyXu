@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add downgrade leader region step](https://github.com/GreptimeTeam/greptimedb/pull/2792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `set_readonly_gracefully` for engine](https://github.com/GreptimeTeam/greptimedb/pull/2787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: bring back `inactive_region_ids`](https://github.com/GreptimeTeam/greptimedb/pull/2783) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [revert: bring back InactiveRegionManager](https://github.com/GreptimeTeam/greptimedb/pull/2782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: refactor byte/boolean iter](https://github.com/datafusion-contrib/datafusion-orc/pull/29) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 - [refactor: heartbeat response contains region role](https://github.com/GreptimeTeam/greptimedb/pull/2718) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: downgrade failed region before closing](https://github.com/GreptimeTeam/greptimedb/pull/2715) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [Update README.md](https://github.com/WenyXu/orc-rs/pull/11) on [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
