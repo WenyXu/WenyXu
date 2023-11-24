@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add update metadata step for rollbacking downgraded region](https://github.com/GreptimeTeam/greptimedb/pull/2812) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add downgrade leader region step](https://github.com/GreptimeTeam/greptimedb/pull/2792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add `set_readonly_gracefully` for engine](https://github.com/GreptimeTeam/greptimedb/pull/2787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -24,8 +26,6 @@ Hi 👋 Weny here.
 - [feat: support to map datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/32) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
 - [chore: add codecov config](https://github.com/datafusion-contrib/datafusion-orc/pull/31) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
 - [feat: support to list datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/30) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
-- [refactor: refactor byte/boolean iter](https://github.com/datafusion-contrib/datafusion-orc/pull/29) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
-- [refactor: heartbeat response contains region role](https://github.com/GreptimeTeam/greptimedb/pull/2718) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
