@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal! (today)
 - [durner/AnyBlob](https://github.com/durner/AnyBlob) - AnyBlob - A Universal Cloud Object Storage Download Manager Built For Cost-Throughput Optimal Analytics! (3 days ago)
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest non-cryptographic hashing algorithm 📈. Passes SMHasher quality test suite ✅ (4 days ago)
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (1 week ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (3 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 weeks ago)
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime (3 weeks ago)
-- [tandasat/Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust) - The materials of &#34;Hypervisor 101 in Rust&#34;, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
