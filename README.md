@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [SnellerInc/sneller](https://github.com/SnellerInc/sneller) - World&#39;s fastest log analysis: λ &#43; SQL &#43; JSON &#43; S3 (today)
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal! (today)
 - [durner/AnyBlob](https://github.com/durner/AnyBlob) - AnyBlob - A Universal Cloud Object Storage Download Manager Built For Cost-Throughput Optimal Analytics! (3 days ago)
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest non-cryptographic hashing algorithm 📈. Passes SMHasher quality test suite ✅ (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - JSON Schema -&gt; Rust type converter (3 weeks ago)
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (3 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 weeks ago)
-- [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
