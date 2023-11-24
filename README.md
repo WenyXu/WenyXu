@@ -6,13 +6,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add downgrade leader region step](https://github.com/GreptimeTeam/greptimedb/pull/2792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: add `set_readonly_gracefully` for engine](https://github.com/GreptimeTeam/greptimedb/pull/2787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: bring back `inactive_region_ids`](https://github.com/GreptimeTeam/greptimedb/pull/2783) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [revert: bring back InactiveRegionManager](https://github.com/GreptimeTeam/greptimedb/pull/2782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: fix exits typos](https://github.com/GreptimeTeam/greptimedb/pull/2772) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: add update metadata step for downgrading leader region](https://github.com/GreptimeTeam/greptimedb/pull/2771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add downgrade leader region step](https://github.com/GreptimeTeam/greptimedb/pull/2792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: add `set_readonly_gracefully` for engine](https://github.com/GreptimeTeam/greptimedb/pull/2787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: bring back `inactive_region_ids`](https://github.com/GreptimeTeam/greptimedb/pull/2783) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [revert: bring back InactiveRegionManager](https://github.com/GreptimeTeam/greptimedb/pull/2782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: fix exits typos](https://github.com/GreptimeTeam/greptimedb/pull/2772) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: add update metadata step for downgrading leader region](https://github.com/GreptimeTeam/greptimedb/pull/2771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add open candidate region step](https://github.com/GreptimeTeam/greptimedb/pull/2757) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add migration start step](https://github.com/GreptimeTeam/greptimedb/pull/2756) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: grant lease to opening regions](https://github.com/GreptimeTeam/greptimedb/pull/2752) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -20,7 +20,7 @@ Hi 👋 Weny here.
 - [refactor: reduce the scope of the meta server cache](https://github.com/GreptimeTeam/greptimedb/pull/2736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [Update README.md to reflect map support ](https://github.com/datafusion-contrib/datafusion-orc/pull/37) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 - [Update README.md to reflect list support ](https://github.com/datafusion-contrib/datafusion-orc/pull/35) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
-- [refactor: replace InactiveRegionManager with RegionLeaseKeeper](https://github.com/GreptimeTeam/greptimedb/pull/2729) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [refactor: replace InactiveRegionManager with RegionLeaseKeeper](https://github.com/GreptimeTeam/greptimedb/pull/2729) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: support to map datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/32) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
 - [chore: add codecov config](https://github.com/datafusion-contrib/datafusion-orc/pull/31) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
 - [feat: support to list datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/30) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
@@ -29,8 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [durner/AnyBlob](https://github.com/durner/AnyBlob) - AnyBlob - A Universal Cloud Object Storage Download Manager Built For Cost-Throughput Optimal Analytics! (2 days ago)
-- [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest non-cryptographic hashing algorithm 📈. Passes SMHasher quality test suite ✅ (3 days ago)
+- [durner/AnyBlob](https://github.com/durner/AnyBlob) - AnyBlob - A Universal Cloud Object Storage Download Manager Built For Cost-Throughput Optimal Analytics! (3 days ago)
+- [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest non-cryptographic hashing algorithm 📈. Passes SMHasher quality test suite ✅ (4 days ago)
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (1 week ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (1 week ago)
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (1 week ago)
@@ -38,7 +38,7 @@ Hi 👋 Weny here.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter (1 week ago)
 - [valyala/bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool (2 weeks ago)
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick! (2 weeks ago)
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (2 weeks ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (3 weeks ago)
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - JSON Schema -&gt; Rust type converter (3 weeks ago)
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (3 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 weeks ago)
@@ -47,10 +47,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (1 week ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 weeks ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (2 weeks ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 weeks ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (2 months ago)
 
 #### 👯 Check out my recent followers
