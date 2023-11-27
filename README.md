@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix procedure loaders not found issue](https://github.com/GreptimeTeam/greptimedb/pull/2824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix typos](https://github.com/GreptimeTeam/docs/pull/696) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [feat: add update metadata step for rollbacking downgraded region](https://github.com/GreptimeTeam/greptimedb/pull/2812) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [Update README.md to reflect list support ](https://github.com/datafusion-contrib/datafusion-orc/pull/35) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
 - [refactor: replace InactiveRegionManager with RegionLeaseKeeper](https://github.com/GreptimeTeam/greptimedb/pull/2729) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: support to map datatype](https://github.com/datafusion-contrib/datafusion-orc/pull/32) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
-- [chore: add codecov config](https://github.com/datafusion-contrib/datafusion-orc/pull/31) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,7 +47,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (2 weeks ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 weeks ago)
