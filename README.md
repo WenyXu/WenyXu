@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add upgrade candidate region step](https://github.com/GreptimeTeam/greptimedb/pull/2829) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/2826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix name verifying](https://github.com/GreptimeTeam/greptimedb/pull/2825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix procedure loaders not found issue](https://github.com/GreptimeTeam/greptimedb/pull/2824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add region migration procedure skeleton](https://github.com/GreptimeTeam/greptimedb/pull/2743) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: reduce the scope of the meta server cache](https://github.com/GreptimeTeam/greptimedb/pull/2736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [Update README.md to reflect map support ](https://github.com/datafusion-contrib/datafusion-orc/pull/37) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
-- [Update README.md to reflect list support ](https://github.com/datafusion-contrib/datafusion-orc/pull/35) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
