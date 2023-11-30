@@ -1,11 +1,3 @@
-Hi 👋 Weny here.
-
-💻 Interested in the database system and distributed system.
-
-~🍺 Open to Remote/Intern Job Opportunities~
-
-
-
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=32535939" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32535939&image_size=auto&color_scheme=dark" width="100%" height="auto">
@@ -13,7 +5,11 @@ Hi 👋 Weny here.
   </picture>
 </a>
 
+Hi 👋 Weny here.
 
+💻 Interested in the database system and distributed system.
+
+~🍺 Open to Remote/Intern Job Opportunities~
 
 #### 🔨 Check out my recent pull requests
 
