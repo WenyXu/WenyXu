@@ -4,6 +4,17 @@ Hi 👋 Weny here.
 
 ~🍺 Open to Remote/Intern Job Opportunities~
 
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=32535939" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32535939&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @WenyXu" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32535939&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+
+
 #### 🔨 Check out my recent pull requests
 
 - [chore: bump version to 0.4.4](https://github.com/GreptimeTeam/greptimedb/pull/2840) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
