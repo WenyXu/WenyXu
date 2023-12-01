@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [misaya295](https://github.com/misaya295)
 - [Neustradamus](https://github.com/Neustradamus)
 - [yuanbohan](https://github.com/yuanbohan)
 - [pinhe91](https://github.com/pinhe91)
 - [YANGGMM](https://github.com/YANGGMM)
-- [chrislusf](https://github.com/chrislusf)
 
 
