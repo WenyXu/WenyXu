@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (today)
 - [maxi-k/btrblocks](https://github.com/maxi-k/btrblocks) - BtrBlocks: Efficient Columnar Compression for Data Lakes (SIGMOD 2023 Paper) (3 days ago)
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data (4 days ago)
 - [Tencent/tquic](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library (6 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter (2 weeks ago)
 - [valyala/bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool (3 weeks ago)
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick! (4 weeks ago)
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (4 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
