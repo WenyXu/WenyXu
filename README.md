@@ -35,7 +35,7 @@ Hi 👋 Weny here.
 - [SnellerInc/sneller](https://github.com/SnellerInc/sneller) - World&#39;s fastest log analysis: λ &#43; SQL &#43; JSON &#43; S3 (1 week ago)
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal! (1 week ago)
 - [durner/AnyBlob](https://github.com/durner/AnyBlob) - AnyBlob - A Universal Cloud Object Storage Download Manager Built For Cost-Throughput Optimal Analytics! (1 week ago)
-- [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest non-cryptographic hashing algorithm 📈. Passes SMHasher quality test suite ✅ (1 week ago)
+- [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest hashing algorithm 📈 (1 week ago)
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (2 weeks ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (2 weeks ago)
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 weeks ago)
