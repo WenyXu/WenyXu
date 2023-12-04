@@ -47,11 +47,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (3 weeks ago)
 - [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (3 weeks ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 month ago)
 
 #### 👯 Check out my recent followers
 
