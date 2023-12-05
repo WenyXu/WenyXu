@@ -29,6 +29,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [hoosin/redash-docker-compose](https://github.com/hoosin/redash-docker-compose) - Deploying Redash via Docker Compose. (today)
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (today)
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (2 days ago)
 - [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (3 days ago)
 - [maxi-k/btrblocks](https://github.com/maxi-k/btrblocks) - BtrBlocks: Efficient Columnar Compression for Data Lakes (SIGMOD 2023 Paper) (6 days ago)
@@ -42,8 +44,6 @@ Hi 👋 Weny here.
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (2 weeks ago)
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 weeks ago)
 - [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C (2 weeks ago)
-- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter (3 weeks ago)
-- [valyala/bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
