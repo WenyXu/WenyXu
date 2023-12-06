@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: add metrics for COPY TO statement](https://github.com/GreptimeTeam/greptimedb/pull/2878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: add metrics for COPY FROM statement](https://github.com/GreptimeTeam/greptimedb/pull/2878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: unify the meta metrics styling](https://github.com/GreptimeTeam/greptimedb/pull/2875) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: use downgrading the region instead of closing region](https://github.com/GreptimeTeam/greptimedb/pull/2863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: correct closeable typos](https://github.com/GreptimeTeam/greptimedb/pull/2860) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
