@@ -6,15 +6,15 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: add metrics for COPY TO statement](https://github.com/GreptimeTeam/greptimedb/pull/2878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: unify the meta metrics styling](https://github.com/GreptimeTeam/greptimedb/pull/2875) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [refactor: use downgrading the region instead of closing region](https://github.com/GreptimeTeam/greptimedb/pull/2863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [chore: correct closeable typos](https://github.com/GreptimeTeam/greptimedb/pull/2860) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: add closeable_region_ids in RegionLease](https://github.com/GreptimeTeam/greptime-proto/pull/125) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
-- [chore: add logs and metrics](https://github.com/GreptimeTeam/greptimedb/pull/2858) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [test: add tests for region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/2857) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: handle the downgrade region instruction](https://github.com/GreptimeTeam/greptimedb/pull/2855) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [chore: bump version to 0.4.4](https://github.com/GreptimeTeam/greptimedb/pull/2840) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: add metrics for COPY TO statement](https://github.com/GreptimeTeam/greptimedb/pull/2878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: unify the meta metrics styling](https://github.com/GreptimeTeam/greptimedb/pull/2875) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [refactor: use downgrading the region instead of closing region](https://github.com/GreptimeTeam/greptimedb/pull/2863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [chore: correct closeable typos](https://github.com/GreptimeTeam/greptimedb/pull/2860) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: add closeable_region_ids in RegionLease](https://github.com/GreptimeTeam/greptime-proto/pull/125) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
+- [chore: add logs and metrics](https://github.com/GreptimeTeam/greptimedb/pull/2858) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [test: add tests for region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/2857) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: handle the downgrade region instruction](https://github.com/GreptimeTeam/greptimedb/pull/2855) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [chore: bump version to 0.4.4](https://github.com/GreptimeTeam/greptimedb/pull/2840) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add upgrade candidate region step](https://github.com/GreptimeTeam/greptimedb/pull/2829) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/2826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix name verifying](https://github.com/GreptimeTeam/greptimedb/pull/2825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -23,17 +23,17 @@ Hi 👋 Weny here.
 - [feat: add update metadata step for rollbacking downgraded region](https://github.com/GreptimeTeam/greptimedb/pull/2812) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add downgrade leader region step](https://github.com/GreptimeTeam/greptimedb/pull/2792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: add downgrade leader region step](https://github.com/GreptimeTeam/greptimedb/pull/2792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add `set_readonly_gracefully` for engine](https://github.com/GreptimeTeam/greptimedb/pull/2787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: bring back `inactive_region_ids`](https://github.com/GreptimeTeam/greptimedb/pull/2783) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [hoosin/redash-docker-compose](https://github.com/hoosin/redash-docker-compose) - Deploying Redash via Docker Compose. (today)
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (today)
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (2 days ago)
-- [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (3 days ago)
-- [maxi-k/btrblocks](https://github.com/maxi-k/btrblocks) - BtrBlocks: Efficient Columnar Compression for Data Lakes (SIGMOD 2023 Paper) (6 days ago)
+- [hoosin/redash-docker-compose](https://github.com/hoosin/redash-docker-compose) - Deploying Redash via Docker Compose. (1 day ago)
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (1 day ago)
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (3 days ago)
+- [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (4 days ago)
+- [maxi-k/btrblocks](https://github.com/maxi-k/btrblocks) - BtrBlocks: Efficient Columnar Compression for Data Lakes (SIGMOD 2023 Paper) (1 week ago)
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data (1 week ago)
 - [Tencent/tquic](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library (1 week ago)
 - [SnellerInc/sneller](https://github.com/SnellerInc/sneller) - World&#39;s fastest log analysis: λ &#43; SQL &#43; JSON &#43; S3 (1 week ago)
@@ -47,11 +47,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (2 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (3 weeks ago)
-- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (3 weeks ago)
+- [WenyXu/orc-rs](https://github.com/WenyXu/orc-rs) - Decoding Apache ORC files to Arrow RecordBatch (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
