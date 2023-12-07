@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (today)
 - [hoosin/redash-docker-compose](https://github.com/hoosin/redash-docker-compose) - Deploying Redash via Docker Compose. (2 days ago)
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (2 days ago)
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (3 weeks ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (3 weeks ago)
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (3 weeks ago)
-- [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
