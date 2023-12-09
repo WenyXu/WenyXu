@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [upondal/opendal-parquet-io](https://github.com/upondal/opendal-parquet-io) - OpenDAL Adaptar for Parquet IO (today)
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean&#39;s latency numbers plotted over time (1 day ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (2 days ago)
 - [hoosin/redash-docker-compose](https://github.com/hoosin/redash-docker-compose) - Deploying Redash via Docker Compose. (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [durner/AnyBlob](https://github.com/durner/AnyBlob) - AnyBlob - A Universal Cloud Object Storage Download Manager Built For Cost-Throughput Optimal Analytics! (2 weeks ago)
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest hashing algorithm 📈 (2 weeks ago)
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (3 weeks ago)
-- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
