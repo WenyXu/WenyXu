@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [RFC: Buffered reader ](https://github.com/apache/incubator-opendal/pull/3734) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [test: add more tests for region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/2895) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: add metrics for COPY FROM statement](https://github.com/GreptimeTeam/greptimedb/pull/2878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore: unify the meta metrics styling](https://github.com/GreptimeTeam/greptimedb/pull/2875) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add downgrade leader region step](https://github.com/GreptimeTeam/greptimedb/pull/2792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add `set_readonly_gracefully` for engine](https://github.com/GreptimeTeam/greptimedb/pull/2787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
