@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [BUPT-OS/RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities.  RROS = RTOS (Rust) &#43; Linux (C). (today)
 - [upondal/opendal-parquet-io](https://github.com/upondal/opendal-parquet-io) - OpenDAL Adaptar for Parquet IO (2 days ago)
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean&#39;s latency numbers plotted over time (3 days ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (4 days ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal! (2 weeks ago)
 - [durner/AnyBlob](https://github.com/durner/AnyBlob) - AnyBlob - A Universal Cloud Object Storage Download Manager Built For Cost-Throughput Optimal Analytics! (2 weeks ago)
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest hashing algorithm 📈 (3 weeks ago)
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
