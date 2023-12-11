@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `with_default` to `OperatorBuilder`](https://github.com/apache/incubator-opendal/pull/3738) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [RFC: Buffered reader ](https://github.com/apache/incubator-opendal/pull/3734) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 day ago)
 - [test: add more tests for region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/2895) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: add metrics for COPY FROM statement](https://github.com/GreptimeTeam/greptimedb/pull/2878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add update metadata step for rollbacking downgraded region](https://github.com/GreptimeTeam/greptimedb/pull/2812) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add downgrade leader region step](https://github.com/GreptimeTeam/greptimedb/pull/2792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [JohnsonLee-debug](https://github.com/JohnsonLee-debug)
 - [zhongzc](https://github.com/zhongzc)
 - [misaya295](https://github.com/misaya295)
 - [Neustradamus](https://github.com/Neustradamus)
 - [yuanbohan](https://github.com/yuanbohan)
-- [pinhe91](https://github.com/pinhe91)
 
 
