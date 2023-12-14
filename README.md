@@ -6,9 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add `with_default` to `OperatorBuilder`](https://github.com/apache/incubator-opendal/pull/3738) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (2 days ago)
-- [RFC: Buffered reader ](https://github.com/apache/incubator-opendal/pull/3734) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (3 days ago)
-- [test: add more tests for region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/2895) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: add `with_default` to `OperatorBuilder`](https://github.com/apache/incubator-opendal/pull/3738) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (3 days ago)
+- [RFC: Buffered reader ](https://github.com/apache/incubator-opendal/pull/3734) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (4 days ago)
+- [test: add more tests for region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/2895) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [chore: add metrics for COPY FROM statement](https://github.com/GreptimeTeam/greptimedb/pull/2878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: unify the meta metrics styling](https://github.com/GreptimeTeam/greptimedb/pull/2875) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: use downgrading the region instead of closing region](https://github.com/GreptimeTeam/greptimedb/pull/2863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,14 +25,14 @@ Hi 👋 Weny here.
 - [fix: fix typos](https://github.com/GreptimeTeam/docs/pull/696) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [feat: add update metadata step for rollbacking downgraded region](https://github.com/GreptimeTeam/greptimedb/pull/2812) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: add update metadata step for upgrading candidate region](https://github.com/GreptimeTeam/greptimedb/pull/2802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [BUPT-OS/RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities.  RROS = RTOS (Rust) &#43; Linux (C). (2 days ago)
-- [upondal/opendal-parquet-io](https://github.com/upondal/opendal-parquet-io) - OpenDAL Adaptar for Parquet IO (4 days ago)
-- [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean&#39;s latency numbers plotted over time (5 days ago)
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (6 days ago)
+- [BUPT-OS/RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities.  RROS = RTOS (Rust) &#43; Linux (C). (3 days ago)
+- [upondal/opendal-parquet-io](https://github.com/upondal/opendal-parquet-io) - OpenDAL Adaptar for Parquet IO (5 days ago)
+- [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean&#39;s latency numbers plotted over time (6 days ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (1 week ago)
 - [hoosin/redash-docker-compose](https://github.com/hoosin/redash-docker-compose) - Deploying Redash via Docker Compose. (1 week ago)
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (1 week ago)
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (1 week ago)
@@ -47,7 +47,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (1 month ago)
