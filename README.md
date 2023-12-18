@@ -11,7 +11,7 @@ Hi 👋 Weny here.
 - [feat: allow initializing regions in background](https://github.com/GreptimeTeam/greptimedb/pull/2930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: add log and tracing layers for Copy From statement](https://github.com/GreptimeTeam/greptimedb/pull/2929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: add `with_default` to `OperatorBuilder`](https://github.com/apache/incubator-opendal/pull/3738) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
-- [RFC: Buffered reader ](https://github.com/apache/incubator-opendal/pull/3734) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
+- [RFC-3734: Buffered reader ](https://github.com/apache/incubator-opendal/pull/3734) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
 - [test: add more tests for region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/2895) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add metrics for COPY FROM statement](https://github.com/GreptimeTeam/greptimedb/pull/2878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: unify the meta metrics styling](https://github.com/GreptimeTeam/greptimedb/pull/2875) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
