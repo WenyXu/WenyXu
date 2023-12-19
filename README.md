@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(mito): add `skip_replay_wal` option to OpenRegionRequest](https://github.com/GreptimeTeam/greptimedb/pull/2955) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: fetch manifests in concurrent](https://github.com/GreptimeTeam/greptimedb/pull/2951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `set_writable_gracefully` for engine](https://github.com/GreptimeTeam/greptimedb/pull/2939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: allow initializing regions in background](https://github.com/GreptimeTeam/greptimedb/pull/2930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add upgrade candidate region step](https://github.com/GreptimeTeam/greptimedb/pull/2829) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/2826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: fix name verifying](https://github.com/GreptimeTeam/greptimedb/pull/2825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: fix procedure loaders not found issue](https://github.com/GreptimeTeam/greptimedb/pull/2824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
