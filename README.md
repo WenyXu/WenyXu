@@ -8,7 +8,7 @@ Hi 👋 Weny here.
 
 - [feat(mito): add `skip_replay_wal` option to OpenRegionRequest](https://github.com/GreptimeTeam/greptimedb/pull/2955) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: fetch manifests in concurrent](https://github.com/GreptimeTeam/greptimedb/pull/2951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: add `set_writable_gracefully` for engine](https://github.com/GreptimeTeam/greptimedb/pull/2939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: add CatchupRequest to engine](https://github.com/GreptimeTeam/greptimedb/pull/2939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: allow initializing regions in background](https://github.com/GreptimeTeam/greptimedb/pull/2930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat: add log and tracing layers for Copy From statement](https://github.com/GreptimeTeam/greptimedb/pull/2929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat: add `with_default` to `OperatorBuilder`](https://github.com/apache/incubator-opendal/pull/3738) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
