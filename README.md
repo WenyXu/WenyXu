@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: remove debug = 1 of dev profile](https://github.com/GreptimeTeam/greptimedb/pull/2966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(mito): add `skip_wal_replay` option to OpenRegionRequest](https://github.com/GreptimeTeam/greptimedb/pull/2955) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: fetch manifests in concurrent](https://github.com/GreptimeTeam/greptimedb/pull/2951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add CatchupRequest to engine](https://github.com/GreptimeTeam/greptimedb/pull/2939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [chore: bump version to 0.4.4](https://github.com/GreptimeTeam/greptimedb/pull/2840) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add upgrade candidate region step](https://github.com/GreptimeTeam/greptimedb/pull/2829) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/2826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: fix name verifying](https://github.com/GreptimeTeam/greptimedb/pull/2825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
