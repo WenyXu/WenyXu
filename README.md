@@ -32,7 +32,7 @@ Hi 👋 Weny here.
 - [BUPT-OS/RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities.  RROS = RTOS (Rust) &#43; Linux (C). (1 week ago)
 - [upondal/opendal-parquet-io](https://github.com/upondal/opendal-parquet-io) - OpenDAL Adaptar for Parquet IO (1 week ago)
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean&#39;s latency numbers plotted over time (2 weeks ago)
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (2 weeks ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (2 weeks ago)
 - [hoosin/redash-docker-compose](https://github.com/hoosin/redash-docker-compose) - Deploying Redash via Docker Compose. (2 weeks ago)
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (2 weeks ago)
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (2 weeks ago)
