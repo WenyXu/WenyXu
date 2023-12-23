@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: setup kafka standalone in coverage test](https://github.com/GreptimeTeam/greptimedb/pull/2984) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `skip_wal_replay` to OpenRegion instruction](https://github.com/GreptimeTeam/greptimedb/pull/2977) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: remove debug = 1 of dev profile](https://github.com/GreptimeTeam/greptimedb/pull/2966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(mito): add `skip_wal_replay` option to OpenRegionRequest](https://github.com/GreptimeTeam/greptimedb/pull/2955) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [test: add tests for region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/2857) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: handle the downgrade region instruction](https://github.com/GreptimeTeam/greptimedb/pull/2855) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: bump version to 0.4.4](https://github.com/GreptimeTeam/greptimedb/pull/2840) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add upgrade candidate region step](https://github.com/GreptimeTeam/greptimedb/pull/2829) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
