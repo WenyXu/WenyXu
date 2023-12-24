@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
-- [nevo-david](https://github.com/nevo-david)
 - [oowl](https://github.com/oowl)
 - [killme2008](https://github.com/killme2008)
 - [JohnsonLee-debug](https://github.com/JohnsonLee-debug)
 - [zhongzc](https://github.com/zhongzc)
+- [misaya295](https://github.com/misaya295)
 
 
