@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: add StandaloneWalConfig](https://github.com/GreptimeTeam/greptimedb/pull/3002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(oio::read): implement the async buffer reader](https://github.com/apache/incubator-opendal/pull/3811) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (3 days ago)
 - [chore: setup kafka standalone in coverage test](https://github.com/GreptimeTeam/greptimedb/pull/2984) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: add `skip_wal_replay` to OpenRegion instruction](https://github.com/GreptimeTeam/greptimedb/pull/2977) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add closeable_region_ids in RegionLease](https://github.com/GreptimeTeam/greptime-proto/pull/125) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [chore: add logs and metrics](https://github.com/GreptimeTeam/greptimedb/pull/2858) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [test: add tests for region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/2857) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: handle the downgrade region instruction](https://github.com/GreptimeTeam/greptimedb/pull/2855) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
