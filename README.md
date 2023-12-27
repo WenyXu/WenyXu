@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: implement region migration manager](https://github.com/GreptimeTeam/greptimedb/pull/3014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement handle upgrade region instruction](https://github.com/GreptimeTeam/greptimedb/pull/3013) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor(remote_wal): add StandaloneWalConfig](https://github.com/GreptimeTeam/greptimedb/pull/3002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(oio::read): implement the async buffer reader](https://github.com/apache/incubator-opendal/pull/3811) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (4 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [refactor: use downgrading the region instead of closing region](https://github.com/GreptimeTeam/greptimedb/pull/2863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: correct closeable typos](https://github.com/GreptimeTeam/greptimedb/pull/2860) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add closeable_region_ids in RegionLease](https://github.com/GreptimeTeam/greptime-proto/pull/125) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
-- [chore: add logs and metrics](https://github.com/GreptimeTeam/greptimedb/pull/2858) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
