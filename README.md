@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement param parsing of `SubmitMigrationTaskHandler`](https://github.com/GreptimeTeam/greptimedb/pull/3015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: implement param parsing of `SubmitRegionMigrationTaskHandler`](https://github.com/GreptimeTeam/greptimedb/pull/3015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement region migration manager](https://github.com/GreptimeTeam/greptimedb/pull/3014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement handle upgrade region instruction](https://github.com/GreptimeTeam/greptimedb/pull/3013) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor(remote_wal): add StandaloneWalConfig](https://github.com/GreptimeTeam/greptimedb/pull/3002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
