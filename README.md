@@ -6,10 +6,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: append a noop record after kafka topic initialization](https://github.com/GreptimeTeam/greptimedb/pull/3040) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: replay memtable should from `flushed_entry_id &#43; 1`](https://github.com/GreptimeTeam/greptimedb/pull/3038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(remote_wal): append a noop record after kafka topic initialization](https://github.com/GreptimeTeam/greptimedb/pull/3040) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(wal): replay memtable should from `flushed_entry_id &#43; 1`](https://github.com/GreptimeTeam/greptimedb/pull/3038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: expose region migration http endpoint](https://github.com/GreptimeTeam/greptimedb/pull/3032) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [test: add sqlness with kafka wal ](https://github.com/GreptimeTeam/greptimedb/pull/3027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [test(remote_wal): add sqlness with kafka wal ](https://github.com/GreptimeTeam/greptimedb/pull/3027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement param parsing of `SubmitRegionMigrationTaskHandler`](https://github.com/GreptimeTeam/greptimedb/pull/3015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement region migration manager](https://github.com/GreptimeTeam/greptimedb/pull/3014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement handle upgrade region instruction](https://github.com/GreptimeTeam/greptimedb/pull/3013) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
