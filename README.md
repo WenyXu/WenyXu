@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: use TwoWays instead of TwoWaysReader and TwoWaysWriter](https://github.com/apache/incubator-opendal/pull/3863) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
+- [feat: add basic behavior tests for buffer reader](https://github.com/apache/incubator-opendal/pull/3862) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [feat: adapt the `CompleteReader`](https://github.com/apache/incubator-opendal/pull/3861) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [feat(oio::read): implement the blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3860) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [chore: revert &#34;test: ignore tests temporally&#34;](https://github.com/GreptimeTeam/greptimedb/pull/3050) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -24,8 +26,6 @@ Hi 👋 Weny here.
 - [feat(mito): add `skip_wal_replay` option to OpenRegionRequest](https://github.com/GreptimeTeam/greptimedb/pull/2955) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: fetch manifests in concurrent](https://github.com/GreptimeTeam/greptimedb/pull/2951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add CatchupRequest to engine](https://github.com/GreptimeTeam/greptimedb/pull/2939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: allow initializing regions in background](https://github.com/GreptimeTeam/greptimedb/pull/2930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add log and tracing layers for Copy From statement](https://github.com/GreptimeTeam/greptimedb/pull/2929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
