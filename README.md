@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(oio::read): implement the blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3860) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [chore: revert &#34;test: ignore tests temporally&#34;](https://github.com/GreptimeTeam/greptimedb/pull/3050) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(remote_wal): append a noop record after kafka topic initialization](https://github.com/GreptimeTeam/greptimedb/pull/3040) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(wal): replay memtable should from `flushed_entry_id &#43; 1`](https://github.com/GreptimeTeam/greptimedb/pull/3038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: allow initializing regions in background](https://github.com/GreptimeTeam/greptimedb/pull/2930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add log and tracing layers for Copy From statement](https://github.com/GreptimeTeam/greptimedb/pull/2929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add `with_default` to `OperatorBuilder`](https://github.com/apache/incubator-opendal/pull/3738) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (2 weeks ago)
-- [RFC-3734: Buffered reader ](https://github.com/apache/incubator-opendal/pull/3734) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,8 +47,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (3 weeks ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (1 month ago)
