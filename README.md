@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: adapt the `CompleteReader`](https://github.com/apache/incubator-opendal/pull/3861) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [feat(oio::read): implement the blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3860) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [chore: revert &#34;test: ignore tests temporally&#34;](https://github.com/GreptimeTeam/greptimedb/pull/3050) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(remote_wal): append a noop record after kafka topic initialization](https://github.com/GreptimeTeam/greptimedb/pull/3040) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add CatchupRequest to engine](https://github.com/GreptimeTeam/greptimedb/pull/2939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: allow initializing regions in background](https://github.com/GreptimeTeam/greptimedb/pull/2930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add log and tracing layers for Copy From statement](https://github.com/GreptimeTeam/greptimedb/pull/2929) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add `with_default` to `OperatorBuilder`](https://github.com/apache/incubator-opendal/pull/3738) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
