@@ -29,6 +29,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) -  (today)
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance no-code GraphQL backend (today)
 - [risingwavelabs/arrow-udf](https://github.com/risingwavelabs/arrow-udf) - Arrow User-Defined Function Framework. (3 days ago)
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google&#39;s SwissTable hash map (1 week ago)
@@ -43,7 +44,6 @@ Hi 👋 Weny here.
 - [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (1 month ago)
 - [maxi-k/btrblocks](https://github.com/maxi-k/btrblocks) - BtrBlocks: Efficient Columnar Compression for Data Lakes (SIGMOD 2023 Paper) (1 month ago)
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data (1 month ago)
-- [Tencent/tquic](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
