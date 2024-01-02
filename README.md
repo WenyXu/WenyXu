@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add concurrent writer RFC](https://github.com/apache/incubator-opendal/pull/3898) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
+- [RFC-3898: Concurrent Writer](https://github.com/apache/incubator-opendal/pull/3898) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [test(tests-integration): add a naive test with kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3071) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add kafka wal integration test utils](https://github.com/GreptimeTeam/greptimedb/pull/3069) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: unify the injection of WAL option](https://github.com/GreptimeTeam/greptimedb/pull/3066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
