@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add concurrent writer RFC](https://github.com/apache/incubator-opendal/pull/3898) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [test(tests-integration): add a naive test with kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3071) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add kafka wal integration test utils](https://github.com/GreptimeTeam/greptimedb/pull/3069) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: unify the injection of WAL option](https://github.com/GreptimeTeam/greptimedb/pull/3066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix(wal): replay memtable should from `flushed_entry_id &#43; 1`](https://github.com/GreptimeTeam/greptimedb/pull/3038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat: expose region migration http endpoint](https://github.com/GreptimeTeam/greptimedb/pull/3032) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [test(remote_wal): add sqlness with kafka wal ](https://github.com/GreptimeTeam/greptimedb/pull/3027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: implement param parsing of `SubmitRegionMigrationTaskHandler`](https://github.com/GreptimeTeam/greptimedb/pull/3015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
