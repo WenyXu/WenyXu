@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat!: correct the kafka config option](https://github.com/GreptimeTeam/greptimedb/pull/3065) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: allow procedure to acquire share lock](https://github.com/GreptimeTeam/greptimedb/pull/3061) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: bump opendal to 0.44](https://github.com/GreptimeTeam/greptimedb/pull/3058) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add behavior tests for blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3872) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: implement region migration manager](https://github.com/GreptimeTeam/greptimedb/pull/3014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: implement handle upgrade region instruction](https://github.com/GreptimeTeam/greptimedb/pull/3013) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [refactor(remote_wal): add StandaloneWalConfig](https://github.com/GreptimeTeam/greptimedb/pull/3002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(oio::read): implement the async buffer reader](https://github.com/apache/incubator-opendal/pull/3811) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
