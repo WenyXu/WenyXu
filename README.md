@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: unify the injection of WAL option](https://github.com/GreptimeTeam/greptimedb/pull/3066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat!: correct the kafka config option](https://github.com/GreptimeTeam/greptimedb/pull/3065) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: allow procedure to acquire share lock](https://github.com/GreptimeTeam/greptimedb/pull/3061) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: bump opendal to 0.44](https://github.com/GreptimeTeam/greptimedb/pull/3058) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: implement param parsing of `SubmitRegionMigrationTaskHandler`](https://github.com/GreptimeTeam/greptimedb/pull/3015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: implement region migration manager](https://github.com/GreptimeTeam/greptimedb/pull/3014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: implement handle upgrade region instruction](https://github.com/GreptimeTeam/greptimedb/pull/3013) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [refactor(remote_wal): add StandaloneWalConfig](https://github.com/GreptimeTeam/greptimedb/pull/3002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
