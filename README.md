@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(tests-integration): add a naive region migration integration test](https://github.com/GreptimeTeam/greptimedb/pull/3078) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: add logs for upgrading candidate region and updating metadata](https://github.com/GreptimeTeam/greptimedb/pull/3077) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [RFC-3898: Concurrent Writer](https://github.com/apache/incubator-opendal/pull/3898) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 day ago)
 - [test(tests-integration): add a naive test with kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3071) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add kafka wal integration test utils](https://github.com/GreptimeTeam/greptimedb/pull/3069) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -24,8 +26,6 @@ Hi 👋 Weny here.
 - [chore: revert &#34;test: ignore tests temporally&#34;](https://github.com/GreptimeTeam/greptimedb/pull/3050) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat(remote_wal): append a noop record after kafka topic initialization](https://github.com/GreptimeTeam/greptimedb/pull/3040) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(wal): replay memtable should from `flushed_entry_id &#43; 1`](https://github.com/GreptimeTeam/greptimedb/pull/3038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: expose region migration http endpoint](https://github.com/GreptimeTeam/greptimedb/pull/3032) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [test(remote_wal): add sqlness with kafka wal ](https://github.com/GreptimeTeam/greptimedb/pull/3027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
