@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: implement concurrent `MultipartUploadWriter`](https://github.com/apache/incubator-opendal/pull/3915) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [test: add tests for lease keeper with logical table](https://github.com/GreptimeTeam/greptimedb/pull/3096) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(metric): implement `role` and `region_disk_usage`](https://github.com/GreptimeTeam/greptimedb/pull/3095) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(tests-integration): add more region migration integration tests](https://github.com/GreptimeTeam/greptimedb/pull/3094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [fix: fix the bypass read does not sync the `cur` of `BufferReader`](https://github.com/apache/incubator-opendal/pull/3865) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
 - [fix: fix a bypass seek relative bug in `BufferReader`](https://github.com/apache/incubator-opendal/pull/3864) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
 - [refactor: use TwoWays instead of TwoWaysReader and TwoWaysWriter](https://github.com/apache/incubator-opendal/pull/3863) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
-- [feat: add basic behavior tests for buffer reader](https://github.com/apache/incubator-opendal/pull/3862) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
 
 #### ⭐ Check out my recent stars
 
