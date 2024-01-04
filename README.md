@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(tests-integration): add more region migration integration tests](https://github.com/GreptimeTeam/greptimedb/pull/3094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix non-physical error msg](https://github.com/GreptimeTeam/greptimedb/pull/3087) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: abort region migration if leader region peer is unexpected](https://github.com/GreptimeTeam/greptimedb/pull/3086) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(tests-integration): add a naive region migration integration test](https://github.com/GreptimeTeam/greptimedb/pull/3078) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [feat: add basic behavior tests for buffer reader](https://github.com/apache/incubator-opendal/pull/3862) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
 - [feat: adapt the `CompleteReader`](https://github.com/apache/incubator-opendal/pull/3861) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
 - [feat(oio::read): implement the blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3860) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
-- [chore: revert &#34;test: ignore tests temporally&#34;](https://github.com/GreptimeTeam/greptimedb/pull/3050) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
@@ -48,7 +48,7 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 month ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (1 month ago)
