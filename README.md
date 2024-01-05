@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add fuzz_writer_with_concurrent test](https://github.com/apache/incubator-opendal/pull/3921) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
+- [feat: add concurrent writer behavior tests](https://github.com/apache/incubator-opendal/pull/3920) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [feat: implement concurrent `MultipartUploadWriter`](https://github.com/apache/incubator-opendal/pull/3915) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 day ago)
 - [test: add tests for lease keeper with logical table](https://github.com/GreptimeTeam/greptimedb/pull/3096) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(metric): implement `role` and `region_disk_usage`](https://github.com/GreptimeTeam/greptimedb/pull/3095) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -24,8 +26,6 @@ Hi 👋 Weny here.
 - [feat: add behavior tests for blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3872) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
 - [feat: add fuzz reader with buffer tests](https://github.com/apache/incubator-opendal/pull/3866) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
 - [fix: fix the bypass read does not sync the `cur` of `BufferReader`](https://github.com/apache/incubator-opendal/pull/3865) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
-- [fix: fix a bypass seek relative bug in `BufferReader`](https://github.com/apache/incubator-opendal/pull/3864) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
-- [refactor: use TwoWays instead of TwoWaysReader and TwoWaysWriter](https://github.com/apache/incubator-opendal/pull/3863) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
@@ -47,8 +47,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 month ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (1 month ago)
