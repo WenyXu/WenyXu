@@ -6,7 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add fuzz_writer_with_concurrent test](https://github.com/apache/incubator-opendal/pull/3921) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
+- [feat: implement concurrent `RangeWriter`](https://github.com/apache/incubator-opendal/pull/3923) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
+- [feat: add `concurrent` and `buffer` parameters into FuzzInput](https://github.com/apache/incubator-opendal/pull/3921) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [feat: add concurrent writer behavior tests](https://github.com/apache/incubator-opendal/pull/3920) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [feat: implement concurrent `MultipartUploadWriter`](https://github.com/apache/incubator-opendal/pull/3915) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 day ago)
 - [test: add tests for lease keeper with logical table](https://github.com/GreptimeTeam/greptimedb/pull/3096) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -25,7 +26,6 @@ Hi 👋 Weny here.
 - [chore: bump opendal to 0.44](https://github.com/GreptimeTeam/greptimedb/pull/3058) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat: add behavior tests for blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3872) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
 - [feat: add fuzz reader with buffer tests](https://github.com/apache/incubator-opendal/pull/3866) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
-- [fix: fix the bypass read does not sync the `cur` of `BufferReader`](https://github.com/apache/incubator-opendal/pull/3865) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
