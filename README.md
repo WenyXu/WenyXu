@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary) - Generating structured data from arbitrary, unstructured input. (today)
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (today)
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (today)
 - [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) -  (5 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [hoosin/redash-docker-compose](https://github.com/hoosin/redash-docker-compose) - Deploying Redash via Docker Compose. (1 month ago)
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (1 month ago)
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (1 month ago)
-- [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
