@@ -26,6 +26,11 @@ Hi 👋 Weny here.
 - [feat: add kafka wal integration test utils](https://github.com/GreptimeTeam/greptimedb/pull/3069) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [refactor: unify the injection of WAL option](https://github.com/GreptimeTeam/greptimedb/pull/3066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat!: correct the kafka config option](https://github.com/GreptimeTeam/greptimedb/pull/3065) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: allow procedure to acquire share lock](https://github.com/GreptimeTeam/greptimedb/pull/3061) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: bump opendal to 0.44](https://github.com/GreptimeTeam/greptimedb/pull/3058) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add behavior tests for blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3872) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
+- [feat: add fuzz reader with buffer tests](https://github.com/apache/incubator-opendal/pull/3866) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
+- [fix: fix the bypass read does not sync the `cur` of `BufferReader`](https://github.com/apache/incubator-opendal/pull/3865) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
