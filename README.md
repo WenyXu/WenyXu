@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (today)
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (today)
 - [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) -  (5 days ago)
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance no-code GraphQL backend (5 days ago)
 - [risingwavelabs/arrow-udf](https://github.com/risingwavelabs/arrow-udf) - Arrow User-Defined Function Framework. (1 week ago)
@@ -47,8 +49,6 @@ Hi 👋 Weny here.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (1 month ago)
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (1 month ago)
 - [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (1 month ago)
-- [maxi-k/btrblocks](https://github.com/maxi-k/btrblocks) - BtrBlocks: Efficient Columnar Compression for Data Lakes (SIGMOD 2023 Paper) (1 month ago)
-- [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
