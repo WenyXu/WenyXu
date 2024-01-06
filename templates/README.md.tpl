@@ -5,7 +5,7 @@ Hi 👋 Weny here.
 ~🍺 Open to Remote/Intern Job Opportunities~
 
 #### 🔨 Check out my recent pull requests
-{{range recentPullRequests 20}}
+{{range recentPullRequests 25}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
