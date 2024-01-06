@@ -6,6 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs(gcs): correct the description of credential](https://github.com/apache/incubator-opendal/pull/3928) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
+- [fix: check env before running kafka test](https://github.com/GreptimeTeam/greptimedb/pull/3110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: fix RangeWriter incorrect `next_offset`](https://github.com/apache/incubator-opendal/pull/3927) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (today)
 - [feat: implement concurrent `RangeWriter`](https://github.com/apache/incubator-opendal/pull/3923) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 day ago)
 - [feat: add `concurrent` and `buffer` parameters into FuzzInput](https://github.com/apache/incubator-opendal/pull/3921) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 day ago)
 - [feat: add concurrent writer behavior tests](https://github.com/apache/incubator-opendal/pull/3920) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 day ago)
@@ -23,9 +26,6 @@ Hi 👋 Weny here.
 - [refactor: unify the injection of WAL option](https://github.com/GreptimeTeam/greptimedb/pull/3066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat!: correct the kafka config option](https://github.com/GreptimeTeam/greptimedb/pull/3065) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [refactor: allow procedure to acquire share lock](https://github.com/GreptimeTeam/greptimedb/pull/3061) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [chore: bump opendal to 0.44](https://github.com/GreptimeTeam/greptimedb/pull/3058) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: add behavior tests for blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3872) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
-- [feat: add fuzz reader with buffer tests](https://github.com/apache/incubator-opendal/pull/3866) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
