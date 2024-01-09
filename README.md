@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release (today)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (2 days ago)
 - [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary) - Generating structured data from arbitrary, unstructured input. (3 days ago)
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (3 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean&#39;s latency numbers plotted over time (1 month ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 month ago)
 - [hoosin/redash-docker-compose](https://github.com/hoosin/redash-docker-compose) - Deploying Redash via Docker Compose. (1 month ago)
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
