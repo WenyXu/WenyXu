@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: incorrect parsing `broker_endpoints` env variable](https://github.com/GreptimeTeam/greptimedb/pull/3135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: expose the region migration `replay_timeout` argument](https://github.com/GreptimeTeam/greptimedb/pull/3129) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: refactor the locks in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3126) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump opendal to 0.44.1](https://github.com/GreptimeTeam/greptimedb/pull/3111) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat!: correct the kafka config option](https://github.com/GreptimeTeam/greptimedb/pull/3065) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: allow procedure to acquire share lock](https://github.com/GreptimeTeam/greptimedb/pull/3061) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: bump opendal to 0.44](https://github.com/GreptimeTeam/greptimedb/pull/3058) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add behavior tests for blocking buffer reader](https://github.com/apache/incubator-opendal/pull/3872) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
