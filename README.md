@@ -6,20 +6,20 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: incorrect parsing `broker_endpoints` env variable](https://github.com/GreptimeTeam/greptimedb/pull/3135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: expose the region migration `replay_timeout` argument](https://github.com/GreptimeTeam/greptimedb/pull/3129) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [refactor: refactor the locks in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3126) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: bump opendal to 0.44.1](https://github.com/GreptimeTeam/greptimedb/pull/3111) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [docs(gcs): correct the description of credential](https://github.com/apache/incubator-opendal/pull/3928) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (4 days ago)
-- [fix: check env before running kafka test](https://github.com/GreptimeTeam/greptimedb/pull/3110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: fix RangeWriter incorrect `next_offset`](https://github.com/apache/incubator-opendal/pull/3927) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (4 days ago)
-- [feat: implement concurrent `RangeWriter`](https://github.com/apache/incubator-opendal/pull/3923) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
-- [feat: add `concurrent` and `buffer` parameters into FuzzInput](https://github.com/apache/incubator-opendal/pull/3921) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
-- [feat: add concurrent writer behavior tests](https://github.com/apache/incubator-opendal/pull/3920) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
-- [feat: implement concurrent `MultipartUploadWriter`](https://github.com/apache/incubator-opendal/pull/3915) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
-- [test: add tests for lease keeper with logical table](https://github.com/GreptimeTeam/greptimedb/pull/3096) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat(metric): implement `role` and `region_disk_usage`](https://github.com/GreptimeTeam/greptimedb/pull/3095) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat(tests-integration): add more region migration integration tests](https://github.com/GreptimeTeam/greptimedb/pull/3094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: incorrect parsing `broker_endpoints` env variable](https://github.com/GreptimeTeam/greptimedb/pull/3135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: expose the region migration `replay_timeout` argument](https://github.com/GreptimeTeam/greptimedb/pull/3129) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [refactor: refactor the locks in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3126) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: bump opendal to 0.44.1](https://github.com/GreptimeTeam/greptimedb/pull/3111) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [docs(gcs): correct the description of credential](https://github.com/apache/incubator-opendal/pull/3928) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
+- [fix: check env before running kafka test](https://github.com/GreptimeTeam/greptimedb/pull/3110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: fix RangeWriter incorrect `next_offset`](https://github.com/apache/incubator-opendal/pull/3927) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 days ago)
+- [feat: implement concurrent `RangeWriter`](https://github.com/apache/incubator-opendal/pull/3923) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
+- [feat: add `concurrent` and `buffer` parameters into FuzzInput](https://github.com/apache/incubator-opendal/pull/3921) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
+- [feat: add concurrent writer behavior tests](https://github.com/apache/incubator-opendal/pull/3920) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
+- [feat: implement concurrent `MultipartUploadWriter`](https://github.com/apache/incubator-opendal/pull/3915) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
+- [test: add tests for lease keeper with logical table](https://github.com/GreptimeTeam/greptimedb/pull/3096) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat(metric): implement `role` and `region_disk_usage`](https://github.com/GreptimeTeam/greptimedb/pull/3095) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat(tests-integration): add more region migration integration tests](https://github.com/GreptimeTeam/greptimedb/pull/3094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix non-physical error msg](https://github.com/GreptimeTeam/greptimedb/pull/3087) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: abort region migration if leader region peer is unexpected](https://github.com/GreptimeTeam/greptimedb/pull/3086) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(tests-integration): add a naive region migration integration test](https://github.com/GreptimeTeam/greptimedb/pull/3078) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,13 +34,13 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (today)
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (today)
-- [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release (1 day ago)
-- [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (3 days ago)
-- [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary) - Generating structured data from arbitrary, unstructured input. (4 days ago)
-- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (4 days ago)
-- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (4 days ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 day ago)
+- [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release (2 days ago)
+- [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (4 days ago)
+- [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary) - Generating structured data from arbitrary, unstructured input. (5 days ago)
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (5 days ago)
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (5 days ago)
 - [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) -  (1 week ago)
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance no-code GraphQL backend (1 week ago)
 - [risingwavelabs/arrow-udf](https://github.com/risingwavelabs/arrow-udf) - Arrow User-Defined Function Framework. (1 week ago)
@@ -52,11 +52,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (5 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 month ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (1 month ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of ORC file format (2 months ago)
 
 #### 👯 Check out my recent followers
 
