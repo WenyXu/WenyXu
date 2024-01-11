@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix store all wal options](https://github.com/GreptimeTeam/greptimedb/pull/3149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(kafka): overwrite the EntryId with Offset while consuming records](https://github.com/GreptimeTeam/greptimedb/pull/3148) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: print detailed error](https://github.com/GreptimeTeam/greptimedb/pull/3146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: save code in `debug_assert!`](https://github.com/GreptimeTeam/greptimedb/pull/3137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [RFC-3898: Concurrent Writer](https://github.com/apache/incubator-opendal/pull/3898) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
 - [test(tests-integration): add a naive test with kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3071) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add kafka wal integration test utils](https://github.com/GreptimeTeam/greptimedb/pull/3069) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: unify the injection of WAL option](https://github.com/GreptimeTeam/greptimedb/pull/3066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
