@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework (today)
+- [tosc-rs/mnemos](https://github.com/tosc-rs/mnemos) - An Operating System for Building Small Computers (today)
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (4 days ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (4 days ago)
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release (5 days ago)
@@ -47,8 +49,6 @@ Hi 👋 Weny here.
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google&#39;s SwissTable hash map (3 weeks ago)
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust&#39;s mid-level intermediate representation (3 weeks ago)
 - [BUPT-OS/RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities.  RROS = RTOS (Rust) &#43; Linux (C). (1 month ago)
-- [upondal/opendal-parquet-io](https://github.com/upondal/opendal-parquet-io) - OpenDAL Adaptar for Parquet IO (1 month ago)
-- [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean&#39;s latency numbers plotted over time (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
