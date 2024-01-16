@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/3173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix tests failed on windows](https://github.com/GreptimeTeam/greptimedb/pull/3155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [chore: bump version to 0.6.0](https://github.com/GreptimeTeam/greptimedb/pull/3154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix: fix store all wal options](https://github.com/GreptimeTeam/greptimedb/pull/3149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: abort region migration if leader region peer is unexpected](https://github.com/GreptimeTeam/greptimedb/pull/3086) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(tests-integration): add a naive region migration integration test](https://github.com/GreptimeTeam/greptimedb/pull/3078) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add logs for upgrading candidate region and updating metadata](https://github.com/GreptimeTeam/greptimedb/pull/3077) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [RFC-3898: Concurrent Writer](https://github.com/apache/incubator-opendal/pull/3898) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
