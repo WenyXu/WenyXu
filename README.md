@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust. (today)
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework (2 days ago)
 - [tosc-rs/mnemos](https://github.com/tosc-rs/mnemos) - An Operating System for Building Small Computers (2 days ago)
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (6 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [risingwavelabs/arrow-udf](https://github.com/risingwavelabs/arrow-udf) - Arrow User-Defined Function Framework. (2 weeks ago)
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google&#39;s SwissTable hash map (3 weeks ago)
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust&#39;s mid-level intermediate representation (3 weeks ago)
-- [BUPT-OS/RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities.  RROS = RTOS (Rust) &#43; Linux (C). (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
