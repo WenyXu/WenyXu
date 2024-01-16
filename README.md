@@ -6,15 +6,15 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix tests failed on windows](https://github.com/GreptimeTeam/greptimedb/pull/3155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore: bump version to 0.6.0](https://github.com/GreptimeTeam/greptimedb/pull/3154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: fix store all wal options](https://github.com/GreptimeTeam/greptimedb/pull/3149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(kafka): overwrite the EntryId with Offset while consuming records](https://github.com/GreptimeTeam/greptimedb/pull/3148) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: print detailed error](https://github.com/GreptimeTeam/greptimedb/pull/3146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: save code in `debug_assert!`](https://github.com/GreptimeTeam/greptimedb/pull/3137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: incorrect parsing `broker_endpoints` env variable](https://github.com/GreptimeTeam/greptimedb/pull/3135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: expose the region migration `replay_timeout` argument](https://github.com/GreptimeTeam/greptimedb/pull/3129) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [refactor: refactor the locks in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3126) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: fix tests failed on windows](https://github.com/GreptimeTeam/greptimedb/pull/3155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: bump version to 0.6.0](https://github.com/GreptimeTeam/greptimedb/pull/3154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: fix store all wal options](https://github.com/GreptimeTeam/greptimedb/pull/3149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix(kafka): overwrite the EntryId with Offset while consuming records](https://github.com/GreptimeTeam/greptimedb/pull/3148) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: print detailed error](https://github.com/GreptimeTeam/greptimedb/pull/3146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: save code in `debug_assert!`](https://github.com/GreptimeTeam/greptimedb/pull/3137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: incorrect parsing `broker_endpoints` env variable](https://github.com/GreptimeTeam/greptimedb/pull/3135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: expose the region migration `replay_timeout` argument](https://github.com/GreptimeTeam/greptimedb/pull/3129) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor: refactor the locks in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3126) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [chore: bump opendal to 0.44.1](https://github.com/GreptimeTeam/greptimedb/pull/3111) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs(gcs): correct the description of credential](https://github.com/apache/incubator-opendal/pull/3928) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
 - [fix: check env before running kafka test](https://github.com/GreptimeTeam/greptimedb/pull/3110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,15 +30,15 @@ Hi 👋 Weny here.
 - [feat: abort region migration if leader region peer is unexpected](https://github.com/GreptimeTeam/greptimedb/pull/3086) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(tests-integration): add a naive region migration integration test](https://github.com/GreptimeTeam/greptimedb/pull/3078) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add logs for upgrading candidate region and updating metadata](https://github.com/GreptimeTeam/greptimedb/pull/3077) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [RFC-3898: Concurrent Writer](https://github.com/apache/incubator-opendal/pull/3898) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
+- [RFC-3898: Concurrent Writer](https://github.com/apache/incubator-opendal/pull/3898) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework (1 day ago)
-- [tosc-rs/mnemos](https://github.com/tosc-rs/mnemos) - An Operating System for Building Small Computers (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (5 days ago)
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (5 days ago)
-- [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release (6 days ago)
+- [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework (2 days ago)
+- [tosc-rs/mnemos](https://github.com/tosc-rs/mnemos) - An Operating System for Building Small Computers (2 days ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (6 days ago)
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (6 days ago)
+- [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release (1 week ago)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (1 week ago)
 - [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary) - Generating structured data from arbitrary, unstructured input. (1 week ago)
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (1 week ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (4 days ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 month ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
