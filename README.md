@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add region migration doc](https://github.com/GreptimeTeam/docs/pull/792) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat(tests-fuzz): add CreateTableExprGenerator &amp; AlterTableExprGenerator](https://github.com/GreptimeTeam/greptimedb/pull/3182) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/3173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: fix tests failed on windows](https://github.com/GreptimeTeam/greptimedb/pull/3155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat(tests-integration): add more region migration integration tests](https://github.com/GreptimeTeam/greptimedb/pull/3094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix non-physical error msg](https://github.com/GreptimeTeam/greptimedb/pull/3087) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: abort region migration if leader region peer is unexpected](https://github.com/GreptimeTeam/greptimedb/pull/3086) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat(tests-integration): add a naive region migration integration test](https://github.com/GreptimeTeam/greptimedb/pull/3078) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
