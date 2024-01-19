@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: reduce number of parquet metadata reads and enable reader buffer](https://github.com/GreptimeTeam/greptimedb/pull/3197) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add region migration doc](https://github.com/GreptimeTeam/docs/pull/792) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [feat(tests-fuzz): add CreateTableExprGenerator &amp; AlterTableExprGenerator](https://github.com/GreptimeTeam/greptimedb/pull/3182) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/3173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat(metric): implement `role` and `region_disk_usage`](https://github.com/GreptimeTeam/greptimedb/pull/3095) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(tests-integration): add more region migration integration tests](https://github.com/GreptimeTeam/greptimedb/pull/3094) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix non-physical error msg](https://github.com/GreptimeTeam/greptimedb/pull/3087) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: abort region migration if leader region peer is unexpected](https://github.com/GreptimeTeam/greptimedb/pull/3086) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
