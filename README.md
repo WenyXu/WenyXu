@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add region migration doc](https://github.com/GreptimeTeam/docs/pull/792) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
-- [feat(tests-fuzz): add CreateTableExprGenerator &amp; AlterTableExprGenerator](https://github.com/GreptimeTeam/greptimedb/pull/3182) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: add tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/3173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: fix tests failed on windows](https://github.com/GreptimeTeam/greptimedb/pull/3155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [chore: bump version to 0.6.0](https://github.com/GreptimeTeam/greptimedb/pull/3154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add region migration doc](https://github.com/GreptimeTeam/docs/pull/792) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
+- [feat(tests-fuzz): add CreateTableExprGenerator &amp; AlterTableExprGenerator](https://github.com/GreptimeTeam/greptimedb/pull/3182) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: add tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/3173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: fix tests failed on windows](https://github.com/GreptimeTeam/greptimedb/pull/3155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [chore: bump version to 0.6.0](https://github.com/GreptimeTeam/greptimedb/pull/3154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix store all wal options](https://github.com/GreptimeTeam/greptimedb/pull/3149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(kafka): overwrite the EntryId with Offset while consuming records](https://github.com/GreptimeTeam/greptimedb/pull/3148) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: print detailed error](https://github.com/GreptimeTeam/greptimedb/pull/3146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -22,9 +22,9 @@ Hi 👋 Weny here.
 - [docs(gcs): correct the description of credential](https://github.com/apache/opendal/pull/3928) on [apache/opendal](https://github.com/apache/opendal) (1 week ago)
 - [fix: check env before running kafka test](https://github.com/GreptimeTeam/greptimedb/pull/3110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix RangeWriter incorrect `next_offset`](https://github.com/apache/opendal/pull/3927) on [apache/opendal](https://github.com/apache/opendal) (1 week ago)
-- [feat: implement concurrent `RangeWriter`](https://github.com/apache/opendal/pull/3923) on [apache/opendal](https://github.com/apache/opendal) (1 week ago)
-- [feat: add `concurrent` and `buffer` parameters into FuzzInput](https://github.com/apache/opendal/pull/3921) on [apache/opendal](https://github.com/apache/opendal) (1 week ago)
-- [feat: add concurrent writer behavior tests](https://github.com/apache/opendal/pull/3920) on [apache/opendal](https://github.com/apache/opendal) (1 week ago)
+- [feat: implement concurrent `RangeWriter`](https://github.com/apache/opendal/pull/3923) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
+- [feat: add `concurrent` and `buffer` parameters into FuzzInput](https://github.com/apache/opendal/pull/3921) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
+- [feat: add concurrent writer behavior tests](https://github.com/apache/opendal/pull/3920) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [feat: implement concurrent `MultipartUploadWriter`](https://github.com/apache/opendal/pull/3915) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [test: add tests for lease keeper with logical table](https://github.com/GreptimeTeam/greptimedb/pull/3096) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(metric): implement `role` and `region_disk_usage`](https://github.com/GreptimeTeam/greptimedb/pull/3095) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -34,9 +34,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust. (2 days ago)
-- [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework (4 days ago)
-- [tosc-rs/mnemos](https://github.com/tosc-rs/mnemos) - An Operating System for Building Small Computers (4 days ago)
+- [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust. (3 days ago)
+- [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework (5 days ago)
+- [tosc-rs/mnemos](https://github.com/tosc-rs/mnemos) - An Operating System for Building Small Computers (5 days ago)
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 week ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release (1 week ago)
@@ -46,13 +46,13 @@ Hi 👋 Weny here.
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (1 week ago)
 - [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) -  (2 weeks ago)
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance no-code GraphQL backend (2 weeks ago)
-- [risingwavelabs/arrow-udf](https://github.com/risingwavelabs/arrow-udf) - Arrow User-Defined Function Framework. (2 weeks ago)
-- [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google&#39;s SwissTable hash map (3 weeks ago)
-- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust&#39;s mid-level intermediate representation (3 weeks ago)
+- [risingwavelabs/arrow-udf](https://github.com/risingwavelabs/arrow-udf) - Arrow User-Defined Function Framework. (3 weeks ago)
+- [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google&#39;s SwissTable hash map (4 weeks ago)
+- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust&#39;s mid-level intermediate representation (4 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 month ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
