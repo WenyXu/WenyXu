@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: bump opendal to v0.44.2](https://github.com/GreptimeTeam/greptimedb/pull/3209) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: introduce information schema provider cache](https://github.com/GreptimeTeam/greptimedb/pull/3208) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add pg create alter table expr translator](https://github.com/GreptimeTeam/greptimedb/pull/3206) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add create alter table expr translator](https://github.com/GreptimeTeam/greptimedb/pull/3203) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: make procedure able to return output](https://github.com/GreptimeTeam/greptimedb/pull/3201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: implement concurrent `RangeWriter`](https://github.com/apache/opendal/pull/3923) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [feat: add `concurrent` and `buffer` parameters into FuzzInput](https://github.com/apache/opendal/pull/3921) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [feat: add concurrent writer behavior tests](https://github.com/apache/opendal/pull/3920) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
-- [feat: implement concurrent `MultipartUploadWriter`](https://github.com/apache/opendal/pull/3915) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
-- [test: add tests for lease keeper with logical table](https://github.com/GreptimeTeam/greptimedb/pull/3096) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
