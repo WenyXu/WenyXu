@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor!: rename initialize_region_in_background  to init_regions_in_background](https://github.com/GreptimeTeam/greptimedb/pull/3216) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: enable concurrent write](https://github.com/GreptimeTeam/greptimedb/pull/3214) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump opendal to v0.44.2](https://github.com/GreptimeTeam/greptimedb/pull/3209) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: introduce information schema provider cache](https://github.com/GreptimeTeam/greptimedb/pull/3208) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: check env before running kafka test](https://github.com/GreptimeTeam/greptimedb/pull/3110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix RangeWriter incorrect `next_offset`](https://github.com/apache/opendal/pull/3927) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [feat: implement concurrent `RangeWriter`](https://github.com/apache/opendal/pull/3923) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
-- [feat: add `concurrent` and `buffer` parameters into FuzzInput](https://github.com/apache/opendal/pull/3921) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
