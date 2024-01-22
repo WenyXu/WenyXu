@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: enable concurrent write](https://github.com/GreptimeTeam/greptimedb/pull/3214) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump opendal to v0.44.2](https://github.com/GreptimeTeam/greptimedb/pull/3209) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: introduce information schema provider cache](https://github.com/GreptimeTeam/greptimedb/pull/3208) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add pg create alter table expr translator](https://github.com/GreptimeTeam/greptimedb/pull/3206) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,10 +31,10 @@ Hi 👋 Weny here.
 - [fix: fix RangeWriter incorrect `next_offset`](https://github.com/apache/opendal/pull/3927) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [feat: implement concurrent `RangeWriter`](https://github.com/apache/opendal/pull/3923) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [feat: add `concurrent` and `buffer` parameters into FuzzInput](https://github.com/apache/opendal/pull/3921) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
-- [feat: add concurrent writer behavior tests](https://github.com/apache/opendal/pull/3920) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
+- [hydro-project/hydroflow](https://github.com/hydro-project/hydroflow) - Hydro&#39;s low-level dataflow runtime (today)
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust. (6 days ago)
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework (1 week ago)
 - [tosc-rs/mnemos](https://github.com/tosc-rs/mnemos) - An Operating System for Building Small Computers (1 week ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance no-code GraphQL backend (3 weeks ago)
 - [risingwavelabs/arrow-udf](https://github.com/risingwavelabs/arrow-udf) - Arrow User-Defined Function Framework. (3 weeks ago)
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google&#39;s SwissTable hash map (1 month ago)
-- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust&#39;s mid-level intermediate representation (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
