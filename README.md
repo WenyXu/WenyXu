@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix default value cannot accept negative number](https://github.com/GreptimeTeam/greptimedb/pull/3217) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor!: rename initialize_region_in_background  to init_regions_in_background](https://github.com/GreptimeTeam/greptimedb/pull/3216) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: enable concurrent write](https://github.com/GreptimeTeam/greptimedb/pull/3214) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: bump opendal to v0.44.2](https://github.com/GreptimeTeam/greptimedb/pull/3209) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs(gcs): correct the description of credential](https://github.com/apache/opendal/pull/3928) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [fix: check env before running kafka test](https://github.com/GreptimeTeam/greptimedb/pull/3110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix RangeWriter incorrect `next_offset`](https://github.com/apache/opendal/pull/3927) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
-- [feat: implement concurrent `RangeWriter`](https://github.com/apache/opendal/pull/3923) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
