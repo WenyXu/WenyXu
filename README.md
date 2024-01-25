@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Restioson/xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework (today)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (1 day ago)
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (1 day ago)
 - [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 day ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary) - Generating structured data from arbitrary, unstructured input. (2 weeks ago)
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (2 weeks ago)
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (2 weeks ago)
-- [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) -  (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
