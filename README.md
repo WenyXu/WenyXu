@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add insert/select generator &amp; translator](https://github.com/GreptimeTeam/greptimedb/pull/3240) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix create table ddl return incorrect table id](https://github.com/GreptimeTeam/greptimedb/pull/3232) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: only register region keeper while creating physical table](https://github.com/GreptimeTeam/greptimedb/pull/3223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add a missing news](https://github.com/apache/opendal/pull/4056) on [apache/opendal](https://github.com/apache/opendal) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: save code in `debug_assert!`](https://github.com/GreptimeTeam/greptimedb/pull/3137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: incorrect parsing `broker_endpoints` env variable](https://github.com/GreptimeTeam/greptimedb/pull/3135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: expose the region migration `replay_timeout` argument](https://github.com/GreptimeTeam/greptimedb/pull/3129) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: refactor the locks in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3126) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (2 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (1 month ago)
