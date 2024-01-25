@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [eosphoros-ai/liteio](https://github.com/eosphoros-ai/liteio) - LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged architecture, allowing for block device provisioning across the entire cluster. (today)
 - [Restioson/xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework (today)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (1 day ago)
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (1 day ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (2 weeks ago)
 - [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary) - Generating structured data from arbitrary, unstructured input. (2 weeks ago)
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (2 weeks ago)
-- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
