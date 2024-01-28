@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (2 days ago)
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a safe, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (2 days ago)
 - [eosphoros-ai/liteio](https://github.com/eosphoros-ai/liteio) - LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged architecture, allowing for block device provisioning across the entire cluster. (3 days ago)
 - [Restioson/xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework (3 days ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (4 days ago)
