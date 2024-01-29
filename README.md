@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: try to switch to 4cpu runner](https://github.com/GreptimeTeam/greptimedb/pull/3258) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: switch to free machine](https://github.com/GreptimeTeam/greptimedb/pull/3256) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add insert/select generator &amp; translator](https://github.com/GreptimeTeam/greptimedb/pull/3240) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix: fix create table ddl return incorrect table id](https://github.com/GreptimeTeam/greptimedb/pull/3232) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(kafka): overwrite the EntryId with Offset while consuming records](https://github.com/GreptimeTeam/greptimedb/pull/3148) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: print detailed error](https://github.com/GreptimeTeam/greptimedb/pull/3146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: save code in `debug_assert!`](https://github.com/GreptimeTeam/greptimedb/pull/3137) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: incorrect parsing `broker_endpoints` env variable](https://github.com/GreptimeTeam/greptimedb/pull/3135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
