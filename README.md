@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [SYaoJun](https://github.com/SYaoJun)
 - [Rosillosaringo9](https://github.com/Rosillosaringo9)
 - [Neehetutu](https://github.com/Neehetutu)
 - [dqhl76](https://github.com/dqhl76)
 - [CrystalAnalyst](https://github.com/CrystalAnalyst)
-- [AntiTopQuark](https://github.com/AntiTopQuark)
 
 
