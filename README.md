@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [steveklabnik/simple-server](https://github.com/steveklabnik/simple-server) - A simple webserver built on top of the Rust standard library and the http crate. (today)
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (today)
 - [richardanaya/executor](https://github.com/richardanaya/executor) - A minimalistic async/await executor for Rust (1 day ago)
 - [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs) (1 day ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust. (2 weeks ago)
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework (3 weeks ago)
 - [tosc-rs/mnemos](https://github.com/tosc-rs/mnemos) - An Operating System for Building Small Computers (3 weeks ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
