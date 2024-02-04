@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix incorrect StatusCode parsing](https://github.com/GreptimeTeam/greptimedb/pull/3281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: allocate table id in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix(Copy From): fix incorrect type casts](https://github.com/GreptimeTeam/greptimedb/pull/3264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [chore: try to switch to 4cpu runner](https://github.com/GreptimeTeam/greptimedb/pull/3258) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix tests failed on windows](https://github.com/GreptimeTeam/greptimedb/pull/3155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: bump version to 0.6.0](https://github.com/GreptimeTeam/greptimedb/pull/3154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: fix store all wal options](https://github.com/GreptimeTeam/greptimedb/pull/3149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix(kafka): overwrite the EntryId with Offset while consuming records](https://github.com/GreptimeTeam/greptimedb/pull/3148) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
