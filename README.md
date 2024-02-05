@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: share cache corss jobs](https://github.com/GreptimeTeam/greptimedb/pull/3284) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix incorrect StatusCode parsing](https://github.com/GreptimeTeam/greptimedb/pull/3281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: allocate table id in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [fix(Copy From): fix incorrect type casts](https://github.com/GreptimeTeam/greptimedb/pull/3264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/3173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix tests failed on windows](https://github.com/GreptimeTeam/greptimedb/pull/3155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: bump version to 0.6.0](https://github.com/GreptimeTeam/greptimedb/pull/3154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: fix store all wal options](https://github.com/GreptimeTeam/greptimedb/pull/3149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (2 months ago)
