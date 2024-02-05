@@ -6,6 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix ci coverage](https://github.com/WenyXu/no-std-http/pull/4) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (today)
+- [refactor: rename to no-std-http](https://github.com/WenyXu/no-std-http/pull/3) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (today)
+- [fix: fix ci](https://github.com/WenyXu/no-std-http/pull/2) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (today)
 - [chore: share cache corss jobs](https://github.com/GreptimeTeam/greptimedb/pull/3284) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix incorrect StatusCode parsing](https://github.com/GreptimeTeam/greptimedb/pull/3281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: allocate table id in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -28,12 +31,10 @@ Hi 👋 Weny here.
 - [refactor: reduce number of parquet metadata reads and enable reader buffer](https://github.com/GreptimeTeam/greptimedb/pull/3197) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add region migration doc](https://github.com/GreptimeTeam/docs/pull/792) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [feat(tests-fuzz): add CreateTableExprGenerator &amp; AlterTableExprGenerator](https://github.com/GreptimeTeam/greptimedb/pull/3182) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/3173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: fix tests failed on windows](https://github.com/GreptimeTeam/greptimedb/pull/3155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: bump version to 0.6.0](https://github.com/GreptimeTeam/greptimedb/pull/3154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
+- [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (today)
 - [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types (today)
 - [sbstp/attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client (1 day ago)
 - [steveklabnik/simple-server](https://github.com/steveklabnik/simple-server) - A simple webserver built on top of the Rust standard library and the http crate. (1 day ago)
@@ -48,12 +49,11 @@ Hi 👋 Weny here.
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (1 week ago)
 - [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 week ago)
 - [hydro-project/hydroflow](https://github.com/hydro-project/hydroflow) - Hydro&#39;s low-level dataflow runtime (2 weeks ago)
-- [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
-- [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) -  (today)
+- [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (today)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (2 months ago)
