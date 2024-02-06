@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - 使用Rust从0自研内核，具有Linux兼容性的操作系统。 (today)
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF (1 day ago)
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (1 day ago)
 - [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types (1 day ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [Restioson/xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework (1 week ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (1 week ago)
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (1 week ago)
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
