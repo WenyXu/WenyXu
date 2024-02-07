@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: allocate table ids in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix ci coverage](https://github.com/WenyXu/no-std-http/pull/4) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (2 days ago)
 - [refactor: rename to no-std-http](https://github.com/WenyXu/no-std-http/pull/3) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (2 days ago)
 - [fix: fix ci](https://github.com/WenyXu/no-std-http/pull/2) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: make procedure able to return output](https://github.com/GreptimeTeam/greptimedb/pull/3201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: reduce number of parquet metadata reads and enable reader buffer](https://github.com/GreptimeTeam/greptimedb/pull/3197) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add region migration doc](https://github.com/GreptimeTeam/docs/pull/792) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [feat(tests-fuzz): add CreateTableExprGenerator &amp; AlterTableExprGenerator](https://github.com/GreptimeTeam/greptimedb/pull/3182) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
