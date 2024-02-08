@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build &amp; ship backends without writing any infrastructure files. (today)
 - [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - 使用Rust从0自研内核，具有Linux兼容性的操作系统。 (2 days ago)
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF (3 days ago)
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (3 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [eosphoros-ai/liteio](https://github.com/eosphoros-ai/liteio) - LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged architecture, allowing for block device provisioning across the entire cluster. (2 weeks ago)
 - [Restioson/xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework (2 weeks ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (2 weeks ago)
-- [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
