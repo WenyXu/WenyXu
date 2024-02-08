@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server (today)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (today)
 - [hyperium/http-body](https://github.com/hyperium/http-body) - Asynchronous HTTP body trait (today)
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build &amp; ship backends without writing any infrastructure files. (today)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs) (5 days ago)
 - [cpojer/vite-ts-react-tailwind-template](https://github.com/cpojer/vite-ts-react-tailwind-template) - Minimal, sensible defaults, fast. (5 days ago)
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a safe, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (1 week ago)
-- [eosphoros-ai/liteio](https://github.com/eosphoros-ai/liteio) - LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged architecture, allowing for block device provisioning across the entire cluster. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
