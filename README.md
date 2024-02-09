@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [drmingdrmer/vbox](https://github.com/drmingdrmer/vbox) - A box with vtable, erasing the type of the contained object (today)
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server (1 day ago)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (1 day ago)
 - [hyperium/http-body](https://github.com/hyperium/http-body) - Asynchronous HTTP body trait (1 day ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [richardanaya/executor](https://github.com/richardanaya/executor) - A minimalistic async/await executor for Rust (6 days ago)
 - [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs) (6 days ago)
 - [cpojer/vite-ts-react-tailwind-template](https://github.com/cpojer/vite-ts-react-tailwind-template) - Minimal, sensible defaults, fast. (6 days ago)
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a safe, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
