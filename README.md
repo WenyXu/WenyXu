@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [CS144/minnow](https://github.com/CS144/minnow) - CS 144 networking lab (today)
 - [drmingdrmer/vbox](https://github.com/drmingdrmer/vbox) - A box with vtable, erasing the type of the contained object (2 days ago)
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server (3 days ago)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (3 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (1 week ago)
 - [richardanaya/executor](https://github.com/richardanaya/executor) - A minimalistic async/await executor for Rust (1 week ago)
 - [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs) (1 week ago)
-- [cpojer/vite-ts-react-tailwind-template](https://github.com/cpojer/vite-ts-react-tailwind-template) - Minimal, sensible defaults, fast. (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
