@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options (today)
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (3 days ago)
 - [CS144/minnow](https://github.com/CS144/minnow) - CS 144 networking lab (5 days ago)
 - [drmingdrmer/vbox](https://github.com/drmingdrmer/vbox) - A box with vtable, erasing the type of the contained object (1 week ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [sbstp/attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client (1 week ago)
 - [steveklabnik/simple-server](https://github.com/steveklabnik/simple-server) - A simple webserver built on top of the Rust standard library and the http crate. (1 week ago)
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (1 week ago)
-- [richardanaya/executor](https://github.com/richardanaya/executor) - A minimalistic async/await executor for Rust (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
