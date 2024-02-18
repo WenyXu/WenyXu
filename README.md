@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization. (today)
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options (2 days ago)
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (5 days ago)
 - [CS144/minnow](https://github.com/CS144/minnow) - CS 144 networking lab (1 week ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types (1 week ago)
 - [sbstp/attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client (2 weeks ago)
 - [steveklabnik/simple-server](https://github.com/steveklabnik/simple-server) - A simple webserver built on top of the Rust standard library and the http crate. (2 weeks ago)
-- [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
