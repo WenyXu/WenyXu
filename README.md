@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (today)
 - [Robbepop/string-interner](https://github.com/Robbepop/string-interner) - A data structure to efficiently intern, cache and restore strings. (today)
 - [vickenty/lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust (today)
 - [pnnl/lamellar-runtime](https://github.com/pnnl/lamellar-runtime) - Lamellar is an asynchronous tasking runtime for HPC systems developed in RUST (today)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [hyperium/http-body](https://github.com/hyperium/http-body) - Asynchronous HTTP body trait (1 week ago)
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build &amp; ship backends without writing any infrastructure files. (1 week ago)
 - [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - 使用Rust从0自研内核，具有Linux兼容性的操作系统。 (1 week ago)
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
