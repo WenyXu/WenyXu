@@ -34,6 +34,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Robbepop/string-interner](https://github.com/Robbepop/string-interner) - A data structure to efficiently intern, cache and restore strings. (today)
+- [vickenty/lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust (today)
+- [pnnl/lamellar-runtime](https://github.com/pnnl/lamellar-runtime) - Lamellar is an asynchronous tasking runtime for HPC systems developed in RUST (today)
+- [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros. (today)
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization. (1 day ago)
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options (3 days ago)
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (6 days ago)
@@ -45,10 +49,6 @@ Hi 👋 Weny here.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build &amp; ship backends without writing any infrastructure files. (1 week ago)
 - [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - 使用Rust从0自研内核，具有Linux兼容性的操作系统。 (1 week ago)
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF (2 weeks ago)
-- [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (2 weeks ago)
-- [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types (2 weeks ago)
-- [sbstp/attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client (2 weeks ago)
-- [steveklabnik/simple-server](https://github.com/steveklabnik/simple-server) - A simple webserver built on top of the Rust standard library and the http crate. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
