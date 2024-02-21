@@ -56,7 +56,7 @@ Hi 👋 Weny here.
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (2 weeks ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (4 weeks ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (2 months ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 months ago)
 
 #### 👯 Check out my recent followers
 
