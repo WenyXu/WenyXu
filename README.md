@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [WenyaZhou](https://github.com/WenyaZhou)
 - [Gambitier](https://github.com/Gambitier)
 - [morristai](https://github.com/morristai)
 - [SYaoJun](https://github.com/SYaoJun)
 - [Rosillosaringo9](https://github.com/Rosillosaringo9)
-- [Neehetutu](https://github.com/Neehetutu)
 
 
