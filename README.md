@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (today)
 - [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... (1 day ago)
 - [XinyuZeng/OpenFormat-Public](https://github.com/XinyuZeng/OpenFormat-Public) -  (4 days ago)
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (4 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [drmingdrmer/vbox](https://github.com/drmingdrmer/vbox) - A box with vtable, erasing the type of the contained object (2 weeks ago)
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server (2 weeks ago)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (2 weeks ago)
-- [hyperium/http-body](https://github.com/hyperium/http-body) - Asynchronous HTTP body trait (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
