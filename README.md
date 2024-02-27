@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: throw errors instead of panic](https://github.com/GreptimeTeam/greptimedb/pull/3391) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add ci tests on windows](https://github.com/GreptimeTeam/greptimedb/pull/3303) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: allocate table ids in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix ci coverage](https://github.com/WenyXu/no-std-http/pull/4) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (3 weeks ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add pg create alter table expr translator](https://github.com/GreptimeTeam/greptimedb/pull/3206) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add create alter table expr translator](https://github.com/GreptimeTeam/greptimedb/pull/3203) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: make procedure able to return output](https://github.com/GreptimeTeam/greptimedb/pull/3201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: reduce number of parquet metadata reads and enable reader buffer](https://github.com/GreptimeTeam/greptimedb/pull/3197) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
