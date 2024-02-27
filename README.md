@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor TableRouteManager](https://github.com/GreptimeTeam/greptimedb/pull/3392) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: throw errors instead of panic](https://github.com/GreptimeTeam/greptimedb/pull/3391) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add ci tests on windows](https://github.com/GreptimeTeam/greptimedb/pull/3303) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: allocate table ids in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce information schema provider cache](https://github.com/GreptimeTeam/greptimedb/pull/3208) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add pg create alter table expr translator](https://github.com/GreptimeTeam/greptimedb/pull/3206) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add create alter table expr translator](https://github.com/GreptimeTeam/greptimedb/pull/3203) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: make procedure able to return output](https://github.com/GreptimeTeam/greptimedb/pull/3201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (3 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (4 days ago)
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (3 weeks ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 month ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
