@@ -34,9 +34,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [doreamon-design/clash](https://github.com/doreamon-design/clash) - A rule-based tunnel in Go. (2 days ago)
-- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (3 days ago)
-- [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... (4 days ago)
+- [doreamon-design/clash](https://github.com/doreamon-design/clash) - A rule-based tunnel in Go. (3 days ago)
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (4 days ago)
+- [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... (5 days ago)
 - [XinyuZeng/OpenFormat-Public](https://github.com/XinyuZeng/OpenFormat-Public) -  (1 week ago)
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (1 week ago)
 - [Robbepop/string-interner](https://github.com/Robbepop/string-interner) - A data structure to efficiently intern, cache and restore strings. (1 week ago)
@@ -45,15 +45,15 @@ Hi 👋 Weny here.
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros. (1 week ago)
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization. (1 week ago)
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options (1 week ago)
-- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (1 week ago)
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (2 weeks ago)
 - [CS144/minnow](https://github.com/CS144/minnow) - CS 144 networking lab (2 weeks ago)
 - [drmingdrmer/vbox](https://github.com/drmingdrmer/vbox) - A box with vtable, erasing the type of the contained object (2 weeks ago)
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (2 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
+- [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (4 days ago)
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (3 weeks ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 month ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
