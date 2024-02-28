@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [PointerToC](https://github.com/PointerToC)
 - [diviyeshpatel](https://github.com/diviyeshpatel)
 - [WenyaZhou](https://github.com/WenyaZhou)
 - [Gambitier](https://github.com/Gambitier)
 - [morristai](https://github.com/morristai)
-- [SYaoJun](https://github.com/SYaoJun)
 
 
