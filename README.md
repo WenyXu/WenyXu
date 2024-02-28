@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (today)
 - [doreamon-design/clash](https://github.com/doreamon-design/clash) - A rule-based tunnel in Go. (4 days ago)
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (5 days ago)
 - [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... (6 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (2 weeks ago)
 - [CS144/minnow](https://github.com/CS144/minnow) - CS 144 networking lab (2 weeks ago)
 - [drmingdrmer/vbox](https://github.com/drmingdrmer/vbox) - A box with vtable, erasing the type of the contained object (2 weeks ago)
-- [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
