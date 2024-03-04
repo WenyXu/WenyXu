@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [crrow/kisekifs](https://github.com/crrow/kisekifs) - Kiseki is a Rust implementation for Juicedata&#39;s juicefs (https://github.com/juicedata/juicefs), a distributed POSIX file system built on top of Redis and S3.  (today)
 - [hzyitc/openwrt-redmi-ax3000](https://github.com/hzyitc/openwrt-redmi-ax3000) - Openwrt for Redmi AX3000 / Xiaomi CR8806 / Xiaomi CR8808 / Xiaomi CR8809 (4 days ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (5 days ago)
 - [doreamon-design/clash](https://github.com/doreamon-design/clash) - A rule-based tunnel in Go. (1 week ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization. (2 weeks ago)
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options (2 weeks ago)
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (2 weeks ago)
-- [CS144/minnow](https://github.com/CS144/minnow) - CS 144 networking lab (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
