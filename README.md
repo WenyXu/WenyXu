@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop (today)
+- [rust-fuzz/libfuzzer](https://github.com/rust-fuzz/libfuzzer) - Rust bindings and utilities for LLVM’s libFuzzer (today)
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown. (1 day ago)
 - [crrow/kisekifs](https://github.com/crrow/kisekifs) - Kiseki is a Rust implementation for Juicedata&#39;s juicefs (https://github.com/juicedata/juicefs), a distributed POSIX file system built on top of Redis and S3.  (2 days ago)
 - [hzyitc/openwrt-redmi-ax3000](https://github.com/hzyitc/openwrt-redmi-ax3000) - Openwrt for Redmi AX3000 / Xiaomi CR8806 / Xiaomi CR8808 / Xiaomi CR8809 (6 days ago)
@@ -47,12 +49,10 @@ Hi 👋 Weny here.
 - [vickenty/lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust (2 weeks ago)
 - [pnnl/lamellar-runtime](https://github.com/pnnl/lamellar-runtime) - Lamellar is an asynchronous tasking runtime for HPC systems developed in RUST (2 weeks ago)
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros. (2 weeks ago)
-- [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization. (2 weeks ago)
-- [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
 - [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (1 week ago)
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (1 month ago)
@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [WyattJia](https://github.com/WyattJia)
 - [PointerToC](https://github.com/PointerToC)
 - [diviyeshpatel](https://github.com/diviyeshpatel)
 - [WenyaZhou](https://github.com/WenyaZhou)
 - [Gambitier](https://github.com/Gambitier)
-- [morristai](https://github.com/morristai)
 
 
