@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [treydempsey/sqlx-crud](https://github.com/treydempsey/sqlx-crud) - Rust Sqlx CRUD Derive Macros (today)
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop (2 days ago)
 - [rust-fuzz/libfuzzer](https://github.com/rust-fuzz/libfuzzer) - Rust bindings and utilities for LLVM’s libFuzzer (2 days ago)
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown. (3 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [Robbepop/string-interner](https://github.com/Robbepop/string-interner) - A data structure to efficiently intern, cache and restore strings. (2 weeks ago)
 - [vickenty/lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust (2 weeks ago)
 - [pnnl/lamellar-runtime](https://github.com/pnnl/lamellar-runtime) - Lamellar is an asynchronous tasking runtime for HPC systems developed in RUST (2 weeks ago)
-- [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
