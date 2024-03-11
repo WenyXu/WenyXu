@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(fuzz): validate columns](https://github.com/GreptimeTeam/greptimedb/pull/3485) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: fix f64 has no sufficient precision during parsing](https://github.com/GreptimeTeam/greptimedb/pull/3483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix incorrect `COM_STMT_PREPARE` reply](https://github.com/GreptimeTeam/greptimedb/pull/3463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: update region migration docs](https://github.com/GreptimeTeam/docs/pull/830) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [refactor: separate the quote char and value](https://github.com/GreptimeTeam/greptimedb/pull/3455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: add insert/select generator &amp; translator](https://github.com/GreptimeTeam/greptimedb/pull/3240) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix create table ddl return incorrect table id](https://github.com/GreptimeTeam/greptimedb/pull/3232) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: only register region keeper while creating physical table](https://github.com/GreptimeTeam/greptimedb/pull/3223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add a missing news](https://github.com/apache/opendal/pull/4056) on [apache/opendal](https://github.com/apache/opendal) (1 month ago)
-- [fix: fix MockInstance rebuild issue](https://github.com/GreptimeTeam/greptimedb/pull/3218) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -53,7 +53,7 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (2 weeks ago)
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (1 month ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 month ago)
