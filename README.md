@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: acquire all locks in procedure ](https://github.com/GreptimeTeam/greptimedb/pull/3514) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(fuzz): add alter table target ](https://github.com/GreptimeTeam/greptimedb/pull/3503) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix missing space](https://github.com/GreptimeTeam/docs/pull/838) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [feat(fuzz): validate columns](https://github.com/GreptimeTeam/greptimedb/pull/3485) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(Copy From): fix incorrect type casts](https://github.com/GreptimeTeam/greptimedb/pull/3264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: try to switch to 4cpu runner](https://github.com/GreptimeTeam/greptimedb/pull/3258) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: switch to free machine](https://github.com/GreptimeTeam/greptimedb/pull/3256) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add insert/select generator &amp; translator](https://github.com/GreptimeTeam/greptimedb/pull/3240) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
