@@ -6,13 +6,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement the drop database parser](https://github.com/GreptimeTeam/greptimedb/pull/3521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [ci: add bin options to reduce build burden](https://github.com/GreptimeTeam/greptimedb/pull/3518) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: acquire all locks in procedure ](https://github.com/GreptimeTeam/greptimedb/pull/3514) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(fuzz): add alter table target ](https://github.com/GreptimeTeam/greptimedb/pull/3503) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: fix missing space](https://github.com/GreptimeTeam/docs/pull/838) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
-- [feat(fuzz): validate columns](https://github.com/GreptimeTeam/greptimedb/pull/3485) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [fix: fix f64 has no sufficient precision during parsing](https://github.com/GreptimeTeam/greptimedb/pull/3483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: implement the drop database parser](https://github.com/GreptimeTeam/greptimedb/pull/3521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [ci: add bin options to reduce build burden](https://github.com/GreptimeTeam/greptimedb/pull/3518) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: acquire all locks in procedure ](https://github.com/GreptimeTeam/greptimedb/pull/3514) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(fuzz): add alter table target ](https://github.com/GreptimeTeam/greptimedb/pull/3503) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: fix missing space](https://github.com/GreptimeTeam/docs/pull/838) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [feat(fuzz): validate columns](https://github.com/GreptimeTeam/greptimedb/pull/3485) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: fix f64 has no sufficient precision during parsing](https://github.com/GreptimeTeam/greptimedb/pull/3483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix: fix incorrect `COM_STMT_PREPARE` reply](https://github.com/GreptimeTeam/greptimedb/pull/3463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: update region migration docs](https://github.com/GreptimeTeam/docs/pull/830) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [refactor: separate the quote char and value](https://github.com/GreptimeTeam/greptimedb/pull/3455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 days ago)
 - [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (3 weeks ago)
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (1 month ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 month ago)
