@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: remove removed-prefixed keys](https://github.com/GreptimeTeam/greptimedb/pull/3535) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: introduce the DropTableExecutor](https://github.com/GreptimeTeam/greptimedb/pull/3534) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement the drop database parser](https://github.com/GreptimeTeam/greptimedb/pull/3521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [ci: add bin options to reduce build burden](https://github.com/GreptimeTeam/greptimedb/pull/3518) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix ci](https://github.com/WenyXu/no-std-http/pull/2) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (1 month ago)
 - [chore: share cache corss jobs](https://github.com/GreptimeTeam/greptimedb/pull/3284) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix incorrect StatusCode parsing](https://github.com/GreptimeTeam/greptimedb/pull/3281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: allocate table id in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [george0st](https://github.com/george0st)
 - [Justinidlerz](https://github.com/Justinidlerz)
 - [WyattJia](https://github.com/WyattJia)
 - [PointerToC](https://github.com/PointerToC)
 - [diviyeshpatel](https://github.com/diviyeshpatel)
-- [WenyaZhou](https://github.com/WenyaZhou)
 
 
