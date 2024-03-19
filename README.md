@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add drop database expr](https://github.com/GreptimeTeam/greptime-proto/pull/139) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
+- [feat: implement the drop database procedure](https://github.com/GreptimeTeam/greptimedb/pull/3541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove removed-prefixed keys](https://github.com/GreptimeTeam/greptimedb/pull/3535) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: introduce the DropTableExecutor](https://github.com/GreptimeTeam/greptimedb/pull/3534) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement the drop database parser](https://github.com/GreptimeTeam/greptimedb/pull/3521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix ci coverage](https://github.com/WenyXu/no-std-http/pull/4) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (1 month ago)
 - [refactor: rename to no-std-http](https://github.com/WenyXu/no-std-http/pull/3) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (1 month ago)
 - [fix: fix ci](https://github.com/WenyXu/no-std-http/pull/2) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (1 month ago)
-- [chore: share cache corss jobs](https://github.com/GreptimeTeam/greptimedb/pull/3284) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: fix incorrect StatusCode parsing](https://github.com/GreptimeTeam/greptimedb/pull/3281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (3 weeks ago)
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (1 month ago)
