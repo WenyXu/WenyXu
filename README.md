@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [randoruf](https://github.com/randoruf)
 - [Kwynto](https://github.com/Kwynto)
 - [george0st](https://github.com/george0st)
 - [Justinidlerz](https://github.com/Justinidlerz)
 - [WyattJia](https://github.com/WyattJia)
-- [PointerToC](https://github.com/PointerToC)
 
 
