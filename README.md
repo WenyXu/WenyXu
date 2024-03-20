@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor CacheInvalidator](https://github.com/GreptimeTeam/greptimedb/pull/3550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add drop database expr](https://github.com/GreptimeTeam/greptime-proto/pull/139) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat: implement the drop database procedure](https://github.com/GreptimeTeam/greptimedb/pull/3541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: remove removed-prefixed keys](https://github.com/GreptimeTeam/greptimedb/pull/3535) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: allocate table ids in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix ci coverage](https://github.com/WenyXu/no-std-http/pull/4) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (1 month ago)
 - [refactor: rename to no-std-http](https://github.com/WenyXu/no-std-http/pull/3) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (1 month ago)
-- [fix: fix ci](https://github.com/WenyXu/no-std-http/pull/2) on [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
