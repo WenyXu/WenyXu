@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS (today)
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs. (1 week ago)
 - [treydempsey/sqlx-crud](https://github.com/treydempsey/sqlx-crud) - Rust Sqlx CRUD Derive Macros (1 week ago)
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop (2 weeks ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [XinyuZeng/OpenFormat-Public](https://github.com/XinyuZeng/OpenFormat-Public) -  (1 month ago)
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (1 month ago)
 - [Robbepop/string-interner](https://github.com/Robbepop/string-interner) - A data structure to efficiently intern, cache and restore strings. (1 month ago)
-- [vickenty/lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
