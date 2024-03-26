@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [sandexp](https://github.com/sandexp)
 - [haomingz](https://github.com/haomingz)
 - [randoruf](https://github.com/randoruf)
 - [Kwynto](https://github.com/Kwynto)
 - [george0st](https://github.com/george0st)
-- [Justinidlerz](https://github.com/Justinidlerz)
 
 
