@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [test: add tests for drop databases](https://github.com/GreptimeTeam/greptimedb/pull/3594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: refactor drop table executor](https://github.com/GreptimeTeam/greptimedb/pull/3589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: remove redundant metasrv api](https://github.com/GreptimeTeam/docs/pull/859) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [refactor: refactor CacheInvalidator](https://github.com/GreptimeTeam/greptimedb/pull/3550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: refactor TableRouteManager](https://github.com/GreptimeTeam/greptimedb/pull/3392) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: throw errors instead of panic](https://github.com/GreptimeTeam/greptimedb/pull/3391) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [chore: add ci tests on windows](https://github.com/GreptimeTeam/greptimedb/pull/3303) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: allocate table ids in the procedure](https://github.com/GreptimeTeam/greptimedb/pull/3293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
