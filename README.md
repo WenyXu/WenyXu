@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(procedure): auto split large value to multiple values](https://github.com/GreptimeTeam/greptimedb/pull/3605) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: add tests for drop databases](https://github.com/GreptimeTeam/greptimedb/pull/3594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: refactor drop table executor](https://github.com/GreptimeTeam/greptimedb/pull/3589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: remove redundant metasrv api](https://github.com/GreptimeTeam/docs/pull/859) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix styling issue](https://github.com/GreptimeTeam/docs/pull/821) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [refactor: refactor TableRouteManager](https://github.com/GreptimeTeam/greptimedb/pull/3392) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: throw errors instead of panic](https://github.com/GreptimeTeam/greptimedb/pull/3391) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [chore: add ci tests on windows](https://github.com/GreptimeTeam/greptimedb/pull/3303) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
