@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(fuzz): support to create metric table](https://github.com/GreptimeTeam/greptimedb/pull/3617) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat(procedure): auto split large value to multiple values](https://github.com/GreptimeTeam/greptimedb/pull/3605) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [test: add tests for drop databases](https://github.com/GreptimeTeam/greptimedb/pull/3594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [refactor: refactor drop table executor](https://github.com/GreptimeTeam/greptimedb/pull/3589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [chore: remove redundant metasrv api](https://github.com/GreptimeTeam/docs/pull/859) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [feat(fuzz): support to create metric table](https://github.com/GreptimeTeam/greptimedb/pull/3617) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(procedure): auto split large value to multiple values](https://github.com/GreptimeTeam/greptimedb/pull/3605) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [test: add tests for drop databases](https://github.com/GreptimeTeam/greptimedb/pull/3594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [refactor: refactor drop table executor](https://github.com/GreptimeTeam/greptimedb/pull/3589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: remove redundant metasrv api](https://github.com/GreptimeTeam/docs/pull/859) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [refactor: refactor CacheInvalidator](https://github.com/GreptimeTeam/greptimedb/pull/3550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add drop database expr](https://github.com/GreptimeTeam/greptime-proto/pull/139) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat: implement the drop database procedure](https://github.com/GreptimeTeam/greptimedb/pull/3541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -42,7 +42,7 @@ Hi 👋 Weny here.
 - [rust-fuzz/libfuzzer](https://github.com/rust-fuzz/libfuzzer) - Rust bindings and utilities for LLVM’s libFuzzer (3 weeks ago)
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown. (3 weeks ago)
 - [crrow/kisekifs](https://github.com/crrow/kisekifs) - Kiseki is a Rust implementation for Juicedata&#39;s juicefs (https://github.com/juicedata/juicefs), a distributed POSIX file system built on top of Redis and S3.  (3 weeks ago)
-- [hzyitc/openwrt-redmi-ax3000](https://github.com/hzyitc/openwrt-redmi-ax3000) - Openwrt for Redmi AX3000 / Xiaomi CR8806 / Xiaomi CR8808 / Xiaomi CR8809 (4 weeks ago)
+- [hzyitc/openwrt-redmi-ax3000](https://github.com/hzyitc/openwrt-redmi-ax3000) - Openwrt for Redmi AX3000 / Xiaomi CR8806 / Xiaomi CR8808 / Xiaomi CR8809 (1 month ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
 - [doreamon-design/clash](https://github.com/doreamon-design/clash) - A rule-based tunnel in Go. (1 month ago)
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (1 month ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (2 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (1 month ago)
 - [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (1 month ago)
