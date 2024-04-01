@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(procedure): support to rollback](https://github.com/GreptimeTeam/greptimedb/pull/3625) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(fuzz): support to create metric table](https://github.com/GreptimeTeam/greptimedb/pull/3617) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(procedure): auto split large value to multiple values](https://github.com/GreptimeTeam/greptimedb/pull/3605) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [test: add tests for drop databases](https://github.com/GreptimeTeam/greptimedb/pull/3594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [test: add fuzz test for create table](https://github.com/GreptimeTeam/greptimedb/pull/3441) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: add bin opt to build cmd](https://github.com/GreptimeTeam/greptimedb/pull/3440) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: fix styling issue](https://github.com/GreptimeTeam/docs/pull/821) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
-- [refactor: refactor TableRouteManager](https://github.com/GreptimeTeam/greptimedb/pull/3392) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
