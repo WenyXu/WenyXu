@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `CommitRollback`, `RollingBack` to procedure state](https://github.com/GreptimeTeam/greptime-proto/pull/142) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat(procedure): enable auto split large value](https://github.com/GreptimeTeam/greptimedb/pull/3628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(procedure): support to rollback](https://github.com/GreptimeTeam/greptimedb/pull/3625) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(fuzz): support to create metric table](https://github.com/GreptimeTeam/greptimedb/pull/3617) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: separate the quote char and value](https://github.com/GreptimeTeam/greptimedb/pull/3455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: specify binary name](https://github.com/GreptimeTeam/greptimedb/pull/3449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [test: add fuzz test for create table](https://github.com/GreptimeTeam/greptimedb/pull/3441) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [chore: add bin opt to build cmd](https://github.com/GreptimeTeam/greptimedb/pull/3440) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
