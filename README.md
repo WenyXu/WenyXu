@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (today)
+- [ihciah/rust2go](https://github.com/ihciah/rust2go) - Call Golang from Rust (today)
 - [datafusion-contrib/datafusion-federation](https://github.com/datafusion-contrib/datafusion-federation) - Allow DataFusion to resolve queries across remote query engines while pushing down as much compute as possible down. (1 day ago)
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (1 week ago)
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS (2 weeks ago)
@@ -47,8 +49,6 @@ Hi 👋 Weny here.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
 - [doreamon-design/clash](https://github.com/doreamon-design/clash) - A rule-based tunnel in Go. (1 month ago)
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (1 month ago)
-- [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... (1 month ago)
-- [XinyuZeng/OpenFormat-Public](https://github.com/XinyuZeng/OpenFormat-Public) -  (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
