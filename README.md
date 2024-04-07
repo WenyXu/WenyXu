@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [test(sqlness): release databases after tests](https://github.com/GreptimeTeam/greptimedb/pull/3648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `CommitRollback`, `RollingBack` to procedure state](https://github.com/GreptimeTeam/greptime-proto/pull/142) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
 - [feat(procedure): enable auto split large value](https://github.com/GreptimeTeam/greptimedb/pull/3628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat(procedure): support to rollback](https://github.com/GreptimeTeam/greptimedb/pull/3625) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: update region migration docs](https://github.com/GreptimeTeam/docs/pull/830) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [refactor: separate the quote char and value](https://github.com/GreptimeTeam/greptimedb/pull/3455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: specify binary name](https://github.com/GreptimeTeam/greptimedb/pull/3449) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [test: add fuzz test for create table](https://github.com/GreptimeTeam/greptimedb/pull/3441) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (1 month ago)
