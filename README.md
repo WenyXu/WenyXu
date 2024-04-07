@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [michaelsproul/rust_radix_trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust (today)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (3 days ago)
 - [ihciah/rust2go](https://github.com/ihciah/rust2go) - Call Golang from Rust (3 days ago)
 - [datafusion-contrib/datafusion-federation](https://github.com/datafusion-contrib/datafusion-federation) - Allow DataFusion to resolve queries across remote query engines while pushing down as much compute as possible down. (4 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [hzyitc/openwrt-redmi-ax3000](https://github.com/hzyitc/openwrt-redmi-ax3000) - Openwrt for Redmi AX3000 / Xiaomi CR8806 / Xiaomi CR8808 / Xiaomi CR8809 (1 month ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
 - [doreamon-design/clash](https://github.com/doreamon-design/clash) - A rule-based tunnel in Go. (1 month ago)
-- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
