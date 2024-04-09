@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor alter table procedure](https://github.com/GreptimeTeam/greptimedb/pull/3678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: `DeserializedValueWithBytes::from_inner` misusing](https://github.com/GreptimeTeam/greptimedb/pull/3676) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test(sqlness): release databases after tests](https://github.com/GreptimeTeam/greptimedb/pull/3648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add `PrepareRollback`, `RollingBack` to procedure state](https://github.com/GreptimeTeam/greptime-proto/pull/142) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix f64 has no sufficient precision during parsing](https://github.com/GreptimeTeam/greptimedb/pull/3483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: fix incorrect `COM_STMT_PREPARE` reply](https://github.com/GreptimeTeam/greptimedb/pull/3463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: update region migration docs](https://github.com/GreptimeTeam/docs/pull/830) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [refactor: separate the quote char and value](https://github.com/GreptimeTeam/greptimedb/pull/3455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
