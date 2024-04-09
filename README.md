@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: bump `arrow` version to 51](https://github.com/datafusion-contrib/datafusion-orc/pull/83) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (today)
 - [refactor: refactor alter table procedure](https://github.com/GreptimeTeam/greptimedb/pull/3678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: `DeserializedValueWithBytes::from_inner` misusing](https://github.com/GreptimeTeam/greptimedb/pull/3676) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test(sqlness): release databases after tests](https://github.com/GreptimeTeam/greptimedb/pull/3648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat(fuzz): validate columns](https://github.com/GreptimeTeam/greptimedb/pull/3485) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: fix f64 has no sufficient precision during parsing](https://github.com/GreptimeTeam/greptimedb/pull/3483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: fix incorrect `COM_STMT_PREPARE` reply](https://github.com/GreptimeTeam/greptimedb/pull/3463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: update region migration docs](https://github.com/GreptimeTeam/docs/pull/830) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
