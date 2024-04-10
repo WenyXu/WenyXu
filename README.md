@@ -52,11 +52,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (1 month ago)
-- [WenyXu/no-std-http](https://github.com/WenyXu/no-std-http) - A library of common HTTP types design for no std environment (2 months ago)
 
 #### 👯 Check out my recent followers
 
