@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rust-embedded/heapless](https://github.com/rust-embedded/heapless) - Heapless, `static` friendly data structures (today)
+- [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust (today)
 - [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra (1 day ago)
 - [michaelsproul/rust_radix_trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust (1 week ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (1 week ago)
@@ -47,8 +49,6 @@ Hi 👋 Weny here.
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown. (1 month ago)
 - [crrow/kisekifs](https://github.com/crrow/kisekifs) - Kiseki is a Rust implementation for Juicedata&#39;s juicefs (https://github.com/juicedata/juicefs), a distributed POSIX file system built on top of Redis and S3.  (1 month ago)
 - [hzyitc/openwrt-redmi-ax3000](https://github.com/hzyitc/openwrt-redmi-ax3000) - Openwrt for Redmi AX3000 / Xiaomi CR8806 / Xiaomi CR8808 / Xiaomi CR8809 (1 month ago)
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
-- [doreamon-design/clash](https://github.com/doreamon-design/clash) - A rule-based tunnel in Go. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
