@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [infdahai](https://github.com/infdahai)
 - [CookiePieWw](https://github.com/CookiePieWw)
 - [YoungSx](https://github.com/YoungSx)
 - [cypppper](https://github.com/cypppper)
 - [sandexp](https://github.com/sandexp)
-- [haomingz](https://github.com/haomingz)
 
 
