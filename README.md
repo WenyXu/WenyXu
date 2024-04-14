@@ -6,12 +6,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(drop_table): support to rollback table metadata](https://github.com/GreptimeTeam/greptimedb/pull/3692) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor: drop table procedure ](https://github.com/GreptimeTeam/greptimedb/pull/3688) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore: bump `arrow` version to 51](https://github.com/datafusion-contrib/datafusion-orc/pull/83) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (4 days ago)
-- [refactor: refactor alter table procedure](https://github.com/GreptimeTeam/greptimedb/pull/3678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: `DeserializedValueWithBytes::from_inner` misusing](https://github.com/GreptimeTeam/greptimedb/pull/3676) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [test(sqlness): release databases after tests](https://github.com/GreptimeTeam/greptimedb/pull/3648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat(drop_table): support to rollback table metadata](https://github.com/GreptimeTeam/greptimedb/pull/3692) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: drop table procedure ](https://github.com/GreptimeTeam/greptimedb/pull/3688) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: bump `arrow` version to 51](https://github.com/datafusion-contrib/datafusion-orc/pull/83) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (5 days ago)
+- [refactor: refactor alter table procedure](https://github.com/GreptimeTeam/greptimedb/pull/3678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: `DeserializedValueWithBytes::from_inner` misusing](https://github.com/GreptimeTeam/greptimedb/pull/3676) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [test(sqlness): release databases after tests](https://github.com/GreptimeTeam/greptimedb/pull/3648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `PrepareRollback`, `RollingBack` to procedure state](https://github.com/GreptimeTeam/greptime-proto/pull/142) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat(procedure): enable auto split large value](https://github.com/GreptimeTeam/greptimedb/pull/3628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(procedure): support to rollback](https://github.com/GreptimeTeam/greptimedb/pull/3625) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,8 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra (today)
-- [michaelsproul/rust_radix_trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust (6 days ago)
+- [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra (1 day ago)
+- [michaelsproul/rust_radix_trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust (1 week ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (1 week ago)
 - [datafusion-contrib/datafusion-federation](https://github.com/datafusion-contrib/datafusion-federation) - Allow DataFusion to resolve queries across remote query engines while pushing down as much compute as possible down. (1 week ago)
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (3 weeks ago)
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (3 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (3 days ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (5 days ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (4 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (6 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (1 month ago)
 
