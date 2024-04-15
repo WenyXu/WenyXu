@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (today)
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (today)
 - [rust-embedded/heapless](https://github.com/rust-embedded/heapless) - Heapless, `static` friendly data structures (1 day ago)
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust (1 day ago)
 - [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra (2 days ago)
@@ -47,8 +49,6 @@ Hi 👋 Weny here.
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop (1 month ago)
 - [rust-fuzz/libfuzzer](https://github.com/rust-fuzz/libfuzzer) - Rust bindings and utilities for LLVM’s libFuzzer (1 month ago)
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown. (1 month ago)
-- [crrow/kisekifs](https://github.com/crrow/kisekifs) - Kiseki is a Rust implementation for Juicedata&#39;s juicefs (https://github.com/juicedata/juicefs), a distributed POSIX file system built on top of Redis and S3.  (1 month ago)
-- [hzyitc/openwrt-redmi-ax3000](https://github.com/hzyitc/openwrt-redmi-ax3000) - Openwrt for Redmi AX3000 / Xiaomi CR8806 / Xiaomi CR8808 / Xiaomi CR8809 (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
