@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor tombstone manager ](https://github.com/GreptimeTeam/greptimedb/pull/3727) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(alter_table): ignore request outdated error](https://github.com/GreptimeTeam/greptimedb/pull/3715) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(drop_table): support to rollback table metadata](https://github.com/GreptimeTeam/greptimedb/pull/3692) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: drop table procedure ](https://github.com/GreptimeTeam/greptimedb/pull/3688) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [ci: add bin options to reduce build burden](https://github.com/GreptimeTeam/greptimedb/pull/3518) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: acquire all locks in procedure ](https://github.com/GreptimeTeam/greptimedb/pull/3514) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat(fuzz): add alter table target ](https://github.com/GreptimeTeam/greptimedb/pull/3503) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: fix missing space](https://github.com/GreptimeTeam/docs/pull/838) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
