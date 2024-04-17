@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: refactor tombstone manager ](https://github.com/GreptimeTeam/greptimedb/pull/3727) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor(meta): Ensure all moving values remain unchanged between two transactions](https://github.com/GreptimeTeam/greptimedb/pull/3727) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(alter_table): ignore request outdated error](https://github.com/GreptimeTeam/greptimedb/pull/3715) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(drop_table): support to rollback table metadata](https://github.com/GreptimeTeam/greptimedb/pull/3692) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: drop table procedure ](https://github.com/GreptimeTeam/greptimedb/pull/3688) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
