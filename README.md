@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (today)
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust (2 days ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (3 days ago)
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (3 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs. (1 month ago)
 - [treydempsey/sqlx-crud](https://github.com/treydempsey/sqlx-crud) - Rust Sqlx CRUD Derive Macros (1 month ago)
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop (1 month ago)
-- [rust-fuzz/libfuzzer](https://github.com/rust-fuzz/libfuzzer) - Rust bindings and utilities for LLVM’s libFuzzer (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
