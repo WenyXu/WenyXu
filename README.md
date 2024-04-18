@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (today)
 - [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits) - Scalable Python DS &amp; ML, in an API compatible &amp; lightning fast way. (today)
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (today)
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust (2 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (3 weeks ago)
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS (4 weeks ago)
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs. (1 month ago)
-- [treydempsey/sqlx-crud](https://github.com/treydempsey/sqlx-crud) - Rust Sqlx CRUD Derive Macros (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
