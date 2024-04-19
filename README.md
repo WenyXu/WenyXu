@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (today)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (1 day ago)
 - [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits) - Scalable Python DS &amp; ML, in an API compatible &amp; lightning fast way. (1 day ago)
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (1 day ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [datafusion-contrib/datafusion-federation](https://github.com/datafusion-contrib/datafusion-federation) - Allow DataFusion to resolve queries across remote query engines while pushing down as much compute as possible down. (2 weeks ago)
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (4 weeks ago)
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS (1 month ago)
-- [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
