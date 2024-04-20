@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [amazon-ion/ion-schema-rust](https://github.com/amazon-ion/ion-schema-rust) - Rust implementation of Ion Schema (today)
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (1 day ago)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (2 days ago)
 - [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits) - Scalable Python DS &amp; ML, in an API compatible &amp; lightning fast way. (2 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (2 weeks ago)
 - [datafusion-contrib/datafusion-federation](https://github.com/datafusion-contrib/datafusion-federation) - Allow DataFusion to resolve queries across remote query engines while pushing down as much compute as possible down. (2 weeks ago)
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (4 weeks ago)
-- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
