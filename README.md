@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [trailofbits/test-fuzz](https://github.com/trailofbits/test-fuzz) - To make fuzzing Rust easy (today)
 - [avl/savefile](https://github.com/avl/savefile) - An easy to use library to save arbitrary rust data-structures to disk (or serialize to any other stream) (1 day ago)
 - [amazon-ion/ion-schema-rust](https://github.com/amazon-ion/ion-schema-rust) - Rust implementation of Ion Schema (2 days ago)
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (3 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra (1 week ago)
 - [michaelsproul/rust_radix_trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust (2 weeks ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (2 weeks ago)
-- [datafusion-contrib/datafusion-federation](https://github.com/datafusion-contrib/datafusion-federation) - Allow DataFusion to resolve queries across remote query engines while pushing down as much compute as possible down. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
