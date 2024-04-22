@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: implement FlowMetadataManager](https://github.com/GreptimeTeam/greptimedb/pull/3766) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add how-to-write-fuzz-tests.md](https://github.com/GreptimeTeam/greptimedb/pull/3763) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: avoid unnecessary allocation](https://github.com/GreptimeTeam/greptimedb/pull/3747) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [refactor: avoid unnecessary cloning](https://github.com/GreptimeTeam/greptimedb/pull/3734) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: implement the drop database procedure](https://github.com/GreptimeTeam/greptimedb/pull/3541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: remove removed-prefixed keys](https://github.com/GreptimeTeam/greptimedb/pull/3535) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: introduce the DropTableExecutor](https://github.com/GreptimeTeam/greptimedb/pull/3534) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: implement the drop database parser](https://github.com/GreptimeTeam/greptimedb/pull/3521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
