@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [test: introduce unstable fuzz create table test](https://github.com/GreptimeTeam/greptimedb/pull/3788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: simplify the PaginationStream](https://github.com/GreptimeTeam/greptimedb/pull/3787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement FlowMetadataManager](https://github.com/GreptimeTeam/greptimedb/pull/3766) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [docs: add how-to-write-fuzz-tests.md](https://github.com/GreptimeTeam/greptimedb/pull/3763) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [refactor: avoid unnecessary allocation](https://github.com/GreptimeTeam/greptimedb/pull/3747) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [refactor: refactor CacheInvalidator](https://github.com/GreptimeTeam/greptimedb/pull/3550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add drop database expr](https://github.com/GreptimeTeam/greptime-proto/pull/139) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [feat: implement the drop database procedure](https://github.com/GreptimeTeam/greptimedb/pull/3541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: remove removed-prefixed keys](https://github.com/GreptimeTeam/greptimedb/pull/3535) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: introduce the DropTableExecutor](https://github.com/GreptimeTeam/greptimedb/pull/3534) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
