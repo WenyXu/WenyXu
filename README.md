@@ -9,7 +9,7 @@ Hi 👋 Weny here.
 - [fix: fix fuzz test ci](https://github.com/GreptimeTeam/greptimedb/pull/3795) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: introduce unstable fuzz create table test](https://github.com/GreptimeTeam/greptimedb/pull/3788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: simplify the PaginationStream](https://github.com/GreptimeTeam/greptimedb/pull/3787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: implement FlowMetadataManager](https://github.com/GreptimeTeam/greptimedb/pull/3766) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: implement FlowTaskMetadataManager](https://github.com/GreptimeTeam/greptimedb/pull/3766) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [docs: add how-to-write-fuzz-tests.md](https://github.com/GreptimeTeam/greptimedb/pull/3763) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [refactor: avoid unnecessary allocation](https://github.com/GreptimeTeam/greptimedb/pull/3747) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [refactor: avoid unnecessary cloning](https://github.com/GreptimeTeam/greptimedb/pull/3734) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
