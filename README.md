@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [jorgecarleitao/json-deserializer](https://github.com/jorgecarleitao/json-deserializer) -  (today)
 - [trailofbits/test-fuzz](https://github.com/trailofbits/test-fuzz) - To make fuzzing Rust easy (4 days ago)
 - [avl/savefile](https://github.com/avl/savefile) - An easy to use library to save arbitrary rust data-structures to disk (or serialize to any other stream) (5 days ago)
 - [amazon-ion/ion-schema-rust](https://github.com/amazon-ion/ion-schema-rust) - Rust implementation of Ion Schema (6 days ago)
@@ -48,15 +49,14 @@ Hi 👋 Weny here.
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust (1 week ago)
 - [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra (1 week ago)
 - [michaelsproul/rust_radix_trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust (2 weeks ago)
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
+- [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (today)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
-- [WenyXu/opendal-concurrent-write-bench](https://github.com/WenyXu/opendal-concurrent-write-bench) -  (2 months ago)
 
 #### 👯 Check out my recent followers
 
