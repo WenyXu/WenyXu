@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [SAP/json-data-and-query-generator](https://github.com/SAP/json-data-and-query-generator) - A generator of JSON data and queries, e.g., for benchmarking JSON document stores. (today)
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don&#39;t require authentication. (today)
 - [jorgecarleitao/json-deserializer](https://github.com/jorgecarleitao/json-deserializer) -  (1 day ago)
 - [trailofbits/test-fuzz](https://github.com/trailofbits/test-fuzz) - To make fuzzing Rust easy (5 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (1 week ago)
 - [rust-embedded/heapless](https://github.com/rust-embedded/heapless) - Heapless, `static` friendly data structures (1 week ago)
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust (1 week ago)
-- [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
