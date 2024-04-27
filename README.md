@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don&#39;t require authentication. (today)
 - [jorgecarleitao/json-deserializer](https://github.com/jorgecarleitao/json-deserializer) -  (1 day ago)
 - [trailofbits/test-fuzz](https://github.com/trailofbits/test-fuzz) - To make fuzzing Rust easy (5 days ago)
 - [avl/savefile](https://github.com/avl/savefile) - An easy to use library to save arbitrary rust data-structures to disk (or serialize to any other stream) (6 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [rust-embedded/heapless](https://github.com/rust-embedded/heapless) - Heapless, `static` friendly data structures (1 week ago)
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust (1 week ago)
 - [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra (2 weeks ago)
-- [michaelsproul/rust_radix_trie](https://github.com/michaelsproul/rust_radix_trie) - Fast generic radix trie implemented in Rust (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
