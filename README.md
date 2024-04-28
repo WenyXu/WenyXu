@@ -6,9 +6,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: move memory catalog to `testing` feature gate](https://github.com/GreptimeTeam/greptimedb/pull/3822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: rename all `datanode_manager` to `node_manager`](https://github.com/GreptimeTeam/greptimedb/pull/3813) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: refactor `DatanodeManager` to `NodeManager`](https://github.com/GreptimeTeam/greptimedb/pull/3811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: implement the `CreateFlowTaskProcedure`](https://github.com/GreptimeTeam/greptimedb/pull/3810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: implement the `CreateFlowProcedure`](https://github.com/GreptimeTeam/greptimedb/pull/3810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: replace `sink_table_id` with `sink_table_name`](https://github.com/GreptimeTeam/greptime-proto/pull/153) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
 - [feat: define `CreateFlowTask` and `DropFlowTask`](https://github.com/GreptimeTeam/greptimedb/pull/3801) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: add `source_tables` and `source_table_ids`](https://github.com/GreptimeTeam/greptime-proto/pull/151) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `PrepareRollback`, `RollingBack` to procedure state](https://github.com/GreptimeTeam/greptime-proto/pull/142) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [feat(procedure): enable auto split large value](https://github.com/GreptimeTeam/greptimedb/pull/3628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(procedure): support to rollback](https://github.com/GreptimeTeam/greptimedb/pull/3625) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat(fuzz): support to create metric table](https://github.com/GreptimeTeam/greptimedb/pull/3617) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
