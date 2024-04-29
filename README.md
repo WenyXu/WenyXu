@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: remove catalog prefix](https://github.com/GreptimeTeam/greptimedb/pull/3835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: rename flow task to flow](https://github.com/GreptimeTeam/greptimedb/pull/3833) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add warn log for denied to renew region lease ](https://github.com/GreptimeTeam/greptimedb/pull/3827) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement the `FrontendInvoker`](https://github.com/GreptimeTeam/greptimedb/pull/3824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: bump `arrow` version to 51](https://github.com/datafusion-contrib/datafusion-orc/pull/83) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
 - [refactor: refactor alter table procedure](https://github.com/GreptimeTeam/greptimedb/pull/3678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: `DeserializedValueWithBytes::from_inner` misusing](https://github.com/GreptimeTeam/greptimedb/pull/3676) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [test(sqlness): release databases after tests](https://github.com/GreptimeTeam/greptimedb/pull/3648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
