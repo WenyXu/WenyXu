@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: remove task suffix](https://github.com/GreptimeTeam/greptime-proto/pull/162) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [refactor: remove `TableMetaKey` trait](https://github.com/GreptimeTeam/greptimedb/pull/3837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove catalog prefix](https://github.com/GreptimeTeam/greptimedb/pull/3835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: rename flow task to flow](https://github.com/GreptimeTeam/greptimedb/pull/3833) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat(drop_table): support to rollback table metadata](https://github.com/GreptimeTeam/greptimedb/pull/3692) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: drop table procedure ](https://github.com/GreptimeTeam/greptimedb/pull/3688) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: bump `arrow` version to 51](https://github.com/datafusion-contrib/datafusion-orc/pull/83) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
-- [refactor: refactor alter table procedure](https://github.com/GreptimeTeam/greptimedb/pull/3678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -53,8 +53,8 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (3 days ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 days ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
 
