@@ -6,9 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add `flow_id` and `drop_if_exists` to `DropFlowExpr`](https://github.com/GreptimeTeam/greptime-proto/pull/164) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [fix: register regions during procedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/3859) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: retrieve all info instead of checking on demand](https://github.com/GreptimeTeam/greptimedb/pull/3846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add `flow_id` and `drop_if_exists` to `DropFlowExpr`](https://github.com/GreptimeTeam/greptime-proto/pull/164) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [fix: register regions during procedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/3859) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: retrieve all info instead of checking on demand](https://github.com/GreptimeTeam/greptimedb/pull/3846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove task suffix](https://github.com/GreptimeTeam/greptime-proto/pull/162) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [refactor: remove `TableMetaKey` trait](https://github.com/GreptimeTeam/greptimedb/pull/3837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove catalog prefix](https://github.com/GreptimeTeam/greptimedb/pull/3835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,12 +30,12 @@ Hi 👋 Weny here.
 - [refactor: avoid unnecessary allocation](https://github.com/GreptimeTeam/greptimedb/pull/3747) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: avoid unnecessary cloning](https://github.com/GreptimeTeam/greptimedb/pull/3734) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor(meta): Ensure all moving values remain unchanged between two transactions](https://github.com/GreptimeTeam/greptimedb/pull/3727) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(alter_table): ignore request outdated error](https://github.com/GreptimeTeam/greptimedb/pull/3715) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [fix(alter_table): ignore request outdated error](https://github.com/GreptimeTeam/greptimedb/pull/3715) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (5 days ago)
-- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront). (6 days ago)
+- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (6 days ago)
+- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront). (1 week ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (1 week ago)
 - [chhantyal/parquet-cli](https://github.com/chhantyal/parquet-cli) - Command line (CLI) tool to inspect Apache Parquet files on the go (1 week ago)
 - [SAP/json-data-and-query-generator](https://github.com/SAP/json-data-and-query-generator) - A generator of JSON data and queries, e.g., for benchmarking JSON document stores. (1 week ago)
@@ -48,14 +48,14 @@ Hi 👋 Weny here.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (2 weeks ago)
 - [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits) - Scalable Python DS &amp; ML, in an API compatible &amp; lightning fast way. (2 weeks ago)
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (2 weeks ago)
-- [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust (2 weeks ago)
+- [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (1 week ago)
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (2 weeks ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (3 weeks ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
 
 #### 👯 Check out my recent followers
