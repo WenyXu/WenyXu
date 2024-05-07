@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: pass `QueryContext` to `FlowRequestHeader`](https://github.com/GreptimeTeam/greptimedb/pull/3878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement drop flow procedure](https://github.com/GreptimeTeam/greptimedb/pull/3877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `QueryContext` to `DdlTaskRequest` and `FlowRequestHeader`](https://github.com/GreptimeTeam/greptime-proto/pull/166) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [docs: run fuzz tests in dev mode &amp; disable sanitizer](https://github.com/GreptimeTeam/greptimedb/pull/3871) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [test: introduce unstable fuzz create table test](https://github.com/GreptimeTeam/greptimedb/pull/3788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: simplify the PaginationStream](https://github.com/GreptimeTeam/greptimedb/pull/3787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement FlowTaskMetadataManager](https://github.com/GreptimeTeam/greptimedb/pull/3766) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [docs: add how-to-write-fuzz-tests.md](https://github.com/GreptimeTeam/greptimedb/pull/3763) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
