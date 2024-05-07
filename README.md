@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `QueryContext` to `DdlTaskRequest` and `FlowRequestHeader`](https://github.com/GreptimeTeam/greptime-proto/pull/166) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [docs: run fuzz tests in dev mode &amp; disable sanitizer](https://github.com/GreptimeTeam/greptimedb/pull/3871) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(pprof): import `common_telemetry::info`](https://github.com/GreptimeTeam/greptimedb/pull/3870) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `flow_id` and `drop_if_exists` to `DropFlowExpr`](https://github.com/GreptimeTeam/greptime-proto/pull/164) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: implement FlowTaskMetadataManager](https://github.com/GreptimeTeam/greptimedb/pull/3766) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: add how-to-write-fuzz-tests.md](https://github.com/GreptimeTeam/greptimedb/pull/3763) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: avoid unnecessary allocation](https://github.com/GreptimeTeam/greptimedb/pull/3747) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: avoid unnecessary cloning](https://github.com/GreptimeTeam/greptimedb/pull/3734) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
