@@ -6,13 +6,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: pass `QueryContext` to `FlowRequestHeader`](https://github.com/GreptimeTeam/greptimedb/pull/3878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: implement drop flow procedure](https://github.com/GreptimeTeam/greptimedb/pull/3877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add `QueryContext` to `DdlTaskRequest` and `FlowRequestHeader`](https://github.com/GreptimeTeam/greptime-proto/pull/166) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [docs: run fuzz tests in dev mode &amp; disable sanitizer](https://github.com/GreptimeTeam/greptimedb/pull/3871) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore(pprof): import `common_telemetry::info`](https://github.com/GreptimeTeam/greptimedb/pull/3870) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add `flow_id` and `drop_if_exists` to `DropFlowExpr`](https://github.com/GreptimeTeam/greptime-proto/pull/164) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
-- [fix: register regions during procedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/3859) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: pass `QueryContext` to `FlowRequestHeader`](https://github.com/GreptimeTeam/greptimedb/pull/3878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: implement drop flow procedure](https://github.com/GreptimeTeam/greptimedb/pull/3877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add `QueryContext` to `DdlTaskRequest` and `FlowRequestHeader`](https://github.com/GreptimeTeam/greptime-proto/pull/166) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [docs: run fuzz tests in dev mode &amp; disable sanitizer](https://github.com/GreptimeTeam/greptimedb/pull/3871) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore(pprof): import `common_telemetry::info`](https://github.com/GreptimeTeam/greptimedb/pull/3870) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add `flow_id` and `drop_if_exists` to `DropFlowExpr`](https://github.com/GreptimeTeam/greptime-proto/pull/164) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
+- [fix: register regions during procedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/3859) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: retrieve all info instead of checking on demand](https://github.com/GreptimeTeam/greptimedb/pull/3846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove task suffix](https://github.com/GreptimeTeam/greptime-proto/pull/162) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [refactor: remove `TableMetaKey` trait](https://github.com/GreptimeTeam/greptimedb/pull/3837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -27,15 +27,15 @@ Hi 👋 Weny here.
 - [refactor: replace `sink_table_id` with `sink_table_name`](https://github.com/GreptimeTeam/greptime-proto/pull/153) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat: define `CreateFlowTask` and `DropFlowTask`](https://github.com/GreptimeTeam/greptimedb/pull/3801) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `source_tables` and `source_table_ids`](https://github.com/GreptimeTeam/greptime-proto/pull/151) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
-- [fix: fix fuzz test ci](https://github.com/GreptimeTeam/greptimedb/pull/3795) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [test: introduce unstable fuzz create table test](https://github.com/GreptimeTeam/greptimedb/pull/3788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: simplify the PaginationStream](https://github.com/GreptimeTeam/greptimedb/pull/3787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: fix fuzz test ci](https://github.com/GreptimeTeam/greptimedb/pull/3795) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [test: introduce unstable fuzz create table test](https://github.com/GreptimeTeam/greptimedb/pull/3788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [refactor: simplify the PaginationStream](https://github.com/GreptimeTeam/greptimedb/pull/3787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: implement FlowTaskMetadataManager](https://github.com/GreptimeTeam/greptimedb/pull/3766) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (today)
-- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (6 days ago)
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (1 day ago)
+- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (1 week ago)
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront). (1 week ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (1 week ago)
 - [chhantyal/parquet-cli](https://github.com/chhantyal/parquet-cli) - Command line (CLI) tool to inspect Apache Parquet files on the go (1 week ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (1 week ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (3 weeks ago)
