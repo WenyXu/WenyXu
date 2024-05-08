@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement `AdvancedCache`](https://github.com/GreptimeTeam/greptimedb/pull/3885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: implement `AdvancedCache` &amp; `TableFlownodeSetCache`](https://github.com/GreptimeTeam/greptimedb/pull/3885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: move mirror insertion tasks to the background runtime](https://github.com/GreptimeTeam/greptimedb/pull/3879) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: pass `QueryContext` to `FlowRequestHeader`](https://github.com/GreptimeTeam/greptimedb/pull/3878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement drop flow procedure](https://github.com/GreptimeTeam/greptimedb/pull/3877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
