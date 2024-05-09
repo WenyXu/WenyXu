@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce the `CacheRegistry`](https://github.com/GreptimeTeam/greptimedb/pull/3896) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: introduce `TableNameCache` &amp; `TableInfoCache` &amp; `TableRouteCache`](https://github.com/GreptimeTeam/greptimedb/pull/3895) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement drop flow parser](https://github.com/GreptimeTeam/greptimedb/pull/3888) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement `CacheContainer` &amp; `TableFlownodeSetCache`](https://github.com/GreptimeTeam/greptimedb/pull/3885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: move mirror insertion tasks to the background runtime](https://github.com/GreptimeTeam/greptimedb/pull/3879) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: implement the `CreateFlowProcedure`](https://github.com/GreptimeTeam/greptimedb/pull/3810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: replace `sink_table_id` with `sink_table_name`](https://github.com/GreptimeTeam/greptime-proto/pull/153) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat: define `CreateFlowTask` and `DropFlowTask`](https://github.com/GreptimeTeam/greptimedb/pull/3801) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add `source_tables` and `source_table_ids`](https://github.com/GreptimeTeam/greptime-proto/pull/151) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
-- [fix: fix fuzz test ci](https://github.com/GreptimeTeam/greptimedb/pull/3795) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
