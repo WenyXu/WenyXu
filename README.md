@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: add `procedure_loader` macro](https://github.com/GreptimeTeam/greptimedb/pull/3906) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: support to drop flow](https://github.com/GreptimeTeam/greptimedb/pull/3900) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump proto to 219b24](https://github.com/GreptimeTeam/greptimedb/pull/3899) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce the `CacheRegistry`](https://github.com/GreptimeTeam/greptimedb/pull/3896) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: move memory catalog to `testing` feature gate](https://github.com/GreptimeTeam/greptimedb/pull/3822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: rename all `datanode_manager` to `node_manager`](https://github.com/GreptimeTeam/greptimedb/pull/3813) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: refactor `DatanodeManager` to `NodeManager`](https://github.com/GreptimeTeam/greptimedb/pull/3811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: implement the `CreateFlowProcedure`](https://github.com/GreptimeTeam/greptimedb/pull/3810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
