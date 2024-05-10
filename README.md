@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language (today)
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (3 days ago)
 - [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (1 week ago)
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront). (1 week ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (3 weeks ago)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (3 weeks ago)
 - [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits) - Scalable Python DS &amp; ML, in an API compatible &amp; lightning fast way. (3 weeks ago)
-- [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
