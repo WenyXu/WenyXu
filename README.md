@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: support to invalidate flow cache](https://github.com/GreptimeTeam/greptimedb/pull/3926) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `CompositeTableRouteCache` to `PartitionRuleManager`](https://github.com/GreptimeTeam/greptimedb/pull/3922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: implement the `CompositeTableRoute`](https://github.com/GreptimeTeam/greptimedb/pull/3918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: support to create &amp; drop flow via grpc](https://github.com/GreptimeTeam/greptimedb/pull/3915) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: remove `TableMetaKey` trait](https://github.com/GreptimeTeam/greptimedb/pull/3837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: remove catalog prefix](https://github.com/GreptimeTeam/greptimedb/pull/3835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: rename flow task to flow](https://github.com/GreptimeTeam/greptimedb/pull/3833) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: add warn log for denied to renew region lease ](https://github.com/GreptimeTeam/greptimedb/pull/3827) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
