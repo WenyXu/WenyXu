@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: add `CompositeTableRouteCacheRef` to `PartitionRuleManager`](https://github.com/GreptimeTeam/greptimedb/pull/3922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: introduce `CompositeTableRouteCache` to `PartitionRuleManager`](https://github.com/GreptimeTeam/greptimedb/pull/3922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: implement the `CompositeTableRoute`](https://github.com/GreptimeTeam/greptimedb/pull/3918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: support to create &amp; drop flow via grpc](https://github.com/GreptimeTeam/greptimedb/pull/3915) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: refactor frontend cache](https://github.com/GreptimeTeam/greptimedb/pull/3912) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
