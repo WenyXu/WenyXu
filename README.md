@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (today)
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language (3 days ago)
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (6 days ago)
 - [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (1 week ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [amazon-ion/ion-schema-rust](https://github.com/amazon-ion/ion-schema-rust) - Rust implementation of Ion Schema (3 weeks ago)
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (3 weeks ago)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (3 weeks ago)
-- [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits) - Scalable Python DS &amp; ML, in an API compatible &amp; lightning fast way. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
