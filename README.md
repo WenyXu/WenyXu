@@ -6,20 +6,20 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: potential deadlock](https://github.com/GreptimeTeam/greptimedb/pull/3930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: support to invalidate flow cache](https://github.com/GreptimeTeam/greptimedb/pull/3926) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: introduce `TableRouteCache` to `PartitionRuleManager`](https://github.com/GreptimeTeam/greptimedb/pull/3922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: implement the `CompositeTableRoute`](https://github.com/GreptimeTeam/greptimedb/pull/3918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: support to create &amp; drop flow via grpc](https://github.com/GreptimeTeam/greptimedb/pull/3915) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor: refactor frontend cache](https://github.com/GreptimeTeam/greptimedb/pull/3912) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [refactor: add `procedure_loader` macro](https://github.com/GreptimeTeam/greptimedb/pull/3906) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: support to drop flow](https://github.com/GreptimeTeam/greptimedb/pull/3900) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [chore: bump proto to 219b24](https://github.com/GreptimeTeam/greptimedb/pull/3899) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: introduce the `CacheRegistry`](https://github.com/GreptimeTeam/greptimedb/pull/3896) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: introduce `TableNameCache` &amp; `TableInfoCache` &amp; `TableRouteCache`](https://github.com/GreptimeTeam/greptimedb/pull/3895) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: implement drop flow parser](https://github.com/GreptimeTeam/greptimedb/pull/3888) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: implement `CacheContainer` &amp; `TableFlownodeSetCache`](https://github.com/GreptimeTeam/greptimedb/pull/3885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [refactor: move mirror insertion tasks to the background runtime](https://github.com/GreptimeTeam/greptimedb/pull/3879) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: potential deadlock](https://github.com/GreptimeTeam/greptimedb/pull/3930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: support to invalidate flow cache](https://github.com/GreptimeTeam/greptimedb/pull/3926) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: introduce `TableRouteCache` to `PartitionRuleManager`](https://github.com/GreptimeTeam/greptimedb/pull/3922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: implement the `CompositeTableRoute`](https://github.com/GreptimeTeam/greptimedb/pull/3918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: support to create &amp; drop flow via grpc](https://github.com/GreptimeTeam/greptimedb/pull/3915) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: refactor frontend cache](https://github.com/GreptimeTeam/greptimedb/pull/3912) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [refactor: add `procedure_loader` macro](https://github.com/GreptimeTeam/greptimedb/pull/3906) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: support to drop flow](https://github.com/GreptimeTeam/greptimedb/pull/3900) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [chore: bump proto to 219b24](https://github.com/GreptimeTeam/greptimedb/pull/3899) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: introduce the `CacheRegistry`](https://github.com/GreptimeTeam/greptimedb/pull/3896) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: introduce `TableNameCache` &amp; `TableInfoCache` &amp; `TableRouteCache`](https://github.com/GreptimeTeam/greptimedb/pull/3895) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: implement drop flow parser](https://github.com/GreptimeTeam/greptimedb/pull/3888) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: implement `CacheContainer` &amp; `TableFlownodeSetCache`](https://github.com/GreptimeTeam/greptimedb/pull/3885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [refactor: move mirror insertion tasks to the background runtime](https://github.com/GreptimeTeam/greptimedb/pull/3879) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: pass `QueryContext` to `FlowRequestHeader`](https://github.com/GreptimeTeam/greptimedb/pull/3878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement drop flow procedure](https://github.com/GreptimeTeam/greptimedb/pull/3877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `QueryContext` to `DdlTaskRequest` and `FlowRequestHeader`](https://github.com/GreptimeTeam/greptime-proto/pull/166) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -34,10 +34,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (1 day ago)
-- [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language (4 days ago)
+- [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (2 days ago)
+- [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language (5 days ago)
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (1 week ago)
-- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (1 week ago)
+- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (2 weeks ago)
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront). (2 weeks ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (2 weeks ago)
 - [chhantyal/parquet-cli](https://github.com/chhantyal/parquet-cli) - Command line (CLI) tool to inspect Apache Parquet files on the go (2 weeks ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (5 days ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (2 weeks ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (4 weeks ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
