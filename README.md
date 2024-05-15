@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: update upgrade doc](https://github.com/GreptimeTeam/docs/pull/958) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: ignore internal columns in `SHOW CREATE TABLE`](https://github.com/GreptimeTeam/greptimedb/pull/3950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(cli): export metric physical tables first](https://github.com/GreptimeTeam/greptimedb/pull/3949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: update greptime-proto to a11db14](https://github.com/GreptimeTeam/greptimedb/pull/3942) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore(pprof): import `common_telemetry::info`](https://github.com/GreptimeTeam/greptimedb/pull/3870) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `flow_id` and `drop_if_exists` to `DropFlowExpr`](https://github.com/GreptimeTeam/greptime-proto/pull/164) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [fix: register regions during procedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/3859) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: retrieve all info instead of checking on demand](https://github.com/GreptimeTeam/greptimedb/pull/3846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
