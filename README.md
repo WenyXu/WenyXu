@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix registering metric region to `AliveKeeper`](https://github.com/GreptimeTeam/greptimedb/pull/3965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: prevent registering logical regions with AliveKeeper](https://github.com/GreptimeTeam/greptimedb/pull/3965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: update upgrade doc](https://github.com/GreptimeTeam/docs/pull/958) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [feat: ignore internal columns in `SHOW CREATE TABLE`](https://github.com/GreptimeTeam/greptimedb/pull/3950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(cli): export metric physical tables first](https://github.com/GreptimeTeam/greptimedb/pull/3949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
