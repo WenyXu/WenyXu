@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions (today)
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (3 days ago)
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language (6 days ago)
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (1 week ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [avl/savefile](https://github.com/avl/savefile) - An easy to use library to save arbitrary rust data-structures to disk (or serialize to any other stream) (3 weeks ago)
 - [amazon-ion/ion-schema-rust](https://github.com/amazon-ion/ion-schema-rust) - Rust implementation of Ion Schema (3 weeks ago)
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (3 weeks ago)
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (4 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
