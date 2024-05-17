@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(cli): prevent exporting physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3975) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: update upgrade doc](https://github.com/GreptimeTeam/docs/pull/963) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: bump to v0.8.0](https://github.com/GreptimeTeam/greptimedb/pull/3971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: implement drop flow parser](https://github.com/GreptimeTeam/greptimedb/pull/3888) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement `CacheContainer` &amp; `TableFlownodeSetCache`](https://github.com/GreptimeTeam/greptimedb/pull/3885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: move mirror insertion tasks to the background runtime](https://github.com/GreptimeTeam/greptimedb/pull/3879) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: pass `QueryContext` to `FlowRequestHeader`](https://github.com/GreptimeTeam/greptimedb/pull/3878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
