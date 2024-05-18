@@ -9,7 +9,7 @@ Hi 👋 Weny here.
 - [chore: pin cargo-ndk to 3.5.4](https://github.com/GreptimeTeam/greptimedb/pull/3979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(cli): prevent exporting physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3975) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: update upgrade doc](https://github.com/GreptimeTeam/docs/pull/963) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
+- [docs: add upgrade note for using InfluxDB protocol](https://github.com/GreptimeTeam/docs/pull/963) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [chore: bump to v0.8.0](https://github.com/GreptimeTeam/greptimedb/pull/3971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore(ci): add cfg for setup GreptimeDB cluster](https://github.com/GreptimeTeam/greptimedb/pull/3967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
