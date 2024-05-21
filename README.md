@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: try to fix unstable fuzz test ](https://github.com/GreptimeTeam/greptimedb/pull/4003) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: try to fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/3998) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(ci): export kind logs](https://github.com/GreptimeTeam/greptimedb/pull/3996) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add v0.8.0 release note](https://github.com/GreptimeTeam/docs/pull/968) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: add `procedure_loader` macro](https://github.com/GreptimeTeam/greptimedb/pull/3906) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: support to drop flow](https://github.com/GreptimeTeam/greptimedb/pull/3900) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: bump proto to 219b24](https://github.com/GreptimeTeam/greptimedb/pull/3899) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce the `CacheRegistry`](https://github.com/GreptimeTeam/greptimedb/pull/3896) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
