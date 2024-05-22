@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore(ci): add more replicas](https://github.com/GreptimeTeam/greptimedb/pull/4015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add v0.8.0 highlights](https://github.com/GreptimeTeam/docs/pull/972) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: try to fix unstable fuzz test ](https://github.com/GreptimeTeam/greptimedb/pull/4003) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: try to fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/3998) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: support to create &amp; drop flow via grpc](https://github.com/GreptimeTeam/greptimedb/pull/3915) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: refactor frontend cache](https://github.com/GreptimeTeam/greptimedb/pull/3912) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: add `procedure_loader` macro](https://github.com/GreptimeTeam/greptimedb/pull/3906) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: support to drop flow](https://github.com/GreptimeTeam/greptimedb/pull/3900) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
