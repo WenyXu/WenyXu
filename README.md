@@ -6,20 +6,20 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore(ci): add more replicas](https://github.com/GreptimeTeam/greptimedb/pull/4015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [docs: add v0.8.0 highlights](https://github.com/GreptimeTeam/docs/pull/972) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
-- [fix: try to fix unstable fuzz test ](https://github.com/GreptimeTeam/greptimedb/pull/4003) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: try to fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/3998) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [chore(ci): export kind logs](https://github.com/GreptimeTeam/greptimedb/pull/3996) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: add v0.8.0 release note](https://github.com/GreptimeTeam/docs/pull/968) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [chore: pin cargo-ndk to 3.5.4](https://github.com/GreptimeTeam/greptimedb/pull/3979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat(cli): prevent exporting physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3975) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [docs: add upgrade note for using InfluxDB protocol](https://github.com/GreptimeTeam/docs/pull/963) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [chore: bump to v0.8.0](https://github.com/GreptimeTeam/greptimedb/pull/3971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [chore(ci): add fuzz tests for distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/3967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix: prevent registering logical regions with AliveKeeper](https://github.com/GreptimeTeam/greptimedb/pull/3965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore(ci): add more replicas](https://github.com/GreptimeTeam/greptimedb/pull/4015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [docs: add v0.8.0 highlights](https://github.com/GreptimeTeam/docs/pull/972) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
+- [fix: try to fix unstable fuzz test ](https://github.com/GreptimeTeam/greptimedb/pull/4003) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: try to fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/3998) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [chore(ci): export kind logs](https://github.com/GreptimeTeam/greptimedb/pull/3996) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: add v0.8.0 release note](https://github.com/GreptimeTeam/docs/pull/968) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [chore: pin cargo-ndk to 3.5.4](https://github.com/GreptimeTeam/greptimedb/pull/3979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat(cli): prevent exporting physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3975) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [docs: add upgrade note for using InfluxDB protocol](https://github.com/GreptimeTeam/docs/pull/963) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [chore: bump to v0.8.0](https://github.com/GreptimeTeam/greptimedb/pull/3971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore(ci): add fuzz tests for distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/3967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: prevent registering logical regions with AliveKeeper](https://github.com/GreptimeTeam/greptimedb/pull/3965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: update upgrade doc](https://github.com/GreptimeTeam/docs/pull/958) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat: ignore internal columns in `SHOW CREATE TABLE`](https://github.com/GreptimeTeam/greptimedb/pull/3950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(cli): export metric physical tables first](https://github.com/GreptimeTeam/greptimedb/pull/3949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions (6 days ago)
+- [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions (1 week ago)
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (1 week ago)
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language (1 week ago)
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (2 weeks ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (3 weeks ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 month ago)
