@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement the `LogStoreEntryReader`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: implement the `LogStoreEntryReader` and `WalEntryDistributor`, `WalEntryReciver`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement the `LogStoreRawEntryReader` and `RawEntryReaderFilter`](https://github.com/GreptimeTeam/greptimedb/pull/4030) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `RawEntryReader` and `OneshotWalEntryReader` trait](https://github.com/GreptimeTeam/greptimedb/pull/4027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(ci): add more replicas](https://github.com/GreptimeTeam/greptimedb/pull/4015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
