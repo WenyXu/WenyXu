@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: implement the `LogStoreEntryReader`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: implement the `LogStoreRawEntryReader` and `RawEntryReaderFilter`](https://github.com/GreptimeTeam/greptimedb/pull/4030) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `RawEntryReader` and `OneshotWalEntryReader` trait](https://github.com/GreptimeTeam/greptimedb/pull/4027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(ci): add more replicas](https://github.com/GreptimeTeam/greptimedb/pull/4015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [docs: add v0.8.0 highlights](https://github.com/GreptimeTeam/docs/pull/972) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: support to invalidate flow cache](https://github.com/GreptimeTeam/greptimedb/pull/3926) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce `TableRouteCache` to `PartitionRuleManager`](https://github.com/GreptimeTeam/greptimedb/pull/3922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement the `CompositeTableRoute`](https://github.com/GreptimeTeam/greptimedb/pull/3918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: support to create &amp; drop flow via grpc](https://github.com/GreptimeTeam/greptimedb/pull/3915) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: refactor frontend cache](https://github.com/GreptimeTeam/greptimedb/pull/3912) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
