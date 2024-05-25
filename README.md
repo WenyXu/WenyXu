@@ -6,16 +6,16 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor(log_store): remove associated type `Namespace` in `LogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: implement the `LogStoreEntryReader` and `WalEntryDistributor`, `WalEntryReciver`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: implement the `LogStoreRawEntryReader` and `RawEntryReaderFilter`](https://github.com/GreptimeTeam/greptimedb/pull/4030) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add `RawEntryReader` and `OneshotWalEntryReader` trait](https://github.com/GreptimeTeam/greptimedb/pull/4027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore(ci): add more replicas](https://github.com/GreptimeTeam/greptimedb/pull/4015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [docs: add v0.8.0 highlights](https://github.com/GreptimeTeam/docs/pull/972) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [fix: try to fix unstable fuzz test ](https://github.com/GreptimeTeam/greptimedb/pull/4003) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: try to fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/3998) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore(ci): export kind logs](https://github.com/GreptimeTeam/greptimedb/pull/3996) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [docs: add v0.8.0 release note](https://github.com/GreptimeTeam/docs/pull/968) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [refactor(log_store): remove associated type `Namespace` in `LogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: implement the `LogStoreEntryReader` and `WalEntryDistributor`, `WalEntryReciver`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: implement the `LogStoreRawEntryReader` and `RawEntryReaderFilter`](https://github.com/GreptimeTeam/greptimedb/pull/4030) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add `RawEntryReader` and `OneshotWalEntryReader` trait](https://github.com/GreptimeTeam/greptimedb/pull/4027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore(ci): add more replicas](https://github.com/GreptimeTeam/greptimedb/pull/4015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [docs: add v0.8.0 highlights](https://github.com/GreptimeTeam/docs/pull/972) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [fix: try to fix unstable fuzz test ](https://github.com/GreptimeTeam/greptimedb/pull/4003) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: try to fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/3998) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore(ci): export kind logs](https://github.com/GreptimeTeam/greptimedb/pull/3996) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [docs: add v0.8.0 release note](https://github.com/GreptimeTeam/docs/pull/968) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
 - [chore: pin cargo-ndk to 3.5.4](https://github.com/GreptimeTeam/greptimedb/pull/3979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(cli): prevent exporting physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3975) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +30,7 @@ Hi 👋 Weny here.
 - [chore: update greptime-proto to a11db14](https://github.com/GreptimeTeam/greptimedb/pull/3942) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: potential deadlock](https://github.com/GreptimeTeam/greptimedb/pull/3930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: support to invalidate flow cache](https://github.com/GreptimeTeam/greptimedb/pull/3926) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce `TableRouteCache` to `PartitionRuleManager`](https://github.com/GreptimeTeam/greptimedb/pull/3922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: introduce `TableRouteCache` to `PartitionRuleManager`](https://github.com/GreptimeTeam/greptimedb/pull/3922) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -42,8 +42,8 @@ Hi 👋 Weny here.
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront). (3 weeks ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (3 weeks ago)
 - [chhantyal/parquet-cli](https://github.com/chhantyal/parquet-cli) - Command line (CLI) tool to inspect Apache Parquet files on the go (3 weeks ago)
-- [SAP/json-data-and-query-generator](https://github.com/SAP/json-data-and-query-generator) - A generator of JSON data and queries, e.g., for benchmarking JSON document stores. (3 weeks ago)
-- [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don&#39;t require authentication. (3 weeks ago)
+- [SAP/json-data-and-query-generator](https://github.com/SAP/json-data-and-query-generator) - A generator of JSON data and queries, e.g., for benchmarking JSON document stores. (4 weeks ago)
+- [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don&#39;t require authentication. (4 weeks ago)
 - [jorgecarleitao/json-deserializer](https://github.com/jorgecarleitao/json-deserializer) -  (4 weeks ago)
 - [trailofbits/test-fuzz](https://github.com/trailofbits/test-fuzz) - To make fuzzing Rust easy (1 month ago)
 - [avl/savefile](https://github.com/avl/savefile) - An easy to use library to save arbitrary rust data-structures to disk (or serialize to any other stream) (1 month ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (4 weeks ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 month ago)
