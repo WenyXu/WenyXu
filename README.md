@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: open region in background](https://github.com/GreptimeTeam/greptimedb/pull/4052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(fuzz-tests): avoid to drop in-use database](https://github.com/GreptimeTeam/greptimedb/pull/4049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(metric-engine): missing catchup implementation](https://github.com/GreptimeTeam/greptimedb/pull/4048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: invoke `flush_table` and `compact_table` in fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4045) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: prevent registering logical regions with AliveKeeper](https://github.com/GreptimeTeam/greptimedb/pull/3965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: update upgrade doc](https://github.com/GreptimeTeam/docs/pull/958) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat: ignore internal columns in `SHOW CREATE TABLE`](https://github.com/GreptimeTeam/greptimedb/pull/3950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(cli): export metric physical tables first](https://github.com/GreptimeTeam/greptimedb/pull/3949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
