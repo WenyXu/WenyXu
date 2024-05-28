@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: add `LAST_SENT_HEARTBEAT_ELAPSED` metric](https://github.com/GreptimeTeam/greptimedb/pull/4062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor(fuzz-tests): generate ts value separately](https://github.com/GreptimeTeam/greptimedb/pull/4056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: open region in background](https://github.com/GreptimeTeam/greptimedb/pull/4052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(fuzz-tests): avoid to drop in-use database](https://github.com/GreptimeTeam/greptimedb/pull/4049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore(ci): add fuzz tests for distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/3967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: prevent registering logical regions with AliveKeeper](https://github.com/GreptimeTeam/greptimedb/pull/3965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [docs: update upgrade doc](https://github.com/GreptimeTeam/docs/pull/958) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
