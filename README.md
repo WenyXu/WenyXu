@@ -13,7 +13,7 @@ Hi 👋 Weny here.
 - [fix(metric-engine): missing catchup implementation](https://github.com/GreptimeTeam/greptimedb/pull/4048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: invoke `flush_table` and `compact_table` in fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4045) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: add logs for setting the region to writable](https://github.com/GreptimeTeam/greptimedb/pull/4044) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [refactor(log_store): remove associated type `Namespace` in `LogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor(log_store): remove associated type `Namespace` and `Entry` in `LogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: implement the `LogStoreEntryReader` and `WalEntryDistributor`, `WalEntryReciver`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: implement the `LogStoreRawEntryReader` and `RawEntryReaderFilter`](https://github.com/GreptimeTeam/greptimedb/pull/4030) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: add `RawEntryReader` and `OneshotWalEntryReader` trait](https://github.com/GreptimeTeam/greptimedb/pull/4027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
