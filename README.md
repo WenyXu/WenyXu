@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (today)
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions. (3 days ago)
 - [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions (2 weeks ago)
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (2 weeks ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [jorgecarleitao/json-deserializer](https://github.com/jorgecarleitao/json-deserializer) -  (1 month ago)
 - [trailofbits/test-fuzz](https://github.com/trailofbits/test-fuzz) - To make fuzzing Rust easy (1 month ago)
 - [avl/savefile](https://github.com/avl/savefile) - An easy to use library to save arbitrary rust data-structures to disk (or serialize to any other stream) (1 month ago)
-- [amazon-ion/ion-schema-rust](https://github.com/amazon-ion/ion-schema-rust) - Rust implementation of Ion Schema (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
