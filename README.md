@@ -6,16 +6,16 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [test: run `test_flush_reopen_region` and `test_region_replay` with `KafkaLogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: implement the `handle_batch_open_requests`](https://github.com/GreptimeTeam/greptimedb/pull/4075) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: avoid acquiring lock during reading stats](https://github.com/GreptimeTeam/greptimedb/pull/4070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [chore: add `LAST_SENT_HEARTBEAT_ELAPSED` metric](https://github.com/GreptimeTeam/greptimedb/pull/4062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor(fuzz-tests): generate ts value separately](https://github.com/GreptimeTeam/greptimedb/pull/4056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: open region in background](https://github.com/GreptimeTeam/greptimedb/pull/4052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(fuzz-tests): avoid to drop in-use database](https://github.com/GreptimeTeam/greptimedb/pull/4049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(metric-engine): missing catchup implementation](https://github.com/GreptimeTeam/greptimedb/pull/4048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: invoke `flush_table` and `compact_table` in fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4045) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [chore: add logs for setting the region to writable](https://github.com/GreptimeTeam/greptimedb/pull/4044) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [test: run `test_flush_reopen_region` and `test_region_replay` with `KafkaLogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: implement the `handle_batch_open_requests`](https://github.com/GreptimeTeam/greptimedb/pull/4075) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: avoid acquiring lock during reading stats](https://github.com/GreptimeTeam/greptimedb/pull/4070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: add `LAST_SENT_HEARTBEAT_ELAPSED` metric](https://github.com/GreptimeTeam/greptimedb/pull/4062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor(fuzz-tests): generate ts value separately](https://github.com/GreptimeTeam/greptimedb/pull/4056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: open region in background](https://github.com/GreptimeTeam/greptimedb/pull/4052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix(fuzz-tests): avoid to drop in-use database](https://github.com/GreptimeTeam/greptimedb/pull/4049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix(metric-engine): missing catchup implementation](https://github.com/GreptimeTeam/greptimedb/pull/4048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: invoke `flush_table` and `compact_table` in fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4045) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: add logs for setting the region to writable](https://github.com/GreptimeTeam/greptimedb/pull/4044) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [refactor(log_store): remove associated type `Namespace` and `Entry` in `LogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement `WalEntryDistributor`, `WalEntryReciver`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement the `LogStoreRawEntryReader` and `RawEntryReaderFilter`](https://github.com/GreptimeTeam/greptimedb/pull/4030) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,9 +34,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects (1 day ago)
-- [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (1 day ago)
-- [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions. (4 days ago)
+- [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects (2 days ago)
+- [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (2 days ago)
+- [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions. (5 days ago)
 - [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions (2 weeks ago)
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (2 weeks ago)
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language (3 weeks ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 weeks ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (1 month ago)
