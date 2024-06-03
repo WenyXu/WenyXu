@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: revert opendal 0.46](https://github.com/GreptimeTeam/greptimedb/pull/4098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: enable `strip` for tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/4093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [ci: try to free space after fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test: run `test_flush_reopen_region` and `test_region_replay` with `KafkaLogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs: add v0.8.0 release note](https://github.com/GreptimeTeam/docs/pull/968) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [chore: pin cargo-ndk to 3.5.4](https://github.com/GreptimeTeam/greptimedb/pull/3979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(cli): prevent exporting physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3978) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: prevent exporting metric physical table data](https://github.com/GreptimeTeam/greptimedb/pull/3975) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
