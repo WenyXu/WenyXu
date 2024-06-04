@@ -6,14 +6,14 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix EntityTooSmall issue](https://github.com/GreptimeTeam/greptimedb/pull/4100) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: revert opendal 0.46](https://github.com/GreptimeTeam/greptimedb/pull/4098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: enable `strip` for tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/4093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [ci: try to free space after fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [test: run `test_flush_reopen_region` and `test_region_replay` with `KafkaLogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: implement the `handle_batch_open_requests`](https://github.com/GreptimeTeam/greptimedb/pull/4075) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: avoid acquiring lock during reading stats](https://github.com/GreptimeTeam/greptimedb/pull/4070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [chore: add `LAST_SENT_HEARTBEAT_ELAPSED` metric](https://github.com/GreptimeTeam/greptimedb/pull/4062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: fix EntityTooSmall issue](https://github.com/GreptimeTeam/greptimedb/pull/4100) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: revert opendal 0.46](https://github.com/GreptimeTeam/greptimedb/pull/4098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: enable `strip` for tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/4093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [ci: try to free space after fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [test: run `test_flush_reopen_region` and `test_region_replay` with `KafkaLogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: implement the `handle_batch_open_requests`](https://github.com/GreptimeTeam/greptimedb/pull/4075) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: avoid acquiring lock during reading stats](https://github.com/GreptimeTeam/greptimedb/pull/4070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: add `LAST_SENT_HEARTBEAT_ELAPSED` metric](https://github.com/GreptimeTeam/greptimedb/pull/4062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor(fuzz-tests): generate ts value separately](https://github.com/GreptimeTeam/greptimedb/pull/4056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: open region in background](https://github.com/GreptimeTeam/greptimedb/pull/4052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(fuzz-tests): avoid to drop in-use database](https://github.com/GreptimeTeam/greptimedb/pull/4049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -26,21 +26,21 @@ Hi 👋 Weny here.
 - [feat: add `RawEntryReader` and `OneshotWalEntryReader` trait](https://github.com/GreptimeTeam/greptimedb/pull/4027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore(ci): add more replicas](https://github.com/GreptimeTeam/greptimedb/pull/4015) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add v0.8.0 highlights](https://github.com/GreptimeTeam/docs/pull/972) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
-- [fix: try to fix unstable fuzz test ](https://github.com/GreptimeTeam/greptimedb/pull/4003) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: try to fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/3998) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [chore(ci): export kind logs](https://github.com/GreptimeTeam/greptimedb/pull/3996) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: try to fix unstable fuzz test ](https://github.com/GreptimeTeam/greptimedb/pull/4003) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [fix: try to fix broken CI](https://github.com/GreptimeTeam/greptimedb/pull/3998) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [chore(ci): export kind logs](https://github.com/GreptimeTeam/greptimedb/pull/3996) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: add v0.8.0 release note](https://github.com/GreptimeTeam/docs/pull/968) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [chore: pin cargo-ndk to 3.5.4](https://github.com/GreptimeTeam/greptimedb/pull/3979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects (4 days ago)
-- [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (4 days ago)
+- [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects (5 days ago)
+- [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (5 days ago)
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions. (1 week ago)
 - [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions (2 weeks ago)
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (3 weeks ago)
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language (3 weeks ago)
-- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (3 weeks ago)
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (4 weeks ago)
 - [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (1 month ago)
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront). (1 month ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (1 month ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 weeks ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (1 month ago)
