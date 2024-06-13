@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: retry on unknown error](https://github.com/GreptimeTeam/greptimedb/pull/4138) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: switch to `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4136) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/4135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement the `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4134) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: add logs for setting the region to writable](https://github.com/GreptimeTeam/greptimedb/pull/4044) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor(log_store): remove associated type `Namespace` and `Entry` in `LogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: implement `WalEntryDistributor`, `WalEntryReciver`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: implement the `LogStoreRawEntryReader` and `RawEntryReaderFilter`](https://github.com/GreptimeTeam/greptimedb/pull/4030) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
