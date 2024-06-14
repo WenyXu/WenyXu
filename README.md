@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: retry on unknown error](https://github.com/GreptimeTeam/greptimedb/pull/4138) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [refactor: switch to `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4136) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [chore: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/4135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: implement the `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4134) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [chore: run fuzz tests with disk cache](https://github.com/GreptimeTeam/greptimedb/pull/4118) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: retry on unknown error](https://github.com/GreptimeTeam/greptimedb/pull/4138) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [refactor: switch to `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4136) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [chore: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/4135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: implement the `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4134) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [chore: run fuzz tests with disk cache](https://github.com/GreptimeTeam/greptimedb/pull/4118) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: remove gc before running fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4108) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: invoke `handle_batch_open_requests`](https://github.com/GreptimeTeam/greptimedb/pull/4107) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore(ci): remove redundant sqlness test config](https://github.com/GreptimeTeam/greptimedb/pull/4106) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -19,7 +19,7 @@ Hi 👋 Weny here.
 - [chore: revert opendal 0.46](https://github.com/GreptimeTeam/greptimedb/pull/4098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: enable `strip` for tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/4093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [ci: try to free space after fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [test: run `test_flush_reopen_region` and `test_region_replay` with `KafkaLogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [test: run `test_flush_reopen_region` and `test_region_replay` with `KafkaLogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: implement the `handle_batch_open_requests`](https://github.com/GreptimeTeam/greptimedb/pull/4075) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: avoid acquiring lock during reading stats](https://github.com/GreptimeTeam/greptimedb/pull/4070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: add `LAST_SENT_HEARTBEAT_ELAPSED` metric](https://github.com/GreptimeTeam/greptimedb/pull/4062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -29,8 +29,8 @@ Hi 👋 Weny here.
 - [fix(metric-engine): missing catchup implementation](https://github.com/GreptimeTeam/greptimedb/pull/4048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: invoke `flush_table` and `compact_table` in fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4045) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: add logs for setting the region to writable](https://github.com/GreptimeTeam/greptimedb/pull/4044) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor(log_store): remove associated type `Namespace` and `Entry` in `LogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: implement `WalEntryDistributor`, `WalEntryReciver`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [refactor(log_store): remove associated type `Namespace` and `Entry` in `LogStore`](https://github.com/GreptimeTeam/greptimedb/pull/4038) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [feat: implement `WalEntryDistributor`, `WalEntryReciver`](https://github.com/GreptimeTeam/greptimedb/pull/4031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (1 month ago)
