@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(sqlness): catch different format timestamp](https://github.com/GreptimeTeam/greptimedb/pull/4149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix release CI typo](https://github.com/GreptimeTeam/greptimedb/pull/4147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore(ci): switch to aws registry](https://github.com/GreptimeTeam/greptimedb/pull/4145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(ci): use `ld_classic` on macOS](https://github.com/GreptimeTeam/greptimedb/pull/4143) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor(fuzz-tests): generate ts value separately](https://github.com/GreptimeTeam/greptimedb/pull/4056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: open region in background](https://github.com/GreptimeTeam/greptimedb/pull/4052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(fuzz-tests): avoid to drop in-use database](https://github.com/GreptimeTeam/greptimedb/pull/4049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(metric-engine): missing catchup implementation](https://github.com/GreptimeTeam/greptimedb/pull/4048) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
