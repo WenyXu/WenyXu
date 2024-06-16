@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust (today)
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it&#39;s a JavaScript ORM too 😅 (1 day ago)
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects (2 weeks ago)
 - [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (2 weeks ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [chhantyal/parquet-cli](https://github.com/chhantyal/parquet-cli) - Command line (CLI) tool to inspect Apache Parquet files on the go (1 month ago)
 - [SAP/json-data-and-query-generator](https://github.com/SAP/json-data-and-query-generator) - A generator of JSON data and queries, e.g., for benchmarking JSON document stores. (1 month ago)
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don&#39;t require authentication. (1 month ago)
-- [jorgecarleitao/json-deserializer](https://github.com/jorgecarleitao/json-deserializer) -  (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
