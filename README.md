@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: region logical regions after catching up](https://github.com/GreptimeTeam/greptimedb/pull/4176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce chaos crds](https://github.com/GreptimeTeam/greptimedb/pull/4173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: migrate region failover implementation to region migration](https://github.com/GreptimeTeam/greptimedb/pull/4172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(sqlness): catch different format timestamp](https://github.com/GreptimeTeam/greptimedb/pull/4149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: implement the `handle_batch_open_requests`](https://github.com/GreptimeTeam/greptimedb/pull/4075) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: avoid acquiring lock during reading stats](https://github.com/GreptimeTeam/greptimedb/pull/4070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: add `LAST_SENT_HEARTBEAT_ELAPSED` metric](https://github.com/GreptimeTeam/greptimedb/pull/4062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [refactor(fuzz-tests): generate ts value separately](https://github.com/GreptimeTeam/greptimedb/pull/4056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
