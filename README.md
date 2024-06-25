@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [test: add e2e test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/4188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [docs: add v0.8.2 release note](https://github.com/GreptimeTeam/docs/pull/1017) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [fix: region logical regions after catching up](https://github.com/GreptimeTeam/greptimedb/pull/4176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: introduce chaos crds](https://github.com/GreptimeTeam/greptimedb/pull/4173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [refactor: migrate region failover implementation to region migration](https://github.com/GreptimeTeam/greptimedb/pull/4172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [test: add e2e test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/4188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [docs: add v0.8.2 release note](https://github.com/GreptimeTeam/docs/pull/1017) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [fix: region logical regions after catching up](https://github.com/GreptimeTeam/greptimedb/pull/4176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: introduce chaos crds](https://github.com/GreptimeTeam/greptimedb/pull/4173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor: migrate region failover implementation to region migration](https://github.com/GreptimeTeam/greptimedb/pull/4172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(sqlness): catch different format timestamp](https://github.com/GreptimeTeam/greptimedb/pull/4149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix release CI typo](https://github.com/GreptimeTeam/greptimedb/pull/4147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore(ci): switch to aws registry](https://github.com/GreptimeTeam/greptimedb/pull/4145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -24,7 +24,7 @@ Hi 👋 Weny here.
 - [chore: remove gc before running fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4108) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: invoke `handle_batch_open_requests`](https://github.com/GreptimeTeam/greptimedb/pull/4107) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore(ci): remove redundant sqlness test config](https://github.com/GreptimeTeam/greptimedb/pull/4106) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: run fuzz tests with kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/4105) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [chore: run fuzz tests with kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/4105) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: fix EntityTooSmall issue](https://github.com/GreptimeTeam/greptimedb/pull/4100) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: revert opendal 0.46](https://github.com/GreptimeTeam/greptimedb/pull/4098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: enable `strip` for tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/4093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -52,10 +52,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (3 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (4 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
-- [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (1 month ago)
+- [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (2 months ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (2 months ago)
 
 #### 👯 Check out my recent followers
