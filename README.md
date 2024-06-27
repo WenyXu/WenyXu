@@ -6,10 +6,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: format error correctly](https://github.com/GreptimeTeam/greptimedb/pull/4204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [test: add e2e test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/4188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [docs: add v0.8.2 release note](https://github.com/GreptimeTeam/docs/pull/1017) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [fix: region logical regions after catching up](https://github.com/GreptimeTeam/greptimedb/pull/4176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: format error correctly](https://github.com/GreptimeTeam/greptimedb/pull/4204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [test: add e2e test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/4188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [docs: add v0.8.2 release note](https://github.com/GreptimeTeam/docs/pull/1017) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [fix: region logical regions after catching up](https://github.com/GreptimeTeam/greptimedb/pull/4176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce chaos crds](https://github.com/GreptimeTeam/greptimedb/pull/4173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: migrate region failover implementation to region migration](https://github.com/GreptimeTeam/greptimedb/pull/4172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(sqlness): catch different format timestamp](https://github.com/GreptimeTeam/greptimedb/pull/4149) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -17,7 +17,7 @@ Hi 👋 Weny here.
 - [chore(ci): switch to aws registry](https://github.com/GreptimeTeam/greptimedb/pull/4145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(ci): use `ld_classic` on macOS](https://github.com/GreptimeTeam/greptimedb/pull/4143) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: bump version to v0.8.2](https://github.com/GreptimeTeam/greptimedb/pull/4141) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: retry on unknown error](https://github.com/GreptimeTeam/greptimedb/pull/4138) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: retry on unknown error](https://github.com/GreptimeTeam/greptimedb/pull/4138) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: switch to `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4136) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/4135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: implement the `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4134) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -36,8 +36,8 @@ Hi 👋 Weny here.
 
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust (1 week ago)
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it&#39;s a JavaScript ORM too 😅 (1 week ago)
-- [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects (3 weeks ago)
-- [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (3 weeks ago)
+- [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects (4 weeks ago)
+- [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (4 weeks ago)
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions. (1 month ago)
 - [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions (1 month ago)
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (1 month ago)
@@ -45,15 +45,15 @@ Hi 👋 Weny here.
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (1 month ago)
 - [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (1 month ago)
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront). (1 month ago)
-- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (1 month ago)
-- [chhantyal/parquet-cli](https://github.com/chhantyal/parquet-cli) - Command line (CLI) tool to inspect Apache Parquet files on the go (1 month ago)
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (2 months ago)
+- [chhantyal/parquet-cli](https://github.com/chhantyal/parquet-cli) - Command line (CLI) tool to inspect Apache Parquet files on the go (2 months ago)
 - [SAP/json-data-and-query-generator](https://github.com/SAP/json-data-and-query-generator) - A generator of JSON data and queries, e.g., for benchmarking JSON document stores. (2 months ago)
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don&#39;t require authentication. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (2 months ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (2 months ago)
