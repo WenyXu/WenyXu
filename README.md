@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [Revert &#34;Create dependabot.yml&#34;](https://github.com/datafusion-contrib/datafusion-orc/pull/104) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (today)
 - [feat: register &amp; deregister region failure detectors actively](https://github.com/GreptimeTeam/greptimedb/pull/4223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: format error correctly](https://github.com/GreptimeTeam/greptimedb/pull/4204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [test: add e2e test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/4188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix EntityTooSmall issue](https://github.com/GreptimeTeam/greptimedb/pull/4100) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: revert opendal 0.46](https://github.com/GreptimeTeam/greptimedb/pull/4098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: enable `strip` for tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/4093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [ci: try to free space after fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4089) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
