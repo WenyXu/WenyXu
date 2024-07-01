@@ -6,9 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [Revert &#34;Create dependabot.yml&#34;](https://github.com/datafusion-contrib/datafusion-orc/pull/104) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 days ago)
-- [feat: register &amp; deregister region failure detectors actively](https://github.com/GreptimeTeam/greptimedb/pull/4223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: format error correctly](https://github.com/GreptimeTeam/greptimedb/pull/4204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [Revert &#34;Create dependabot.yml&#34;](https://github.com/datafusion-contrib/datafusion-orc/pull/104) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (3 days ago)
+- [feat: register &amp; deregister region failure detectors actively](https://github.com/GreptimeTeam/greptimedb/pull/4223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: format error correctly](https://github.com/GreptimeTeam/greptimedb/pull/4204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [test: add e2e test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/4188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add v0.8.2 release note](https://github.com/GreptimeTeam/docs/pull/1017) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix: region logical regions after catching up](https://github.com/GreptimeTeam/greptimedb/pull/4176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -28,9 +28,9 @@ Hi 👋 Weny here.
 - [feat: invoke `handle_batch_open_requests`](https://github.com/GreptimeTeam/greptimedb/pull/4107) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore(ci): remove redundant sqlness test config](https://github.com/GreptimeTeam/greptimedb/pull/4106) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: run fuzz tests with kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/4105) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: fix EntityTooSmall issue](https://github.com/GreptimeTeam/greptimedb/pull/4100) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: revert opendal 0.46](https://github.com/GreptimeTeam/greptimedb/pull/4098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: enable `strip` for tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/4093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix: fix EntityTooSmall issue](https://github.com/GreptimeTeam/greptimedb/pull/4100) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [chore: revert opendal 0.46](https://github.com/GreptimeTeam/greptimedb/pull/4098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [chore: enable `strip` for tests-fuzz crate](https://github.com/GreptimeTeam/greptimedb/pull/4093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (2 days ago)
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. (3 days ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (3 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [WenyXu/json-columnar](https://github.com/WenyXu/json-columnar) -  (2 months ago)
