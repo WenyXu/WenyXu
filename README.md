@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: enhance ColumnOption::DefaultValue formatting for string values](https://github.com/GreptimeTeam/greptimedb/pull/4287) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(fuzz): enhance condition check of region migration finish](https://github.com/GreptimeTeam/greptimedb/pull/4283) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(fuzz): generate valid string](https://github.com/GreptimeTeam/greptimedb/pull/4281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: store peer info in `TableFlowValue`](https://github.com/GreptimeTeam/greptimedb/pull/4280) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore(ci): switch to aws registry](https://github.com/GreptimeTeam/greptimedb/pull/4145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(ci): use `ld_classic` on macOS](https://github.com/GreptimeTeam/greptimedb/pull/4143) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: bump version to v0.8.2](https://github.com/GreptimeTeam/greptimedb/pull/4141) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: retry on unknown error](https://github.com/GreptimeTeam/greptimedb/pull/4138) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
