@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(fuzz): generate valid string](https://github.com/GreptimeTeam/greptimedb/pull/4281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: store peer info in `TableFlowValue`](https://github.com/GreptimeTeam/greptimedb/pull/4280) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add naive region failover test for metric table](https://github.com/GreptimeTeam/greptimedb/pull/4269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: introduce `FlowRouteValue`](https://github.com/GreptimeTeam/greptimedb/pull/4263) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore(ci): add timeout (60min) for fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4255) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [chore: bump version to v0.8.2](https://github.com/GreptimeTeam/greptimedb/pull/4141) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: retry on unknown error](https://github.com/GreptimeTeam/greptimedb/pull/4138) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: switch to `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4136) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/4135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: implement the `OrderedBatchProducer`](https://github.com/GreptimeTeam/greptimedb/pull/4134) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
