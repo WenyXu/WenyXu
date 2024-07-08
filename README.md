@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [revert: set default compresion to LZ4](https://github.com/GreptimeTeam/greptimedb/pull/4312) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(ci): retry on error or timeout during installing operator](https://github.com/GreptimeTeam/greptimedb/pull/4308) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [docs(helm): Update CRD upgrade instructions in Helm documentation](https://github.com/GreptimeTeam/helm-charts/pull/138) on [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) (3 days ago)
 - [chore: bump OpenDAL to 0.47.2](https://github.com/GreptimeTeam/greptimedb/pull/4297) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [test: add e2e test for region failover](https://github.com/GreptimeTeam/greptimedb/pull/4188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: add v0.8.2 release note](https://github.com/GreptimeTeam/docs/pull/1017) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [fix: region logical regions after catching up](https://github.com/GreptimeTeam/greptimedb/pull/4176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: introduce chaos crds](https://github.com/GreptimeTeam/greptimedb/pull/4173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
