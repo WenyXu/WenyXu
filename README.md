@@ -61,9 +61,9 @@ Hi 👋 Weny here.
 #### 👯 Check out my recent followers
 
 - [dzzxjl](https://github.com/dzzxjl)
-- [kazhuravlev](https://github.com/kazhuravlev)
 - [PhilChina](https://github.com/PhilChina)
 - [daviderli614](https://github.com/daviderli614)
 - [woaihekele](https://github.com/woaihekele)
+- [adev3141](https://github.com/adev3141)
 
 
