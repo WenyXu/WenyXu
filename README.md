@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: ensure keep alive is completed in time](https://github.com/GreptimeTeam/greptimedb/pull/4349) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(config): enable file engine by default](https://github.com/GreptimeTeam/greptimedb/pull/4345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [revert: lz4 compression](https://github.com/GreptimeTeam/greptimedb/pull/4329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: enhanced the retry logic by adding a random noise](https://github.com/GreptimeTeam/greptimedb/pull/4320) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: remove original region failover implementation](https://github.com/GreptimeTeam/greptimedb/pull/4237) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [Revert &#34;Create dependabot.yml&#34;](https://github.com/datafusion-contrib/datafusion-orc/pull/104) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 - [feat: register &amp; deregister region failure detectors actively](https://github.com/GreptimeTeam/greptimedb/pull/4223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: format error correctly](https://github.com/GreptimeTeam/greptimedb/pull/4204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
