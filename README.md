@@ -25,8 +25,8 @@ Hi 👋 Weny here.
 - [feat(fuzz): enhance condition check of region migration finish](https://github.com/GreptimeTeam/greptimedb/pull/4283) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(fuzz): generate valid string](https://github.com/GreptimeTeam/greptimedb/pull/4281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: store peer info in `TableFlowValue`](https://github.com/GreptimeTeam/greptimedb/pull/4280) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add naive region failover test for metric table](https://github.com/GreptimeTeam/greptimedb/pull/4269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: introduce `FlowRouteValue`](https://github.com/GreptimeTeam/greptimedb/pull/4263) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: add naive region failover test for metric table](https://github.com/GreptimeTeam/greptimedb/pull/4269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [feat: introduce `FlowRouteValue`](https://github.com/GreptimeTeam/greptimedb/pull/4263) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore(ci): add timeout (60min) for fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4255) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce `FlownodePeerCache`](https://github.com/GreptimeTeam/greptimedb/pull/4254) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: implement naive fuzz test for region migration](https://github.com/GreptimeTeam/greptimedb/pull/4252) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Logs and Events with SQL/PromQL supported. Available on GreptimeCloud. (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Logs and Events with SQL/PromQL supported. Available on GreptimeCloud. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB. (1 week ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (3 weeks ago)
