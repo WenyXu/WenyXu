@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce new kafka topic consumer respecting WAL index](https://github.com/GreptimeTeam/greptimedb/pull/4424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(ci): unset default gcc linker](https://github.com/GreptimeTeam/greptimedb/pull/4366) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add region failover section](https://github.com/GreptimeTeam/docs/pull/1056) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [docs: add region failover section](https://github.com/GreptimeTeam/docs/pull/1055) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore(ci): add timeout (60min) for fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4255) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce `FlownodePeerCache`](https://github.com/GreptimeTeam/greptimedb/pull/4254) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: implement naive fuzz test for region migration](https://github.com/GreptimeTeam/greptimedb/pull/4252) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: reduce insertion size of fuzz test](https://github.com/GreptimeTeam/greptimedb/pull/4243) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
