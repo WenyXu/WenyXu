@@ -6,6 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add datanode client options &amp; procedure options](https://github.com/GreptimeTeam/docs/pull/1099) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [chore: add docs for config file](https://github.com/GreptimeTeam/greptimedb/pull/4432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: add target format orc](https://github.com/GreptimeTeam/docs/pull/1098) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: introduce new kafka topic consumer respecting WAL index](https://github.com/GreptimeTeam/greptimedb/pull/4424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore(ci): unset default gcc linker](https://github.com/GreptimeTeam/greptimedb/pull/4366) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add region failover section](https://github.com/GreptimeTeam/docs/pull/1056) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -28,9 +31,6 @@ Hi 👋 Weny here.
 - [feat: store peer info in `TableFlowValue`](https://github.com/GreptimeTeam/greptimedb/pull/4280) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add naive region failover test for metric table](https://github.com/GreptimeTeam/greptimedb/pull/4269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce `FlowRouteValue`](https://github.com/GreptimeTeam/greptimedb/pull/4263) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore(ci): add timeout (60min) for fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/4255) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: introduce `FlownodePeerCache`](https://github.com/GreptimeTeam/greptimedb/pull/4254) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: implement naive fuzz test for region migration](https://github.com/GreptimeTeam/greptimedb/pull/4252) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
