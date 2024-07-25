@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [manojkarthick/pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files (today)
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.  (1 week ago)
 - [CookiePieWw/json-format-in-parquet-benchmark](https://github.com/CookiePieWw/json-format-in-parquet-benchmark) -  (2 weeks ago)
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers. (2 weeks ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (2 months ago)
 - [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (2 months ago)
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront). (2 months ago)
-- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
