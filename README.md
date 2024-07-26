@@ -61,9 +61,9 @@ Hi 👋 Weny here.
 #### 👯 Check out my recent followers
 
 - [boyxiaolong](https://github.com/boyxiaolong)
-- [vintagewang](https://github.com/vintagewang)
 - [dzzxjl](https://github.com/dzzxjl)
 - [PhilChina](https://github.com/PhilChina)
 - [daviderli614](https://github.com/daviderli614)
+- [woaihekele](https://github.com/woaihekele)
 
 
