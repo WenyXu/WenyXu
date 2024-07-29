@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: temporarily disable fuzz chaos tests](https://github.com/GreptimeTeam/greptimedb/pull/4457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add remote wal configuration](https://github.com/GreptimeTeam/helm-charts/pull/146) on [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) (today)
 - [fix: fix chaos ci](https://github.com/GreptimeTeam/greptimedb/pull/4456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: use heartbeat runtime instead of background runtime](https://github.com/GreptimeTeam/greptimedb/pull/4445) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: deregister failure detector in region migration](https://github.com/GreptimeTeam/greptimedb/pull/4293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: enhance ColumnOption::DefaultValue formatting for string values](https://github.com/GreptimeTeam/greptimedb/pull/4287) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(fuzz): enhance condition check of region migration finish](https://github.com/GreptimeTeam/greptimedb/pull/4283) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix(fuzz): generate valid string](https://github.com/GreptimeTeam/greptimedb/pull/4281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
