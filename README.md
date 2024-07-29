@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: add remote wal configuration](https://github.com/GreptimeTeam/helm-charts/pull/146) on [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) (today)
+- [fix: fix chaos ci](https://github.com/GreptimeTeam/greptimedb/pull/4456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: use heartbeat runtime instead of background runtime](https://github.com/GreptimeTeam/greptimedb/pull/4445) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add datanode client options &amp; procedure options](https://github.com/GreptimeTeam/docs/pull/1099) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [chore: add docs for config file](https://github.com/GreptimeTeam/greptimedb/pull/4432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [fix: enhance ColumnOption::DefaultValue formatting for string values](https://github.com/GreptimeTeam/greptimedb/pull/4287) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(fuzz): enhance condition check of region migration finish](https://github.com/GreptimeTeam/greptimedb/pull/4283) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(fuzz): generate valid string](https://github.com/GreptimeTeam/greptimedb/pull/4281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: store peer info in `TableFlowValue`](https://github.com/GreptimeTeam/greptimedb/pull/4280) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add naive region failover test for metric table](https://github.com/GreptimeTeam/greptimedb/pull/4269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
