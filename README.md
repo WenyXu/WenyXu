@@ -9,7 +9,7 @@ Hi 👋 Weny here.
 - [feat(log_store): introduce the `IndexCollector`](https://github.com/GreptimeTeam/greptimedb/pull/4461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: temporarily disable fuzz chaos tests](https://github.com/GreptimeTeam/greptimedb/pull/4457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: add remote wal configuration](https://github.com/GreptimeTeam/helm-charts/pull/146) on [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) (2 days ago)
-- [fix: fix chaos ci](https://github.com/GreptimeTeam/greptimedb/pull/4456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [chore(ci): bring back chaos tests](https://github.com/GreptimeTeam/greptimedb/pull/4456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: use heartbeat runtime instead of background runtime](https://github.com/GreptimeTeam/greptimedb/pull/4445) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [docs: add datanode client options &amp; procedure options](https://github.com/GreptimeTeam/docs/pull/1099) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
 - [chore: add docs for config file](https://github.com/GreptimeTeam/greptimedb/pull/4432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
