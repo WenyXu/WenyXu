@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: bump opendal version to 0.48](https://github.com/GreptimeTeam/greptimedb/pull/4499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `OpendalAsyncWriter` for parquet integrations ](https://github.com/apache/opendal/pull/4958) on [apache/opendal](https://github.com/apache/opendal) (today)
 - [fix: generate unique timestamp for inserting tests](https://github.com/GreptimeTeam/greptimedb/pull/4472) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(log_store): introduce the `IndexCollector`](https://github.com/GreptimeTeam/greptimedb/pull/4461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs(helm): Update CRD upgrade instructions in Helm documentation](https://github.com/GreptimeTeam/helm-charts/pull/138) on [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) (4 weeks ago)
 - [chore: bump OpenDAL to 0.47.2](https://github.com/GreptimeTeam/greptimedb/pull/4297) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [ci: retry on error during installing operator](https://github.com/GreptimeTeam/greptimedb/pull/4295) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [feat(remote wal): set default compresion to LZ4](https://github.com/GreptimeTeam/greptimedb/pull/4294) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
