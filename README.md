@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded KV database in Rust. (today)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (today)
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (3 days ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (5 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions. (2 months ago)
 - [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions (2 months ago)
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (2 months ago)
-- [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
