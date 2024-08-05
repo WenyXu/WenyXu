@@ -11,7 +11,7 @@ Hi 👋 Weny here.
 - [chore: reduce fuzz tests in CI](https://github.com/GreptimeTeam/greptimedb/pull/4505) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump rust-postgres to 0.7.11](https://github.com/GreptimeTeam/greptimedb/pull/4504) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump opendal version to 0.48](https://github.com/GreptimeTeam/greptimedb/pull/4499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: introduce `OpendalAsyncWriter` for parquet integrations ](https://github.com/apache/opendal/pull/4958) on [apache/opendal](https://github.com/apache/opendal) (2 days ago)
+- [feat: introduce opendal `AsyncWriter` for parquet integrations ](https://github.com/apache/opendal/pull/4958) on [apache/opendal](https://github.com/apache/opendal) (2 days ago)
 - [fix: generate unique timestamp for inserting tests](https://github.com/GreptimeTeam/greptimedb/pull/4472) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat(log_store): introduce the `IndexCollector`](https://github.com/GreptimeTeam/greptimedb/pull/4461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [chore: temporarily disable fuzz chaos tests](https://github.com/GreptimeTeam/greptimedb/pull/4457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -52,11 +52,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB. (3 weeks ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 month ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 months ago)
 
 #### 👯 Check out my recent followers
 
