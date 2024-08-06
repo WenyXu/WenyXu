@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce opendal `AsyncReader` for parquet integrations](https://github.com/apache/opendal/pull/4972) on [apache/opendal](https://github.com/apache/opendal) (today)
 - [feat(log_store): use new `Consumer`](https://github.com/GreptimeTeam/greptimedb/pull/4510) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: set default `otlp_endpoint`](https://github.com/GreptimeTeam/greptimedb/pull/4508) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: reduce fuzz tests in CI](https://github.com/GreptimeTeam/greptimedb/pull/4505) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(config): enable file engine by default](https://github.com/GreptimeTeam/greptimedb/pull/4345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [revert: lz4 compression](https://github.com/GreptimeTeam/greptimedb/pull/4329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: enhanced the retry logic by adding a random noise](https://github.com/GreptimeTeam/greptimedb/pull/4320) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [revert: set default compresion to LZ4](https://github.com/GreptimeTeam/greptimedb/pull/4312) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
