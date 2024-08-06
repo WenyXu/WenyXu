@@ -6,14 +6,14 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(log_store): use new `Consumer`](https://github.com/GreptimeTeam/greptimedb/pull/4510) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: set default `otlp_endpoint`](https://github.com/GreptimeTeam/greptimedb/pull/4508) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: reduce fuzz tests in CI](https://github.com/GreptimeTeam/greptimedb/pull/4505) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: bump rust-postgres to 0.7.11](https://github.com/GreptimeTeam/greptimedb/pull/4504) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: bump opendal version to 0.48](https://github.com/GreptimeTeam/greptimedb/pull/4499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: introduce opendal `AsyncWriter` for parquet integrations ](https://github.com/apache/opendal/pull/4958) on [apache/opendal](https://github.com/apache/opendal) (2 days ago)
-- [fix: generate unique timestamp for inserting tests](https://github.com/GreptimeTeam/greptimedb/pull/4472) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat(log_store): introduce the `IndexCollector`](https://github.com/GreptimeTeam/greptimedb/pull/4461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat(log_store): use new `Consumer`](https://github.com/GreptimeTeam/greptimedb/pull/4510) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: set default `otlp_endpoint`](https://github.com/GreptimeTeam/greptimedb/pull/4508) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: reduce fuzz tests in CI](https://github.com/GreptimeTeam/greptimedb/pull/4505) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: bump rust-postgres to 0.7.11](https://github.com/GreptimeTeam/greptimedb/pull/4504) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: bump opendal version to 0.48](https://github.com/GreptimeTeam/greptimedb/pull/4499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: introduce opendal `AsyncWriter` for parquet integrations ](https://github.com/apache/opendal/pull/4958) on [apache/opendal](https://github.com/apache/opendal) (3 days ago)
+- [fix: generate unique timestamp for inserting tests](https://github.com/GreptimeTeam/greptimedb/pull/4472) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat(log_store): introduce the `IndexCollector`](https://github.com/GreptimeTeam/greptimedb/pull/4461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: temporarily disable fuzz chaos tests](https://github.com/GreptimeTeam/greptimedb/pull/4457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add remote wal configuration](https://github.com/GreptimeTeam/helm-charts/pull/146) on [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) (1 week ago)
 - [chore(ci): bring back chaos tests](https://github.com/GreptimeTeam/greptimedb/pull/4456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -28,16 +28,16 @@ Hi 👋 Weny here.
 - [docs(config): add enable_region_failover option to configuration](https://github.com/GreptimeTeam/greptimedb/pull/4355) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: ensure keep alive is completed in time](https://github.com/GreptimeTeam/greptimedb/pull/4349) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(config): enable file engine by default](https://github.com/GreptimeTeam/greptimedb/pull/4345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [revert: lz4 compression](https://github.com/GreptimeTeam/greptimedb/pull/4329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: enhanced the retry logic by adding a random noise](https://github.com/GreptimeTeam/greptimedb/pull/4320) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [revert: lz4 compression](https://github.com/GreptimeTeam/greptimedb/pull/4329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [feat: enhanced the retry logic by adding a random noise](https://github.com/GreptimeTeam/greptimedb/pull/4320) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [revert: set default compresion to LZ4](https://github.com/GreptimeTeam/greptimedb/pull/4312) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded KV database in Rust. (today)
-- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (today)
-- [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (3 days ago)
-- [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (5 days ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded KV database in Rust. (1 day ago)
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (1 day ago)
+- [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (4 days ago)
+- [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (6 days ago)
 - [manojkarthick/pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files (1 week ago)
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.  (3 weeks ago)
 - [CookiePieWw/json-format-in-parquet-benchmark](https://github.com/CookiePieWw/json-format-in-parquet-benchmark) -  (4 weeks ago)
@@ -53,8 +53,8 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB. (3 weeks ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 month ago)
 
