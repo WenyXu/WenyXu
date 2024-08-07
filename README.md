@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore(integrations/parquet): add README](https://github.com/apache/opendal/pull/4980) on [apache/opendal](https://github.com/apache/opendal) (today)
+- [chore: unlock arrow version](https://github.com/datafusion-contrib/datafusion-orc/pull/119) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (today)
 - [fix: rollback only if dropping the metric physical table fails](https://github.com/GreptimeTeam/greptimedb/pull/4525) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: use `configData`](https://github.com/GreptimeTeam/greptimedb/pull/4522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [perf: merge small byte ranges for optimized fetching](https://github.com/GreptimeTeam/greptimedb/pull/4520) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -29,11 +31,10 @@ Hi 👋 Weny here.
 - [chore(ci): unset default gcc linker](https://github.com/GreptimeTeam/greptimedb/pull/4366) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: add region failover section](https://github.com/GreptimeTeam/docs/pull/1056) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [docs: add region failover section](https://github.com/GreptimeTeam/docs/pull/1055) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
-- [docs(config): add enable_region_failover option to configuration](https://github.com/GreptimeTeam/greptimedb/pull/4355) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: ensure keep alive is completed in time](https://github.com/GreptimeTeam/greptimedb/pull/4349) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (today)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded KV database in Rust. (2 days ago)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (2 days ago)
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (5 days ago)
@@ -48,12 +49,11 @@ Hi 👋 Weny here.
 - [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (2 months ago)
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions. (2 months ago)
 - [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions (2 months ago)
-- [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB. (3 weeks ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 month ago)
