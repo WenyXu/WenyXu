@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: rollback only if dropping the metric physical table fails](https://github.com/GreptimeTeam/greptimedb/pull/4525) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: use `configData`](https://github.com/GreptimeTeam/greptimedb/pull/4522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [perf: merge small byte ranges for optimized fetching](https://github.com/GreptimeTeam/greptimedb/pull/4520) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce opendal `AsyncReader` for parquet integrations](https://github.com/apache/opendal/pull/4972) on [apache/opendal](https://github.com/apache/opendal) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs: add region failover section](https://github.com/GreptimeTeam/docs/pull/1055) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [docs(config): add enable_region_failover option to configuration](https://github.com/GreptimeTeam/greptimedb/pull/4355) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: ensure keep alive is completed in time](https://github.com/GreptimeTeam/greptimedb/pull/4349) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix(config): enable file engine by default](https://github.com/GreptimeTeam/greptimedb/pull/4345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
