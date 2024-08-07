@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Connor9994](https://github.com/Connor9994)
 - [ActivePeter](https://github.com/ActivePeter)
 - [scakhug](https://github.com/scakhug)
 - [boyxiaolong](https://github.com/boyxiaolong)
 - [dzzxjl](https://github.com/dzzxjl)
-- [PhilChina](https://github.com/PhilChina)
 
 
