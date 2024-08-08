@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(log_store): introduce the CollectionTask](https://github.com/GreptimeTeam/greptimedb/pull/4530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(integrations/parquet): add README](https://github.com/apache/opendal/pull/4980) on [apache/opendal](https://github.com/apache/opendal) (1 day ago)
 - [chore: unlock arrow version](https://github.com/datafusion-contrib/datafusion-orc/pull/119) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 day ago)
 - [fix: rollback only if dropping the metric physical table fails](https://github.com/GreptimeTeam/greptimedb/pull/4525) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce new kafka topic consumer respecting WAL index](https://github.com/GreptimeTeam/greptimedb/pull/4424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore(ci): unset default gcc linker](https://github.com/GreptimeTeam/greptimedb/pull/4366) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: add region failover section](https://github.com/GreptimeTeam/docs/pull/1056) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
-- [docs: add region failover section](https://github.com/GreptimeTeam/docs/pull/1055) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Aitozi](https://github.com/Aitozi)
 - [Connor9994](https://github.com/Connor9994)
 - [ActivePeter](https://github.com/ActivePeter)
 - [scakhug](https://github.com/scakhug)
 - [boyxiaolong](https://github.com/boyxiaolong)
-- [dzzxjl](https://github.com/dzzxjl)
 
 
