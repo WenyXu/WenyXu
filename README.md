@@ -35,7 +35,7 @@ Hi 👋 Weny here.
 #### ⭐ Check out my recent stars
 
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (1 day ago)
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Offline-first embedded KV database in Rust without vedor-locking. (3 days ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded persistent KV database in Rust. (3 days ago)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (3 days ago)
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (6 days ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (1 week ago)
