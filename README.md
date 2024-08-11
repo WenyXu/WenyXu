@@ -8,7 +8,7 @@ Hi 👋 Weny here.
 
 - [feat: support `SCRAM-SHA-512` and `SCRAM-SHA-512-PLUS` ](https://github.com/dequbed/rsasl/pull/48) on [dequbed/rsasl](https://github.com/dequbed/rsasl) (today)
 - [feat: support SASL SCRAM mechanism](https://github.com/influxdata/rskafka/pull/247) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 day ago)
-- [feat: add SASL/PLAIN and TLS config for Kafka client](https://github.com/GreptimeTeam/greptimedb/pull/4536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: add SASL  and TLS config for Kafka client](https://github.com/GreptimeTeam/greptimedb/pull/4536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(log_store): introduce the CollectionTask](https://github.com/GreptimeTeam/greptimedb/pull/4530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore(integrations/parquet): add README](https://github.com/apache/opendal/pull/4980) on [apache/opendal](https://github.com/apache/opendal) (4 days ago)
 - [chore: unlock arrow version](https://github.com/datafusion-contrib/datafusion-orc/pull/119) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (4 days ago)
