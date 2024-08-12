@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (today)
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka. (2 days ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (5 days ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded persistent KV database in Rust. (1 week ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it&#39;s a JavaScript ORM too 😅 (1 month ago)
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects (2 months ago)
 - [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers (2 months ago)
-- [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
