@@ -37,7 +37,7 @@ Hi 👋 Weny here.
 - [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (today)
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka. (2 days ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (5 days ago)
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded persistent KV database in Rust. (1 week ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded persistent database in Rust. (1 week ago)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (1 week ago)
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (1 week ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (1 week ago)
