@@ -40,7 +40,7 @@ Hi 👋 Weny here.
 - [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (2 days ago)
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka. (4 days ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (1 week ago)
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded persistent database in Rust. (1 week ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (1 week ago)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (1 week ago)
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (1 week ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (2 weeks ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (6 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB. (1 month ago)
