@@ -6,12 +6,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore(log_store): remove redundant metrics](https://github.com/GreptimeTeam/greptimedb/pull/4570) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: replay WAL entries respect index](https://github.com/GreptimeTeam/greptimedb/pull/4565) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/4559) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore: upgrade toolchain to nightly-2024-08-07](https://github.com/GreptimeTeam/greptimedb/pull/4549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [chore: upload kind logs](https://github.com/GreptimeTeam/greptimedb/pull/4544) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: support `SCRAM-SHA-512` and `SCRAM-SHA-512-PLUS` ](https://github.com/dequbed/rsasl/pull/48) on [dequbed/rsasl](https://github.com/dequbed/rsasl) (6 days ago)
+- [chore(log_store): remove redundant metrics](https://github.com/GreptimeTeam/greptimedb/pull/4570) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: replay WAL entries respect index](https://github.com/GreptimeTeam/greptimedb/pull/4565) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/4559) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: upgrade toolchain to nightly-2024-08-07](https://github.com/GreptimeTeam/greptimedb/pull/4549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [chore: upload kind logs](https://github.com/GreptimeTeam/greptimedb/pull/4544) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: support `SCRAM-SHA-512` and `SCRAM-SHA-512-PLUS` ](https://github.com/dequbed/rsasl/pull/48) on [dequbed/rsasl](https://github.com/dequbed/rsasl) (1 week ago)
 - [feat: support SASL SCRAM mechanism](https://github.com/influxdata/rskafka/pull/247) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 week ago)
 - [feat: add SASL  and TLS config for Kafka client](https://github.com/GreptimeTeam/greptimedb/pull/4536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(log_store): introduce the CollectionTask](https://github.com/GreptimeTeam/greptimedb/pull/4530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,10 +34,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (4 days ago)
-- [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface (4 days ago)
-- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (4 days ago)
-- [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (5 days ago)
+- [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (5 days ago)
+- [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface (5 days ago)
+- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (5 days ago)
+- [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (6 days ago)
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka. (1 week ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (1 week ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (1 week ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 day ago)
-- [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (2 days ago)
+- [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB. (1 month ago)
