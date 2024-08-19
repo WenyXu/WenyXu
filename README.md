@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
-- [eust-w](https://github.com/eust-w)
 - [Aitozi](https://github.com/Aitozi)
 - [Connor9994](https://github.com/Connor9994)
 - [ActivePeter](https://github.com/ActivePeter)
 - [scakhug](https://github.com/scakhug)
+- [boyxiaolong](https://github.com/boyxiaolong)
 
 
