@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add doc for remote wal authentication &amp; TLS](https://github.com/GreptimeTeam/docs/pull/1138) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [fix: correct logo url in Readme](https://github.com/GreptimeTeam/docs/pull/1136) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: setup kafka before downloading binary step](https://github.com/GreptimeTeam/greptimedb/pull/4582) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(log_store): remove redundant metrics](https://github.com/GreptimeTeam/greptimedb/pull/4570) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: replay WAL entries respect index](https://github.com/GreptimeTeam/greptimedb/pull/4565) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [chore: bump opendal version to 0.48](https://github.com/GreptimeTeam/greptimedb/pull/4499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce opendal `AsyncWriter` for parquet integrations ](https://github.com/apache/opendal/pull/4958) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [fix: generate unique timestamp for inserting tests](https://github.com/GreptimeTeam/greptimedb/pull/4472) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat(log_store): introduce the `IndexCollector`](https://github.com/GreptimeTeam/greptimedb/pull/4461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: temporarily disable fuzz chaos tests](https://github.com/GreptimeTeam/greptimedb/pull/4457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -53,9 +53,9 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 week ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB. (1 month ago)
 
 #### 👯 Check out my recent followers
