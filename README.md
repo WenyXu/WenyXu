@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: bump rskafka to `75535b`](https://github.com/GreptimeTeam/greptimedb/pull/4608) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `ManifestActionList` to `Mutation`](https://github.com/GreptimeTeam/greptime-proto/pull/187) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
 - [chore: bump opendal version to 0.49](https://github.com/GreptimeTeam/greptimedb/pull/4587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: add doc for remote wal authentication &amp; TLS](https://github.com/GreptimeTeam/docs/pull/1138) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: set default `otlp_endpoint`](https://github.com/GreptimeTeam/greptimedb/pull/4508) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: reduce fuzz tests in CI](https://github.com/GreptimeTeam/greptimedb/pull/4505) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: bump rust-postgres to 0.7.11](https://github.com/GreptimeTeam/greptimedb/pull/4504) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: bump opendal version to 0.48](https://github.com/GreptimeTeam/greptimedb/pull/4499) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
