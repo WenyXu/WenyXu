@@ -6,12 +6,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: bump rskafka to `75535b`](https://github.com/GreptimeTeam/greptimedb/pull/4608) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add `ManifestActionList` to `Mutation`](https://github.com/GreptimeTeam/greptime-proto/pull/187) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
-- [chore: bump opendal version to 0.49](https://github.com/GreptimeTeam/greptimedb/pull/4587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: add doc for remote wal authentication &amp; TLS](https://github.com/GreptimeTeam/docs/pull/1138) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [fix: correct logo url in Readme](https://github.com/GreptimeTeam/docs/pull/1136) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [chore: setup kafka before downloading binary step](https://github.com/GreptimeTeam/greptimedb/pull/4582) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: bump rskafka to `75535b`](https://github.com/GreptimeTeam/greptimedb/pull/4608) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add `ManifestActionList` to `Mutation`](https://github.com/GreptimeTeam/greptime-proto/pull/187) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
+- [chore: bump opendal version to 0.49](https://github.com/GreptimeTeam/greptimedb/pull/4587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: add doc for remote wal authentication &amp; TLS](https://github.com/GreptimeTeam/docs/pull/1138) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [fix: correct logo url in Readme](https://github.com/GreptimeTeam/docs/pull/1136) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [chore: setup kafka before downloading binary step](https://github.com/GreptimeTeam/greptimedb/pull/4582) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [chore(log_store): remove redundant metrics](https://github.com/GreptimeTeam/greptimedb/pull/4570) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: replay WAL entries respect index](https://github.com/GreptimeTeam/greptimedb/pull/4565) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/4559) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -19,7 +19,7 @@ Hi 👋 Weny here.
 - [chore: upload kind logs](https://github.com/GreptimeTeam/greptimedb/pull/4544) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: support `SCRAM-SHA-512` and `SCRAM-SHA-512-PLUS` ](https://github.com/dequbed/rsasl/pull/48) on [dequbed/rsasl](https://github.com/dequbed/rsasl) (1 week ago)
 - [feat: support SASL SCRAM mechanism](https://github.com/influxdata/rskafka/pull/247) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 week ago)
-- [feat: add SASL  and TLS config for Kafka client](https://github.com/GreptimeTeam/greptimedb/pull/4536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: add SASL  and TLS config for Kafka client](https://github.com/GreptimeTeam/greptimedb/pull/4536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(log_store): introduce the CollectionTask](https://github.com/GreptimeTeam/greptimedb/pull/4530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore(integrations/parquet): add README](https://github.com/apache/opendal/pull/4980) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
 - [chore: unlock arrow version](https://github.com/datafusion-contrib/datafusion-orc/pull/119) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (2 weeks ago)
@@ -42,7 +42,7 @@ Hi 👋 Weny here.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (2 weeks ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (2 weeks ago)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (2 weeks ago)
-- [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (2 weeks ago)
+- [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (3 weeks ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (3 weeks ago)
 - [manojkarthick/pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files (4 weeks ago)
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.  (1 month ago)
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (2 weeks ago)
 
