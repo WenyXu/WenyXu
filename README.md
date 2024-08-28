@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: set `selector_result_cache_size` in unit test](https://github.com/GreptimeTeam/greptimedb/pull/4631) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: use existing schema](https://github.com/GreptimeTeam/greptimedb/pull/4628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `wal.auto_create_topics` option](https://github.com/GreptimeTeam/docs/pull/1152) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [feat: allow skipping topic creation](https://github.com/GreptimeTeam/greptimedb/pull/4616) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: use `configData`](https://github.com/GreptimeTeam/greptimedb/pull/4522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [perf: merge small byte ranges for optimized fetching](https://github.com/GreptimeTeam/greptimedb/pull/4520) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce opendal `AsyncReader` for parquet integrations](https://github.com/apache/opendal/pull/4972) on [apache/opendal](https://github.com/apache/opendal) (3 weeks ago)
-- [feat(log_store): use new `Consumer`](https://github.com/GreptimeTeam/greptimedb/pull/4510) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
