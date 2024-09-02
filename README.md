@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: expose missing options](https://github.com/GreptimeTeam/greptimedb/pull/4660) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: expose missing options for initializing regions](https://github.com/GreptimeTeam/greptimedb/pull/4660) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: GreptimeDB Operator section](https://github.com/GreptimeTeam/docs/pull/1160) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [fix: correct otlp endpoint formatting](https://github.com/GreptimeTeam/greptimedb/pull/4646) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: set `selector_result_cache_size` in unit test again](https://github.com/GreptimeTeam/greptimedb/pull/4641) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 week ago)
 - [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (3 weeks ago)
