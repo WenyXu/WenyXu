@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [doc: update admin function doc](https://github.com/GreptimeTeam/docs/pull/1166) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: expose missing options for initializing regions](https://github.com/GreptimeTeam/greptimedb/pull/4660) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: GreptimeDB Operator section](https://github.com/GreptimeTeam/docs/pull/1160) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [fix: correct otlp endpoint formatting](https://github.com/GreptimeTeam/greptimedb/pull/4646) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add SASL  and TLS config for Kafka client](https://github.com/GreptimeTeam/greptimedb/pull/4536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(log_store): introduce the CollectionTask](https://github.com/GreptimeTeam/greptimedb/pull/4530) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore(integrations/parquet): add README](https://github.com/apache/opendal/pull/4980) on [apache/opendal](https://github.com/apache/opendal) (3 weeks ago)
-- [chore: unlock arrow version](https://github.com/datafusion-contrib/datafusion-orc/pull/119) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
