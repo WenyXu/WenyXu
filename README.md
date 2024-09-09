@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: print downgraded region last_entry_id](https://github.com/GreptimeTeam/greptimedb/pull/4701) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: write manifest notifications to remote WAL](https://github.com/GreptimeTeam/greptimedb/pull/4678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore(ci): set etcd resources limits](https://github.com/GreptimeTeam/greptimedb/pull/4665) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [docs: update admin function doc](https://github.com/GreptimeTeam/docs/pull/1166) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: upload kind logs](https://github.com/GreptimeTeam/greptimedb/pull/4544) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: support `SCRAM-SHA-512` and `SCRAM-SHA-512-PLUS` ](https://github.com/dequbed/rsasl/pull/48) on [dequbed/rsasl](https://github.com/dequbed/rsasl) (4 weeks ago)
 - [feat: support SASL SCRAM mechanism](https://github.com/influxdata/rskafka/pull/247) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 month ago)
-- [feat: add SASL  and TLS config for Kafka client](https://github.com/GreptimeTeam/greptimedb/pull/4536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
