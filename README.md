@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: remove `validate_request_with_table`](https://github.com/GreptimeTeam/greptimedb/pull/4710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: enable fuzz test for append table](https://github.com/GreptimeTeam/greptimedb/pull/4702) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: print downgraded region last_entry_id](https://github.com/GreptimeTeam/greptimedb/pull/4701) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: write manifest notifications to remote WAL](https://github.com/GreptimeTeam/greptimedb/pull/4678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: remove unused code](https://github.com/GreptimeTeam/greptimedb/pull/4559) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: upgrade toolchain to nightly-2024-08-07](https://github.com/GreptimeTeam/greptimedb/pull/4549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [chore: upload kind logs](https://github.com/GreptimeTeam/greptimedb/pull/4544) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [feat: support `SCRAM-SHA-512` and `SCRAM-SHA-512-PLUS` ](https://github.com/dequbed/rsasl/pull/48) on [dequbed/rsasl](https://github.com/dequbed/rsasl) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
