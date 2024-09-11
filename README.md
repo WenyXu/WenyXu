@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: correct `is_writable` behavior](https://github.com/GreptimeTeam/greptimedb/pull/4725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: determine region role by using is_readonly](https://github.com/GreptimeTeam/greptimedb/pull/4725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `flush_timeout_secs` to `MigrateRegionRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/191) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat: migrate local WAL regions](https://github.com/GreptimeTeam/greptimedb/pull/4715) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: remove `validate_request_with_table`](https://github.com/GreptimeTeam/greptimedb/pull/4710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
