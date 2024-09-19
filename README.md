@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor GreptimeDB k8s deployment part](https://github.com/GreptimeTeam/docs/pull/1187) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore(fuzz): print table name for debugging](https://github.com/GreptimeTeam/greptimedb/pull/4738) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: determine region role by using is_readonly](https://github.com/GreptimeTeam/greptimedb/pull/4725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `flush_timeout_secs` to `MigrateRegionRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/191) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add doc for remote wal authentication &amp; TLS](https://github.com/GreptimeTeam/docs/pull/1138) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [fix: correct logo url in Readme](https://github.com/GreptimeTeam/docs/pull/1136) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [chore: setup kafka before downloading binary step](https://github.com/GreptimeTeam/greptimedb/pull/4582) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [chore(log_store): remove redundant metrics](https://github.com/GreptimeTeam/greptimedb/pull/4570) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [flaneur2020](https://github.com/flaneur2020)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [Aitozi](https://github.com/Aitozi)
 - [Connor9994](https://github.com/Connor9994)
 - [ActivePeter](https://github.com/ActivePeter)
-- [scakhug](https://github.com/scakhug)
 
 
