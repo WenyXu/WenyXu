@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [shonenada](https://github.com/shonenada)
 - [flaneur2020](https://github.com/flaneur2020)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [Aitozi](https://github.com/Aitozi)
 - [Connor9994](https://github.com/Connor9994)
-- [ActivePeter](https://github.com/ActivePeter)
 
 
