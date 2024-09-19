@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [perf: add last insert schema hash cache](https://github.com/GreptimeTeam/greptimedb/pull/4745) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: refactor GreptimeDB k8s deployment part](https://github.com/GreptimeTeam/docs/pull/1187) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore(fuzz): print table name for debugging](https://github.com/GreptimeTeam/greptimedb/pull/4738) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: determine region role by using is_readonly](https://github.com/GreptimeTeam/greptimedb/pull/4725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: bump opendal version to 0.49](https://github.com/GreptimeTeam/greptimedb/pull/4587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add doc for remote wal authentication &amp; TLS](https://github.com/GreptimeTeam/docs/pull/1138) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [fix: correct logo url in Readme](https://github.com/GreptimeTeam/docs/pull/1136) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [chore: setup kafka before downloading binary step](https://github.com/GreptimeTeam/greptimedb/pull/4582) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
