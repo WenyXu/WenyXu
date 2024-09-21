@@ -6,9 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [perf: add last insert schema hash cache](https://github.com/GreptimeTeam/greptimedb/pull/4745) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [refactor: refactor GreptimeDB k8s deployment part](https://github.com/GreptimeTeam/docs/pull/1187) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [chore(fuzz): print table name for debugging](https://github.com/GreptimeTeam/greptimedb/pull/4738) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [perf: add last insert schema hash cache](https://github.com/GreptimeTeam/greptimedb/pull/4745) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [refactor: refactor GreptimeDB k8s deployment part](https://github.com/GreptimeTeam/docs/pull/1187) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [chore(fuzz): print table name for debugging](https://github.com/GreptimeTeam/greptimedb/pull/4738) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: determine region role by using is_readonly](https://github.com/GreptimeTeam/greptimedb/pull/4725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: rename `replay_timeout_secs` to `timeout_secs`](https://github.com/GreptimeTeam/greptime-proto/pull/191) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat: migrate local WAL regions](https://github.com/GreptimeTeam/greptimedb/pull/4715) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -26,7 +26,7 @@ Hi 👋 Weny here.
 - [fix: use existing schema](https://github.com/GreptimeTeam/greptimedb/pull/4628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add `wal.auto_create_topics` option](https://github.com/GreptimeTeam/docs/pull/1152) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [feat: allow skipping topic creation](https://github.com/GreptimeTeam/greptimedb/pull/4616) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: bump rskafka to `75535b`](https://github.com/GreptimeTeam/greptimedb/pull/4608) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [chore: bump rskafka to `75535b`](https://github.com/GreptimeTeam/greptimedb/pull/4608) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add `ManifestActionList` to `Mutation`](https://github.com/GreptimeTeam/greptime-proto/pull/187) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [chore: bump opendal version to 0.49](https://github.com/GreptimeTeam/greptimedb/pull/4587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add doc for remote wal authentication &amp; TLS](https://github.com/GreptimeTeam/docs/pull/1138) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
-- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (4 weeks ago)
+- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 - [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (1 month ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (1 month ago)
 
