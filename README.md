@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [harveyyue](https://github.com/harveyyue)
 - [eust-w](https://github.com/eust-w)
 - [shonenada](https://github.com/shonenada)
 - [flaneur2020](https://github.com/flaneur2020)
-- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 
