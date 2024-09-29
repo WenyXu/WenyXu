@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: introduce `HeartbeatHandlerGroupBuilder`](https://github.com/GreptimeTeam/greptimedb/pull/4785) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/4771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: support to reject write after flushing](https://github.com/GreptimeTeam/greptimedb/pull/4759) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [refactor: unify the styling in `create_or_alter_tables_on_demand`](https://github.com/GreptimeTeam/greptimedb/pull/4756) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `wal.auto_create_topics` option](https://github.com/GreptimeTeam/docs/pull/1152) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [feat: allow skipping topic creation](https://github.com/GreptimeTeam/greptimedb/pull/4616) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: bump rskafka to `75535b`](https://github.com/GreptimeTeam/greptimedb/pull/4608) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add `ManifestActionList` to `Mutation`](https://github.com/GreptimeTeam/greptime-proto/pull/187) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
