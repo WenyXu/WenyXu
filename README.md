@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add `add_handler_after`, `add_handler_before`, `replace_handler`](https://github.com/GreptimeTeam/greptimedb/pull/4788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [refactor: introduce `HeartbeatHandlerGroupBuilder`](https://github.com/GreptimeTeam/greptimedb/pull/4785) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add `add_handler_after`, `add_handler_before`, `replace_handler`](https://github.com/GreptimeTeam/greptimedb/pull/4788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor: introduce `HeartbeatHandlerGroupBuilder`](https://github.com/GreptimeTeam/greptimedb/pull/4785) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/4771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: support to reject write after flushing](https://github.com/GreptimeTeam/greptimedb/pull/4759) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: unify the styling in `create_or_alter_tables_on_demand`](https://github.com/GreptimeTeam/greptimedb/pull/4756) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -39,20 +39,20 @@ Hi 👋 Weny here.
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (1 month ago)
 - [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (1 month ago)
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka. (1 month ago)
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (1 month ago)
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (2 months ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (2 months ago)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (2 months ago)
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (2 months ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (2 months ago)
 - [manojkarthick/pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files (2 months ago)
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.  (2 months ago)
-- [CookiePieWw/json-format-in-parquet-benchmark](https://github.com/CookiePieWw/json-format-in-parquet-benchmark) -  (2 months ago)
+- [CookiePieWw/json-format-in-parquet-benchmark](https://github.com/CookiePieWw/json-format-in-parquet-benchmark) -  (3 months ago)
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers. (3 months ago)
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (6 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 - [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (1 month ago)
