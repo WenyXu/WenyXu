@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce `LeadershipChangeNotifier` and `LeadershipChangeListener`](https://github.com/GreptimeTeam/greptimedb/pull/4817) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: expose `RegionMigrationManagerRef`](https://github.com/GreptimeTeam/greptimedb/pull/4812) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: introduce `HeartbeatHandlerGroupBuilderCustomizer`](https://github.com/GreptimeTeam/greptimedb/pull/4803) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: add `add_handler_after`, `add_handler_before`, `replace_handler`](https://github.com/GreptimeTeam/greptimedb/pull/4788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: correct otlp endpoint formatting](https://github.com/GreptimeTeam/greptimedb/pull/4646) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: set `selector_result_cache_size` in unit test again](https://github.com/GreptimeTeam/greptimedb/pull/4641) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: set `selector_result_cache_size` in unit test](https://github.com/GreptimeTeam/greptimedb/pull/4631) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: use existing schema](https://github.com/GreptimeTeam/greptimedb/pull/4628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
