@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: expose `RegionMigrationManagerRef`](https://github.com/GreptimeTeam/greptimedb/pull/4812) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: introduce `HeartbeatHandlerGroupBuilderCustomizer`](https://github.com/GreptimeTeam/greptimedb/pull/4803) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: expose `RegionMigrationManagerRef`](https://github.com/GreptimeTeam/greptimedb/pull/4812) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: introduce `HeartbeatHandlerGroupBuilderCustomizer`](https://github.com/GreptimeTeam/greptimedb/pull/4803) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: add `add_handler_after`, `add_handler_before`, `replace_handler`](https://github.com/GreptimeTeam/greptimedb/pull/4788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: introduce `HeartbeatHandlerGroupBuilder`](https://github.com/GreptimeTeam/greptimedb/pull/4785) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/4771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -16,7 +16,7 @@ Hi 👋 Weny here.
 - [perf: add last insert schema hash cache](https://github.com/GreptimeTeam/greptimedb/pull/4745) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: refactor GreptimeDB k8s deployment part](https://github.com/GreptimeTeam/docs/pull/1187) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [chore(fuzz): print table name for debugging](https://github.com/GreptimeTeam/greptimedb/pull/4738) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: determine region role by using is_readonly](https://github.com/GreptimeTeam/greptimedb/pull/4725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [fix: determine region role by using is_readonly](https://github.com/GreptimeTeam/greptimedb/pull/4725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: rename `replay_timeout_secs` to `timeout_secs`](https://github.com/GreptimeTeam/greptime-proto/pull/191) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [feat: migrate local WAL regions](https://github.com/GreptimeTeam/greptimedb/pull/4715) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: remove `validate_request_with_table`](https://github.com/GreptimeTeam/greptimedb/pull/4710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
@@ -37,7 +37,7 @@ Hi 👋 Weny here.
 - [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (1 month ago)
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface (1 month ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (1 month ago)
-- [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (1 month ago)
+- [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (2 months ago)
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka. (2 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (2 months ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (2 months ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (2 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 - [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (2 months ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (2 months ago)
