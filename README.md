@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: inject `CmdContext` into `plugins`](https://github.com/GreptimeTeam/greptimedb/pull/4835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce default customizers](https://github.com/GreptimeTeam/greptimedb/pull/4831) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: defer `HeartbeatHandlerGroup` construction  and enhance `LeadershipChangeNotifier`](https://github.com/GreptimeTeam/greptimedb/pull/4826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: pass `raw_config_file` arg to setup plugins functions](https://github.com/GreptimeTeam/greptimedb/pull/4821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: write manifest notifications to remote WAL](https://github.com/GreptimeTeam/greptimedb/pull/4678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore(ci): set etcd resources limits](https://github.com/GreptimeTeam/greptimedb/pull/4665) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [docs: update admin function doc](https://github.com/GreptimeTeam/docs/pull/1166) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [fix: expose missing options for initializing regions](https://github.com/GreptimeTeam/greptimedb/pull/4660) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
