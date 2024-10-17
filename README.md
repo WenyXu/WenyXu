@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix metadata forward compatibility issue](https://github.com/GreptimeTeam/greptimedb/pull/4846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: overwrite entry_id if entry id is less than start_offset](https://github.com/GreptimeTeam/greptimedb/pull/4842) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add more metrics for region migration](https://github.com/GreptimeTeam/greptimedb/pull/4838) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: inject `CmdContext` into `plugins`](https://github.com/GreptimeTeam/greptimedb/pull/4835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: remove `validate_request_with_table`](https://github.com/GreptimeTeam/greptimedb/pull/4710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: enable fuzz test for append table](https://github.com/GreptimeTeam/greptimedb/pull/4702) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: print downgraded region last_entry_id](https://github.com/GreptimeTeam/greptimedb/pull/4701) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: write manifest notifications to remote WAL](https://github.com/GreptimeTeam/greptimedb/pull/4678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
