@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: overwrite entry_id if entry id is less than start_offset](https://github.com/GreptimeTeam/greptimedb/pull/4842) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add more metrics for region migration](https://github.com/GreptimeTeam/greptimedb/pull/4838) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: inject `CmdContext` into `plugins`](https://github.com/GreptimeTeam/greptimedb/pull/4835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: introduce default customizers](https://github.com/GreptimeTeam/greptimedb/pull/4831) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: enable fuzz test for append table](https://github.com/GreptimeTeam/greptimedb/pull/4702) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: print downgraded region last_entry_id](https://github.com/GreptimeTeam/greptimedb/pull/4701) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: write manifest notifications to remote WAL](https://github.com/GreptimeTeam/greptimedb/pull/4678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [chore(ci): set etcd resources limits](https://github.com/GreptimeTeam/greptimedb/pull/4665) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
