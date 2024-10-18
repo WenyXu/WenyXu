@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [windmgc](https://github.com/windmgc)
 - [salamer](https://github.com/salamer)
 - [snkd](https://github.com/snkd)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [harveyyue](https://github.com/harveyyue)
-- [eust-w](https://github.com/eust-w)
 
 
