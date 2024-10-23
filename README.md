@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: replace timeout_millis and connect_timeout_millis with Duration in DatanodeClientOptions](https://github.com/GreptimeTeam/greptimedb/pull/4867) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: add fuzz test for metric region migration](https://github.com/GreptimeTeam/greptimedb/pull/4862) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `overwrite_entry_start_id` option](https://github.com/GreptimeTeam/docs/pull/1226) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [chore: bump version to 0.9.5](https://github.com/GreptimeTeam/greptimedb/pull/4853) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [perf: add last insert schema hash cache](https://github.com/GreptimeTeam/greptimedb/pull/4745) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: refactor GreptimeDB k8s deployment part](https://github.com/GreptimeTeam/docs/pull/1187) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [chore(fuzz): print table name for debugging](https://github.com/GreptimeTeam/greptimedb/pull/4738) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: determine region role by using is_readonly](https://github.com/GreptimeTeam/greptimedb/pull/4725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
