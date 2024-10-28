@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: fix broken import](https://github.com/GreptimeTeam/greptimedb/pull/4880) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: add slow timeout configuration](https://github.com/datafusion-contrib/datafusion-orc/pull/134) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (4 days ago)
 - [docs: add doc for json datatype](https://github.com/GreptimeTeam/docs/pull/1232) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `add_handler_after`, `add_handler_before`, `replace_handler`](https://github.com/GreptimeTeam/greptimedb/pull/4788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [refactor: introduce `HeartbeatHandlerGroupBuilder`](https://github.com/GreptimeTeam/greptimedb/pull/4785) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: add `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/4771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: support to reject write after flushing](https://github.com/GreptimeTeam/greptimedb/pull/4759) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
