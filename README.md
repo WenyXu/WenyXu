@@ -6,13 +6,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
-- [fix: fix broken import](https://github.com/GreptimeTeam/greptimedb/pull/4880) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore: add slow timeout configuration](https://github.com/datafusion-contrib/datafusion-orc/pull/134) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (4 days ago)
-- [docs: add doc for json datatype](https://github.com/GreptimeTeam/docs/pull/1232) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [docs: remove dist lock doc](https://github.com/GreptimeTeam/docs/pull/1228) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [fix!: replace timeout_millis and connect_timeout_millis with Duration in DatanodeClientOptions](https://github.com/GreptimeTeam/greptimedb/pull/4867) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [test: add fuzz test for metric region migration](https://github.com/GreptimeTeam/greptimedb/pull/4862) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
+- [fix: fix broken import](https://github.com/GreptimeTeam/greptimedb/pull/4880) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: add slow timeout configuration](https://github.com/datafusion-contrib/datafusion-orc/pull/134) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (5 days ago)
+- [docs: add doc for json datatype](https://github.com/GreptimeTeam/docs/pull/1232) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [docs: remove dist lock doc](https://github.com/GreptimeTeam/docs/pull/1228) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [fix!: replace timeout_millis and connect_timeout_millis with Duration in DatanodeClientOptions](https://github.com/GreptimeTeam/greptimedb/pull/4867) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [test: add fuzz test for metric region migration](https://github.com/GreptimeTeam/greptimedb/pull/4862) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `overwrite_entry_start_id` option](https://github.com/GreptimeTeam/docs/pull/1226) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [chore: bump version to 0.9.5](https://github.com/GreptimeTeam/greptimedb/pull/4853) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: flush metric metadata region](https://github.com/GreptimeTeam/greptimedb/pull/4852) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -20,21 +20,21 @@ Hi 👋 Weny here.
 - [fix: fix metadata forward compatibility issue](https://github.com/GreptimeTeam/greptimedb/pull/4846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: overwrite entry_id if entry id is less than start_offset](https://github.com/GreptimeTeam/greptimedb/pull/4842) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add more metrics for region migration](https://github.com/GreptimeTeam/greptimedb/pull/4838) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce the `PluginOptions`](https://github.com/GreptimeTeam/greptimedb/pull/4835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce default customizers](https://github.com/GreptimeTeam/greptimedb/pull/4831) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: introduce the `PluginOptions`](https://github.com/GreptimeTeam/greptimedb/pull/4835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: introduce default customizers](https://github.com/GreptimeTeam/greptimedb/pull/4831) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: defer `HeartbeatHandlerGroup` construction  and enhance `LeadershipChangeNotifier`](https://github.com/GreptimeTeam/greptimedb/pull/4826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: pass `raw_config_file` arg to setup plugins functions](https://github.com/GreptimeTeam/greptimedb/pull/4821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: correct table name formatting](https://github.com/GreptimeTeam/greptimedb/pull/4819) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce `LeadershipChangeNotifier` and `LeadershipChangeListener`](https://github.com/GreptimeTeam/greptimedb/pull/4817) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: expose `RegionMigrationManagerRef`](https://github.com/GreptimeTeam/greptimedb/pull/4812) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: introduce `HeartbeatHandlerGroupBuilderCustomizer`](https://github.com/GreptimeTeam/greptimedb/pull/4803) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: introduce `HeartbeatHandlerGroupBuilderCustomizer`](https://github.com/GreptimeTeam/greptimedb/pull/4803) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add `add_handler_after`, `add_handler_before`, `replace_handler`](https://github.com/GreptimeTeam/greptimedb/pull/4788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [refactor: introduce `HeartbeatHandlerGroupBuilder`](https://github.com/GreptimeTeam/greptimedb/pull/4785) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [refactor: introduce `HeartbeatHandlerGroupBuilder`](https://github.com/GreptimeTeam/greptimedb/pull/4785) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/4771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [libwebp-wasm/gif2webp](https://github.com/libwebp-wasm/gif2webp) - A wasm version for gif2webp of libwebp (3 days ago)
+- [libwebp-wasm/gif2webp](https://github.com/libwebp-wasm/gif2webp) - A wasm version for gif2webp of libwebp (4 days ago)
 - [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (2 months ago)
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface (2 months ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (2 months ago)
@@ -44,7 +44,7 @@ Hi 👋 Weny here.
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (2 months ago)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (2 months ago)
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (2 months ago)
-- [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (2 months ago)
+- [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (3 months ago)
 - [manojkarthick/pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files (3 months ago)
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.  (3 months ago)
 - [CookiePieWw/json-format-in-parquet-benchmark](https://github.com/CookiePieWw/json-format-in-parquet-benchmark) -  (3 months ago)
@@ -52,10 +52,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (3 days ago)
-- [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (4 days ago)
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (4 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (4 days ago)
+- [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (5 days ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (5 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 
 #### 👯 Check out my recent followers
