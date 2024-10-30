@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add doc for procedure_info table](https://github.com/GreptimeTeam/docs/pull/1252) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: support to insert json data via grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: update greptime-proto to `86ed051`](https://github.com/GreptimeTeam/greptimedb/pull/4902) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add json type](https://github.com/GreptimeTeam/greptime-proto/pull/194) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: defer `HeartbeatHandlerGroup` construction  and enhance `LeadershipChangeNotifier`](https://github.com/GreptimeTeam/greptimedb/pull/4826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: pass `raw_config_file` arg to setup plugins functions](https://github.com/GreptimeTeam/greptimedb/pull/4821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: correct table name formatting](https://github.com/GreptimeTeam/greptimedb/pull/4819) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: introduce `LeadershipChangeNotifier` and `LeadershipChangeListener`](https://github.com/GreptimeTeam/greptimedb/pull/4817) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
