@@ -6,14 +6,14 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: simplify WeightedChoose](https://github.com/GreptimeTeam/greptimedb/pull/4916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: add doc for procedure_info table](https://github.com/GreptimeTeam/docs/pull/1252) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [feat: support to insert json data via grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [chore: update greptime-proto to `86ed051`](https://github.com/GreptimeTeam/greptimedb/pull/4902) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add json type](https://github.com/GreptimeTeam/greptime-proto/pull/194) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
-- [feat: add json datatype for grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [docs: copy autopilot docs to v0.9](https://github.com/GreptimeTeam/docs/pull/1246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [refactor: simplify WeightedChoose](https://github.com/GreptimeTeam/greptimedb/pull/4916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: add doc for procedure_info table](https://github.com/GreptimeTeam/docs/pull/1252) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [feat: support to insert json data via grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: update greptime-proto to `86ed051`](https://github.com/GreptimeTeam/greptimedb/pull/4902) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add json type](https://github.com/GreptimeTeam/greptime-proto/pull/194) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [feat: add json datatype for grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [docs: copy autopilot docs to v0.9](https://github.com/GreptimeTeam/docs/pull/1246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
 - [fix: fix broken import](https://github.com/GreptimeTeam/greptimedb/pull/4880) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add slow timeout configuration](https://github.com/datafusion-contrib/datafusion-orc/pull/134) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 - [docs: add doc for json datatype](https://github.com/GreptimeTeam/docs/pull/1232) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -29,7 +29,7 @@ Hi 👋 Weny here.
 - [chore: add more metrics for region migration](https://github.com/GreptimeTeam/greptimedb/pull/4838) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce the `PluginOptions`](https://github.com/GreptimeTeam/greptimedb/pull/4835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce default customizers](https://github.com/GreptimeTeam/greptimedb/pull/4831) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: defer `HeartbeatHandlerGroup` construction  and enhance `LeadershipChangeNotifier`](https://github.com/GreptimeTeam/greptimedb/pull/4826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: defer `HeartbeatHandlerGroup` construction  and enhance `LeadershipChangeNotifier`](https://github.com/GreptimeTeam/greptimedb/pull/4826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: pass `raw_config_file` arg to setup plugins functions](https://github.com/GreptimeTeam/greptimedb/pull/4821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
@@ -48,13 +48,13 @@ Hi 👋 Weny here.
 - [manojkarthick/pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files (3 months ago)
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.  (3 months ago)
 - [CookiePieWw/json-format-in-parquet-benchmark](https://github.com/CookiePieWw/json-format-in-parquet-benchmark) -  (3 months ago)
-- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers. (3 months ago)
+- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers. (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 days ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 week ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 week ago)
 
