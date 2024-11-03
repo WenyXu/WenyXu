@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [jelspace](https://github.com/jelspace)
 - [windmgc](https://github.com/windmgc)
 - [salamer](https://github.com/salamer)
 - [snkd](https://github.com/snkd)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
-- [harveyyue](https://github.com/harveyyue)
 
 
