@@ -6,14 +6,14 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: simplify WeightedChoose](https://github.com/GreptimeTeam/greptimedb/pull/4916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [docs: add doc for procedure_info table](https://github.com/GreptimeTeam/docs/pull/1252) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [feat: support to insert json data via grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore: update greptime-proto to `86ed051`](https://github.com/GreptimeTeam/greptimedb/pull/4902) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: add json type](https://github.com/GreptimeTeam/greptime-proto/pull/194) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
-- [feat: add json datatype for grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [docs: copy autopilot docs to v0.9](https://github.com/GreptimeTeam/docs/pull/1246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
-- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [refactor: simplify WeightedChoose](https://github.com/GreptimeTeam/greptimedb/pull/4916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [docs: add doc for procedure_info table](https://github.com/GreptimeTeam/docs/pull/1252) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [feat: support to insert json data via grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: update greptime-proto to `86ed051`](https://github.com/GreptimeTeam/greptimedb/pull/4902) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: add json type](https://github.com/GreptimeTeam/greptime-proto/pull/194) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
+- [feat: add json datatype for grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [docs: copy autopilot docs to v0.9](https://github.com/GreptimeTeam/docs/pull/1246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
 - [fix: fix broken import](https://github.com/GreptimeTeam/greptimedb/pull/4880) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add slow timeout configuration](https://github.com/datafusion-contrib/datafusion-orc/pull/134) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 week ago)
 - [docs: add doc for json datatype](https://github.com/GreptimeTeam/docs/pull/1232) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -41,8 +41,8 @@ Hi 👋 Weny here.
 - [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (2 months ago)
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka. (2 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (2 months ago)
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (2 months ago)
-- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (2 months ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (3 months ago)
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (3 months ago)
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (3 months ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (3 months ago)
 - [manojkarthick/pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files (3 months ago)
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (2 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 days ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 week ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 week ago)
 
