@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: fix typos in change log level doc](https://github.com/GreptimeTeam/greptimedb/pull/4948) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: violations of `elided_named_lifetimes`](https://github.com/GreptimeTeam/greptimedb/pull/4936) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: fix typos in change log level doc](https://github.com/GreptimeTeam/greptimedb/pull/4948) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: violations of `elided_named_lifetimes`](https://github.com/GreptimeTeam/greptimedb/pull/4936) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [refactor: simplify WeightedChoose](https://github.com/GreptimeTeam/greptimedb/pull/4916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add doc for procedure_info table](https://github.com/GreptimeTeam/docs/pull/1252) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat: support to insert json data via grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (3 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (2 weeks ago)
