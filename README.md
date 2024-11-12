@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: support distinct JSON format and improve type conversions](https://github.com/GreptimeTeam/greptimedb/pull/4979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: refine region state checks and handle stalled requests](https://github.com/GreptimeTeam/greptimedb/pull/4971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: fix typos in change log level doc](https://github.com/GreptimeTeam/greptimedb/pull/4948) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix: violations of `elided_named_lifetimes`](https://github.com/GreptimeTeam/greptimedb/pull/4936) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix metadata forward compatibility issue](https://github.com/GreptimeTeam/greptimedb/pull/4846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: overwrite entry_id if entry id is less than start_offset](https://github.com/GreptimeTeam/greptimedb/pull/4842) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: add more metrics for region migration](https://github.com/GreptimeTeam/greptimedb/pull/4838) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: introduce the `PluginOptions`](https://github.com/GreptimeTeam/greptimedb/pull/4835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
