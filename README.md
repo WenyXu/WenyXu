@@ -6,10 +6,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: introduce `MaintenanceModeManager`](https://github.com/GreptimeTeam/greptimedb/pull/4994) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: obsolete wal entires while opening a migrated region](https://github.com/GreptimeTeam/greptimedb/pull/4993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [refactor: support distinct JSON format and improve type conversions](https://github.com/GreptimeTeam/greptimedb/pull/4979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: refine region state checks and handle stalled requests](https://github.com/GreptimeTeam/greptimedb/pull/4971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: introduce `MaintenanceModeManager`](https://github.com/GreptimeTeam/greptimedb/pull/4994) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: obsolete wal entires while opening a migrated region](https://github.com/GreptimeTeam/greptimedb/pull/4993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [refactor: support distinct JSON format and improve type conversions](https://github.com/GreptimeTeam/greptimedb/pull/4979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: refine region state checks and handle stalled requests](https://github.com/GreptimeTeam/greptimedb/pull/4971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore: fix typos in change log level doc](https://github.com/GreptimeTeam/greptimedb/pull/4948) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: violations of `elided_named_lifetimes`](https://github.com/GreptimeTeam/greptimedb/pull/4936) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: simplify WeightedChoose](https://github.com/GreptimeTeam/greptimedb/pull/4916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -30,7 +30,7 @@ Hi 👋 Weny here.
 - [chore: bump version to 0.9.5](https://github.com/GreptimeTeam/greptimedb/pull/4853) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: flush metric metadata region](https://github.com/GreptimeTeam/greptimedb/pull/4852) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [chore: update greptime-proto to `b4d3011`](https://github.com/GreptimeTeam/greptimedb/pull/4850) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [fix: fix metadata forward compatibility issue](https://github.com/GreptimeTeam/greptimedb/pull/4846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [fix: fix metadata forward compatibility issue](https://github.com/GreptimeTeam/greptimedb/pull/4846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (3 weeks ago)
