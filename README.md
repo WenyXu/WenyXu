@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [idimetrix](https://github.com/idimetrix)
 - [qstommyshu](https://github.com/qstommyshu)
 - [jelspace](https://github.com/jelspace)
 - [windmgc](https://github.com/windmgc)
 - [salamer](https://github.com/salamer)
-- [snkd](https://github.com/snkd)
 
 
