@@ -6,13 +6,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: introduce `DynamicTimeoutLayer`](https://github.com/GreptimeTeam/greptimedb/pull/5006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [refactor: introduce `MaintenanceModeManager`](https://github.com/GreptimeTeam/greptimedb/pull/4994) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: obsolete wal entires while opening a migrated region](https://github.com/GreptimeTeam/greptimedb/pull/4993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor: support distinct JSON format and improve type conversions](https://github.com/GreptimeTeam/greptimedb/pull/4979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: refine region state checks and handle stalled requests](https://github.com/GreptimeTeam/greptimedb/pull/4971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: introduce `DynamicTimeoutLayer`](https://github.com/GreptimeTeam/greptimedb/pull/5006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [refactor: introduce `MaintenanceModeManager`](https://github.com/GreptimeTeam/greptimedb/pull/4994) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: obsolete wal entires while opening a migrated region](https://github.com/GreptimeTeam/greptimedb/pull/4993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: support distinct JSON format and improve type conversions](https://github.com/GreptimeTeam/greptimedb/pull/4979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: refine region state checks and handle stalled requests](https://github.com/GreptimeTeam/greptimedb/pull/4971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: fix typos in change log level doc](https://github.com/GreptimeTeam/greptimedb/pull/4948) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: violations of `elided_named_lifetimes`](https://github.com/GreptimeTeam/greptimedb/pull/4936) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: violations of `elided_named_lifetimes`](https://github.com/GreptimeTeam/greptimedb/pull/4936) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: simplify WeightedChoose](https://github.com/GreptimeTeam/greptimedb/pull/4916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: add doc for procedure_info table](https://github.com/GreptimeTeam/docs/pull/1252) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [feat: support to insert json data via grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -20,14 +20,14 @@ Hi 👋 Weny here.
 - [feat: add json type](https://github.com/GreptimeTeam/greptime-proto/pull/194) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 - [feat: add json datatype for grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: copy autopilot docs to v0.9](https://github.com/GreptimeTeam/docs/pull/1246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
+- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [fix: fix broken import](https://github.com/GreptimeTeam/greptimedb/pull/4880) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: add slow timeout configuration](https://github.com/datafusion-contrib/datafusion-orc/pull/134) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (3 weeks ago)
 - [docs: add doc for json datatype](https://github.com/GreptimeTeam/docs/pull/1232) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [docs: remove dist lock doc](https://github.com/GreptimeTeam/docs/pull/1228) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [fix!: replace timeout_millis and connect_timeout_millis with Duration in DatanodeClientOptions](https://github.com/GreptimeTeam/greptimedb/pull/4867) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [test: add fuzz test for metric region migration](https://github.com/GreptimeTeam/greptimedb/pull/4862) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add `overwrite_entry_start_id` option](https://github.com/GreptimeTeam/docs/pull/1226) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
+- [feat: add `overwrite_entry_start_id` option](https://github.com/GreptimeTeam/docs/pull/1226) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [chore: bump version to 0.9.5](https://github.com/GreptimeTeam/greptimedb/pull/4853) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: flush metric metadata region](https://github.com/GreptimeTeam/greptimedb/pull/4852) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: update greptime-proto to `b4d3011`](https://github.com/GreptimeTeam/greptimedb/pull/4850) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (3 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (3 weeks ago)
