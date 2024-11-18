@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add doc for setting http request timeout](https://github.com/GreptimeTeam/docs/pull/1298) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: remove json limitation](https://github.com/GreptimeTeam/docs/pull/1296) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: correct `unset_maintenance_mode` behavior](https://github.com/GreptimeTeam/greptimedb/pull/5009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `DynamicTimeoutLayer`](https://github.com/GreptimeTeam/greptimedb/pull/5006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix!: replace timeout_millis and connect_timeout_millis with Duration in DatanodeClientOptions](https://github.com/GreptimeTeam/greptimedb/pull/4867) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [test: add fuzz test for metric region migration](https://github.com/GreptimeTeam/greptimedb/pull/4862) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add `overwrite_entry_start_id` option](https://github.com/GreptimeTeam/docs/pull/1226) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
-- [chore: bump version to 0.9.5](https://github.com/GreptimeTeam/greptimedb/pull/4853) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
