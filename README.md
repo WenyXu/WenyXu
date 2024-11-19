@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [kscarlett/nginx-log-generator](https://github.com/kscarlett/nginx-log-generator) - A tiny Go utility to generate a large amount realistic-looking Nginx logs quickly. (today)
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics (today)
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust (1 day ago)
 - [libwebp-wasm/gif2webp](https://github.com/libwebp-wasm/gif2webp) - A wasm version for gif2webp of libwebp (3 weeks ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (3 months ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (3 months ago)
 - [manojkarthick/pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files (3 months ago)
-- [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.  (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
