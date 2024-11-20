@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `UnsetTableOptions`](https://github.com/GreptimeTeam/greptime-proto/pull/201) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [chore(cli): set default timeout for cli commands](https://github.com/GreptimeTeam/greptimedb/pull/5021) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add doc for setting http request timeout](https://github.com/GreptimeTeam/docs/pull/1298) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [chore: remove json limitation](https://github.com/GreptimeTeam/docs/pull/1296) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs: add doc for json datatype](https://github.com/GreptimeTeam/docs/pull/1232) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [docs: remove dist lock doc](https://github.com/GreptimeTeam/docs/pull/1228) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [fix!: replace timeout_millis and connect_timeout_millis with Duration in DatanodeClientOptions](https://github.com/GreptimeTeam/greptimedb/pull/4867) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [test: add fuzz test for metric region migration](https://github.com/GreptimeTeam/greptimedb/pull/4862) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
