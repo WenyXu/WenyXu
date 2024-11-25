@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: add ci for go build and lint](https://github.com/WenyXu/fake-log-ingester/pull/3) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (today)
+- [chore(Dockerfile): upgrade go version to 1.22](https://github.com/WenyXu/fake-log-ingester/pull/2) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (today)
 - [feat: alter database ttl](https://github.com/GreptimeTeam/greptime-proto/pull/203) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
 - [feat: add unset option syntax in alter table](https://github.com/GreptimeTeam/docs/pull/1315) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
 - [feat: add unset table options support](https://github.com/GreptimeTeam/greptimedb/pull/5034) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: add json datatype for grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: copy autopilot docs to v0.9](https://github.com/GreptimeTeam/docs/pull/1246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
-- [fix: fix broken import](https://github.com/GreptimeTeam/greptimedb/pull/4880) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [chore: add slow timeout configuration](https://github.com/datafusion-contrib/datafusion-orc/pull/134) on [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -56,7 +56,7 @@ Hi 👋 Weny here.
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 days ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (4 days ago)
-- [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 month ago)
 
 #### 👯 Check out my recent followers
 
