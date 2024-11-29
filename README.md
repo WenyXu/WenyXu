@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [CoreUnitNET](https://github.com/CoreUnitNET)
 - [duyu09](https://github.com/duyu09)
 - [idimetrix](https://github.com/idimetrix)
 - [qstommyshu](https://github.com/qstommyshu)
 - [jelspace](https://github.com/jelspace)
-- [windmgc](https://github.com/windmgc)
 
 
