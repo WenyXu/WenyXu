@@ -52,11 +52,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [WenyXu/clickhouse-csv-loader](https://github.com/WenyXu/clickhouse-csv-loader) -  (today)
 - [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) - A synthetic nginx log generator designed specifically for GreptimeDB, built using the official greptimedb-ingester-go SDK (3 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 week ago)
-- [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
 
 #### 👯 Check out my recent followers
 
