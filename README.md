@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Goldendragon1029](https://github.com/Goldendragon1029)
 - [stormasm](https://github.com/stormasm)
 - [CoreUnitNET](https://github.com/CoreUnitNET)
 - [duyu09](https://github.com/duyu09)
 - [idimetrix](https://github.com/idimetrix)
-- [qstommyshu](https://github.com/qstommyshu)
 
 
