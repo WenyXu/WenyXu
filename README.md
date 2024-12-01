@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: add ci for go build and lint](https://github.com/WenyXu/fake-log-ingester/pull/3) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (5 days ago)
-- [chore(Dockerfile): upgrade go version to 1.22](https://github.com/WenyXu/fake-log-ingester/pull/2) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (5 days ago)
+- [chore: add ci for go build and lint](https://github.com/WenyXu/fake-log-ingester/pull/3) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (6 days ago)
+- [chore(Dockerfile): upgrade go version to 1.22](https://github.com/WenyXu/fake-log-ingester/pull/2) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (6 days ago)
 - [feat: alter database ttl](https://github.com/GreptimeTeam/greptime-proto/pull/203) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat: add unset option syntax in alter table](https://github.com/GreptimeTeam/docs/pull/1315) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat: add unset table options support](https://github.com/GreptimeTeam/greptimedb/pull/5034) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -16,7 +16,7 @@ Hi 👋 Weny here.
 - [feat: add doc for setting http request timeout](https://github.com/GreptimeTeam/docs/pull/1298) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [chore: remove json limitation](https://github.com/GreptimeTeam/docs/pull/1296) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix: correct `unset_maintenance_mode` behavior](https://github.com/GreptimeTeam/greptimedb/pull/5009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce `DynamicTimeoutLayer`](https://github.com/GreptimeTeam/greptimedb/pull/5006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: introduce `DynamicTimeoutLayer`](https://github.com/GreptimeTeam/greptimedb/pull/5006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: introduce `MaintenanceModeManager`](https://github.com/GreptimeTeam/greptimedb/pull/4994) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: obsolete wal entires while opening a migrated region](https://github.com/GreptimeTeam/greptimedb/pull/4993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: support distinct JSON format and improve type conversions](https://github.com/GreptimeTeam/greptimedb/pull/4979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (3 days ago)
+- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (4 days ago)
 - [kscarlett/nginx-log-generator](https://github.com/kscarlett/nginx-log-generator) - A tiny Go utility to generate a large amount realistic-looking Nginx logs quickly. (1 week ago)
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics (1 week ago)
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust (1 week ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/clickhouse-csv-loader](https://github.com/WenyXu/clickhouse-csv-loader) -  (1 day ago)
-- [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) - A synthetic nginx log generator designed specifically for GreptimeDB, built using the official greptimedb-ingester-go SDK (4 days ago)
+- [WenyXu/clickhouse-csv-loader](https://github.com/WenyXu/clickhouse-csv-loader) -  (2 days ago)
+- [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) - A synthetic nginx log generator designed specifically for GreptimeDB, built using the official greptimedb-ingester-go SDK (5 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 week ago)
