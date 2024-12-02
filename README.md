@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: enable compression for metasrv client](https://github.com/GreptimeTeam/greptimedb/pull/5078) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add ci for go build and lint](https://github.com/WenyXu/fake-log-ingester/pull/3) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (1 week ago)
 - [chore(Dockerfile): upgrade go version to 1.22](https://github.com/WenyXu/fake-log-ingester/pull/2) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (1 week ago)
 - [feat: alter database ttl](https://github.com/GreptimeTeam/greptime-proto/pull/203) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add json type](https://github.com/GreptimeTeam/greptime-proto/pull/194) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [feat: add json datatype for grpc protocol](https://github.com/GreptimeTeam/greptimedb/pull/4897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [docs: copy autopilot docs to v0.9](https://github.com/GreptimeTeam/docs/pull/1246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [feat: add doc for region balancer](https://github.com/GreptimeTeam/docs/pull/1243) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
