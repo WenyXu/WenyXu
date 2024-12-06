@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [ci: set meta replicas to 1](https://github.com/GreptimeTeam/greptimedb/pull/5111) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: correct metasrv config](https://github.com/GreptimeTeam/docs/pull/1357) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: correct example config file](https://github.com/GreptimeTeam/greptimedb/pull/5105) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: relocate CLI to a dedicated directory](https://github.com/GreptimeTeam/greptimedb/pull/5101) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: refine region state checks and handle stalled requests](https://github.com/GreptimeTeam/greptimedb/pull/4971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: fix typos in change log level doc](https://github.com/GreptimeTeam/greptimedb/pull/4948) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: violations of `elided_named_lifetimes`](https://github.com/GreptimeTeam/greptimedb/pull/4936) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: simplify WeightedChoose](https://github.com/GreptimeTeam/greptimedb/pull/4916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
