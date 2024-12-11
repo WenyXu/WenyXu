@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(index): add `file_size_hint` for remote blob reader](https://github.com/GreptimeTeam/greptimedb/pull/5147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add prefetch support to `InvertedIndexFooterReader` for reduced I/O time](https://github.com/GreptimeTeam/greptimedb/pull/5146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add prefetch support to `PuffinFileFooterReader` for reduced I/O time](https://github.com/GreptimeTeam/greptimedb/pull/5145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [ci: set meta replicas to 1](https://github.com/GreptimeTeam/greptimedb/pull/5111) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: introduce `MaintenanceModeManager`](https://github.com/GreptimeTeam/greptimedb/pull/4994) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: obsolete wal entires while opening a migrated region](https://github.com/GreptimeTeam/greptimedb/pull/4993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: support distinct JSON format and improve type conversions](https://github.com/GreptimeTeam/greptimedb/pull/4979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [feat: refine region state checks and handle stalled requests](https://github.com/GreptimeTeam/greptimedb/pull/4971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
