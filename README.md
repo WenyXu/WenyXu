@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (today)
 - [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (2 weeks ago)
 - [kscarlett/nginx-log-generator](https://github.com/kscarlett/nginx-log-generator) - A tiny Go utility to generate a large amount realistic-looking Nginx logs quickly. (3 weeks ago)
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics (3 weeks ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (4 months ago)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (4 months ago)
 - [CallistoLabsNYC/samsa](https://github.com/CallistoLabsNYC/samsa) - Rust-native Kafka/Redpanda protocol and client implementation. (4 months ago)
-- [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
