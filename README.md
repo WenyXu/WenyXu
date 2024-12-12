@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce fetcher](https://github.com/GreptimeTeam/greptimedb/pull/5154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `PuffinMetadataCache`](https://github.com/GreptimeTeam/greptimedb/pull/5148) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(index): add `file_size_hint` for remote blob reader](https://github.com/GreptimeTeam/greptimedb/pull/5147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add prefetch support to `InvertedIndexFooterReader` for reduced I/O time](https://github.com/GreptimeTeam/greptimedb/pull/5146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: correct `unset_maintenance_mode` behavior](https://github.com/GreptimeTeam/greptimedb/pull/5009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce `DynamicTimeoutLayer`](https://github.com/GreptimeTeam/greptimedb/pull/5006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: introduce `MaintenanceModeManager`](https://github.com/GreptimeTeam/greptimedb/pull/4994) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [fix: obsolete wal entires while opening a migrated region](https://github.com/GreptimeTeam/greptimedb/pull/4993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
