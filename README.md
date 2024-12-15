@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: correct auto balancer options](https://github.com/GreptimeTeam/docs/pull/1382) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: introduce fetcher](https://github.com/GreptimeTeam/greptimedb/pull/5154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: introduce `PuffinMetadataCache`](https://github.com/GreptimeTeam/greptimedb/pull/5148) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat(index): add `file_size_hint` for remote blob reader](https://github.com/GreptimeTeam/greptimedb/pull/5147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: remove json limitation](https://github.com/GreptimeTeam/docs/pull/1296) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [fix: correct `unset_maintenance_mode` behavior](https://github.com/GreptimeTeam/greptimedb/pull/5009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce `DynamicTimeoutLayer`](https://github.com/GreptimeTeam/greptimedb/pull/5006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [refactor: introduce `MaintenanceModeManager`](https://github.com/GreptimeTeam/greptimedb/pull/4994) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
