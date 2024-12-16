@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: reduce default max rows for fuzz testing](https://github.com/GreptimeTeam/greptimedb/pull/5171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore(fuzz): adjust testing setup and resource limits](https://github.com/GreptimeTeam/greptimedb/pull/5171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: correct auto balancer options](https://github.com/GreptimeTeam/docs/pull/1382) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [feat: introduce fetcher](https://github.com/GreptimeTeam/greptimedb/pull/5154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: introduce `PuffinMetadataCache`](https://github.com/GreptimeTeam/greptimedb/pull/5148) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
