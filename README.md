@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: remove duplicate `QueryContext`](https://github.com/GreptimeTeam/greptimedb/pull/5200) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: impl ser/de for `QueryContext`](https://github.com/GreptimeTeam/greptime-proto/pull/205) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix: ensure table route metadata is eventually rolled back on failure](https://github.com/GreptimeTeam/greptimedb/pull/5174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: correct `set_region_role_state_gracefully` behaviors](https://github.com/GreptimeTeam/greptimedb/pull/5171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix: correct auto balancer options](https://github.com/GreptimeTeam/docs/pull/1382) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: add unset table options support](https://github.com/GreptimeTeam/greptimedb/pull/5034) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: add `UnsetTableOptions`](https://github.com/GreptimeTeam/greptime-proto/pull/201) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 weeks ago)
 - [chore(cli): set default timeout for cli commands](https://github.com/GreptimeTeam/greptimedb/pull/5021) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add doc for setting http request timeout](https://github.com/GreptimeTeam/docs/pull/1298) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [chore: remove json limitation](https://github.com/GreptimeTeam/docs/pull/1296) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
