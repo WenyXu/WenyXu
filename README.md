@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [wangtuo](https://github.com/wangtuo)
 - [ipqwery](https://github.com/ipqwery)
 - [nholuongut](https://github.com/nholuongut)
 - [XiaomingX](https://github.com/XiaomingX)
 - [Goldendragon1029](https://github.com/Goldendragon1029)
-- [stormasm](https://github.com/stormasm)
 
 
