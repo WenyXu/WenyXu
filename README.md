@@ -6,9 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: add log for converting region to follower](https://github.com/GreptimeTeam/greptimedb/pull/5222) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [refactor: remove unnecessary wrap](https://github.com/GreptimeTeam/greptimedb/pull/5221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [chore: adjust fuzz tests cfg](https://github.com/GreptimeTeam/greptimedb/pull/5207) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: add log for converting region to follower](https://github.com/GreptimeTeam/greptimedb/pull/5222) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [refactor: remove unnecessary wrap](https://github.com/GreptimeTeam/greptimedb/pull/5221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: adjust fuzz tests cfg](https://github.com/GreptimeTeam/greptimedb/pull/5207) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove duplicate `QueryContext`](https://github.com/GreptimeTeam/greptimedb/pull/5200) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: impl ser/de for `QueryContext`](https://github.com/GreptimeTeam/greptime-proto/pull/205) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [fix: ensure table route metadata is eventually rolled back on failure](https://github.com/GreptimeTeam/greptimedb/pull/5174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -19,8 +19,8 @@ Hi 👋 Weny here.
 - [feat(index): add `file_size_hint` for remote blob reader](https://github.com/GreptimeTeam/greptimedb/pull/5147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add prefetch support to `InvertedIndexFooterReader` for reduced I/O time](https://github.com/GreptimeTeam/greptimedb/pull/5146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add prefetch support to `PuffinFileFooterReader` for reduced I/O time](https://github.com/GreptimeTeam/greptimedb/pull/5145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [ci: set meta replicas to 1](https://github.com/GreptimeTeam/greptimedb/pull/5111) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: correct metasrv config](https://github.com/GreptimeTeam/docs/pull/1357) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
+- [ci: set meta replicas to 1](https://github.com/GreptimeTeam/greptimedb/pull/5111) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix: correct metasrv config](https://github.com/GreptimeTeam/docs/pull/1357) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [chore: correct example config file](https://github.com/GreptimeTeam/greptimedb/pull/5105) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: relocate CLI to a dedicated directory](https://github.com/GreptimeTeam/greptimedb/pull/5101) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce cli tool for switching WAL](https://github.com/GreptimeTeam/greptimedb/pull/5091) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -35,7 +35,7 @@ Hi 👋 Weny here.
 #### ⭐ Check out my recent stars
 
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (2 weeks ago)
-- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (4 weeks ago)
+- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (1 month ago)
 - [kscarlett/nginx-log-generator](https://github.com/kscarlett/nginx-log-generator) - A tiny Go utility to generate a large amount realistic-looking Nginx logs quickly. (1 month ago)
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics (1 month ago)
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust (1 month ago)
@@ -52,10 +52,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (2 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) - A synthetic nginx log generator designed specifically for GreptimeDB, built using the official greptimedb-ingester-go SDK (1 week ago)
-- [WenyXu/clickhouse-csv-loader](https://github.com/WenyXu/clickhouse-csv-loader) -  (3 weeks ago)
+- [WenyXu/clickhouse-csv-loader](https://github.com/WenyXu/clickhouse-csv-loader) -  (4 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 
 #### 👯 Check out my recent followers
