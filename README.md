@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: add log for converting region to follower](https://github.com/GreptimeTeam/greptimedb/pull/5222) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor: remove unnecessary wrap](https://github.com/GreptimeTeam/greptimedb/pull/5221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: add log for converting region to follower](https://github.com/GreptimeTeam/greptimedb/pull/5222) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: remove unnecessary wrap](https://github.com/GreptimeTeam/greptimedb/pull/5221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [chore: adjust fuzz tests cfg](https://github.com/GreptimeTeam/greptimedb/pull/5207) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove duplicate `QueryContext`](https://github.com/GreptimeTeam/greptimedb/pull/5200) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: impl ser/de for `QueryContext`](https://github.com/GreptimeTeam/greptime-proto/pull/205) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (3 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) - A synthetic nginx log generator designed specifically for GreptimeDB, built using the official greptimedb-ingester-go SDK (1 week ago)
 - [WenyXu/clickhouse-csv-loader](https://github.com/WenyXu/clickhouse-csv-loader) -  (4 weeks ago)
