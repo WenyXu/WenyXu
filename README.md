@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: index reader](https://github.com/GreptimeTeam/greptimedb/pull/5276) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add log for converting region to follower](https://github.com/GreptimeTeam/greptimedb/pull/5222) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove unnecessary wrap](https://github.com/GreptimeTeam/greptimedb/pull/5221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: adjust fuzz tests cfg](https://github.com/GreptimeTeam/greptimedb/pull/5207) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: add ci for go build and lint](https://github.com/WenyXu/fake-log-ingester/pull/3) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (1 month ago)
 - [chore(Dockerfile): upgrade go version to 1.22](https://github.com/WenyXu/fake-log-ingester/pull/2) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (1 month ago)
 - [feat: alter database ttl](https://github.com/GreptimeTeam/greptime-proto/pull/203) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
-- [feat: add unset option syntax in alter table](https://github.com/GreptimeTeam/docs/pull/1315) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
