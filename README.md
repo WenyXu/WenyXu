@@ -64,6 +64,6 @@ Hi 👋 Weny here.
 - [wangtuo](https://github.com/wangtuo)
 - [ipqwery](https://github.com/ipqwery)
 - [nholuongut](https://github.com/nholuongut)
-- [XiaomingX](https://github.com/XiaomingX)
+- [Goldendragon1029](https://github.com/Goldendragon1029)
 
 
