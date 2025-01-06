@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [itsKayWat](https://github.com/itsKayWat)
 - [bludnic](https://github.com/bludnic)
 - [wangtuo](https://github.com/wangtuo)
 - [ipqwery](https://github.com/ipqwery)
 - [nholuongut](https://github.com/nholuongut)
-- [Goldendragon1029](https://github.com/Goldendragon1029)
 
 
