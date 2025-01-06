@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `PrimaryKeyEncoding`](https://github.com/GreptimeTeam/greptime-proto/pull/208) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix(fuzz): ensure all regions leases are renewed](https://github.com/GreptimeTeam/greptimedb/pull/5294) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `ParallelFstValuesMapper`](https://github.com/GreptimeTeam/greptimedb/pull/5276) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: add log for converting region to follower](https://github.com/GreptimeTeam/greptimedb/pull/5222) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: correct `is_exceeded_size_limit` behavior for in-memory store](https://github.com/GreptimeTeam/greptimedb/pull/5082) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: enable compression for metasrv client](https://github.com/GreptimeTeam/greptimedb/pull/5078) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: add ci for go build and lint](https://github.com/WenyXu/fake-log-ingester/pull/3) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (1 month ago)
-- [chore(Dockerfile): upgrade go version to 1.22](https://github.com/WenyXu/fake-log-ingester/pull/2) on [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 week ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) - A synthetic nginx log generator designed specifically for GreptimeDB, built using the official greptimedb-ingester-go SDK (3 weeks ago)
 - [WenyXu/clickhouse-csv-loader](https://github.com/WenyXu/clickhouse-csv-loader) -  (1 month ago)
