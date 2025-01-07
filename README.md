@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore(nightly-ci): remove `pg_kvbackend` feature gate in windows ci](https://github.com/GreptimeTeam/greptimedb/pull/5310) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: add postgres kvbackend config docs](https://github.com/GreptimeTeam/docs/pull/1435) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [refactor: refactor `PgStore`](https://github.com/GreptimeTeam/greptimedb/pull/5309) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(pg_backend): correct `set idle_in_transaction_session_timeout` statement](https://github.com/GreptimeTeam/greptimedb/pull/5304) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `PrimaryKeyEncoding`](https://github.com/GreptimeTeam/greptime-proto/pull/208) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [chore: correct example config file](https://github.com/GreptimeTeam/greptimedb/pull/5105) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: relocate CLI to a dedicated directory](https://github.com/GreptimeTeam/greptimedb/pull/5101) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: introduce cli tool for switching WAL](https://github.com/GreptimeTeam/greptimedb/pull/5091) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: recover file cache index asynchronously](https://github.com/GreptimeTeam/greptimedb/pull/5087) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: correct `is_exceeded_size_limit` behavior for in-memory store](https://github.com/GreptimeTeam/greptimedb/pull/5082) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,18 +52,18 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. (today)
 - [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) - A synthetic nginx log generator designed specifically for GreptimeDB, built using the official greptimedb-ingester-go SDK (3 weeks ago)
 - [WenyXu/clickhouse-csv-loader](https://github.com/WenyXu/clickhouse-csv-loader) -  (1 month ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 
 #### 👯 Check out my recent followers
 
+- [yihong0618](https://github.com/yihong0618)
 - [itsKayWat](https://github.com/itsKayWat)
 - [bludnic](https://github.com/bludnic)
 - [wangtuo](https://github.com/wangtuo)
 - [ipqwery](https://github.com/ipqwery)
-- [nholuongut](https://github.com/nholuongut)
 
 
