@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce `PrimaryKeyEncoding`](https://github.com/GreptimeTeam/greptimedb/pull/5312) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(nightly-ci): remove `pg_kvbackend` feature gate in windows ci](https://github.com/GreptimeTeam/greptimedb/pull/5310) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add postgres kvbackend config docs](https://github.com/GreptimeTeam/docs/pull/1435) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [refactor: refactor `PgStore`](https://github.com/GreptimeTeam/greptimedb/pull/5309) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: correct metasrv config](https://github.com/GreptimeTeam/docs/pull/1357) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [chore: correct example config file](https://github.com/GreptimeTeam/greptimedb/pull/5105) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: relocate CLI to a dedicated directory](https://github.com/GreptimeTeam/greptimedb/pull/5101) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: introduce cli tool for switching WAL](https://github.com/GreptimeTeam/greptimedb/pull/5091) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
