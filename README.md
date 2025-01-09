@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [build: disable local IP detection feature in Android binary](https://github.com/GreptimeTeam/greptimedb/pull/5327) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: auto detecting local IP to use as hostname](https://github.com/GreptimeTeam/greptimedb/pull/5314) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: introduce `PrimaryKeyEncoding`](https://github.com/GreptimeTeam/greptimedb/pull/5312) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore(nightly-ci): remove `pg_kvbackend` feature gate in windows ci](https://github.com/GreptimeTeam/greptimedb/pull/5310) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add prefetch support to `PuffinFileFooterReader` for reduced I/O time](https://github.com/GreptimeTeam/greptimedb/pull/5145) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [ci: set meta replicas to 1](https://github.com/GreptimeTeam/greptimedb/pull/5111) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: correct metasrv config](https://github.com/GreptimeTeam/docs/pull/1357) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [chore: correct example config file](https://github.com/GreptimeTeam/greptimedb/pull/5105) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
