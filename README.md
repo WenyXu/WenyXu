@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(metric-engine): introduce `Encoder` for MetricEngine](https://github.com/GreptimeTeam/greptimedb/pull/5380) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(metric-engine): introduce index options from metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5374) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(metric-engine): introduce `experimental_sparse_primary_key_encoding` to `MetricEngineConfig`](https://github.com/GreptimeTeam/greptimedb/pull/5373) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: introduce `SparsePrimaryKeyCodec` and `SparsePrimaryKeyFilter`](https://github.com/GreptimeTeam/greptimedb/pull/5365) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: ensure table route metadata is eventually rolled back on failure](https://github.com/GreptimeTeam/greptimedb/pull/5174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: correct `set_region_role_state_gracefully` behaviors](https://github.com/GreptimeTeam/greptimedb/pull/5171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: correct auto balancer options](https://github.com/GreptimeTeam/docs/pull/1382) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [feat: introduce fetcher](https://github.com/GreptimeTeam/greptimedb/pull/5154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
