@@ -7,7 +7,7 @@ Hi 👋 Weny here.
 #### 🔨 Check out my recent pull requests
 
 - [fix!: correct index cache config](https://github.com/GreptimeTeam/greptimedb/pull/5381) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(metric-engine): introduce `Encoder` for MetricEngine](https://github.com/GreptimeTeam/greptimedb/pull/5380) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(metric-engine): introduce `RowModifier ` for MetricEngine](https://github.com/GreptimeTeam/greptimedb/pull/5380) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(metric-engine): introduce index options from metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5374) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(metric-engine): introduce `experimental_sparse_primary_key_encoding` to `MetricEngineConfig`](https://github.com/GreptimeTeam/greptimedb/pull/5373) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: introduce `SparsePrimaryKeyCodec` and `SparsePrimaryKeyFilter`](https://github.com/GreptimeTeam/greptimedb/pull/5365) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
