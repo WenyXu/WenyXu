@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [yihong0618](https://github.com/yihong0618)
 - [hustlyt](https://github.com/hustlyt)
 - [jyq920203](https://github.com/jyq920203)
 - [acm-py](https://github.com/acm-py)
-- [yihong0618](https://github.com/yihong0618)
 - [itsKayWat](https://github.com/itsKayWat)
 
 
