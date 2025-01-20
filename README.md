@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: replace `DensePrimaryKeyCodec` with `Arc&lt;dyn PrimaryKeyCodec&gt;`](https://github.com/GreptimeTeam/greptimedb/pull/5408) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: correct index cache config](https://github.com/GreptimeTeam/docs/pull/1484) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix!: correct index cache config](https://github.com/GreptimeTeam/greptimedb/pull/5381) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat(metric-engine): introduce `RowModifier` for MetricEngine](https://github.com/GreptimeTeam/greptimedb/pull/5380) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: adjust fuzz tests cfg](https://github.com/GreptimeTeam/greptimedb/pull/5207) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: remove duplicate `QueryContext`](https://github.com/GreptimeTeam/greptimedb/pull/5200) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: impl ser/de for `QueryContext`](https://github.com/GreptimeTeam/greptime-proto/pull/205) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
-- [fix: ensure table route metadata is eventually rolled back on failure](https://github.com/GreptimeTeam/greptimedb/pull/5174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
