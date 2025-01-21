@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce loader](https://github.com/WenyXu/metrics-bench-suite/pull/3) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (today)
 - [fix: remove incorrect test](https://github.com/WenyXu/metrics-bench-suite/pull/2) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 day ago)
 - [feat: replace `DensePrimaryKeyCodec` with `Arc&lt;dyn PrimaryKeyCodec&gt;`](https://github.com/GreptimeTeam/greptimedb/pull/5408) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: correct index cache config](https://github.com/GreptimeTeam/docs/pull/1484) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: add log for converting region to follower](https://github.com/GreptimeTeam/greptimedb/pull/5222) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [refactor: remove unnecessary wrap](https://github.com/GreptimeTeam/greptimedb/pull/5221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [chore: adjust fuzz tests cfg](https://github.com/GreptimeTeam/greptimedb/pull/5207) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: remove duplicate `QueryContext`](https://github.com/GreptimeTeam/greptimedb/pull/5200) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) -  (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
+- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
 - [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) - A synthetic nginx log generator designed specifically for GreptimeDB, built using the official greptimedb-ingester-go SDK (1 month ago)
 - [WenyXu/clickhouse-csv-loader](https://github.com/WenyXu/clickhouse-csv-loader) -  (1 month ago)
