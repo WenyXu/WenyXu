@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: support to write rows with sparse primary key encoding](https://github.com/GreptimeTeam/greptimedb/pull/5424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce loader](https://github.com/WenyXu/metrics-bench-suite/pull/3) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 day ago)
 - [fix: remove incorrect test](https://github.com/WenyXu/metrics-bench-suite/pull/2) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (2 days ago)
 - [feat: replace `DensePrimaryKeyCodec` with `Arc&lt;dyn PrimaryKeyCodec&gt;`](https://github.com/GreptimeTeam/greptimedb/pull/5408) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce `ParallelFstValuesMapper`](https://github.com/GreptimeTeam/greptimedb/pull/5276) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: add log for converting region to follower](https://github.com/GreptimeTeam/greptimedb/pull/5222) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [refactor: remove unnecessary wrap](https://github.com/GreptimeTeam/greptimedb/pull/5221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [chore: adjust fuzz tests cfg](https://github.com/GreptimeTeam/greptimedb/pull/5207) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
