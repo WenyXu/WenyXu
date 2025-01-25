@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: avoid necessary cloning](https://github.com/GreptimeTeam/greptimedb/pull/5454) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce scale factor for loader](https://github.com/WenyXu/metrics-bench-suite/pull/4) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 day ago)
 - [feat(metric-engine): support to write rows with sparse primary key encoding](https://github.com/GreptimeTeam/greptimedb/pull/5424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: introduce loader](https://github.com/WenyXu/metrics-bench-suite/pull/3) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `PrimaryKeyEncoding`](https://github.com/GreptimeTeam/greptime-proto/pull/208) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 - [fix(fuzz): ensure all regions leases are renewed](https://github.com/GreptimeTeam/greptimedb/pull/5294) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce `ParallelFstValuesMapper`](https://github.com/GreptimeTeam/greptimedb/pull/5276) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: add log for converting region to follower](https://github.com/GreptimeTeam/greptimedb/pull/5222) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
