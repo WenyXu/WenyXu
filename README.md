@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (today)
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (6 days ago)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 month ago)
 - [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (2 months ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka. (5 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (5 months ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (5 months ago)
-- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language (5 months ago)
 
 #### 👷 Check out what I'm currently working on
 
