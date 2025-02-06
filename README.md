@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [containerd/ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments) (today)
+- [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing. (today)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 week ago)
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (2 weeks ago)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 month ago)
@@ -47,8 +49,6 @@ Hi 👋 Weny here.
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (5 months ago)
 - [rustls/rustls-native-certs](https://github.com/rustls/rustls-native-certs) - Integration with OS certificate stores for rustls (5 months ago)
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka. (6 months ago)
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (6 months ago)
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (6 months ago)
 
 #### 👷 Check out what I'm currently working on
 
