@@ -8,7 +8,7 @@ Hi 👋 Weny here.
 
 - [fix: introduce gc task for metadata store](https://github.com/GreptimeTeam/greptimedb/pull/5461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: avoid necessary cloning](https://github.com/GreptimeTeam/greptimedb/pull/5454) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce scale factor for loader](https://github.com/WenyXu/metrics-bench-suite/pull/4) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 week ago)
+- [feat: introduce scale factor for loader](https://github.com/WenyXu/metrics-bench-suite/pull/4) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (2 weeks ago)
 - [feat(metric-engine): support to write rows with sparse primary key encoding](https://github.com/GreptimeTeam/greptimedb/pull/5424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce loader](https://github.com/WenyXu/metrics-bench-suite/pull/3) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (2 weeks ago)
 - [fix: remove incorrect test](https://github.com/WenyXu/metrics-bench-suite/pull/2) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (2 weeks ago)
@@ -23,7 +23,7 @@ Hi 👋 Weny here.
 - [chore: avoid sending create table requests for already existing tables](https://github.com/GreptimeTeam/greptimedb/pull/5347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add `WriteHint` and `PrimaryKeyEncoding` to `Mutation`](https://github.com/GreptimeTeam/greptime-proto/pull/209) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 weeks ago)
 - [build: disable local IP detection feature in Android binary](https://github.com/GreptimeTeam/greptimedb/pull/5327) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [feat: auto detecting local IP to use as hostname](https://github.com/GreptimeTeam/greptimedb/pull/5314) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [feat: auto detecting local IP to use as hostname](https://github.com/GreptimeTeam/greptimedb/pull/5314) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: introduce `PrimaryKeyEncoding`](https://github.com/GreptimeTeam/greptimedb/pull/5312) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore(nightly-ci): remove `pg_kvbackend` feature gate in windows ci](https://github.com/GreptimeTeam/greptimedb/pull/5310) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add postgres kvbackend config docs](https://github.com/GreptimeTeam/docs/pull/1435) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
@@ -34,8 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [containerd/ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments) (today)
-- [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing. (today)
+- [containerd/ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments) (1 day ago)
+- [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing. (1 day ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 week ago)
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (2 weeks ago)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 month ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (today)
-- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 week ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
+- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [WenyXu/fake-log-ingester](https://github.com/WenyXu/fake-log-ingester) - A synthetic nginx log generator designed specifically for GreptimeDB, built using the official greptimedb-ingester-go SDK (1 month ago)
