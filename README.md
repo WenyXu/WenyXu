@@ -6,7 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(promql-planner): correct AND operator behavior](https://github.com/GreptimeTeam/greptimedb/pull/5557) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(promql-planner): remove le tag in ctx](https://github.com/GreptimeTeam/greptimedb/pull/5560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(promql-planner): correct AND/UNLESS operator behavior](https://github.com/GreptimeTeam/greptimedb/pull/5557) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(promql-planner): update ctx field columns of OR operator](https://github.com/GreptimeTeam/greptimedb/pull/5556) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [perf: optimize table alteration speed in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5526) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [fix(promql): unescape matcher values](https://github.com/GreptimeTeam/greptimedb/pull/5521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: skip building indexer when `indexed_column_ids` are empty](https://github.com/GreptimeTeam/greptimedb/pull/5348) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: avoid sending create table requests for already existing tables](https://github.com/GreptimeTeam/greptimedb/pull/5347) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add `WriteHint` and `PrimaryKeyEncoding` to `Mutation`](https://github.com/GreptimeTeam/greptime-proto/pull/209) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
-- [build: disable local IP detection feature in Android binary](https://github.com/GreptimeTeam/greptimedb/pull/5327) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
