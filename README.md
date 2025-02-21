@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(promql-planner): support vector matching for binary operation](https://github.com/GreptimeTeam/greptimedb/pull/5578) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(promql-planner): introducce vector matching and group left modifier for binary operation](https://github.com/GreptimeTeam/greptimedb/pull/5578) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: enable gzip for prometheus query handlers and ignore NaN values in prometheus response](https://github.com/GreptimeTeam/greptimedb/pull/5576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(promql-planner): remove le tag in ctx](https://github.com/GreptimeTeam/greptimedb/pull/5560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix(promql-planner): correct AND/UNLESS operator behavior](https://github.com/GreptimeTeam/greptimedb/pull/5557) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
