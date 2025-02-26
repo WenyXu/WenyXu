@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add create table examples for metrics engine](https://github.com/GreptimeTeam/docs/pull/1522) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [chore: correct region migration note](https://github.com/GreptimeTeam/docs/pull/1520) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: correct `inverted_indexed_column_ids` behavior](https://github.com/GreptimeTeam/greptimedb/pull/5586) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(promql-planner): introduce vector matching and group left modifier for binary operation](https://github.com/GreptimeTeam/greptimedb/pull/5578) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: enable gzip for prometheus query handlers and ignore NaN values in prometheus response](https://github.com/GreptimeTeam/greptimedb/pull/5576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [fix!: correct index cache config](https://github.com/GreptimeTeam/greptimedb/pull/5381) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat(metric-engine): introduce `RowModifier` for MetricEngine](https://github.com/GreptimeTeam/greptimedb/pull/5380) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat(metric-engine): introduce index options from metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5374) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat(metric-engine): introduce `experimental_sparse_primary_key_encoding` to `MetricEngineConfig`](https://github.com/GreptimeTeam/greptimedb/pull/5373) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: introduce `SparsePrimaryKeyCodec` and `SparsePrimaryKeyFilter`](https://github.com/GreptimeTeam/greptimedb/pull/5365) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,11 +52,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (3 days ago)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 month ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
 
 #### 👯 Check out my recent followers
 
