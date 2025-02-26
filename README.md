@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(prom): preserve the order of series in `PromQueryResult`](https://github.com/GreptimeTeam/greptimedb/pull/5601) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add create table examples for metrics engine](https://github.com/GreptimeTeam/docs/pull/1522) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: correct region migration note](https://github.com/GreptimeTeam/docs/pull/1520) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: correct `inverted_indexed_column_ids` behavior](https://github.com/GreptimeTeam/greptimedb/pull/5586) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: correct index cache config](https://github.com/GreptimeTeam/docs/pull/1484) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [fix!: correct index cache config](https://github.com/GreptimeTeam/greptimedb/pull/5381) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat(metric-engine): introduce `RowModifier` for MetricEngine](https://github.com/GreptimeTeam/greptimedb/pull/5380) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat(metric-engine): introduce index options from metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5374) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
