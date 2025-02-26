@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [Update cluster.yaml](https://github.com/GreptimeTeam/greptimedb-operator/pull/245) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (today)
 - [feat: introduce `prom_round` fn](https://github.com/GreptimeTeam/greptimedb/pull/5604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(prom): preserve the order of series in `PromQueryResult`](https://github.com/GreptimeTeam/greptimedb/pull/5601) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add create table examples for metrics engine](https://github.com/GreptimeTeam/docs/pull/1522) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: remove incorrect test](https://github.com/WenyXu/metrics-bench-suite/pull/2) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 month ago)
 - [feat: replace `DensePrimaryKeyCodec` with `Arc&lt;dyn PrimaryKeyCodec&gt;`](https://github.com/GreptimeTeam/greptimedb/pull/5408) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: correct index cache config](https://github.com/GreptimeTeam/docs/pull/1484) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [fix!: correct index cache config](https://github.com/GreptimeTeam/greptimedb/pull/5381) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
