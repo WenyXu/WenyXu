@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: bump version to 0.13.0](https://github.com/GreptimeTeam/greptimedb/pull/5611) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix typos](https://github.com/GreptimeTeam/docs/pull/1528) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [Update cluster.yaml](https://github.com/GreptimeTeam/greptimedb-operator/pull/245) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (1 day ago)
 - [feat: introduce `prom_round` fn](https://github.com/GreptimeTeam/greptimedb/pull/5604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat(metric-engine): support to write rows with sparse primary key encoding](https://github.com/GreptimeTeam/greptimedb/pull/5424) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: introduce loader](https://github.com/WenyXu/metrics-bench-suite/pull/3) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 month ago)
 - [fix: remove incorrect test](https://github.com/WenyXu/metrics-bench-suite/pull/2) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 month ago)
-- [feat: replace `DensePrimaryKeyCodec` with `Arc&lt;dyn PrimaryKeyCodec&gt;`](https://github.com/GreptimeTeam/greptimedb/pull/5408) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
