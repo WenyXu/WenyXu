@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: prevent failover to the same peer for region](https://github.com/GreptimeTeam/greptimedb/pull/5632) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(metric-engine): group DDL requests](https://github.com/GreptimeTeam/greptimedb/pull/5628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: increase timeout for opening candidate region and log elapsed time](https://github.com/GreptimeTeam/greptimedb/pull/5627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: refactor region leader state validation](https://github.com/GreptimeTeam/greptimedb/pull/5626) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: refactor region server request handling](https://github.com/GreptimeTeam/greptimedb/pull/5504) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [perf: optimize table creation speed in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5503) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: introduce gc task for metadata store](https://github.com/GreptimeTeam/greptimedb/pull/5461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [chore: avoid necessary cloning](https://github.com/GreptimeTeam/greptimedb/pull/5454) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
