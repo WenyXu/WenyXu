@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [perf(prom): optimize label values query](https://github.com/GreptimeTeam/greptimedb/pull/5653) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: prevent failover of regions to the same peer](https://github.com/GreptimeTeam/greptimedb/pull/5632) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(metric-engine): group DDL requests](https://github.com/GreptimeTeam/greptimedb/pull/5628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: increase timeout for opening candidate region and log elapsed time](https://github.com/GreptimeTeam/greptimedb/pull/5627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(promql): ignore filters for non-existent labels](https://github.com/GreptimeTeam/greptimedb/pull/5519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: refactor region server request handling](https://github.com/GreptimeTeam/greptimedb/pull/5504) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [perf: optimize table creation speed in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5503) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: introduce gc task for metadata store](https://github.com/GreptimeTeam/greptimedb/pull/5461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
