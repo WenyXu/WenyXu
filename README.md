@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [enhance: sample generator](https://github.com/WenyXu/metrics-bench-suite/pull/11) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (today)
 - [feat: write ouput to parquet](https://github.com/WenyXu/metrics-bench-suite/pull/10) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (today)
 - [feat: introduce config modifier &amp; sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/9) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 day ago)
 - [feat: introduce samples generator](https://github.com/WenyXu/metrics-bench-suite/pull/5) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(promql-planner): update ctx field columns of OR operator](https://github.com/GreptimeTeam/greptimedb/pull/5556) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [perf: optimize table alteration speed in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5526) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(promql): unescape matcher values](https://github.com/GreptimeTeam/greptimedb/pull/5521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix(query_range): skip data field on errors](https://github.com/GreptimeTeam/greptimedb/pull/5520) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
