@@ -6,13 +6,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: introduce config modifier &amp; sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/9) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (today)
-- [feat: introduce samples generator](https://github.com/WenyXu/metrics-bench-suite/pull/5) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 day ago)
-- [perf(prom): optimize label values query](https://github.com/GreptimeTeam/greptimedb/pull/5653) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: prevent failover of regions to the same peer](https://github.com/GreptimeTeam/greptimedb/pull/5632) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix(metric-engine): group DDL requests](https://github.com/GreptimeTeam/greptimedb/pull/5628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix: increase timeout for opening candidate region and log elapsed time](https://github.com/GreptimeTeam/greptimedb/pull/5627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix: refactor region leader state validation](https://github.com/GreptimeTeam/greptimedb/pull/5626) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: introduce config modifier &amp; sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/9) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 day ago)
+- [feat: introduce samples generator](https://github.com/WenyXu/metrics-bench-suite/pull/5) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (2 days ago)
+- [perf(prom): optimize label values query](https://github.com/GreptimeTeam/greptimedb/pull/5653) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: prevent failover of regions to the same peer](https://github.com/GreptimeTeam/greptimedb/pull/5632) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix(metric-engine): group DDL requests](https://github.com/GreptimeTeam/greptimedb/pull/5628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: increase timeout for opening candidate region and log elapsed time](https://github.com/GreptimeTeam/greptimedb/pull/5627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: refactor region leader state validation](https://github.com/GreptimeTeam/greptimedb/pull/5626) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add 0.12.0 changelog](https://github.com/GreptimeTeam/docs/pull/1533) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [chore: bump version to 0.13.0](https://github.com/GreptimeTeam/greptimedb/pull/5611) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix typos](https://github.com/GreptimeTeam/docs/pull/1528) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -25,8 +25,8 @@ Hi 👋 Weny here.
 - [feat(promql-planner): introduce vector matching binary operation](https://github.com/GreptimeTeam/greptimedb/pull/5578) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: enable gzip for prometheus query handlers and ignore NaN values in prometheus response](https://github.com/GreptimeTeam/greptimedb/pull/5576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(promql-planner): remove le tag in ctx](https://github.com/GreptimeTeam/greptimedb/pull/5560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(promql-planner): correct AND/UNLESS operator behavior](https://github.com/GreptimeTeam/greptimedb/pull/5557) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(promql-planner): update ctx field columns of OR operator](https://github.com/GreptimeTeam/greptimedb/pull/5556) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [fix(promql-planner): correct AND/UNLESS operator behavior](https://github.com/GreptimeTeam/greptimedb/pull/5557) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix(promql-planner): update ctx field columns of OR operator](https://github.com/GreptimeTeam/greptimedb/pull/5556) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [perf: optimize table alteration speed in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5526) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(promql): unescape matcher values](https://github.com/GreptimeTeam/greptimedb/pull/5521) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(query_range): skip data field on errors](https://github.com/GreptimeTeam/greptimedb/pull/5520) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (1 day ago)
+- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (2 days ago)
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows (3 weeks ago)
 - [containerd/ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments) (1 month ago)
 - [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing. (1 month ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (4 days ago)
+- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (5 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (2 weeks ago)
