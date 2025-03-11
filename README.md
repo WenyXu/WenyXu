@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [wgzhao](https://github.com/wgzhao)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
 - [LinuxJS](https://github.com/LinuxJS)
 - [XiaomingX](https://github.com/XiaomingX)
 - [Breeze-P](https://github.com/Breeze-P)
-- [Khalilheyrani](https://github.com/Khalilheyrani)
 
 
