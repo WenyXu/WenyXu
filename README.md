@@ -6,14 +6,14 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(promql): implement pushdown of promql plan for single partitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/5698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: enhance sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/14) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (4 days ago)
-- [chore: update release and add shell scripts](https://github.com/WenyXu/metrics-bench-suite/pull/13) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (4 days ago)
-- [feat: introduce table creator](https://github.com/WenyXu/metrics-bench-suite/pull/12) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (4 days ago)
-- [enhance: sample generator](https://github.com/WenyXu/metrics-bench-suite/pull/11) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (4 days ago)
-- [feat: write ouput to parquet](https://github.com/WenyXu/metrics-bench-suite/pull/10) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (4 days ago)
-- [feat: introduce config modifier &amp; sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/9) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (5 days ago)
-- [feat: introduce samples generator](https://github.com/WenyXu/metrics-bench-suite/pull/5) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (6 days ago)
+- [feat(promql): implement pushdown of promql plan for single partitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/5698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: enhance sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/14) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (5 days ago)
+- [chore: update release and add shell scripts](https://github.com/WenyXu/metrics-bench-suite/pull/13) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (5 days ago)
+- [feat: introduce table creator](https://github.com/WenyXu/metrics-bench-suite/pull/12) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (5 days ago)
+- [enhance: sample generator](https://github.com/WenyXu/metrics-bench-suite/pull/11) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (5 days ago)
+- [feat: write ouput to parquet](https://github.com/WenyXu/metrics-bench-suite/pull/10) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (5 days ago)
+- [feat: introduce config modifier &amp; sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/9) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (6 days ago)
+- [feat: introduce samples generator](https://github.com/WenyXu/metrics-bench-suite/pull/5) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 week ago)
 - [perf(prom): optimize label values query](https://github.com/GreptimeTeam/greptimedb/pull/5653) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: prevent failover of regions to the same peer](https://github.com/GreptimeTeam/greptimedb/pull/5632) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(metric-engine): group DDL requests](https://github.com/GreptimeTeam/greptimedb/pull/5628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (6 days ago)
+- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (1 week ago)
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows (1 month ago)
 - [containerd/ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments) (1 month ago)
 - [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing. (1 month ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (3 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (4 days ago)
+- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (5 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (2 weeks ago)
