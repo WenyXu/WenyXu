@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce `CurrentRegionManifest`](https://github.com/GreptimeTeam/greptimedb/pull/5736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(promql): implement pushdown of promql plan for single partitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/5698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: enhance sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/14) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 week ago)
 - [chore: update release and add shell scripts](https://github.com/WenyXu/metrics-bench-suite/pull/13) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: correct `inverted_indexed_column_ids` behavior](https://github.com/GreptimeTeam/greptimedb/pull/5586) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(promql-planner): introduce vector matching binary operation](https://github.com/GreptimeTeam/greptimedb/pull/5578) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: enable gzip for prometheus query handlers and ignore NaN values in prometheus response](https://github.com/GreptimeTeam/greptimedb/pull/5576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix(promql-planner): remove le tag in ctx](https://github.com/GreptimeTeam/greptimedb/pull/5560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
