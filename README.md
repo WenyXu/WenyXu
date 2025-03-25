@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce `RegionFollowerClient`](https://github.com/GreptimeTeam/greptimedb/pull/5771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement `sync_region` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/5765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptimedb/pull/5762) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/224) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [Update cluster.yaml](https://github.com/GreptimeTeam/greptimedb-operator/pull/245) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (3 weeks ago)
 - [feat: introduce `prom_round` fn](https://github.com/GreptimeTeam/greptimedb/pull/5604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(prom): preserve the order of series in `PromQueryResult`](https://github.com/GreptimeTeam/greptimedb/pull/5601) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add create table examples for metric engine](https://github.com/GreptimeTeam/docs/pull/1522) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
