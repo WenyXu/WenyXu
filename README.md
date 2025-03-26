@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix region follower procedure](https://github.com/GreptimeTeam/greptimedb/pull/5781) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: add `AddRegionFollower` and `RemoveRegionFollower` admin fn](https://github.com/GreptimeTeam/greptimedb/pull/5780) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: move `list_flow_stats` to `ClusterInfo` trait.](https://github.com/GreptimeTeam/greptimedb/pull/5774) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `RegionFollowerClient` trait](https://github.com/GreptimeTeam/greptimedb/pull/5771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement `sync_region` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/5765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [docs: add 0.12.0 changelog](https://github.com/GreptimeTeam/docs/pull/1533) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [chore: bump version to 0.13.0](https://github.com/GreptimeTeam/greptimedb/pull/5611) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: fix typos](https://github.com/GreptimeTeam/docs/pull/1528) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
-- [Update cluster.yaml](https://github.com/GreptimeTeam/greptimedb-operator/pull/245) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (4 weeks ago)
-- [feat: introduce `prom_round` fn](https://github.com/GreptimeTeam/greptimedb/pull/5604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
