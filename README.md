@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: remove useless region follower legacy code](https://github.com/GreptimeTeam/greptimedb/pull/5787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce read preference](https://github.com/GreptimeTeam/greptimedb/pull/5783) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: impl show region](https://github.com/GreptimeTeam/greptimedb/pull/5782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix region follower procedure](https://github.com/GreptimeTeam/greptimedb/pull/5781) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(metric-engine): group DDL requests](https://github.com/GreptimeTeam/greptimedb/pull/5628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: increase timeout for opening candidate region and log elapsed time](https://github.com/GreptimeTeam/greptimedb/pull/5627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: refactor region leader state validation](https://github.com/GreptimeTeam/greptimedb/pull/5626) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [docs: add 0.12.0 changelog](https://github.com/GreptimeTeam/docs/pull/1533) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
