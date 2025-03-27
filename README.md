@@ -6,14 +6,14 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: impl show region](https://github.com/GreptimeTeam/greptimedb/pull/5782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: fix region follower procedure](https://github.com/GreptimeTeam/greptimedb/pull/5781) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add `AddRegionFollower` and `RemoveRegionFollower` admin fn](https://github.com/GreptimeTeam/greptimedb/pull/5780) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [refactor: move `list_flow_stats` to `ClusterInfo` trait.](https://github.com/GreptimeTeam/greptimedb/pull/5774) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: introduce `RegionFollowerClient` trait](https://github.com/GreptimeTeam/greptimedb/pull/5771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: implement `sync_region` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/5765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptimedb/pull/5762) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/224) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
+- [feat: impl show region](https://github.com/GreptimeTeam/greptimedb/pull/5782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: fix region follower procedure](https://github.com/GreptimeTeam/greptimedb/pull/5781) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add `AddRegionFollower` and `RemoveRegionFollower` admin fn](https://github.com/GreptimeTeam/greptimedb/pull/5780) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [refactor: move `list_flow_stats` to `ClusterInfo` trait.](https://github.com/GreptimeTeam/greptimedb/pull/5774) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: introduce `RegionFollowerClient` trait](https://github.com/GreptimeTeam/greptimedb/pull/5771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: implement `sync_region` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/5765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptimedb/pull/5762) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/224) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
 - [feat: introduce `install_manifest_to` for `RegionManifestManager`](https://github.com/GreptimeTeam/greptimedb/pull/5742) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce `CurrentRegionManifest`](https://github.com/GreptimeTeam/greptimedb/pull/5736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(promql): implement pushdown of promql plan for single partitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/5698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -29,8 +29,8 @@ Hi 👋 Weny here.
 - [fix(metric-engine): group DDL requests](https://github.com/GreptimeTeam/greptimedb/pull/5628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: increase timeout for opening candidate region and log elapsed time](https://github.com/GreptimeTeam/greptimedb/pull/5627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: refactor region leader state validation](https://github.com/GreptimeTeam/greptimedb/pull/5626) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [docs: add 0.12.0 changelog](https://github.com/GreptimeTeam/docs/pull/1533) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
-- [chore: bump version to 0.13.0](https://github.com/GreptimeTeam/greptimedb/pull/5611) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [docs: add 0.12.0 changelog](https://github.com/GreptimeTeam/docs/pull/1533) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
+- [chore: bump version to 0.13.0](https://github.com/GreptimeTeam/greptimedb/pull/5611) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -42,7 +42,7 @@ Hi 👋 Weny here.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 month ago)
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (2 months ago)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (3 months ago)
-- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (3 months ago)
+- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (4 months ago)
 - [kscarlett/nginx-log-generator](https://github.com/kscarlett/nginx-log-generator) - A tiny Go utility to generate a large amount realistic-looking Nginx logs quickly. (4 months ago)
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics (4 months ago)
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust (4 months ago)
@@ -52,10 +52,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observerability database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observerability database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 weeks ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 month ago)
 
 #### 👯 Check out my recent followers
