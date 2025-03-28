@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (today)
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). (1 week ago)
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (2 weeks ago)
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows (1 month ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust (4 months ago)
 - [libwebp-wasm/gif2webp](https://github.com/libwebp-wasm/gif2webp) - A wasm version for gif2webp of libwebp (5 months ago)
 - [dequbed/rsasl](https://github.com/dequbed/rsasl) - The Rust SASL framework (7 months ago)
-- [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface (7 months ago)
 
 #### 👷 Check out what I'm currently working on
 
