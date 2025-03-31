@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `Show Regions` and update `REGION_PEERS` docs](https://github.com/GreptimeTeam/docs/pull/1616) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [feat: add `max_running_procedures`](https://github.com/GreptimeTeam/docs/pull/1615) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: correct release date](https://github.com/GreptimeTeam/docs/pull/1611) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [fix: correct error status code](https://github.com/GreptimeTeam/greptimedb/pull/5802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: remove useless region follower legacy code](https://github.com/GreptimeTeam/greptimedb/pull/5795) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce table creator](https://github.com/WenyXu/metrics-bench-suite/pull/12) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
 - [enhance: sample generator](https://github.com/WenyXu/metrics-bench-suite/pull/11) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
 - [feat: write ouput to parquet](https://github.com/WenyXu/metrics-bench-suite/pull/10) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
-- [feat: introduce config modifier &amp; sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/9) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
-- [feat: introduce samples generator](https://github.com/WenyXu/metrics-bench-suite/pull/5) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -53,9 +53,9 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observerability database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (today)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 week ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 month ago)
 
 #### 👯 Check out my recent followers
