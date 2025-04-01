@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce `CollectLeaderRegionHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: expose modules](https://github.com/GreptimeTeam/greptimedb/pull/5810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove backoff config](https://github.com/GreptimeTeam/greptimedb/pull/5808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `Show Regions` and update `REGION_PEERS` docs](https://github.com/GreptimeTeam/docs/pull/1616) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat(promql): implement pushdown of promql plan for single partitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/5698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: enhance sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/14) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
 - [chore: update release and add shell scripts](https://github.com/WenyXu/metrics-bench-suite/pull/13) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
-- [feat: introduce table creator](https://github.com/WenyXu/metrics-bench-suite/pull/12) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -53,9 +53,9 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observerability database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (today)
+- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
-- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (2 weeks ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 month ago)
 
 #### 👯 Check out my recent followers
