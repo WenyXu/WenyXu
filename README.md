@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce poison mechanism for procedure ](https://github.com/GreptimeTeam/greptimedb/pull/5822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `CollectLeaderRegionHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: expose modules](https://github.com/GreptimeTeam/greptimedb/pull/5810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: remove backoff config](https://github.com/GreptimeTeam/greptimedb/pull/5808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce `CurrentRegionManifest`](https://github.com/GreptimeTeam/greptimedb/pull/5736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(promql): implement pushdown of promql plan for single partitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/5698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: enhance sample loader](https://github.com/WenyXu/metrics-bench-suite/pull/14) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
-- [chore: update release and add shell scripts](https://github.com/WenyXu/metrics-bench-suite/pull/13) on [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
