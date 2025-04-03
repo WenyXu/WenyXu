@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: implement `sync_region` for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `extensions` field to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/227) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat: introduce poison mechanism for procedure ](https://github.com/GreptimeTeam/greptimedb/pull/5822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `CollectLeaderRegionHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/224) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat: introduce `install_manifest_to` for `RegionManifestManager`](https://github.com/GreptimeTeam/greptimedb/pull/5742) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce `CurrentRegionManifest`](https://github.com/GreptimeTeam/greptimedb/pull/5736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat(promql): implement pushdown of promql plan for single partitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/5698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
