@@ -6,19 +6,19 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement `sync_region` for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add `extensions` field to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/227) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [feat: introduce poison mechanism for procedure ](https://github.com/GreptimeTeam/greptimedb/pull/5822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: introduce `CollectLeaderRegionHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [chore: expose modules](https://github.com/GreptimeTeam/greptimedb/pull/5810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [refactor: remove backoff config](https://github.com/GreptimeTeam/greptimedb/pull/5808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: add `Show Regions` and update `REGION_PEERS` docs](https://github.com/GreptimeTeam/docs/pull/1616) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [feat: add `max_running_procedures`](https://github.com/GreptimeTeam/docs/pull/1615) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [fix: correct release date](https://github.com/GreptimeTeam/docs/pull/1611) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [fix: correct error status code](https://github.com/GreptimeTeam/greptimedb/pull/5802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [refactor: remove useless region follower legacy code](https://github.com/GreptimeTeam/greptimedb/pull/5795) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: add limit for the number of running procedures](https://github.com/GreptimeTeam/greptimedb/pull/5793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix: throw errors instead of ignoring](https://github.com/GreptimeTeam/greptimedb/pull/5792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: implement `sync_region` for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add `extensions` field to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/227) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [feat: introduce poison mechanism for procedure ](https://github.com/GreptimeTeam/greptimedb/pull/5822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: introduce `CollectLeaderRegionHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: expose modules](https://github.com/GreptimeTeam/greptimedb/pull/5810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [refactor: remove backoff config](https://github.com/GreptimeTeam/greptimedb/pull/5808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: add `Show Regions` and update `REGION_PEERS` docs](https://github.com/GreptimeTeam/docs/pull/1616) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [feat: add `max_running_procedures`](https://github.com/GreptimeTeam/docs/pull/1615) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [fix: correct release date](https://github.com/GreptimeTeam/docs/pull/1611) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [fix: correct error status code](https://github.com/GreptimeTeam/greptimedb/pull/5802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor: remove useless region follower legacy code](https://github.com/GreptimeTeam/greptimedb/pull/5795) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: add limit for the number of running procedures](https://github.com/GreptimeTeam/greptimedb/pull/5793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: throw errors instead of ignoring](https://github.com/GreptimeTeam/greptimedb/pull/5792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove useless region follower legacy code](https://github.com/GreptimeTeam/greptimedb/pull/5787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce read preference](https://github.com/GreptimeTeam/greptimedb/pull/5783) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: impl show region](https://github.com/GreptimeTeam/greptimedb/pull/5782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (6 days ago)
+- [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 week ago)
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). (2 weeks ago)
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (3 weeks ago)
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows (1 month ago)
@@ -52,10 +52,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observerability database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
-- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observerability database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (3 days ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 month ago)
 
 #### 👯 Check out my recent followers
