@@ -6,14 +6,14 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement `sync_region` for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: add `extensions` field to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/227) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
-- [feat: introduce poison mechanism for procedure ](https://github.com/GreptimeTeam/greptimedb/pull/5822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: introduce `CollectLeaderRegionHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [chore: expose modules](https://github.com/GreptimeTeam/greptimedb/pull/5810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [refactor: remove backoff config](https://github.com/GreptimeTeam/greptimedb/pull/5808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: add `Show Regions` and update `REGION_PEERS` docs](https://github.com/GreptimeTeam/docs/pull/1616) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
-- [feat: add `max_running_procedures`](https://github.com/GreptimeTeam/docs/pull/1615) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [feat: implement `sync_region` for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: add `extensions` field to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/227) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [feat: introduce poison mechanism for procedure ](https://github.com/GreptimeTeam/greptimedb/pull/5822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: introduce `CollectLeaderRegionHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5811) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: expose modules](https://github.com/GreptimeTeam/greptimedb/pull/5810) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor: remove backoff config](https://github.com/GreptimeTeam/greptimedb/pull/5808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: add `Show Regions` and update `REGION_PEERS` docs](https://github.com/GreptimeTeam/docs/pull/1616) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [feat: add `max_running_procedures`](https://github.com/GreptimeTeam/docs/pull/1615) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix: correct release date](https://github.com/GreptimeTeam/docs/pull/1611) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix: correct error status code](https://github.com/GreptimeTeam/greptimedb/pull/5802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove useless region follower legacy code](https://github.com/GreptimeTeam/greptimedb/pull/5795) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -26,22 +26,22 @@ Hi 👋 Weny here.
 - [feat: add `AddRegionFollower` and `RemoveRegionFollower` admin fn](https://github.com/GreptimeTeam/greptimedb/pull/5780) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: move `list_flow_stats` to `ClusterInfo` trait.](https://github.com/GreptimeTeam/greptimedb/pull/5774) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce `RegionFollowerClient` trait](https://github.com/GreptimeTeam/greptimedb/pull/5771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: implement `sync_region` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/5765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce `CustomizedRegionLeaseRenewer`](https://github.com/GreptimeTeam/greptimedb/pull/5762) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/224) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
+- [feat: implement `sync_region` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/5765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: introduce `CustomizedRegionLeaseRenewer`](https://github.com/GreptimeTeam/greptimedb/pull/5762) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/224) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 - [feat: introduce `install_manifest_to` for `RegionManifestManager`](https://github.com/GreptimeTeam/greptimedb/pull/5742) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce `CurrentRegionManifest`](https://github.com/GreptimeTeam/greptimedb/pull/5736) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [datafusion-contrib/datafusion-table-providers](https://github.com/datafusion-contrib/datafusion-table-providers) - DataFusion TableProviders for reading data from other systems (today)
-- [canndrew/netsim](https://github.com/canndrew/netsim) - Network simulation in Rust (today)
+- [datafusion-contrib/datafusion-table-providers](https://github.com/datafusion-contrib/datafusion-table-providers) - DataFusion TableProviders for reading data from other systems (1 day ago)
+- [canndrew/netsim](https://github.com/canndrew/netsim) - Network simulation in Rust (1 day ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 week ago)
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). (3 weeks ago)
-- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (4 weeks ago)
+- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (1 month ago)
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows (1 month ago)
-- [containerd/ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments) (1 month ago)
-- [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing. (1 month ago)
+- [containerd/ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments) (2 months ago)
+- [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing. (2 months ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (2 months ago)
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (2 months ago)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (3 months ago)
@@ -52,10 +52,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observerability database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (3 days ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
-- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observerability database for metrics, logs and events, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (4 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 days ago)
+- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (6 days ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 month ago)
 
 #### 👯 Check out my recent followers
