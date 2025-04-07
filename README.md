@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `region_id` to `CountdownTaskHandlerExt`](https://github.com/GreptimeTeam/greptimedb/pull/5834) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `ProcedureStatus::Poisoned`](https://github.com/GreptimeTeam/greptime-proto/pull/229) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat: implement `sync_region` for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: add `extensions` field to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/227) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: implement `sync_region` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/5765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce `CustomizedRegionLeaseRenewer`](https://github.com/GreptimeTeam/greptimedb/pull/5762) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add `manifest_version` to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/224) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
-- [feat: introduce `install_manifest_to` for `RegionManifestManager`](https://github.com/GreptimeTeam/greptimedb/pull/5742) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
