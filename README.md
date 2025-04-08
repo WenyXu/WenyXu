@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: improve error code handling in status code conversion](https://github.com/GreptimeTeam/greptimedb/pull/5851) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: make `admin_fn` macro usable outside common_function module](https://github.com/GreptimeTeam/greptimedb/pull/5850) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add 0.13.1 &amp; 0.13.2 changelog](https://github.com/GreptimeTeam/docs/pull/1634) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: include follower peers in region distribution](https://github.com/GreptimeTeam/greptimedb/pull/5844) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce read preference](https://github.com/GreptimeTeam/greptimedb/pull/5783) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: impl show region](https://github.com/GreptimeTeam/greptimedb/pull/5782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix region follower procedure](https://github.com/GreptimeTeam/greptimedb/pull/5781) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add `AddRegionFollower` and `RemoveRegionFollower` admin fn](https://github.com/GreptimeTeam/greptimedb/pull/5780) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
