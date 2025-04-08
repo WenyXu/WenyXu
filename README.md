@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: include follower peers in region distribution](https://github.com/GreptimeTeam/greptimedb/pull/5844) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: alway rejects write while downgrading region](https://github.com/GreptimeTeam/greptimedb/pull/5842) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump version to 0.13.2](https://github.com/GreptimeTeam/greptimedb/pull/5837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `region_id` to `CountdownTaskHandlerExt`](https://github.com/GreptimeTeam/greptimedb/pull/5834) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `AddRegionFollower` and `RemoveRegionFollower` admin fn](https://github.com/GreptimeTeam/greptimedb/pull/5780) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: move `list_flow_stats` to `ClusterInfo` trait.](https://github.com/GreptimeTeam/greptimedb/pull/5774) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce `RegionFollowerClient` trait](https://github.com/GreptimeTeam/greptimedb/pull/5771) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: implement `sync_region` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/5765) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
