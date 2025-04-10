@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: ensure logical regions are synced during region sync](https://github.com/GreptimeTeam/greptimedb/pull/5878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `catalog_manager` to `ProcedureServiceHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5873) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: upgrade opendal to 0.52](https://github.com/GreptimeTeam/greptimedb/pull/5857) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: improve error code handling in status code conversion](https://github.com/GreptimeTeam/greptimedb/pull/5851) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add limit for the number of running procedures](https://github.com/GreptimeTeam/greptimedb/pull/5793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: throw errors instead of ignoring](https://github.com/GreptimeTeam/greptimedb/pull/5792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: remove useless region follower legacy code](https://github.com/GreptimeTeam/greptimedb/pull/5787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: introduce read preference](https://github.com/GreptimeTeam/greptimedb/pull/5783) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
