@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `SyncRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/230) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix: ensure logical regions are synced during region sync](https://github.com/GreptimeTeam/greptimedb/pull/5878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: add `catalog_manager` to `ProcedureServiceHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5873) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [chore: upgrade opendal to 0.52](https://github.com/GreptimeTeam/greptimedb/pull/5857) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: remove useless region follower legacy code](https://github.com/GreptimeTeam/greptimedb/pull/5795) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add limit for the number of running procedures](https://github.com/GreptimeTeam/greptimedb/pull/5793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: throw errors instead of ignoring](https://github.com/GreptimeTeam/greptimedb/pull/5792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: remove useless region follower legacy code](https://github.com/GreptimeTeam/greptimedb/pull/5787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
