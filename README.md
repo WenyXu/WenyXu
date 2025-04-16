@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: sync region followers after altering regions](https://github.com/GreptimeTeam/greptimedb/pull/5901) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add `SyncRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/230) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
-- [fix: ensure logical regions are synced during region sync](https://github.com/GreptimeTeam/greptimedb/pull/5878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: add `catalog_manager` to `ProcedureServiceHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5873) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [chore: upgrade opendal to 0.52](https://github.com/GreptimeTeam/greptimedb/pull/5857) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: sync region followers after altering regions](https://github.com/GreptimeTeam/greptimedb/pull/5901) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add `SyncRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/230) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
+- [fix: ensure logical regions are synced during region sync](https://github.com/GreptimeTeam/greptimedb/pull/5878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add `catalog_manager` to `ProcedureServiceHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5873) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: upgrade opendal to 0.52](https://github.com/GreptimeTeam/greptimedb/pull/5857) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: improve error code handling in status code conversion](https://github.com/GreptimeTeam/greptimedb/pull/5851) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: make `admin_fn` macro usable outside common_function module](https://github.com/GreptimeTeam/greptimedb/pull/5850) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add 0.13.1 &amp; 0.13.2 changelog](https://github.com/GreptimeTeam/docs/pull/1634) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
