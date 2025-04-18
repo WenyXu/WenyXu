@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: upgrade ci runner image version](https://github.com/GreptimeTeam/greptime-proto/pull/233) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat: prevent migrating a leader region to a peer that already has a region follower](https://github.com/GreptimeTeam/greptimedb/pull/5923) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: avoid double schema projection in file format readers](https://github.com/GreptimeTeam/greptimedb/pull/5918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [docs: remove backoff config](https://github.com/GreptimeTeam/docs/pull/1649) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: remove backoff config](https://github.com/GreptimeTeam/greptimedb/pull/5808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add `Show Regions` and update `REGION_PEERS` docs](https://github.com/GreptimeTeam/docs/pull/1616) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [feat: add `max_running_procedures`](https://github.com/GreptimeTeam/docs/pull/1615) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [fix: correct release date](https://github.com/GreptimeTeam/docs/pull/1611) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
