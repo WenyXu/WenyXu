@@ -6,12 +6,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: upgrade ci runner image version](https://github.com/GreptimeTeam/greptime-proto/pull/233) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [feat: prevent migrating a leader region to a peer that already has a region follower](https://github.com/GreptimeTeam/greptimedb/pull/5923) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: avoid double schema projection in file format readers](https://github.com/GreptimeTeam/greptimedb/pull/5918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: remove backoff config](https://github.com/GreptimeTeam/docs/pull/1649) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [feat: sync region followers after altering regions](https://github.com/GreptimeTeam/greptimedb/pull/5901) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: add `SyncRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/230) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [chore: upgrade ci runner image version](https://github.com/GreptimeTeam/greptime-proto/pull/233) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [feat: prevent migrating a leader region to a peer that already has a region follower](https://github.com/GreptimeTeam/greptimedb/pull/5923) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: avoid double schema projection in file format readers](https://github.com/GreptimeTeam/greptimedb/pull/5918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: remove backoff config](https://github.com/GreptimeTeam/docs/pull/1649) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [feat: sync region followers after altering regions](https://github.com/GreptimeTeam/greptimedb/pull/5901) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: add `SyncRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/230) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
 - [fix: ensure logical regions are synced during region sync](https://github.com/GreptimeTeam/greptimedb/pull/5878) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `catalog_manager` to `ProcedureServiceHandler`](https://github.com/GreptimeTeam/greptimedb/pull/5873) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: upgrade opendal to 0.52](https://github.com/GreptimeTeam/greptimedb/pull/5857) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -52,10 +52,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
-- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
+- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (1 month ago)
 
 #### 👯 Check out my recent followers
