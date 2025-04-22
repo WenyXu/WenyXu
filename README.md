@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [helallao](https://github.com/helallao)
 - [filedonkey](https://github.com/filedonkey)
 - [galaxyxym](https://github.com/galaxyxym)
 - [AlexiaChen](https://github.com/AlexiaChen)
-- [lalaorya](https://github.com/lalaorya)
 
 
