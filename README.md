@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: enhance selector with node exclusion support](https://github.com/GreptimeTeam/greptimedb/pull/5966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: track region failover attempts and adjust timeout](https://github.com/GreptimeTeam/greptimedb/pull/5952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: introduce flush metadata region task for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `exclude_peer_ids` to `SelectorOptions`](https://github.com/GreptimeTeam/greptimedb/pull/5949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `ProcedureStatus::Poisoned`](https://github.com/GreptimeTeam/greptime-proto/pull/229) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 - [feat: implement `sync_region` for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add `extensions` field to `GrantedRegion`](https://github.com/GreptimeTeam/greptime-proto/pull/227) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
-- [feat: introduce poison mechanism for procedure ](https://github.com/GreptimeTeam/greptimedb/pull/5822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
