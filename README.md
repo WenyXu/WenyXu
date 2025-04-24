@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add read write decoupling docs](https://github.com/GreptimeTeam/docs/pull/1680) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [feat: allow forced region failover for local WAL](https://github.com/GreptimeTeam/greptimedb/pull/5972) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: improve observability of region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/5967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: enhance selector with node exclusion support](https://github.com/GreptimeTeam/greptimedb/pull/5966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: track region failover attempts and adjust timeout](https://github.com/GreptimeTeam/greptimedb/pull/5952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [fix: alway rejects write while downgrading region](https://github.com/GreptimeTeam/greptimedb/pull/5842) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: bump version to 0.13.2](https://github.com/GreptimeTeam/greptimedb/pull/5837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add `region_id` to `CountdownTaskHandlerExt`](https://github.com/GreptimeTeam/greptimedb/pull/5834) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add `ProcedureStatus::Poisoned`](https://github.com/GreptimeTeam/greptime-proto/pull/229) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
-- [feat: implement `sync_region` for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5826) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
