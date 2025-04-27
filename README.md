@@ -63,7 +63,7 @@ Hi 👋 Weny here.
 - [tigerfsh](https://github.com/tigerfsh)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [helallao](https://github.com/helallao)
-- [filedonkey](https://github.com/filedonkey)
 - [galaxyxym](https://github.com/galaxyxym)
+- [AlexiaChen](https://github.com/AlexiaChen)
 
 
