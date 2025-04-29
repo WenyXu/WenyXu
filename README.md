@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement batch open metric regions](https://github.com/GreptimeTeam/greptimedb/pull/6017) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: implement batch region opening in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/6017) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: only consider the datanode that reports the failure](https://github.com/GreptimeTeam/greptimedb/pull/6004) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: flush leader region before downgrading](https://github.com/GreptimeTeam/greptimedb/pull/5995) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: introduce `RegionStatAwareSelector` trait](https://github.com/GreptimeTeam/greptimedb/pull/5990) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
