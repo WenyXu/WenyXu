@@ -7,7 +7,7 @@ Hi 👋 Weny here.
 #### 🔨 Check out my recent pull requests
 
 - [feat(meta): enhance region lease handling with operating status](https://github.com/GreptimeTeam/greptimedb/pull/6027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: improve region migration error handling and pusher disconnect tracking](https://github.com/GreptimeTeam/greptimedb/pull/6026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: improve region migration error handling and optimize leader downgrade with lease check](https://github.com/GreptimeTeam/greptimedb/pull/6026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: optimize region migration concurrency with fine-grained table lock](https://github.com/GreptimeTeam/greptimedb/pull/6023) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: enhance maintenance mode API and handling](https://github.com/GreptimeTeam/greptimedb/pull/6022) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement batch region opening in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/6017) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
