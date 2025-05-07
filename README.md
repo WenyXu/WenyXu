@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add datanode role metadata support](https://github.com/GreptimeTeam/greptimedb/pull/6055) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: introduce `DatanodeRoleMetadata`](https://github.com/GreptimeTeam/greptime-proto/pull/235) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [feat: add datanode mode metadata support](https://github.com/GreptimeTeam/greptimedb/pull/6055) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add datanode mode support](https://github.com/GreptimeTeam/greptime-proto/pull/235) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat(meta): enhance region lease handling with operating status](https://github.com/GreptimeTeam/greptimedb/pull/6027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: improve region migration error handling and optimize leader downgrade with lease check](https://github.com/GreptimeTeam/greptimedb/pull/6026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: optimize region migration concurrency with fine-grained table lock](https://github.com/GreptimeTeam/greptimedb/pull/6023) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
