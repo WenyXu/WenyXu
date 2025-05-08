@@ -7,8 +7,8 @@ Hi 👋 Weny here.
 #### 🔨 Check out my recent pull requests
 
 - [fix(query): ensure proper handling of escaped regex in PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add datanode mode metadata support](https://github.com/GreptimeTeam/greptimedb/pull/6055) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add datanode mode support](https://github.com/GreptimeTeam/greptime-proto/pull/235) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
+- [feat: add datanode workloads support](https://github.com/GreptimeTeam/greptimedb/pull/6055) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: introduce node workloads](https://github.com/GreptimeTeam/greptime-proto/pull/235) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
 - [feat(meta): enhance region lease handling with operating status](https://github.com/GreptimeTeam/greptimedb/pull/6027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: improve region migration error handling and optimize leader downgrade with lease check](https://github.com/GreptimeTeam/greptimedb/pull/6026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: optimize region migration concurrency with fine-grained table lock](https://github.com/GreptimeTeam/greptimedb/pull/6023) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
