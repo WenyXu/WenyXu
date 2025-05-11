@@ -6,18 +6,18 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(meta): add pusher deregister signal to mailbox receiver](https://github.com/GreptimeTeam/greptimedb/pull/6072) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix(query): ensure proper handling of escaped regex in PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add datanode workloads support](https://github.com/GreptimeTeam/greptimedb/pull/6055) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: introduce node workloads](https://github.com/GreptimeTeam/greptime-proto/pull/235) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [feat(meta): add pusher deregister signal to mailbox receiver](https://github.com/GreptimeTeam/greptimedb/pull/6072) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix(query): ensure proper handling of escaped regex in PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add datanode workloads support](https://github.com/GreptimeTeam/greptimedb/pull/6055) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: introduce node workloads](https://github.com/GreptimeTeam/greptime-proto/pull/235) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
 - [feat(meta): enhance region lease handling with operating status](https://github.com/GreptimeTeam/greptimedb/pull/6027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: improve region migration error handling and optimize leader downgrade with lease check](https://github.com/GreptimeTeam/greptimedb/pull/6026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: optimize region migration concurrency with fine-grained table lock](https://github.com/GreptimeTeam/greptimedb/pull/6023) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: enhance maintenance mode API and handling](https://github.com/GreptimeTeam/greptimedb/pull/6022) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement batch region opening in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/6017) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: only consider the datanode that reports the failure](https://github.com/GreptimeTeam/greptimedb/pull/6004) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: flush leader region before downgrading](https://github.com/GreptimeTeam/greptimedb/pull/5995) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce `RegionStatAwareSelector` trait](https://github.com/GreptimeTeam/greptimedb/pull/5990) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: flush leader region before downgrading](https://github.com/GreptimeTeam/greptimedb/pull/5995) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: introduce `RegionStatAwareSelector` trait](https://github.com/GreptimeTeam/greptimedb/pull/5990) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: update promql limitations](https://github.com/GreptimeTeam/docs/pull/1684) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [docs: add read write decoupling docs](https://github.com/GreptimeTeam/docs/pull/1680) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [feat: allow forced region failover for local WAL](https://github.com/GreptimeTeam/greptimedb/pull/5972) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
-- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
+- [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (5 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (2 months ago)
 
