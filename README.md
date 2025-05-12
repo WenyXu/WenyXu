@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: fix clippy error by feature-gating Query import](https://github.com/GreptimeTeam/greptimedb/pull/6085) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(meta): add pusher deregister signal to mailbox receiver](https://github.com/GreptimeTeam/greptimedb/pull/6072) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix(query): ensure proper handling of escaped regex in PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: add datanode workloads support](https://github.com/GreptimeTeam/greptimedb/pull/6055) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: support building `metasrv` with selector from plugins](https://github.com/GreptimeTeam/greptimedb/pull/5942) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: upgrade ci runner image version](https://github.com/GreptimeTeam/greptime-proto/pull/233) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [feat: prevent migrating a leader region to a peer that already has a region follower](https://github.com/GreptimeTeam/greptimedb/pull/5923) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: avoid double schema projection in file format readers](https://github.com/GreptimeTeam/greptimedb/pull/5918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
