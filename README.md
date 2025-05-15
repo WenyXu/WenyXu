@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add local WAL support details for region failover](https://github.com/GreptimeTeam/docs/pull/1742) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [docs: add `allow_region_failover_on_local_wal` configuration option](https://github.com/GreptimeTeam/docs/pull/1741) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: table metadata collection](https://github.com/GreptimeTeam/greptimedb/pull/6102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: improve topic management and add stale records cleanup](https://github.com/GreptimeTeam/greptimedb/pull/6092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: bump rskafka version](https://github.com/GreptimeTeam/greptimedb/pull/6090) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: enhance selector with node exclusion support](https://github.com/GreptimeTeam/greptimedb/pull/5966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: track region failover attempts and adjust timeout](https://github.com/GreptimeTeam/greptimedb/pull/5952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce flush metadata region task for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add `exclude_peer_ids` to `SelectorOptions`](https://github.com/GreptimeTeam/greptimedb/pull/5949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: remove obsolete failover detectors after region leader change](https://github.com/GreptimeTeam/greptimedb/pull/5944) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,10 +52,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (6 days ago)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 week ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (2 months ago)
 
 #### 👯 Check out my recent followers
