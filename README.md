@@ -9,7 +9,7 @@ Hi 👋 Weny here.
 - [docs: add local WAL support details for region failover](https://github.com/GreptimeTeam/docs/pull/1742) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: add `allow_region_failover_on_local_wal` configuration option](https://github.com/GreptimeTeam/docs/pull/1741) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [fix: table metadata collection](https://github.com/GreptimeTeam/greptimedb/pull/6102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: improve topic management and add stale records cleanup](https://github.com/GreptimeTeam/greptimedb/pull/6092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: append noop entry when auto topic creation is disabled](https://github.com/GreptimeTeam/greptimedb/pull/6092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: bump rskafka version](https://github.com/GreptimeTeam/greptimedb/pull/6090) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: fix clippy error by feature-gating Query import](https://github.com/GreptimeTeam/greptimedb/pull/6085) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat(meta): add pusher deregister signal to mailbox receiver](https://github.com/GreptimeTeam/greptimedb/pull/6072) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
