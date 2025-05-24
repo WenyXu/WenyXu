@@ -25,8 +25,8 @@ Hi 👋 Weny here.
 - [feat: flush leader region before downgrading](https://github.com/GreptimeTeam/greptimedb/pull/5995) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce `RegionStatAwareSelector` trait](https://github.com/GreptimeTeam/greptimedb/pull/5990) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: update promql limitations](https://github.com/GreptimeTeam/docs/pull/1684) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
-- [docs: add read write decoupling docs](https://github.com/GreptimeTeam/docs/pull/1680) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
-- [feat: allow forced region failover for local WAL](https://github.com/GreptimeTeam/greptimedb/pull/5972) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [docs: add read write decoupling docs](https://github.com/GreptimeTeam/docs/pull/1680) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
+- [feat: allow forced region failover for local WAL](https://github.com/GreptimeTeam/greptimedb/pull/5972) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: improve observability of region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/5967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: enhance selector with node exclusion support](https://github.com/GreptimeTeam/greptimedb/pull/5966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: track region failover attempts and adjust timeout](https://github.com/GreptimeTeam/greptimedb/pull/5952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
@@ -56,7 +56,7 @@ Hi 👋 Weny here.
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (2 weeks ago)
-- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (2 months ago)
+- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (3 months ago)
 
 #### 👯 Check out my recent followers
 
