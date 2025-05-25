@@ -22,9 +22,9 @@ Hi 👋 Weny here.
 - [feat: enhance maintenance mode API and handling](https://github.com/GreptimeTeam/greptimedb/pull/6022) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: implement batch region opening in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/6017) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: only consider the datanode that reports the failure](https://github.com/GreptimeTeam/greptimedb/pull/6004) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: flush leader region before downgrading](https://github.com/GreptimeTeam/greptimedb/pull/5995) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: introduce `RegionStatAwareSelector` trait](https://github.com/GreptimeTeam/greptimedb/pull/5990) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [docs: update promql limitations](https://github.com/GreptimeTeam/docs/pull/1684) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
+- [feat: flush leader region before downgrading](https://github.com/GreptimeTeam/greptimedb/pull/5995) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [feat: introduce `RegionStatAwareSelector` trait](https://github.com/GreptimeTeam/greptimedb/pull/5990) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [docs: update promql limitations](https://github.com/GreptimeTeam/docs/pull/1684) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [docs: add read write decoupling docs](https://github.com/GreptimeTeam/docs/pull/1680) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [feat: allow forced region failover for local WAL](https://github.com/GreptimeTeam/greptimedb/pull/5972) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: improve observability of region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/5967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (1 week ago)
+- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (2 weeks ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 month ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (1 month ago)
 - [datafusion-contrib/datafusion-table-providers](https://github.com/datafusion-contrib/datafusion-table-providers) - DataFusion TableProviders for reading data from other systems (1 month ago)
