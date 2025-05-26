@@ -11,7 +11,7 @@ Hi 👋 Weny here.
 - [fix: table metadata collection](https://github.com/GreptimeTeam/greptimedb/pull/6102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: append noop entry when auto topic creation is disabled](https://github.com/GreptimeTeam/greptimedb/pull/6092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: bump rskafka version](https://github.com/GreptimeTeam/greptimedb/pull/6090) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [chore: fix clippy error by feature-gating Query import](https://github.com/GreptimeTeam/greptimedb/pull/6085) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [chore: fix clippy error by feature-gating Query import](https://github.com/GreptimeTeam/greptimedb/pull/6085) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(meta): add pusher deregister signal to mailbox receiver](https://github.com/GreptimeTeam/greptimedb/pull/6072) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(query): ensure proper handling of escaped regex in PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add datanode workloads support](https://github.com/GreptimeTeam/greptimedb/pull/6055) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -21,7 +21,7 @@ Hi 👋 Weny here.
 - [feat: optimize region migration concurrency with fine-grained table lock](https://github.com/GreptimeTeam/greptimedb/pull/6023) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: enhance maintenance mode API and handling](https://github.com/GreptimeTeam/greptimedb/pull/6022) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: implement batch region opening in metric engine](https://github.com/GreptimeTeam/greptimedb/pull/6017) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: only consider the datanode that reports the failure](https://github.com/GreptimeTeam/greptimedb/pull/6004) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix: only consider the datanode that reports the failure](https://github.com/GreptimeTeam/greptimedb/pull/6004) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: flush leader region before downgrading](https://github.com/GreptimeTeam/greptimedb/pull/5995) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: introduce `RegionStatAwareSelector` trait](https://github.com/GreptimeTeam/greptimedb/pull/5990) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [docs: update promql limitations](https://github.com/GreptimeTeam/docs/pull/1684) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
@@ -48,7 +48,7 @@ Hi 👋 Weny here.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (3 months ago)
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (4 months ago)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (5 months ago)
-- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (5 months ago)
+- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (6 months ago)
 
 #### 👷 Check out what I'm currently working on
 
