@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(promql): handle field column projection with correct qualifier](https://github.com/GreptimeTeam/greptimedb/pull/6183) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add local WAL support details for region failover](https://github.com/GreptimeTeam/docs/pull/1742) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [docs: add `allow_region_failover_on_local_wal` configuration option](https://github.com/GreptimeTeam/docs/pull/1741) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix: table metadata collection](https://github.com/GreptimeTeam/greptimedb/pull/6102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: improve observability of region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/5967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: enhance selector with node exclusion support](https://github.com/GreptimeTeam/greptimedb/pull/5966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: track region failover attempts and adjust timeout](https://github.com/GreptimeTeam/greptimedb/pull/5952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: introduce flush metadata region task for metric engine](https://github.com/GreptimeTeam/greptimedb/pull/5951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
