@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [gaojunran](https://github.com/gaojunran)
 - [yinheli](https://github.com/yinheli)
 - [atodekangae](https://github.com/atodekangae)
 - [karuppiah7890](https://github.com/karuppiah7890)
 - [tigerfsh](https://github.com/tigerfsh)
-- [galaxyxym](https://github.com/galaxyxym)
 
 
