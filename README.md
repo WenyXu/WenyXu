@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add docs for maintenance mode](https://github.com/GreptimeTeam/docs/pull/1800) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: add manage metadata docs](https://github.com/GreptimeTeam/docs/pull/1799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: remove stale region failover detectors](https://github.com/GreptimeTeam/greptimedb/pull/6221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: fix feature gates for pg and mysql kvbackend](https://github.com/GreptimeTeam/greptimedb/pull/6211) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: flush leader region before downgrading](https://github.com/GreptimeTeam/greptimedb/pull/5995) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: introduce `RegionStatAwareSelector` trait](https://github.com/GreptimeTeam/greptimedb/pull/5990) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [docs: update promql limitations](https://github.com/GreptimeTeam/docs/pull/1684) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [docs: add read write decoupling docs](https://github.com/GreptimeTeam/docs/pull/1680) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
