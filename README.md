@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: remove stale region failover detectors](https://github.com/GreptimeTeam/greptimedb/pull/6221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: fix feature gates for pg and mysql kvbackend](https://github.com/GreptimeTeam/greptimedb/pull/6211) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: remove poison key before retrying procedure on retryable errors](https://github.com/GreptimeTeam/greptimedb/pull/6189) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix(promql): handle field column projection with correct qualifier](https://github.com/GreptimeTeam/greptimedb/pull/6183) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs: update promql limitations](https://github.com/GreptimeTeam/docs/pull/1684) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [docs: add read write decoupling docs](https://github.com/GreptimeTeam/docs/pull/1680) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [feat: allow forced region failover for local WAL](https://github.com/GreptimeTeam/greptimedb/pull/5972) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: improve observability of region migration procedure](https://github.com/GreptimeTeam/greptimedb/pull/5967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
