@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: skip wal replay when opening follower regions](https://github.com/GreptimeTeam/greptimedb/pull/6234) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add docs for maintenance mode](https://github.com/GreptimeTeam/docs/pull/1800) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [feat: add manage metadata docs](https://github.com/GreptimeTeam/docs/pull/1799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [fix: remove stale region failover detectors](https://github.com/GreptimeTeam/greptimedb/pull/6221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: only consider the datanode that reports the failure](https://github.com/GreptimeTeam/greptimedb/pull/6004) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: flush leader region before downgrading](https://github.com/GreptimeTeam/greptimedb/pull/5995) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: introduce `RegionStatAwareSelector` trait](https://github.com/GreptimeTeam/greptimedb/pull/5990) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [docs: update promql limitations](https://github.com/GreptimeTeam/docs/pull/1684) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
