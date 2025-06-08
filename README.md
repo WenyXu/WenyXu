@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add some metasrv metrics to grafana dashboard](https://github.com/GreptimeTeam/greptimedb/pull/6264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(promql): add constant folding rewrite rule for PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6260) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: convert JSON type to JSON string in COPY TABLE TO statment](https://github.com/GreptimeTeam/greptimedb/pull/6255) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: ignore incomplete WAL entries during read](https://github.com/GreptimeTeam/greptimedb/pull/6251) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: skip wal replay when opening follower regions](https://github.com/GreptimeTeam/greptimedb/pull/6234) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: add some metasrv metrics to grafana dashboard](https://github.com/GreptimeTeam/greptimedb/pull/6264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(promql): add constant folding rewrite rule for PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6260) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: convert JSON type to JSON string in COPY TABLE TO statment](https://github.com/GreptimeTeam/greptimedb/pull/6255) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: ignore incomplete WAL entries during read](https://github.com/GreptimeTeam/greptimedb/pull/6251) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: skip wal replay when opening follower regions](https://github.com/GreptimeTeam/greptimedb/pull/6234) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat: add docs for maintenance mode](https://github.com/GreptimeTeam/docs/pull/1800) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat: add manage metadata docs](https://github.com/GreptimeTeam/docs/pull/1799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix: remove stale region failover detectors](https://github.com/GreptimeTeam/greptimedb/pull/6221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -23,7 +23,7 @@ Hi 👋 Weny here.
 - [fix: append noop entry when auto topic creation is disabled](https://github.com/GreptimeTeam/greptimedb/pull/6092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: bump rskafka version](https://github.com/GreptimeTeam/greptimedb/pull/6090) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: fix clippy error by feature-gating Query import](https://github.com/GreptimeTeam/greptimedb/pull/6085) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat(meta): add pusher deregister signal to mailbox receiver](https://github.com/GreptimeTeam/greptimedb/pull/6072) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [feat(meta): add pusher deregister signal to mailbox receiver](https://github.com/GreptimeTeam/greptimedb/pull/6072) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(query): ensure proper handling of escaped regex in PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6062) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add datanode workloads support](https://github.com/GreptimeTeam/greptimedb/pull/6055) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: introduce node workloads](https://github.com/GreptimeTeam/greptime-proto/pull/235) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
@@ -34,8 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (1 day ago)
-- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (3 weeks ago)
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (2 days ago)
+- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (4 weeks ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 month ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (1 month ago)
 - [datafusion-contrib/datafusion-table-providers](https://github.com/datafusion-contrib/datafusion-table-providers) - DataFusion TableProviders for reading data from other systems (2 months ago)
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 weeks ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 month ago)
 - [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (3 months ago)
 
