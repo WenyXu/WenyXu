@@ -7,7 +7,7 @@ Hi 👋 Weny here.
 #### 🔨 Check out my recent pull requests
 
 - [fix(meta): enhance postgres election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6276) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: describe pods on CI failure](https://github.com/GreptimeTeam/greptimedb/pull/6274) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [chore: improve CI debugging and resource configuration](https://github.com/GreptimeTeam/greptimedb/pull/6274) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add some metasrv metrics to grafana dashboard](https://github.com/GreptimeTeam/greptimedb/pull/6264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(promql): add constant folding rewrite rule for PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6260) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix: convert JSON type to JSON string in COPY TABLE TO statment](https://github.com/GreptimeTeam/greptimedb/pull/6255) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
