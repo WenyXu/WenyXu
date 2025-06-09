@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(meta): enhance postgres election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6276) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: describe pods on CI failure](https://github.com/GreptimeTeam/greptimedb/pull/6274) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add some metasrv metrics to grafana dashboard](https://github.com/GreptimeTeam/greptimedb/pull/6264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(promql): add constant folding rewrite rule for PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6260) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce node workloads](https://github.com/GreptimeTeam/greptime-proto/pull/235) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [feat(meta): enhance region lease handling with operating status](https://github.com/GreptimeTeam/greptimedb/pull/6027) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: improve region migration error handling and optimize leader downgrade with lease check](https://github.com/GreptimeTeam/greptimedb/pull/6026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: optimize region migration concurrency with fine-grained table lock](https://github.com/GreptimeTeam/greptimedb/pull/6023) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
