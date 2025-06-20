@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor(cli): simplify metadata command parameters](https://github.com/GreptimeTeam/greptimedb/pull/6364) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [docs: add CLI utilities documentation](https://github.com/GreptimeTeam/docs/pull/1854) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [refactor: move data/metadata tool option details to the reference ](https://github.com/GreptimeTeam/docs/pull/1853) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix(meta): enhance mysql election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(metric): prevent setting memtable type for metadata region](https://github.com/GreptimeTeam/greptimedb/pull/6340) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [chore: fix feature gates for pg and mysql kvbackend](https://github.com/GreptimeTeam/greptimedb/pull/6211) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: remove poison key before retrying procedure on retryable errors](https://github.com/GreptimeTeam/greptimedb/pull/6189) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(promql): handle field column projection with correct qualifier](https://github.com/GreptimeTeam/greptimedb/pull/6183) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [docs: add local WAL support details for region failover](https://github.com/GreptimeTeam/docs/pull/1742) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [docs: add `allow_region_failover_on_local_wal` configuration option](https://github.com/GreptimeTeam/docs/pull/1741) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
