@@ -6,21 +6,21 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement automatic region failure detector registrations](https://github.com/GreptimeTeam/greptimedb/pull/6370) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [refactor(cli): simplify metadata command parameters](https://github.com/GreptimeTeam/greptimedb/pull/6364) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [docs: add CLI utilities documentation](https://github.com/GreptimeTeam/docs/pull/1854) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [refactor: move data/metadata tool option details to the reference ](https://github.com/GreptimeTeam/docs/pull/1853) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [fix(meta): enhance mysql election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(metric): prevent setting memtable type for metadata region](https://github.com/GreptimeTeam/greptimedb/pull/6340) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(cli): add metadata del commands](https://github.com/GreptimeTeam/greptimedb/pull/6339) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(metric-engine): properly propagate errors during batch open operation](https://github.com/GreptimeTeam/greptimedb/pull/6325) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: introduce CLI tool for repairing logical table metadata](https://github.com/GreptimeTeam/greptimedb/pull/6322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: implement automatic region failure detector registrations](https://github.com/GreptimeTeam/greptimedb/pull/6370) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [refactor(cli): simplify metadata command parameters](https://github.com/GreptimeTeam/greptimedb/pull/6364) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [docs: add CLI utilities documentation](https://github.com/GreptimeTeam/docs/pull/1854) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [refactor: move data/metadata tool option details to the reference ](https://github.com/GreptimeTeam/docs/pull/1853) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [fix(meta): enhance mysql election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix(metric): prevent setting memtable type for metadata region](https://github.com/GreptimeTeam/greptimedb/pull/6340) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat(cli): add metadata del commands](https://github.com/GreptimeTeam/greptimedb/pull/6339) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix(metric-engine): properly propagate errors during batch open operation](https://github.com/GreptimeTeam/greptimedb/pull/6325) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: introduce CLI tool for repairing logical table metadata](https://github.com/GreptimeTeam/greptimedb/pull/6322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: handle corner case in catchup where compacted entry id exceeds region last entry id](https://github.com/GreptimeTeam/greptimedb/pull/6312) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(cli): add metadata get commands](https://github.com/GreptimeTeam/greptimedb/pull/6299) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add build script](https://github.com/GreptimeTeam/benchmark_example/pull/3) on [GreptimeTeam/benchmark_example](https://github.com/GreptimeTeam/benchmark_example) (1 week ago)
 - [fix: fix incorrect kubectl command check in the dump data script](https://github.com/GreptimeTeam/greptimedb-operator/pull/288) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (1 week ago)
-- [fix(meta): enhance postgres election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6276) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [chore: improve CI debugging and resource configuration](https://github.com/GreptimeTeam/greptimedb/pull/6274) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix(meta): enhance postgres election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6276) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [chore: improve CI debugging and resource configuration](https://github.com/GreptimeTeam/greptimedb/pull/6274) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add some metasrv metrics to grafana dashboard](https://github.com/GreptimeTeam/greptimedb/pull/6264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(promql): add constant folding rewrite rule for PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6260) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: convert JSON type to JSON string in COPY TABLE TO statment](https://github.com/GreptimeTeam/greptimedb/pull/6255) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -30,7 +30,7 @@ Hi 👋 Weny here.
 - [feat: add manage metadata docs](https://github.com/GreptimeTeam/docs/pull/1799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [fix: remove stale region failover detectors](https://github.com/GreptimeTeam/greptimedb/pull/6221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: fix feature gates for pg and mysql kvbackend](https://github.com/GreptimeTeam/greptimedb/pull/6211) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: remove poison key before retrying procedure on retryable errors](https://github.com/GreptimeTeam/greptimedb/pull/6189) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix: remove poison key before retrying procedure on retryable errors](https://github.com/GreptimeTeam/greptimedb/pull/6189) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (3 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) - Run GreptimeDB on Kubernetes. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
