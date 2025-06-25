@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add Region Failover configuration guide](https://github.com/GreptimeTeam/docs/pull/1866) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [docs: add warning notice for non-operator deployments in Kubernetes guide](https://github.com/GreptimeTeam/docs/pull/1864) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix(metric-engine): handle stale metadata region recovery failures](https://github.com/GreptimeTeam/greptimedb/pull/6395) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: implement pause/resume functionality for procedure manager](https://github.com/GreptimeTeam/greptimedb/pull/6393) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: ignore incomplete WAL entries during read](https://github.com/GreptimeTeam/greptimedb/pull/6251) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: skip wal replay when opening follower regions](https://github.com/GreptimeTeam/greptimedb/pull/6234) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add docs for maintenance mode](https://github.com/GreptimeTeam/docs/pull/1800) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
-- [feat: add manage metadata docs](https://github.com/GreptimeTeam/docs/pull/1799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
