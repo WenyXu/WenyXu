@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: update maintenance mode API endpoints](https://github.com/GreptimeTeam/docs/pull/1874) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [feat: add prevent metadata changes docs](https://github.com/GreptimeTeam/docs/pull/1873) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [refactor: move `#[allow(clippy::print_stdout)]` to lib level](https://github.com/GreptimeTeam/greptimedb/pull/6398) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add region failure detector initialization delay configuration](https://github.com/GreptimeTeam/docs/pull/1868) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: add Region Failover configuration guide](https://github.com/GreptimeTeam/docs/pull/1866) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [chore: improve CI debugging and resource configuration](https://github.com/GreptimeTeam/greptimedb/pull/6274) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add some metasrv metrics to grafana dashboard](https://github.com/GreptimeTeam/greptimedb/pull/6264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(promql): add constant folding rewrite rule for PromQL](https://github.com/GreptimeTeam/greptimedb/pull/6260) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: convert JSON type to JSON string in COPY TABLE TO statment](https://github.com/GreptimeTeam/greptimedb/pull/6255) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: ignore incomplete WAL entries during read](https://github.com/GreptimeTeam/greptimedb/pull/6251) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
