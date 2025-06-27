@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: remove duplicate WAL configuration content](https://github.com/GreptimeTeam/docs/pull/1889) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [docs: fix heading levels](https://github.com/GreptimeTeam/docs/pull/1888) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: correct typo in configuration](https://github.com/GreptimeTeam/greptimedb/pull/6411) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add Remote WAL configuration documentation](https://github.com/GreptimeTeam/docs/pull/1887) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: correct service role in helm chart configuration examples](https://github.com/GreptimeTeam/docs/pull/1881) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat(cli): add metadata del commands](https://github.com/GreptimeTeam/greptimedb/pull/6339) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(metric-engine): properly propagate errors during batch open operation](https://github.com/GreptimeTeam/greptimedb/pull/6325) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce CLI tool for repairing logical table metadata](https://github.com/GreptimeTeam/greptimedb/pull/6322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: handle corner case in catchup where compacted entry id exceeds region last entry id](https://github.com/GreptimeTeam/greptimedb/pull/6312) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat(cli): add metadata get commands](https://github.com/GreptimeTeam/greptimedb/pull/6299) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
