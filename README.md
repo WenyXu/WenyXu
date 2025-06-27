@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: correct typo in configuration](https://github.com/GreptimeTeam/greptimedb/pull/6411) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [docs: add Remote WAL configuration documentation](https://github.com/GreptimeTeam/docs/pull/1887) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: correct service role in helm chart configuration examples](https://github.com/GreptimeTeam/docs/pull/1881) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: add WAL documentation and dedicated WAL volume configuration](https://github.com/GreptimeTeam/docs/pull/1880) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: fix the incorrect dedicated-wal example path](https://github.com/GreptimeTeam/greptimedb-operator/pull/312) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (1 day ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce CLI tool for repairing logical table metadata](https://github.com/GreptimeTeam/greptimedb/pull/6322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: handle corner case in catchup where compacted entry id exceeds region last entry id](https://github.com/GreptimeTeam/greptimedb/pull/6312) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(cli): add metadata get commands](https://github.com/GreptimeTeam/greptimedb/pull/6299) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: add build script](https://github.com/GreptimeTeam/benchmark_example/pull/3) on [GreptimeTeam/benchmark_example](https://github.com/GreptimeTeam/benchmark_example) (2 weeks ago)
-- [fix: fix incorrect kubectl command check in the dump data script](https://github.com/GreptimeTeam/greptimedb-operator/pull/288) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
