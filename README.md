@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: fix indentation in manage-kafka.md](https://github.com/GreptimeTeam/docs/pull/1898) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [docs: restructure Remote WAL documentation and add Kafka management guide](https://github.com/GreptimeTeam/docs/pull/1892) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [docs: remove duplicate WAL configuration content](https://github.com/GreptimeTeam/docs/pull/1889) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: move data/metadata tool option details to the reference ](https://github.com/GreptimeTeam/docs/pull/1853) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix(meta): enhance mysql election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(metric): prevent setting memtable type for metadata region](https://github.com/GreptimeTeam/greptimedb/pull/6340) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(cli): add metadata del commands](https://github.com/GreptimeTeam/greptimedb/pull/6339) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
