@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [docs: restructure Remote WAL documentation and add Kafka management guide](https://github.com/GreptimeTeam/docs/pull/1892) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [docs: remove duplicate WAL configuration content](https://github.com/GreptimeTeam/docs/pull/1889) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [docs: fix heading levels](https://github.com/GreptimeTeam/docs/pull/1888) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(meta): enhance mysql election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(metric): prevent setting memtable type for metadata region](https://github.com/GreptimeTeam/greptimedb/pull/6340) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(cli): add metadata del commands](https://github.com/GreptimeTeam/greptimedb/pull/6339) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(metric-engine): properly propagate errors during batch open operation](https://github.com/GreptimeTeam/greptimedb/pull/6325) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (3 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) - Run GreptimeDB on Kubernetes. (4 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 month ago)
