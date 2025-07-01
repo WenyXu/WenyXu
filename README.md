@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix dest_keys chunks bug in TombstoneManager](https://github.com/GreptimeTeam/greptimedb/pull/6432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: fix indentation in manage-kafka.md](https://github.com/GreptimeTeam/docs/pull/1898) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: restructure Remote WAL documentation and add Kafka management guide](https://github.com/GreptimeTeam/docs/pull/1892) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs: add CLI utilities documentation](https://github.com/GreptimeTeam/docs/pull/1854) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [refactor: move data/metadata tool option details to the reference ](https://github.com/GreptimeTeam/docs/pull/1853) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix(meta): enhance mysql election client with timeouts and reconnection](https://github.com/GreptimeTeam/greptimedb/pull/6341) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(metric): prevent setting memtable type for metadata region](https://github.com/GreptimeTeam/greptimedb/pull/6340) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [helallao](https://github.com/helallao)
+- [seckinyasar](https://github.com/seckinyasar)
 - [h3n4l](https://github.com/h3n4l)
 - [gaojunran](https://github.com/gaojunran)
 - [yinheli](https://github.com/yinheli)
-- [atodekangae](https://github.com/atodekangae)
-- [karuppiah7890](https://github.com/karuppiah7890)
 
 
