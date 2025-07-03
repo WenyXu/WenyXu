@@ -6,20 +6,20 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix dest_keys chunks bug in TombstoneManager](https://github.com/GreptimeTeam/greptimedb/pull/6432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [chore: fix indentation in manage-kafka.md](https://github.com/GreptimeTeam/docs/pull/1898) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [docs: restructure Remote WAL documentation and add Kafka management guide](https://github.com/GreptimeTeam/docs/pull/1892) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [docs: remove duplicate WAL configuration content](https://github.com/GreptimeTeam/docs/pull/1889) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [docs: fix heading levels](https://github.com/GreptimeTeam/docs/pull/1888) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [chore: correct typo in configuration](https://github.com/GreptimeTeam/greptimedb/pull/6411) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [docs: add Remote WAL configuration documentation](https://github.com/GreptimeTeam/docs/pull/1887) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [fix: correct service role in helm chart configuration examples](https://github.com/GreptimeTeam/docs/pull/1881) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
-- [docs: add WAL documentation and dedicated WAL volume configuration](https://github.com/GreptimeTeam/docs/pull/1880) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
-- [docs: fix the incorrect dedicated-wal example path](https://github.com/GreptimeTeam/greptimedb-operator/pull/312) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (6 days ago)
-- [docs: add MySQL backend example for metadata backup and restore](https://github.com/GreptimeTeam/docs/pull/1875) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
-- [docs: update maintenance mode API endpoints](https://github.com/GreptimeTeam/docs/pull/1874) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
-- [feat: add prevent metadata changes docs](https://github.com/GreptimeTeam/docs/pull/1873) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [fix: fix dest_keys chunks bug in TombstoneManager](https://github.com/GreptimeTeam/greptimedb/pull/6432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [chore: fix indentation in manage-kafka.md](https://github.com/GreptimeTeam/docs/pull/1898) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [docs: restructure Remote WAL documentation and add Kafka management guide](https://github.com/GreptimeTeam/docs/pull/1892) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [docs: remove duplicate WAL configuration content](https://github.com/GreptimeTeam/docs/pull/1889) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [docs: fix heading levels](https://github.com/GreptimeTeam/docs/pull/1888) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [chore: correct typo in configuration](https://github.com/GreptimeTeam/greptimedb/pull/6411) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [docs: add Remote WAL configuration documentation](https://github.com/GreptimeTeam/docs/pull/1887) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [fix: correct service role in helm chart configuration examples](https://github.com/GreptimeTeam/docs/pull/1881) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [docs: add WAL documentation and dedicated WAL volume configuration](https://github.com/GreptimeTeam/docs/pull/1880) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [docs: fix the incorrect dedicated-wal example path](https://github.com/GreptimeTeam/greptimedb-operator/pull/312) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (1 week ago)
+- [docs: add MySQL backend example for metadata backup and restore](https://github.com/GreptimeTeam/docs/pull/1875) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [docs: update maintenance mode API endpoints](https://github.com/GreptimeTeam/docs/pull/1874) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [feat: add prevent metadata changes docs](https://github.com/GreptimeTeam/docs/pull/1873) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [refactor: move `#[allow(clippy::print_stdout)]` to lib level](https://github.com/GreptimeTeam/greptimedb/pull/6398) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add region failure detector initialization delay configuration](https://github.com/GreptimeTeam/docs/pull/1868) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [docs: add Region Failover configuration guide](https://github.com/GreptimeTeam/docs/pull/1866) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
-- [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) - Run GreptimeDB on Kubernetes. (6 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) - Run GreptimeDB on Kubernetes. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 month ago)
 
