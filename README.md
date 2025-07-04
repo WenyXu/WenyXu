@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: persist column ids in table metadata](https://github.com/GreptimeTeam/greptimedb/pull/6457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add column metadata to response extensions](https://github.com/GreptimeTeam/greptimedb/pull/6451) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix dest_keys chunks bug in TombstoneManager](https://github.com/GreptimeTeam/greptimedb/pull/6432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: fix indentation in manage-kafka.md](https://github.com/GreptimeTeam/docs/pull/1898) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: implement automatic region failure detector registrations](https://github.com/GreptimeTeam/greptimedb/pull/6370) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor(cli): simplify metadata command parameters](https://github.com/GreptimeTeam/greptimedb/pull/6364) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: add CLI utilities documentation](https://github.com/GreptimeTeam/docs/pull/1854) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [refactor: move data/metadata tool option details to the reference ](https://github.com/GreptimeTeam/docs/pull/1853) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
