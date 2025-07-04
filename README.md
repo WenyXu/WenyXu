@@ -6,15 +6,15 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add column metadata to response extensions](https://github.com/GreptimeTeam/greptimedb/pull/6451) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: fix dest_keys chunks bug in TombstoneManager](https://github.com/GreptimeTeam/greptimedb/pull/6432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [chore: fix indentation in manage-kafka.md](https://github.com/GreptimeTeam/docs/pull/1898) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [docs: restructure Remote WAL documentation and add Kafka management guide](https://github.com/GreptimeTeam/docs/pull/1892) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
-- [docs: remove duplicate WAL configuration content](https://github.com/GreptimeTeam/docs/pull/1889) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
-- [docs: fix heading levels](https://github.com/GreptimeTeam/docs/pull/1888) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
-- [chore: correct typo in configuration](https://github.com/GreptimeTeam/greptimedb/pull/6411) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [docs: add Remote WAL configuration documentation](https://github.com/GreptimeTeam/docs/pull/1887) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [feat: add column metadata to response extensions](https://github.com/GreptimeTeam/greptimedb/pull/6451) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: fix dest_keys chunks bug in TombstoneManager](https://github.com/GreptimeTeam/greptimedb/pull/6432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: fix indentation in manage-kafka.md](https://github.com/GreptimeTeam/docs/pull/1898) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [docs: restructure Remote WAL documentation and add Kafka management guide](https://github.com/GreptimeTeam/docs/pull/1892) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [docs: remove duplicate WAL configuration content](https://github.com/GreptimeTeam/docs/pull/1889) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [docs: fix heading levels](https://github.com/GreptimeTeam/docs/pull/1888) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [chore: correct typo in configuration](https://github.com/GreptimeTeam/greptimedb/pull/6411) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [docs: add Remote WAL configuration documentation](https://github.com/GreptimeTeam/docs/pull/1887) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix: correct service role in helm chart configuration examples](https://github.com/GreptimeTeam/docs/pull/1881) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [docs: add WAL documentation and dedicated WAL volume configuration](https://github.com/GreptimeTeam/docs/pull/1880) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [docs: fix the incorrect dedicated-wal example path](https://github.com/GreptimeTeam/greptimedb-operator/pull/312) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (1 week ago)
@@ -27,14 +27,14 @@ Hi 👋 Weny here.
 - [docs: add warning notice for non-operator deployments in Kubernetes guide](https://github.com/GreptimeTeam/docs/pull/1864) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix(metric-engine): handle stale metadata region recovery failures](https://github.com/GreptimeTeam/greptimedb/pull/6395) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement pause/resume functionality for procedure manager](https://github.com/GreptimeTeam/greptimedb/pull/6393) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: implement automatic region failure detector registrations](https://github.com/GreptimeTeam/greptimedb/pull/6370) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor(cli): simplify metadata command parameters](https://github.com/GreptimeTeam/greptimedb/pull/6364) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [docs: add CLI utilities documentation](https://github.com/GreptimeTeam/docs/pull/1854) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
-- [refactor: move data/metadata tool option details to the reference ](https://github.com/GreptimeTeam/docs/pull/1853) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [feat: implement automatic region failure detector registrations](https://github.com/GreptimeTeam/greptimedb/pull/6370) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [refactor(cli): simplify metadata command parameters](https://github.com/GreptimeTeam/greptimedb/pull/6364) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [docs: add CLI utilities documentation](https://github.com/GreptimeTeam/docs/pull/1854) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
+- [refactor: move data/metadata tool option details to the reference ](https://github.com/GreptimeTeam/docs/pull/1853) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (3 weeks ago)
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (4 weeks ago)
 - [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (1 month ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 months ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (2 months ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (3 days ago)
 - [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) - Run GreptimeDB on Kubernetes. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (1 month ago)
