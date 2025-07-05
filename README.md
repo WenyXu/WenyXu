@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [IgCodeCraft32](https://github.com/IgCodeCraft32)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [h3n4l](https://github.com/h3n4l)
-- [gaojunran](https://github.com/gaojunran)
 
 
