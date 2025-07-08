@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor(meta): separate validation and execution logic in alter logical tables procedure](https://github.com/GreptimeTeam/greptimedb/pull/6478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor(meta): extract `AlterTableExecutor` from `AlterTableProcedure`](https://github.com/GreptimeTeam/greptimedb/pull/6470) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: persist column ids in table metadata](https://github.com/GreptimeTeam/greptimedb/pull/6457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: add column metadata to response extensions](https://github.com/GreptimeTeam/greptimedb/pull/6451) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(metric-engine): handle stale metadata region recovery failures](https://github.com/GreptimeTeam/greptimedb/pull/6395) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement pause/resume functionality for procedure manager](https://github.com/GreptimeTeam/greptimedb/pull/6393) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: implement automatic region failure detector registrations](https://github.com/GreptimeTeam/greptimedb/pull/6370) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor(cli): simplify metadata command parameters](https://github.com/GreptimeTeam/greptimedb/pull/6364) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
