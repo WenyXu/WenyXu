@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: correctly update partition key indices during alter table operations](https://github.com/GreptimeTeam/greptimedb/pull/6494) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: support multiple index operations in single alter region request](https://github.com/GreptimeTeam/greptimedb/pull/6487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `SetIndexes` and `UnsetIndexes`](https://github.com/GreptimeTeam/greptime-proto/pull/253) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [refactor(meta): separate validation and execution logic in alter logical tables procedure](https://github.com/GreptimeTeam/greptimedb/pull/6478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add region failure detector initialization delay configuration](https://github.com/GreptimeTeam/docs/pull/1868) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [docs: add Region Failover configuration guide](https://github.com/GreptimeTeam/docs/pull/1866) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [docs: add warning notice for non-operator deployments in Kubernetes guide](https://github.com/GreptimeTeam/docs/pull/1864) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [fix(metric-engine): handle stale metadata region recovery failures](https://github.com/GreptimeTeam/greptimedb/pull/6395) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
