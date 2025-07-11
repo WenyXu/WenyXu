@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: change log level for region not found during lease renewal](https://github.com/GreptimeTeam/greptimedb/pull/6513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: correctly update partition key indices during alter table operations](https://github.com/GreptimeTeam/greptimedb/pull/6494) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: support multiple index operations in single alter region request](https://github.com/GreptimeTeam/greptimedb/pull/6487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: introduce `SetIndexes` and `UnsetIndexes`](https://github.com/GreptimeTeam/greptime-proto/pull/253) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: move `#[allow(clippy::print_stdout)]` to lib level](https://github.com/GreptimeTeam/greptimedb/pull/6398) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add region failure detector initialization delay configuration](https://github.com/GreptimeTeam/docs/pull/1868) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [docs: add Region Failover configuration guide](https://github.com/GreptimeTeam/docs/pull/1866) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [docs: add warning notice for non-operator deployments in Kubernetes guide](https://github.com/GreptimeTeam/docs/pull/1864) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [codephage2020](https://github.com/codephage2020)
 - [XiaomingX](https://github.com/XiaomingX)
 - [IgCodeCraft32](https://github.com/IgCodeCraft32)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
-- [h3n4l](https://github.com/h3n4l)
 
 
