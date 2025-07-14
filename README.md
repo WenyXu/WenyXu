@@ -6,17 +6,17 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: change log level for region not found during lease renewal](https://github.com/GreptimeTeam/greptimedb/pull/6513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: correctly update partition key indices during alter table operations](https://github.com/GreptimeTeam/greptimedb/pull/6494) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [refactor: support multiple index operations in single alter region request](https://github.com/GreptimeTeam/greptimedb/pull/6487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: introduce `SetIndexes` and `UnsetIndexes`](https://github.com/GreptimeTeam/greptime-proto/pull/253) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
-- [refactor(meta): separate validation and execution logic in alter logical tables procedure](https://github.com/GreptimeTeam/greptimedb/pull/6478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [refactor(meta): extract `AlterTableExecutor` from `AlterTableProcedure`](https://github.com/GreptimeTeam/greptimedb/pull/6470) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: change log level for region not found during lease renewal](https://github.com/GreptimeTeam/greptimedb/pull/6513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: correctly update partition key indices during alter table operations](https://github.com/GreptimeTeam/greptimedb/pull/6494) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [refactor: support multiple index operations in single alter region request](https://github.com/GreptimeTeam/greptimedb/pull/6487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: introduce `SetIndexes` and `UnsetIndexes`](https://github.com/GreptimeTeam/greptime-proto/pull/253) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
+- [refactor(meta): separate validation and execution logic in alter logical tables procedure](https://github.com/GreptimeTeam/greptimedb/pull/6478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor(meta): extract `AlterTableExecutor` from `AlterTableProcedure`](https://github.com/GreptimeTeam/greptimedb/pull/6470) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: persist column ids in table metadata](https://github.com/GreptimeTeam/greptimedb/pull/6457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add column metadata to response extensions](https://github.com/GreptimeTeam/greptimedb/pull/6451) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix dest_keys chunks bug in TombstoneManager](https://github.com/GreptimeTeam/greptimedb/pull/6432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [chore: fix indentation in manage-kafka.md](https://github.com/GreptimeTeam/docs/pull/1898) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
-- [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [chore: fix indentation in manage-kafka.md](https://github.com/GreptimeTeam/docs/pull/1898) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
+- [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [docs: restructure Remote WAL documentation and add Kafka management guide](https://github.com/GreptimeTeam/docs/pull/1892) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [docs: remove duplicate WAL configuration content](https://github.com/GreptimeTeam/docs/pull/1889) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [docs: fix heading levels](https://github.com/GreptimeTeam/docs/pull/1888) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
@@ -41,7 +41,7 @@ Hi 👋 Weny here.
 - [datafusion-contrib/datafusion-table-providers](https://github.com/datafusion-contrib/datafusion-table-providers) - DataFusion TableProviders for reading data from other systems (3 months ago)
 - [canndrew/netsim](https://github.com/canndrew/netsim) - Network simulation in Rust (3 months ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (3 months ago)
-- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). (3 months ago)
+- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). (4 months ago)
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (4 months ago)
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows (5 months ago)
 - [containerd/ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments) (5 months ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (2 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 days ago)
 - [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) - Run GreptimeDB on Kubernetes. (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 months ago)
 - [WenyXu/metrics-bench-suite](https://github.com/WenyXu/metrics-bench-suite) - Metrics Bench Suite is a set of tools designed to benchmark the storage and querying of metrics data in time-series databases (2 months ago)
