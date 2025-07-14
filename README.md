@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add table reconciliation utilities](https://github.com/GreptimeTeam/greptimedb/pull/6519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: change log level for region not found during lease renewal](https://github.com/GreptimeTeam/greptimedb/pull/6513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: correctly update partition key indices during alter table operations](https://github.com/GreptimeTeam/greptimedb/pull/6494) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [refactor: support multiple index operations in single alter region request](https://github.com/GreptimeTeam/greptimedb/pull/6487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add prevent metadata changes docs](https://github.com/GreptimeTeam/docs/pull/1873) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [refactor: move `#[allow(clippy::print_stdout)]` to lib level](https://github.com/GreptimeTeam/greptimedb/pull/6398) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add region failure detector initialization delay configuration](https://github.com/GreptimeTeam/docs/pull/1868) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [docs: add Region Failover configuration guide](https://github.com/GreptimeTeam/docs/pull/1866) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
