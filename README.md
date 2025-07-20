@@ -6,8 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix state transition in create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/6523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: add table reconciliation utilities](https://github.com/GreptimeTeam/greptimedb/pull/6519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: fix state transition in create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/6523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: add table reconciliation utilities](https://github.com/GreptimeTeam/greptimedb/pull/6519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [chore: change log level for region not found during lease renewal](https://github.com/GreptimeTeam/greptimedb/pull/6513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: correctly update partition key indices during alter table operations](https://github.com/GreptimeTeam/greptimedb/pull/6494) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: support multiple index operations in single alter region request](https://github.com/GreptimeTeam/greptimedb/pull/6487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE&#39;23] (5 days ago)
+- [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE&#39;23] (6 days ago)
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (1 month ago)
 - [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (2 months ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 months ago)
@@ -48,11 +48,11 @@ Hi 👋 Weny here.
 - [containerd/ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments) (5 months ago)
 - [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing. (5 months ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (5 months ago)
-- [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (5 months ago)
+- [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (6 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (3 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) - Run GreptimeDB on Kubernetes. (3 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 months ago)
