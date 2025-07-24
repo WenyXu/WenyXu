@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce reconcile logical tables procedure](https://github.com/GreptimeTeam/greptimedb/pull/6588) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce reconcile table procedure](https://github.com/GreptimeTeam/greptimedb/pull/6584) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `SyncColumns`](https://github.com/GreptimeTeam/greptime-proto/pull/261) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
 - [chore: fix generated code](https://github.com/GreptimeTeam/greptime-proto/pull/260) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: correct service role in helm chart configuration examples](https://github.com/GreptimeTeam/docs/pull/1881) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [docs: add WAL documentation and dedicated WAL volume configuration](https://github.com/GreptimeTeam/docs/pull/1880) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [docs: fix the incorrect dedicated-wal example path](https://github.com/GreptimeTeam/greptimedb-operator/pull/312) on [GreptimeTeam/greptimedb-operator](https://github.com/GreptimeTeam/greptimedb-operator) (4 weeks ago)
-- [docs: add MySQL backend example for metadata backup and restore](https://github.com/GreptimeTeam/docs/pull/1875) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
