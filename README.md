@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce reconciliation interface](https://github.com/GreptimeTeam/greptimedb/pull/6614) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce reconcile catalog procedure](https://github.com/GreptimeTeam/greptimedb/pull/6613) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce reconcile database procedure](https://github.com/GreptimeTeam/greptimedb/pull/6612) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: ignore internal keys in metadata snapshots](https://github.com/GreptimeTeam/greptimedb/pull/6606) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs: add S3/OSS export support and proxy configuration to data export CLI](https://github.com/GreptimeTeam/docs/pull/1896) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [docs: restructure Remote WAL documentation and add Kafka management guide](https://github.com/GreptimeTeam/docs/pull/1892) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [docs: remove duplicate WAL configuration content](https://github.com/GreptimeTeam/docs/pull/1889) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [docs: fix heading levels](https://github.com/GreptimeTeam/docs/pull/1888) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
