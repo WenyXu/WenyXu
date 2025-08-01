@@ -9,7 +9,7 @@ Hi 👋 Weny here.
 - [refactor: remove procedure executor from DDL manager](https://github.com/GreptimeTeam/greptimedb/pull/6625) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: introduce reconcile interface](https://github.com/GreptimeTeam/greptime-proto/pull/264) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat: introduce reconciliation interface](https://github.com/GreptimeTeam/greptimedb/pull/6614) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: introduce reconcile catalog procedure and reconciliation interfaces](https://github.com/GreptimeTeam/greptimedb/pull/6613) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: introduce reconcile catalog procedure](https://github.com/GreptimeTeam/greptimedb/pull/6613) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: introduce reconcile database procedure](https://github.com/GreptimeTeam/greptimedb/pull/6612) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: ignore internal keys in metadata snapshots](https://github.com/GreptimeTeam/greptimedb/pull/6606) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: allow setting next table id via http api](https://github.com/GreptimeTeam/greptimedb/pull/6597) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
