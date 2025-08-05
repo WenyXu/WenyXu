@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(metric-engine): add metadata region cache](https://github.com/GreptimeTeam/greptimedb/pull/6657) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add metrics for reconciliation procedures](https://github.com/GreptimeTeam/greptimedb/pull/6652) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix sequence peek method to return correct values when sequence is not initialized](https://github.com/GreptimeTeam/greptimedb/pull/6643) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: remove procedure executor from DDL manager](https://github.com/GreptimeTeam/greptimedb/pull/6625) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor(meta): extract `AlterTableExecutor` from `AlterTableProcedure`](https://github.com/GreptimeTeam/greptimedb/pull/6470) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: persist column ids in table metadata](https://github.com/GreptimeTeam/greptimedb/pull/6457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add column metadata to response extensions](https://github.com/GreptimeTeam/greptimedb/pull/6451) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: fix dest_keys chunks bug in TombstoneManager](https://github.com/GreptimeTeam/greptimedb/pull/6432) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
