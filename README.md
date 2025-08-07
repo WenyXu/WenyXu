@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refine error status code mappings](https://github.com/GreptimeTeam/greptimedb/pull/6678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: pick automated metadata recovery feature](https://github.com/GreptimeTeam/greptimedb/pull/6676) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: cherry pick metadata recovery related PRs](https://github.com/GreptimeTeam/greptime-proto/pull/266) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [docs: add cluster recovery mode section](https://github.com/GreptimeTeam/docs/pull/2013) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: correctly update partition key indices during alter table operations](https://github.com/GreptimeTeam/greptimedb/pull/6494) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [refactor: support multiple index operations in single alter region request](https://github.com/GreptimeTeam/greptimedb/pull/6487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: introduce `SetIndexes` and `UnsetIndexes`](https://github.com/GreptimeTeam/greptime-proto/pull/253) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 weeks ago)
-- [refactor(meta): separate validation and execution logic in alter logical tables procedure](https://github.com/GreptimeTeam/greptimedb/pull/6478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
