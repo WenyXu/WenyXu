@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add cluster recovery mode section](https://github.com/GreptimeTeam/docs/pull/2013) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat(metric-engine): add metadata region cache](https://github.com/GreptimeTeam/greptimedb/pull/6657) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add metrics for reconciliation procedures](https://github.com/GreptimeTeam/greptimedb/pull/6652) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: fix sequence peek method to return correct values when sequence is not initialized](https://github.com/GreptimeTeam/greptimedb/pull/6643) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor(meta): separate validation and execution logic in alter logical tables procedure](https://github.com/GreptimeTeam/greptimedb/pull/6478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor(meta): extract `AlterTableExecutor` from `AlterTableProcedure`](https://github.com/GreptimeTeam/greptimedb/pull/6470) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: persist column ids in table metadata](https://github.com/GreptimeTeam/greptimedb/pull/6457) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add column metadata to response extensions](https://github.com/GreptimeTeam/greptimedb/pull/6451) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
