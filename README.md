@@ -63,7 +63,7 @@ Hi 👋 Weny here.
 - [Here-is-wen-yi](https://github.com/Here-is-wen-yi)
 - [enduin-ai-debugger](https://github.com/enduin-ai-debugger)
 - [codephage2020](https://github.com/codephage2020)
-- [XiaomingX](https://github.com/XiaomingX)
 - [IgCodeCraft32](https://github.com/IgCodeCraft32)
+- [helallao](https://github.com/helallao)
 
 
