@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add integration tests for table reconciliation procedures part1](https://github.com/GreptimeTeam/greptimedb/pull/6705) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: pick #6415 to release/v0.15](https://github.com/GreptimeTeam/greptimedb/pull/6686) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [refactor: refine error status code mappings](https://github.com/GreptimeTeam/greptimedb/pull/6678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: pick automated metadata recovery feature](https://github.com/GreptimeTeam/greptimedb/pull/6676) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add table reconciliation utilities](https://github.com/GreptimeTeam/greptimedb/pull/6519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [chore: change log level for region not found during lease renewal](https://github.com/GreptimeTeam/greptimedb/pull/6513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: correctly update partition key indices during alter table operations](https://github.com/GreptimeTeam/greptimedb/pull/6494) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: support multiple index operations in single alter region request](https://github.com/GreptimeTeam/greptimedb/pull/6487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
