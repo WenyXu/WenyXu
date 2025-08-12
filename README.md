@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `ProduceResult` with encoded request size metadata](https://github.com/influxdata/rskafka/pull/276) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (today)
 - [feat: add integration tests for table reconciliation procedures part1](https://github.com/GreptimeTeam/greptimedb/pull/6705) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: pick #6415 to release/v0.15](https://github.com/GreptimeTeam/greptimedb/pull/6686) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [refactor: refine error status code mappings](https://github.com/GreptimeTeam/greptimedb/pull/6678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix state transition in create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/6523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [feat: add table reconciliation utilities](https://github.com/GreptimeTeam/greptimedb/pull/6519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [chore: change log level for region not found during lease renewal](https://github.com/GreptimeTeam/greptimedb/pull/6513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: correctly update partition key indices during alter table operations](https://github.com/GreptimeTeam/greptimedb/pull/6494) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
