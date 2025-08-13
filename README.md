@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `TopicStat`](https://github.com/GreptimeTeam/greptime-proto/pull/268) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
+- [feat: introduce `PeriodicTopicStatsReporter`](https://github.com/GreptimeTeam/greptimedb/pull/6730) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `ProduceResult` with encoded request size metadata](https://github.com/influxdata/rskafka/pull/276) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 day ago)
 - [feat: add integration tests for table reconciliation procedures part1](https://github.com/GreptimeTeam/greptimedb/pull/6705) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: pick #6415 to release/v0.15](https://github.com/GreptimeTeam/greptimedb/pull/6686) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce `SyncColumns`](https://github.com/GreptimeTeam/greptime-proto/pull/261) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [chore: fix generated code](https://github.com/GreptimeTeam/greptime-proto/pull/260) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [fix: fix state transition in create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/6523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [feat: add table reconciliation utilities](https://github.com/GreptimeTeam/greptimedb/pull/6519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [chore: change log level for region not found during lease renewal](https://github.com/GreptimeTeam/greptimedb/pull/6513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
