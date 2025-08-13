@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(metasrv): implement topic statistics collection](https://github.com/GreptimeTeam/greptimedb/pull/6732) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `TopicStat`](https://github.com/GreptimeTeam/greptime-proto/pull/268) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat: introduce `PeriodicTopicStatsReporter`](https://github.com/GreptimeTeam/greptimedb/pull/6730) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `ProduceResult` with encoded request size metadata](https://github.com/influxdata/rskafka/pull/276) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce reconcile table procedure](https://github.com/GreptimeTeam/greptimedb/pull/6584) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce `SyncColumns`](https://github.com/GreptimeTeam/greptime-proto/pull/261) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [chore: fix generated code](https://github.com/GreptimeTeam/greptime-proto/pull/260) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
-- [fix: fix state transition in create table procedure](https://github.com/GreptimeTeam/greptimedb/pull/6523) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
