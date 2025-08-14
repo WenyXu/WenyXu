@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: introduce `RegionRateMeter`](https://github.com/GreptimeTeam/greptimedb/pull/6744) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: add `RateMeter` for tracking memtable write throughput](https://github.com/GreptimeTeam/greptimedb/pull/6744) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: simplify WAL pruning procedure  and introduce region flush trigger](https://github.com/GreptimeTeam/greptimedb/pull/6741) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(metasrv): implement topic statistics collection](https://github.com/GreptimeTeam/greptimedb/pull/6732) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `TopicStat`](https://github.com/GreptimeTeam/greptime-proto/pull/268) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
