@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: prepare release 0.6.3](https://github.com/datafusion-contrib/orc-rust/pull/54) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (today)
 - [chore: prepare release 0.6.2](https://github.com/datafusion-contrib/orc-rust/pull/53) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (today)
 - [chore: make clippy happy](https://github.com/datafusion-contrib/orc-rust/pull/52) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (today)
 - [chore: prepare release 0.6.1](https://github.com/datafusion-contrib/orc-rust/pull/51) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce reconcile catalog procedure](https://github.com/GreptimeTeam/greptimedb/pull/6613) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: introduce reconcile database procedure](https://github.com/GreptimeTeam/greptimedb/pull/6612) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: ignore internal keys in metadata snapshots](https://github.com/GreptimeTeam/greptimedb/pull/6606) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: allow setting next table id via http api](https://github.com/GreptimeTeam/greptimedb/pull/6597) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,9 +54,9 @@ Hi 👋 Weny here.
 
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
 
 #### 👯 Check out my recent followers
 
