@@ -6,17 +6,17 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: prepare release 0.6.3](https://github.com/datafusion-contrib/orc-rust/pull/54) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (today)
-- [chore: prepare release 0.6.2](https://github.com/datafusion-contrib/orc-rust/pull/53) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (today)
-- [chore: make clippy happy](https://github.com/datafusion-contrib/orc-rust/pull/52) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (today)
-- [chore: prepare release 0.6.1](https://github.com/datafusion-contrib/orc-rust/pull/51) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (today)
-- [feat: add `RateMeter` for tracking memtable write throughput](https://github.com/GreptimeTeam/greptimedb/pull/6744) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [refactor: simplify WAL pruning procedure  and introduce region flush trigger](https://github.com/GreptimeTeam/greptimedb/pull/6741) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(metasrv): implement topic statistics collection](https://github.com/GreptimeTeam/greptimedb/pull/6732) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add `TopicStat`](https://github.com/GreptimeTeam/greptime-proto/pull/268) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
-- [feat: introduce `PeriodicTopicStatsReporter`](https://github.com/GreptimeTeam/greptimedb/pull/6730) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add `ProduceResult` with encoded request size metadata](https://github.com/influxdata/rskafka/pull/276) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (3 days ago)
-- [feat: add integration tests for table reconciliation procedures part1](https://github.com/GreptimeTeam/greptimedb/pull/6705) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: prepare release 0.6.3](https://github.com/datafusion-contrib/orc-rust/pull/54) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (1 day ago)
+- [chore: prepare release 0.6.2](https://github.com/datafusion-contrib/orc-rust/pull/53) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (1 day ago)
+- [chore: make clippy happy](https://github.com/datafusion-contrib/orc-rust/pull/52) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (1 day ago)
+- [chore: prepare release 0.6.1](https://github.com/datafusion-contrib/orc-rust/pull/51) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (1 day ago)
+- [feat: add `RateMeter` for tracking memtable write throughput](https://github.com/GreptimeTeam/greptimedb/pull/6744) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [refactor: simplify WAL pruning procedure  and introduce region flush trigger](https://github.com/GreptimeTeam/greptimedb/pull/6741) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(metasrv): implement topic statistics collection](https://github.com/GreptimeTeam/greptimedb/pull/6732) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add `TopicStat`](https://github.com/GreptimeTeam/greptime-proto/pull/268) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
+- [feat: introduce `PeriodicTopicStatsReporter`](https://github.com/GreptimeTeam/greptimedb/pull/6730) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add `ProduceResult` with encoded request size metadata](https://github.com/influxdata/rskafka/pull/276) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (4 days ago)
+- [feat: add integration tests for table reconciliation procedures part1](https://github.com/GreptimeTeam/greptimedb/pull/6705) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore: pick #6415 to release/v0.15](https://github.com/GreptimeTeam/greptimedb/pull/6686) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: refine error status code mappings](https://github.com/GreptimeTeam/greptimedb/pull/6678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: pick automated metadata recovery feature](https://github.com/GreptimeTeam/greptimedb/pull/6676) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -52,11 +52,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
-- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 days ago)
+- [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 days ago)
+- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (3 days ago)
 
 #### 👯 Check out my recent followers
 
