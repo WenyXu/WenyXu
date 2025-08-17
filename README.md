@@ -64,6 +64,6 @@ Hi 👋 Weny here.
 - [enduin-ai-debugger](https://github.com/enduin-ai-debugger)
 - [codephage2020](https://github.com/codephage2020)
 - [IgCodeCraft32](https://github.com/IgCodeCraft32)
-- [seckinyasar](https://github.com/seckinyasar)
+- [h3n4l](https://github.com/h3n4l)
 
 
