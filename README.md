@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce `PersistStatsHandler` ](https://github.com/GreptimeTeam/greptimedb/pull/6777) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: derive macro `ToRow`](https://github.com/GreptimeTeam/greptimedb/pull/6768) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: prepare release 0.6.3](https://github.com/datafusion-contrib/orc-rust/pull/54) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (5 days ago)
 - [chore: prepare release 0.6.2](https://github.com/datafusion-contrib/orc-rust/pull/53) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce reconcile interface](https://github.com/GreptimeTeam/greptime-proto/pull/264) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 - [feat: introduce reconciliation interface](https://github.com/GreptimeTeam/greptimedb/pull/6614) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce reconcile catalog procedure](https://github.com/GreptimeTeam/greptimedb/pull/6613) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: introduce reconcile database procedure](https://github.com/GreptimeTeam/greptimedb/pull/6612) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
