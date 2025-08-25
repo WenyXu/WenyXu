@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add replay checkpoint to reduce overhead for remote WAL](https://github.com/GreptimeTeam/greptimedb/pull/6816) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: time unit mismatch in `lookup_frontends` function](https://github.com/GreptimeTeam/greptimedb/pull/6798) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: add peer address context to client error logging](https://github.com/GreptimeTeam/greptimedb/pull/6793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [refactor: simplify WAL Pruning procedure part2](https://github.com/GreptimeTeam/greptimedb/pull/6782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs: add cluster recovery mode section](https://github.com/GreptimeTeam/docs/pull/2013) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [feat(metric-engine): add metadata region cache](https://github.com/GreptimeTeam/greptimedb/pull/6657) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add metrics for reconciliation procedures](https://github.com/GreptimeTeam/greptimedb/pull/6652) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: fix sequence peek method to return correct values when sequence is not initialized](https://github.com/GreptimeTeam/greptimedb/pull/6643) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
