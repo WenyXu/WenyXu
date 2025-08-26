@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: prevent stale physical table route during procedure retries](https://github.com/GreptimeTeam/greptimedb/pull/6825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add support for TWCS time window hints in insert operations](https://github.com/GreptimeTeam/greptimedb/pull/6823) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: correct heartbeat stream handling logic ](https://github.com/GreptimeTeam/greptimedb/pull/6821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add replay checkpoint to reduce overhead for remote WAL](https://github.com/GreptimeTeam/greptimedb/pull/6816) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: refine error status code mappings](https://github.com/GreptimeTeam/greptimedb/pull/6678) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: pick automated metadata recovery feature](https://github.com/GreptimeTeam/greptimedb/pull/6676) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: cherry pick metadata recovery related PRs](https://github.com/GreptimeTeam/greptime-proto/pull/266) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
-- [docs: add cluster recovery mode section](https://github.com/GreptimeTeam/docs/pull/2013) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
