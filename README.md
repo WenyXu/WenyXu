@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add docs for metadata sequence operations](https://github.com/GreptimeTeam/docs/pull/2066) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [docs: update Metasrv Admin API default port from 3002 to 4000](https://github.com/GreptimeTeam/docs/pull/2064) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [refactor(meta): refactor admin service to use modern axum handlers](https://github.com/GreptimeTeam/greptimedb/pull/6833) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: remove unused deps](https://github.com/GreptimeTeam/greptimedb/pull/6828) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce `PeriodicTopicStatsReporter`](https://github.com/GreptimeTeam/greptimedb/pull/6730) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add `ProduceResult` with encoded request size metadata](https://github.com/influxdata/rskafka/pull/276) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (2 weeks ago)
 - [feat: add integration tests for table reconciliation procedures part1](https://github.com/GreptimeTeam/greptimedb/pull/6705) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: pick #6415 to release/v0.15](https://github.com/GreptimeTeam/greptimedb/pull/6686) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
