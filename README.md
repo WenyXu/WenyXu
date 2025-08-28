@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: print tonic code](https://github.com/GreptimeTeam/greptimedb/pull/6846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `meta_schema_name` opt](https://github.com/GreptimeTeam/docs/pull/2071) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [docs: add TLS configuration for metadata storage backends](https://github.com/GreptimeTeam/docs/pull/2069) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: rename `region_statistics` to `region_statistics_history`](https://github.com/GreptimeTeam/greptimedb/pull/6837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: make clippy happy](https://github.com/datafusion-contrib/orc-rust/pull/52) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (1 week ago)
 - [chore: prepare release 0.6.1](https://github.com/datafusion-contrib/orc-rust/pull/51) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (1 week ago)
 - [feat: add `RateMeter` for tracking memtable write throughput](https://github.com/GreptimeTeam/greptimedb/pull/6744) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: simplify WAL pruning procedure  and introduce region flush trigger](https://github.com/GreptimeTeam/greptimedb/pull/6741) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
