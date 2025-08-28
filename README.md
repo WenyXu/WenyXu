@@ -7,7 +7,7 @@ Hi 👋 Weny here.
 #### 🔨 Check out my recent pull requests
 
 - [feat: rename `region_statistics` to `region_statistics_history`](https://github.com/GreptimeTeam/greptimedb/pull/6837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: fix typo](https://github.com/GreptimeTeam/greptimedb/pull/6836) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: correct config doc](https://github.com/GreptimeTeam/greptimedb/pull/6836) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add `flush_trigger_size` adn `checkpoint_trigger_size` for remote wal](https://github.com/GreptimeTeam/docs/pull/2068) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [docs: add docs for metadata sequence operations](https://github.com/GreptimeTeam/docs/pull/2066) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: update Metasrv Admin API default port from 3002 to 4000](https://github.com/GreptimeTeam/docs/pull/2064) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 week ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 weeks ago)
