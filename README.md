@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add TLS configuration for metadata storage backends](https://github.com/GreptimeTeam/docs/pull/2069) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: rename `region_statistics` to `region_statistics_history`](https://github.com/GreptimeTeam/greptimedb/pull/6837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: correct config doc](https://github.com/GreptimeTeam/greptimedb/pull/6836) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add `flush_trigger_size` adn `checkpoint_trigger_size` for remote wal](https://github.com/GreptimeTeam/docs/pull/2068) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `RateMeter` for tracking memtable write throughput](https://github.com/GreptimeTeam/greptimedb/pull/6744) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: simplify WAL pruning procedure  and introduce region flush trigger](https://github.com/GreptimeTeam/greptimedb/pull/6741) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(metasrv): implement topic statistics collection](https://github.com/GreptimeTeam/greptimedb/pull/6732) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add `TopicStat`](https://github.com/GreptimeTeam/greptime-proto/pull/268) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -53,7 +53,7 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 week ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
