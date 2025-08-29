@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: print tonic code](https://github.com/GreptimeTeam/greptimedb/pull/6846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: enhance error debugging and logging](https://github.com/GreptimeTeam/greptimedb/pull/6846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `meta_schema_name` opt](https://github.com/GreptimeTeam/docs/pull/2071) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: add TLS configuration for metadata storage backends](https://github.com/GreptimeTeam/docs/pull/2069) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [feat: rename `region_statistics` to `region_statistics_history`](https://github.com/GreptimeTeam/greptimedb/pull/6837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
