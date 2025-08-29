@@ -6,7 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: enhance error debugging and logging](https://github.com/GreptimeTeam/greptimedb/pull/6846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: initialize remote WAL regions with correct flushed entry IDs](https://github.com/GreptimeTeam/greptimedb/pull/6856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [chore: add server-side error logging to improve observability in gRPC](https://github.com/GreptimeTeam/greptimedb/pull/6846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add `meta_schema_name` opt](https://github.com/GreptimeTeam/docs/pull/2071) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: add TLS configuration for metadata storage backends](https://github.com/GreptimeTeam/docs/pull/2069) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [feat: rename `region_statistics` to `region_statistics_history`](https://github.com/GreptimeTeam/greptimedb/pull/6837) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: prepare release 0.6.2](https://github.com/datafusion-contrib/orc-rust/pull/53) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (2 weeks ago)
 - [chore: make clippy happy](https://github.com/datafusion-contrib/orc-rust/pull/52) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (2 weeks ago)
 - [chore: prepare release 0.6.1](https://github.com/datafusion-contrib/orc-rust/pull/51) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (2 weeks ago)
-- [feat: add `RateMeter` for tracking memtable write throughput](https://github.com/GreptimeTeam/greptimedb/pull/6744) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
