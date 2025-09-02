@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: ignore reserved column IDs and prevent panic on chunk_size is zero](https://github.com/GreptimeTeam/greptimedb/pull/6882) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix incorrect timestamp precision in information_schema.tables](https://github.com/GreptimeTeam/greptimedb/pull/6872) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: use configured kv_client in etcd multi-transaction operations](https://github.com/GreptimeTeam/greptimedb/pull/6871) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add table reconciliation feature documentation and admin functions](https://github.com/GreptimeTeam/docs/pull/2078) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `IntoRow` and `Schema` derive macros](https://github.com/GreptimeTeam/greptimedb/pull/6778) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce `PersistStatsHandler` ](https://github.com/GreptimeTeam/greptimedb/pull/6777) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: derive macro `ToRow`](https://github.com/GreptimeTeam/greptimedb/pull/6768) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: prepare release 0.6.3](https://github.com/datafusion-contrib/orc-rust/pull/54) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
