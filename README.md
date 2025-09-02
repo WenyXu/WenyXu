@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: update dashboard](https://github.com/GreptimeTeam/greptimedb/pull/6883) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: ignore reserved column IDs and prevent panic on chunk_size is zero](https://github.com/GreptimeTeam/greptimedb/pull/6882) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix incorrect timestamp precision in information_schema.tables](https://github.com/GreptimeTeam/greptimedb/pull/6872) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: use configured kv_client in etcd multi-transaction operations](https://github.com/GreptimeTeam/greptimedb/pull/6871) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: simplify WAL Pruning procedure part2](https://github.com/GreptimeTeam/greptimedb/pull/6782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `IntoRow` and `Schema` derive macros](https://github.com/GreptimeTeam/greptimedb/pull/6778) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce `PersistStatsHandler` ](https://github.com/GreptimeTeam/greptimedb/pull/6777) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: derive macro `ToRow`](https://github.com/GreptimeTeam/greptimedb/pull/6768) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
