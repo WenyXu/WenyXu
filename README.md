@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: bump main branch version to 0.18](https://github.com/GreptimeTeam/greptimedb/pull/6890) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [chore: fix typo](https://github.com/GreptimeTeam/greptimedb/pull/6887) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: update dashboard](https://github.com/GreptimeTeam/greptimedb/pull/6883) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: ignore reserved column IDs and prevent panic on chunk_size is zero](https://github.com/GreptimeTeam/greptimedb/pull/6882) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix incorrect timestamp precision in information_schema.tables](https://github.com/GreptimeTeam/greptimedb/pull/6872) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [fix: time unit mismatch in `lookup_frontends` function](https://github.com/GreptimeTeam/greptimedb/pull/6798) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add peer address context to client error logging](https://github.com/GreptimeTeam/greptimedb/pull/6793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: simplify WAL Pruning procedure part2](https://github.com/GreptimeTeam/greptimedb/pull/6782) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add `IntoRow` and `Schema` derive macros](https://github.com/GreptimeTeam/greptimedb/pull/6778) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: introduce `PersistStatsHandler` ](https://github.com/GreptimeTeam/greptimedb/pull/6777) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
