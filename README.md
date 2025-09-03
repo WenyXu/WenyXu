@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: pick #6880](https://github.com/GreptimeTeam/greptimedb/pull/6898) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: add CPU and memory info to `cluster_info`](https://github.com/GreptimeTeam/greptimedb/pull/6897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add `memory_bytes` field](https://github.com/GreptimeTeam/greptime-proto/pull/274) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [chore: prepare v0.17.0 release with cherry-picked commits](https://github.com/GreptimeTeam/greptimedb/pull/6893) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump main branch version to 0.18](https://github.com/GreptimeTeam/greptimedb/pull/6890) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [fix: prevent stale physical table route during procedure retries](https://github.com/GreptimeTeam/greptimedb/pull/6825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add support for TWCS time window hints in insert operations](https://github.com/GreptimeTeam/greptimedb/pull/6823) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: correct heartbeat stream handling logic ](https://github.com/GreptimeTeam/greptimedb/pull/6821) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add replay checkpoint to reduce overhead for remote WAL](https://github.com/GreptimeTeam/greptimedb/pull/6816) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: time unit mismatch in `lookup_frontends` function](https://github.com/GreptimeTeam/greptimedb/pull/6798) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
