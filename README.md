@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add 0.17.0 release note](https://github.com/GreptimeTeam/docs/pull/2092) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: pick #6900](https://github.com/GreptimeTeam/greptimedb/pull/6902) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: disable stats persistence by default](https://github.com/GreptimeTeam/greptimedb/pull/6900) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: pick #6880](https://github.com/GreptimeTeam/greptimedb/pull/6898) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs: update Metasrv Admin API default port from 3002 to 4000](https://github.com/GreptimeTeam/docs/pull/2064) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [refactor(meta): refactor admin service to use modern axum handlers](https://github.com/GreptimeTeam/greptimedb/pull/6833) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: remove unused deps](https://github.com/GreptimeTeam/greptimedb/pull/6828) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: prevent stale physical table route during procedure retries](https://github.com/GreptimeTeam/greptimedb/pull/6825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
