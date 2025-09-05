@@ -11,7 +11,7 @@ Hi 👋 Weny here.
 - [chore: pick #6900](https://github.com/GreptimeTeam/greptimedb/pull/6902) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: disable stats persistence by default](https://github.com/GreptimeTeam/greptimedb/pull/6900) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: pick #6880](https://github.com/GreptimeTeam/greptimedb/pull/6898) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add CPU and memory info to `cluster_info`](https://github.com/GreptimeTeam/greptimedb/pull/6897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: add CPU, memory and node status info to `cluster_info`](https://github.com/GreptimeTeam/greptimedb/pull/6897) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add `memory_bytes` field](https://github.com/GreptimeTeam/greptime-proto/pull/274) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
 - [chore: prepare v0.17.0 release with cherry-picked commits](https://github.com/GreptimeTeam/greptimedb/pull/6893) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: bump main branch version to 0.18](https://github.com/GreptimeTeam/greptimedb/pull/6890) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
