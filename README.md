@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Okemwag](https://github.com/Okemwag)
 - [XiaomingX](https://github.com/XiaomingX)
 - [yebtimotheous](https://github.com/yebtimotheous)
 - [helallao](https://github.com/helallao)
 - [Here-is-wen-yi](https://github.com/Here-is-wen-yi)
-- [enduin-ai-debugger](https://github.com/enduin-ai-debugger)
 
 
