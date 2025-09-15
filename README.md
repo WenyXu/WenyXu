@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: add tests for postgre backend wiht tls](https://github.com/GreptimeTeam/greptimedb/pull/6973) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: expose workload filter to selector options](https://github.com/GreptimeTeam/greptimedb/pull/6951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [docs: supplement region balancer configuration guide](https://github.com/GreptimeTeam/docs/pull/2112) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
 - [feat: add `cpus` `memory_bytes` and `node_status` to `clusetr_info` table](https://github.com/GreptimeTeam/docs/pull/2111) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add table reconciliation feature documentation and admin functions](https://github.com/GreptimeTeam/docs/pull/2078) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [fix: initialize remote WAL regions with correct flushed entry IDs](https://github.com/GreptimeTeam/greptimedb/pull/6856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: add server-side error logging to improve observability in gRPC](https://github.com/GreptimeTeam/greptimedb/pull/6846) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add `meta_schema_name` opt](https://github.com/GreptimeTeam/docs/pull/2071) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
