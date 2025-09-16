@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: add tests for postgre backend wiht tls](https://github.com/GreptimeTeam/greptimedb/pull/6973) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: add tests for postgre backend with tls](https://github.com/GreptimeTeam/greptimedb/pull/6973) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: expose workload filter to selector options](https://github.com/GreptimeTeam/greptimedb/pull/6951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [docs: supplement region balancer configuration guide](https://github.com/GreptimeTeam/docs/pull/2112) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
 - [feat: add `cpus` `memory_bytes` and `node_status` to `clusetr_info` table](https://github.com/GreptimeTeam/docs/pull/2111) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
