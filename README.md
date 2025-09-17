@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/6981) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add TLS support for mysql backend](https://github.com/GreptimeTeam/greptimedb/pull/6979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: add tests for postgre backend with tls](https://github.com/GreptimeTeam/greptimedb/pull/6973) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: expose workload filter to selector options](https://github.com/GreptimeTeam/greptimedb/pull/6951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix incorrect timestamp precision in information_schema.tables](https://github.com/GreptimeTeam/greptimedb/pull/6872) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: use configured kv_client in etcd multi-transaction operations](https://github.com/GreptimeTeam/greptimedb/pull/6871) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add table reconciliation feature documentation and admin functions](https://github.com/GreptimeTeam/docs/pull/2078) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [fix: initialize remote WAL regions with correct flushed entry IDs](https://github.com/GreptimeTeam/greptimedb/pull/6856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
