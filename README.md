@@ -6,17 +6,17 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: refactor Read Replica documentation structure](https://github.com/GreptimeTeam/docs/pull/2128) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [chore: improve error logging in WAL prune manager](https://github.com/GreptimeTeam/greptimedb/pull/6993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: add datanode grouping doc](https://github.com/GreptimeTeam/docs/pull/2126) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [refactor: refactor frontend groups documentation for Helm chart configuration](https://github.com/GreptimeTeam/docs/pull/2125) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [docs: add MySQL backend TLS configuration doc](https://github.com/GreptimeTeam/docs/pull/2124) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [fix: correct release note title](https://github.com/GreptimeTeam/docs/pull/2122) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [docs: add v0.17.1 release note](https://github.com/GreptimeTeam/docs/pull/2121) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [refactor: region follower management with unified interface](https://github.com/GreptimeTeam/greptimedb/pull/6986) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/6981) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: add TLS support for mysql backend](https://github.com/GreptimeTeam/greptimedb/pull/6979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [chore: add tests for postgre backend with tls](https://github.com/GreptimeTeam/greptimedb/pull/6973) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [refactor: refactor Read Replica documentation structure](https://github.com/GreptimeTeam/docs/pull/2128) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [chore: improve error logging in WAL prune manager](https://github.com/GreptimeTeam/greptimedb/pull/6993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: add datanode grouping doc](https://github.com/GreptimeTeam/docs/pull/2126) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [refactor: refactor frontend groups documentation for Helm chart configuration](https://github.com/GreptimeTeam/docs/pull/2125) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [docs: add MySQL backend TLS configuration doc](https://github.com/GreptimeTeam/docs/pull/2124) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [fix: correct release note title](https://github.com/GreptimeTeam/docs/pull/2122) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [docs: add v0.17.1 release note](https://github.com/GreptimeTeam/docs/pull/2121) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [refactor: region follower management with unified interface](https://github.com/GreptimeTeam/greptimedb/pull/6986) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/6981) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: add TLS support for mysql backend](https://github.com/GreptimeTeam/greptimedb/pull/6979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [chore: add tests for postgre backend with tls](https://github.com/GreptimeTeam/greptimedb/pull/6973) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: expose workload filter to selector options](https://github.com/GreptimeTeam/greptimedb/pull/6951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: supplement region balancer configuration guide](https://github.com/GreptimeTeam/docs/pull/2112) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat: add `cpus` `memory_bytes` and `node_status` to `clusetr_info` table](https://github.com/GreptimeTeam/docs/pull/2111) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (1 day ago)
+- [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (2 days ago)
 - [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (2 weeks ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (3 weeks ago)
 - [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of &#34;NCurses Disk Usage&#34; (3 weeks ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
