@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: refactor object storage config](https://github.com/GreptimeTeam/greptimedb/pull/7009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor(cli): refactor object storage config](https://github.com/GreptimeTeam/greptimedb/pull/7009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: extract standalone functionality and introduce plugin-based router configuration](https://github.com/GreptimeTeam/greptimedb/pull/7002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: refactor Read Replica documentation structure](https://github.com/GreptimeTeam/docs/pull/2128) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [chore: improve error logging in WAL prune manager](https://github.com/GreptimeTeam/greptimedb/pull/6993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
