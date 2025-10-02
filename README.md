@@ -6,15 +6,15 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/7024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/7024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(cli): fix FS object store handling of absolute paths](https://github.com/GreptimeTeam/greptimedb/pull/7018) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor(cli): refactor object storage config](https://github.com/GreptimeTeam/greptimedb/pull/7009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: extract standalone functionality and introduce plugin-based router configuration](https://github.com/GreptimeTeam/greptimedb/pull/7002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: refactor Read Replica documentation structure](https://github.com/GreptimeTeam/docs/pull/2128) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [chore: improve error logging in WAL prune manager](https://github.com/GreptimeTeam/greptimedb/pull/6993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add datanode grouping doc](https://github.com/GreptimeTeam/docs/pull/2126) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
-- [refactor: refactor frontend groups documentation for Helm chart configuration](https://github.com/GreptimeTeam/docs/pull/2125) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
-- [docs: add MySQL backend TLS configuration doc](https://github.com/GreptimeTeam/docs/pull/2124) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [refactor: refactor frontend groups documentation for Helm chart configuration](https://github.com/GreptimeTeam/docs/pull/2125) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
+- [docs: add MySQL backend TLS configuration doc](https://github.com/GreptimeTeam/docs/pull/2124) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [fix: correct release note title](https://github.com/GreptimeTeam/docs/pull/2122) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [docs: add v0.17.1 release note](https://github.com/GreptimeTeam/docs/pull/2121) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [refactor: region follower management with unified interface](https://github.com/GreptimeTeam/greptimedb/pull/6986) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -28,8 +28,8 @@ Hi 👋 Weny here.
 - [refactor: refactor `PeerLookupService` and simplify `Selector` implementations](https://github.com/GreptimeTeam/greptimedb/pull/6939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add `written_bytes_since_open` desc](https://github.com/GreptimeTeam/docs/pull/2103) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [feat: pick #6904](https://github.com/GreptimeTeam/greptimedb/pull/6916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add `written_bytes_since_open` column to `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/6904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [docs: add 0.17.0 release note](https://github.com/GreptimeTeam/docs/pull/2092) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
+- [feat: add `written_bytes_since_open` column to `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/6904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [docs: add 0.17.0 release note](https://github.com/GreptimeTeam/docs/pull/2092) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [chore: pick #6900](https://github.com/GreptimeTeam/greptimedb/pull/6902) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 weeks ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
