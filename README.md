@@ -27,14 +27,14 @@ Hi 👋 Weny here.
 - [feat: add postgres tls support for CLI](https://github.com/GreptimeTeam/greptimedb/pull/6941) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: refactor `PeerLookupService` and simplify `Selector` implementations](https://github.com/GreptimeTeam/greptimedb/pull/6939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add `written_bytes_since_open` desc](https://github.com/GreptimeTeam/docs/pull/2103) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
-- [feat: pick #6904](https://github.com/GreptimeTeam/greptimedb/pull/6916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [feat: pick #6904](https://github.com/GreptimeTeam/greptimedb/pull/6916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add `written_bytes_since_open` column to `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/6904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [docs: add 0.17.0 release note](https://github.com/GreptimeTeam/docs/pull/2092) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [chore: pick #6900](https://github.com/GreptimeTeam/greptimedb/pull/6902) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust. (today)
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust. (1 day ago)
 - [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (2 weeks ago)
 - [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (1 month ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (1 month ago)
