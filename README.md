@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [suxiaogang223](https://github.com/suxiaogang223)
 - [fpcMotif](https://github.com/fpcMotif)
 - [Okemwag](https://github.com/Okemwag)
 - [XiaomingX](https://github.com/XiaomingX)
 - [yebtimotheous](https://github.com/yebtimotheous)
-- [helallao](https://github.com/helallao)
 
 
