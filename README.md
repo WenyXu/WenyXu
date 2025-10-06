@@ -9,7 +9,7 @@ Hi 👋 Weny here.
 - [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/7024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(cli): fix FS object store handling of absolute paths](https://github.com/GreptimeTeam/greptimedb/pull/7018) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor(cli): refactor object storage config](https://github.com/GreptimeTeam/greptimedb/pull/7009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: extract standalone functionality and introduce plugin-based router configuration](https://github.com/GreptimeTeam/greptimedb/pull/7002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: extract standalone functionality and introduce plugin-based router configuration](https://github.com/GreptimeTeam/greptimedb/pull/7002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: refactor Read Replica documentation structure](https://github.com/GreptimeTeam/docs/pull/2128) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [chore: improve error logging in WAL prune manager](https://github.com/GreptimeTeam/greptimedb/pull/6993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: add datanode grouping doc](https://github.com/GreptimeTeam/docs/pull/2126) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
@@ -20,13 +20,13 @@ Hi 👋 Weny here.
 - [refactor: region follower management with unified interface](https://github.com/GreptimeTeam/greptimedb/pull/6986) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/6981) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add TLS support for mysql backend](https://github.com/GreptimeTeam/greptimedb/pull/6979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: add tests for postgre backend with tls](https://github.com/GreptimeTeam/greptimedb/pull/6973) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [chore: add tests for postgre backend with tls](https://github.com/GreptimeTeam/greptimedb/pull/6973) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: expose workload filter to selector options](https://github.com/GreptimeTeam/greptimedb/pull/6951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: supplement region balancer configuration guide](https://github.com/GreptimeTeam/docs/pull/2112) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [feat: add `cpus` `memory_bytes` and `node_status` to `clusetr_info` table](https://github.com/GreptimeTeam/docs/pull/2111) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [feat: add postgres tls support for CLI](https://github.com/GreptimeTeam/greptimedb/pull/6941) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: refactor `PeerLookupService` and simplify `Selector` implementations](https://github.com/GreptimeTeam/greptimedb/pull/6939) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add `written_bytes_since_open` desc](https://github.com/GreptimeTeam/docs/pull/2103) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
+- [feat: add `written_bytes_since_open` desc](https://github.com/GreptimeTeam/docs/pull/2103) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [feat: pick #6904](https://github.com/GreptimeTeam/greptimedb/pull/6916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add `written_bytes_since_open` column to `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/6904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [docs: add 0.17.0 release note](https://github.com/GreptimeTeam/docs/pull/2092) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust. (1 day ago)
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust. (2 days ago)
 - [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (2 weeks ago)
 - [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (1 month ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (1 month ago)
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 weeks ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 weeks ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
