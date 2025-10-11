@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) - Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem. (today)
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (1 day ago)
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust. (1 week ago)
 - [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (3 weeks ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool (1 month ago)
 - [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE&#39;23] (2 months ago)
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (4 months ago)
-- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (5 months ago)
 
 #### 👷 Check out what I'm currently working on
 
