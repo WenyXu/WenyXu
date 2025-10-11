@@ -63,7 +63,7 @@ Hi 👋 Weny here.
 - [suxiaogang223](https://github.com/suxiaogang223)
 - [fpcMotif](https://github.com/fpcMotif)
 - [Okemwag](https://github.com/Okemwag)
-- [XiaomingX](https://github.com/XiaomingX)
 - [yebtimotheous](https://github.com/yebtimotheous)
+- [Here-is-wen-yi](https://github.com/Here-is-wen-yi)
 
 
