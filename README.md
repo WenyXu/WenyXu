@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: restructure sqlness to support multiple envs and extract common utils](https://github.com/GreptimeTeam/greptimedb/pull/7066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: restructure sqlness to support multiple envs and extract common utils](https://github.com/GreptimeTeam/greptimedb/pull/7066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/7024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(cli): fix FS object store handling of absolute paths](https://github.com/GreptimeTeam/greptimedb/pull/7018) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor(cli): refactor object storage config](https://github.com/GreptimeTeam/greptimedb/pull/7009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -34,8 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (today)
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust. (6 days ago)
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (1 day ago)
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust. (1 week ago)
 - [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (3 weeks ago)
 - [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (1 month ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (1 month ago)
