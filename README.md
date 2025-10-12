@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: restructure sqlness to support multiple envs and extract common utils](https://github.com/GreptimeTeam/greptimedb/pull/7066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [refactor: restructure sqlness to support multiple envs and extract common utils](https://github.com/GreptimeTeam/greptimedb/pull/7066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/7024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(cli): fix FS object store handling of absolute paths](https://github.com/GreptimeTeam/greptimedb/pull/7018) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor(cli): refactor object storage config](https://github.com/GreptimeTeam/greptimedb/pull/7009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -34,8 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) - Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem. (today)
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (1 day ago)
+- [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) - Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem. (1 day ago)
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (2 days ago)
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust. (1 week ago)
 - [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (3 weeks ago)
 - [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (1 month ago)
@@ -47,16 +47,16 @@ Hi 👋 Weny here.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (1 month ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. (1 month ago)
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool (1 month ago)
-- [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE&#39;23] (2 months ago)
+- [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE&#39;23] (3 months ago)
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
-- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
+- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 months ago)
 
 #### 👯 Check out my recent followers
 
