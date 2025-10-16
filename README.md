@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: update sqlness test runner command](https://github.com/GreptimeTeam/docs/pull/2174) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [refactor: restructure sqlness to support multiple envs and extract common utils](https://github.com/GreptimeTeam/greptimedb/pull/7066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/7024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(cli): fix FS object store handling of absolute paths](https://github.com/GreptimeTeam/greptimedb/pull/7018) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add `written_bytes_since_open` desc](https://github.com/GreptimeTeam/docs/pull/2103) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [feat: pick #6904](https://github.com/GreptimeTeam/greptimedb/pull/6916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add `written_bytes_since_open` column to `region_statistics` table](https://github.com/GreptimeTeam/greptimedb/pull/6904) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [docs: add 0.17.0 release note](https://github.com/GreptimeTeam/docs/pull/2092) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
