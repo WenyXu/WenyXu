@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [sim-hash](https://github.com/sim-hash)
 - [emilycodestar](https://github.com/emilycodestar)
 - [XiaomingX](https://github.com/XiaomingX)
 - [suxiaogang223](https://github.com/suxiaogang223)
 - [fpcMotif](https://github.com/fpcMotif)
-- [Okemwag](https://github.com/Okemwag)
 
 
