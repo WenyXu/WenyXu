@@ -6,7 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: add support for batch region upgrade operations](https://github.com/GreptimeTeam/greptimedb/pull/7155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: missing flamegraph feature in pprof dependency](https://github.com/GreptimeTeam/greptimedb/pull/7158) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: add support for batch region upgrade operations part1](https://github.com/GreptimeTeam/greptimedb/pull/7155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: add delays in reconcile tests for async cache invalidation](https://github.com/GreptimeTeam/greptimedb/pull/7147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: bump version to 0.7.0](https://github.com/datafusion-contrib/orc-rust/pull/62) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (5 days ago)
 - [refactor: refactor instruction handler and adds support for batch region downgrade operations](https://github.com/GreptimeTeam/greptimedb/pull/7130) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/6981) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add TLS support for mysql backend](https://github.com/GreptimeTeam/greptimedb/pull/6979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: add tests for postgre backend with tls](https://github.com/GreptimeTeam/greptimedb/pull/6973) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: expose workload filter to selector options](https://github.com/GreptimeTeam/greptimedb/pull/6951) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
