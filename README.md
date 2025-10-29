@@ -63,7 +63,7 @@ Hi 👋 Weny here.
 - [arjungarg07](https://github.com/arjungarg07)
 - [sim-hash](https://github.com/sim-hash)
 - [emilycodestar](https://github.com/emilycodestar)
-- [XiaomingX](https://github.com/XiaomingX)
 - [suxiaogang223](https://github.com/suxiaogang223)
+- [fpcMotif](https://github.com/fpcMotif)
 
 
