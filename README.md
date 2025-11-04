@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce batch region migration](https://github.com/GreptimeTeam/greptimedb/pull/7176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: add support for batch region upgrade operations part2](https://github.com/GreptimeTeam/greptimedb/pull/7160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix: missing flamegraph feature in pprof dependency](https://github.com/GreptimeTeam/greptimedb/pull/7158) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [refactor: add support for batch region upgrade operations part1](https://github.com/GreptimeTeam/greptimedb/pull/7155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [docs: add v0.17.1 release note](https://github.com/GreptimeTeam/docs/pull/2121) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [refactor: region follower management with unified interface](https://github.com/GreptimeTeam/greptimedb/pull/6986) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/6981) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add TLS support for mysql backend](https://github.com/GreptimeTeam/greptimedb/pull/6979) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
