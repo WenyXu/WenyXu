@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(metric): enable sparse primary key encoding by default](https://github.com/GreptimeTeam/greptimedb/pull/7195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(metric)!: enable sparse primary key encoding by default](https://github.com/GreptimeTeam/greptimedb/pull/7195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce batch region migration](https://github.com/GreptimeTeam/greptimedb/pull/7176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: add support for batch region upgrade operations part2](https://github.com/GreptimeTeam/greptimedb/pull/7160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: missing flamegraph feature in pprof dependency](https://github.com/GreptimeTeam/greptimedb/pull/7158) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
