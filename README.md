@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: add logs to investigate CI tests](https://github.com/GreptimeTeam/greptimedb/pull/7223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: support parallel table operations in `COPY DATABASE` and export](https://github.com/GreptimeTeam/greptimedb/pull/7213) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: deregister failure detectors on rollback and improve timeout handling](https://github.com/GreptimeTeam/greptimedb/pull/7212) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: add serde defaults for `MetasrvNodeInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor: refactor Read Replica documentation structure](https://github.com/GreptimeTeam/docs/pull/2128) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [chore: improve error logging in WAL prune manager](https://github.com/GreptimeTeam/greptimedb/pull/6993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [docs: add datanode grouping doc](https://github.com/GreptimeTeam/docs/pull/2126) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [refactor: refactor frontend groups documentation for Helm chart configuration](https://github.com/GreptimeTeam/docs/pull/2125) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
