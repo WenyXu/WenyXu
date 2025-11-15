@@ -6,9 +6,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: obtain system time after fetching lease values](https://github.com/GreptimeTeam/greptimedb/pull/7223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: support parallel table operations in `COPY DATABASE`](https://github.com/GreptimeTeam/greptimedb/pull/7213) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: deregister failure detectors on rollback and improve timeout handling](https://github.com/GreptimeTeam/greptimedb/pull/7212) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: obtain system time after fetching lease values](https://github.com/GreptimeTeam/greptimedb/pull/7223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: support parallel table operations in `COPY DATABASE`](https://github.com/GreptimeTeam/greptimedb/pull/7213) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: deregister failure detectors on rollback and improve timeout handling](https://github.com/GreptimeTeam/greptimedb/pull/7212) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix: add serde defaults for `MetasrvNodeInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: correct leader state reset and region migration locking consistency](https://github.com/GreptimeTeam/greptimedb/pull/7199) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(metric)!: enable sparse primary key encoding by default](https://github.com/GreptimeTeam/greptimedb/pull/7195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -21,8 +21,8 @@ Hi 👋 Weny here.
 - [refactor: refactor instruction handler and adds support for batch region downgrade operations](https://github.com/GreptimeTeam/greptimedb/pull/7130) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce `OpenRegions` and `CloseRegions` instructions to support batch region operations](https://github.com/GreptimeTeam/greptimedb/pull/7122) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce the Noop WAL provider for datanode](https://github.com/GreptimeTeam/greptimedb/pull/7105) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [fix: fix build warnings](https://github.com/GreptimeTeam/greptimedb/pull/7099) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [docs: update sqlness test runner command](https://github.com/GreptimeTeam/docs/pull/2174) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
+- [fix: fix build warnings](https://github.com/GreptimeTeam/greptimedb/pull/7099) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
+- [docs: update sqlness test runner command](https://github.com/GreptimeTeam/docs/pull/2174) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [refactor: restructure sqlness to support multiple envs and extract common utils](https://github.com/GreptimeTeam/greptimedb/pull/7066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/7024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(cli): fix FS object store handling of absolute paths](https://github.com/GreptimeTeam/greptimedb/pull/7018) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (3 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 months ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (3 months ago)
