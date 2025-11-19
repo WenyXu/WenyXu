@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduce `EnterStagingRequest` for `RegionEngine`](https://github.com/GreptimeTeam/greptimedb/pull/7261) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: batch region migration for failover](https://github.com/GreptimeTeam/greptimedb/pull/7245) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: obtain system time after fetching lease values](https://github.com/GreptimeTeam/greptimedb/pull/7223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: support parallel table operations in `COPY DATABASE`](https://github.com/GreptimeTeam/greptimedb/pull/7213) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [refactor(cli): refactor object storage config](https://github.com/GreptimeTeam/greptimedb/pull/7009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: extract standalone functionality and introduce plugin-based router configuration](https://github.com/GreptimeTeam/greptimedb/pull/7002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: refactor Read Replica documentation structure](https://github.com/GreptimeTeam/docs/pull/2128) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 months ago)
-- [chore: improve error logging in WAL prune manager](https://github.com/GreptimeTeam/greptimedb/pull/6993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 
 #### ⭐ Check out my recent stars
 
