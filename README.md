@@ -39,7 +39,7 @@ Hi 👋 Weny here.
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (1 month ago)
 - [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) - Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem. (1 month ago)
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (1 month ago)
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust. (1 month ago)
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data (1 month ago)
 - [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (2 months ago)
 - [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (2 months ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (2 months ago)
