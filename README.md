@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: pick #7199 and #7266 to `release/v0.15`](https://github.com/GreptimeTeam/greptimedb/pull/7267) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [chore: add tests for election reset and region lease failure handling](https://github.com/GreptimeTeam/greptimedb/pull/7266) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `remap_manifests` for `RegionEngine`](https://github.com/GreptimeTeam/greptimedb/pull/7265) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: introduce `EnterStagingRequest` for `RegionEngine`](https://github.com/GreptimeTeam/greptimedb/pull/7261) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: batch region migration for failover](https://github.com/GreptimeTeam/greptimedb/pull/7245) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [refactor: restructure sqlness to support multiple envs and extract common utils](https://github.com/GreptimeTeam/greptimedb/pull/7066) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: cherry pick patches to `release/v0.17.0` branch](https://github.com/GreptimeTeam/greptimedb/pull/7024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(cli): fix FS object store handling of absolute paths](https://github.com/GreptimeTeam/greptimedb/pull/7018) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor(cli): refactor object storage config](https://github.com/GreptimeTeam/greptimedb/pull/7009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: extract standalone functionality and introduce plugin-based router configuration](https://github.com/GreptimeTeam/greptimedb/pull/7002) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
