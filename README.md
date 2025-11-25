@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [yew1eb](https://github.com/yew1eb)
 - [sorayuth-pep](https://github.com/sorayuth-pep)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [arjungarg07](https://github.com/arjungarg07)
 - [sim-hash](https://github.com/sim-hash)
-- [emilycodestar](https://github.com/emilycodestar)
 
 
