@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: pick #7335 into release v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7338) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add release note for v1.0.0-beta.2](https://github.com/GreptimeTeam/docs/pull/2246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: pick #6370 to release/v0.15](https://github.com/GreptimeTeam/greptimedb/pull/7327) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix write stall that never recovers due to flush logic issues](https://github.com/GreptimeTeam/greptimedb/pull/7322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: add delays in reconcile tests for async cache invalidation](https://github.com/GreptimeTeam/greptimedb/pull/7147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: bump version to 0.7.0](https://github.com/datafusion-contrib/orc-rust/pull/62) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (1 month ago)
 - [refactor: refactor instruction handler and adds support for batch region downgrade operations](https://github.com/GreptimeTeam/greptimedb/pull/7130) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: introduce `OpenRegions` and `CloseRegions` instructions to support batch region operations](https://github.com/GreptimeTeam/greptimedb/pull/7122) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
