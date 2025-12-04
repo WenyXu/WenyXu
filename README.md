@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: pick #7344 into release v0.16 ](https://github.com/GreptimeTeam/greptimedb/pull/7345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: configure HTTP/2 keep-alive for heartbeat client to detect network failures faster](https://github.com/GreptimeTeam/greptimedb/pull/7344) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: pick #7335 into release v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7338) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [docs: add release note for v1.0.0-beta.2](https://github.com/GreptimeTeam/docs/pull/2246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [chore: pick #6370 to release/v0.15](https://github.com/GreptimeTeam/greptimedb/pull/7327) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [fix: missing flamegraph feature in pprof dependency](https://github.com/GreptimeTeam/greptimedb/pull/7158) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: add support for batch region upgrade operations part1](https://github.com/GreptimeTeam/greptimedb/pull/7155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: add delays in reconcile tests for async cache invalidation](https://github.com/GreptimeTeam/greptimedb/pull/7147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [chore: bump version to 0.7.0](https://github.com/datafusion-contrib/orc-rust/pull/62) on [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) (1 month ago)
-- [refactor: refactor instruction handler and adds support for batch region downgrade operations](https://github.com/GreptimeTeam/greptimedb/pull/7130) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
