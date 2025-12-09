@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: pick #6845 #6821 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7368) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: improve network failure detection](https://github.com/GreptimeTeam/greptimedb/pull/7367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: invalidate metadata cache after leadership changed](https://github.com/influxdata/rskafka/pull/283) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 day ago)
 - [fix(meta): add default etcd client options with keep-alive settings](https://github.com/GreptimeTeam/greptimedb/pull/7363) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: pick #7344 into release v0.16 ](https://github.com/GreptimeTeam/greptimedb/pull/7345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [fix: correct leader state reset and region migration locking consistency](https://github.com/GreptimeTeam/greptimedb/pull/7199) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat(metric)!: enable sparse primary key encoding by default](https://github.com/GreptimeTeam/greptimedb/pull/7195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: introduce batch region migration](https://github.com/GreptimeTeam/greptimedb/pull/7176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: add support for batch region upgrade operations part2](https://github.com/GreptimeTeam/greptimedb/pull/7160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: missing flamegraph feature in pprof dependency](https://github.com/GreptimeTeam/greptimedb/pull/7158) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
