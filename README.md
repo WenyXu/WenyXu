@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add keepalive](https://github.com/influxdata/rskafka/pull/286) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (today)
 - [chore: pick #6845 #6821 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7368) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: improve network failure detection](https://github.com/GreptimeTeam/greptimedb/pull/7367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: invalidate metadata cache after leadership changed](https://github.com/influxdata/rskafka/pull/283) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: add serde defaults for `MetasrvNodeInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: correct leader state reset and region migration locking consistency](https://github.com/GreptimeTeam/greptimedb/pull/7199) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat(metric)!: enable sparse primary key encoding by default](https://github.com/GreptimeTeam/greptimedb/pull/7195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: introduce batch region migration](https://github.com/GreptimeTeam/greptimedb/pull/7176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
