@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(procedure): update procedure state correctly during execution and on failure](https://github.com/GreptimeTeam/greptimedb/pull/7376) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add request level timeout](https://github.com/influxdata/rskafka/pull/287) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 day ago)
 - [feat: add keepalive](https://github.com/influxdata/rskafka/pull/286) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 day ago)
 - [chore: pick #6845 #6821 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7368) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: support parallel table operations in `COPY DATABASE`](https://github.com/GreptimeTeam/greptimedb/pull/7213) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: deregister failure detectors on rollback and improve timeout handling](https://github.com/GreptimeTeam/greptimedb/pull/7212) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: add serde defaults for `MetasrvNodeInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: correct leader state reset and region migration locking consistency](https://github.com/GreptimeTeam/greptimedb/pull/7199) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
