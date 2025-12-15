@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: use verified recycling method for PostgreSQL connection pool](https://github.com/GreptimeTeam/greptimedb/pull/7407) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: optimize heartbeat channel and etcd client keepalive settings](https://github.com/GreptimeTeam/greptimedb/pull/7390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: introduce `copy_region_from` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/7389) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix: improve network failure detection](https://github.com/GreptimeTeam/greptimedb/pull/7382) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: introduce `remap_manifests` for `RegionEngine`](https://github.com/GreptimeTeam/greptimedb/pull/7265) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce `EnterStagingRequest` for `RegionEngine`](https://github.com/GreptimeTeam/greptimedb/pull/7261) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: batch region migration for failover](https://github.com/GreptimeTeam/greptimedb/pull/7245) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [fix: obtain system time after fetching lease values](https://github.com/GreptimeTeam/greptimedb/pull/7223) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
