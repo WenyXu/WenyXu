@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments (today)
+- [sparsemat/sprs](https://github.com/sparsemat/sprs) - sparse linear algebra library for rust (today)
 - [fractalbits-labs/fractalbits-main](https://github.com/fractalbits-labs/fractalbits-main) - The ultimate S3 compatible high performance object storage in the AI era. (2 days ago)
 - [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI (2 weeks ago)
 - [BurntSushi/memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust. (1 month ago)
@@ -47,12 +49,10 @@ Hi 👋 Weny here.
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (3 months ago)
 - [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of &#34;NCurses Disk Usage&#34; (3 months ago)
 - [dtolnay/trybuild](https://github.com/dtolnay/trybuild) - Test harness for ui tests of compiler diagnostics (3 months ago)
-- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! (3 months ago)
-- [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
