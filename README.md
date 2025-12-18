@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(metric-engine): support sync logical regions from source region](https://github.com/GreptimeTeam/greptimedb/pull/7438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: add note for `meta_schema_name` field](https://github.com/GreptimeTeam/docs/pull/2264) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7429) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: implement metadata update for repartition group procedure](https://github.com/GreptimeTeam/greptimedb/pull/7311) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add region repartition group procedure infrastructure](https://github.com/GreptimeTeam/greptimedb/pull/7299) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: pick #7199 and #7266 to `release/v0.15`](https://github.com/GreptimeTeam/greptimedb/pull/7267) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [chore: add tests for election reset and region lease failure handling](https://github.com/GreptimeTeam/greptimedb/pull/7266) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
