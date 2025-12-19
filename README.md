@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(metric-engine): support sync logical regions from source region](https://github.com/GreptimeTeam/greptimedb/pull/7438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [chore: add note for `meta_schema_name` field](https://github.com/GreptimeTeam/docs/pull/2264) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
-- [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7429) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: use verified recycling method for PostgreSQL connection pool](https://github.com/GreptimeTeam/greptimedb/pull/7407) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(metric-engine): support sync logical regions from source region](https://github.com/GreptimeTeam/greptimedb/pull/7438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [chore: add note for `meta_schema_name` field](https://github.com/GreptimeTeam/docs/pull/2264) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
+- [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7429) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: use verified recycling method for PostgreSQL connection pool](https://github.com/GreptimeTeam/greptimedb/pull/7407) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [refactor: optimize heartbeat channel and etcd client keepalive settings](https://github.com/GreptimeTeam/greptimedb/pull/7390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: introduce `copy_region_from` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/7389) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: improve network failure detection](https://github.com/GreptimeTeam/greptimedb/pull/7382) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -28,19 +28,19 @@ Hi 👋 Weny here.
 - [chore: pick #6370 to release/v0.15](https://github.com/GreptimeTeam/greptimedb/pull/7327) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: fix write stall that never recovers due to flush logic issues](https://github.com/GreptimeTeam/greptimedb/pull/7322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: implement `Display` trait for `FlushRegions`](https://github.com/GreptimeTeam/greptimedb/pull/7320) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: implement metadata update for repartition group procedure](https://github.com/GreptimeTeam/greptimedb/pull/7311) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: implement metadata update for repartition group procedure](https://github.com/GreptimeTeam/greptimedb/pull/7311) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add region repartition group procedure infrastructure](https://github.com/GreptimeTeam/greptimedb/pull/7299) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: pick #7199 and #7266 to `release/v0.15`](https://github.com/GreptimeTeam/greptimedb/pull/7267) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments (2 days ago)
-- [sparsemat/sprs](https://github.com/sparsemat/sprs) - sparse linear algebra library for rust (2 days ago)
-- [fractalbits-labs/fractalbits-main](https://github.com/fractalbits-labs/fractalbits-main) - The ultimate S3 compatible high performance object storage in the AI era. (4 days ago)
+- [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments (3 days ago)
+- [sparsemat/sprs](https://github.com/sparsemat/sprs) - sparse linear algebra library for rust (3 days ago)
+- [fractalbits-labs/fractalbits-main](https://github.com/fractalbits-labs/fractalbits-main) - The ultimate S3 compatible high performance object storage in the AI era. (5 days ago)
 - [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI (2 weeks ago)
 - [BurntSushi/memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust. (1 month ago)
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go. (1 month ago)
-- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (1 month ago)
+- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (2 months ago)
 - [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) - Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem. (2 months ago)
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (2 months ago)
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data (2 months ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 week ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 months ago)
