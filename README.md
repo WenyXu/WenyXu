@@ -61,9 +61,9 @@ Hi 👋 Weny here.
 #### 👯 Check out my recent followers
 
 - [frieren-mage](https://github.com/frieren-mage)
-- [XiaomingX](https://github.com/XiaomingX)
 - [AlizayAyesha](https://github.com/AlizayAyesha)
 - [yew1eb](https://github.com/yew1eb)
 - [sorayuth-pep](https://github.com/sorayuth-pep)
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 
 
