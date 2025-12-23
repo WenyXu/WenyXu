@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(standalone): support restoring metadata from snapshot on startup](https://github.com/GreptimeTeam/greptimedb/pull/7463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(mito2): pass partition expr explicitly to flush task for region](https://github.com/GreptimeTeam/greptimedb/pull/7461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(mito2): implement `ApplyStagingManifest` request handling](https://github.com/GreptimeTeam/greptimedb/pull/7456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: pick #7148 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: pick #7344 into release v0.16 ](https://github.com/GreptimeTeam/greptimedb/pull/7345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: configure HTTP/2 keep-alive for heartbeat client to detect network failures faster](https://github.com/GreptimeTeam/greptimedb/pull/7344) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: pick #7335 into release v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7338) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [docs: add release note for v1.0.0-beta.2](https://github.com/GreptimeTeam/docs/pull/2246) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
