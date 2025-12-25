@@ -6,21 +6,21 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(cli): support RaftEngine store backend for metadata snapshot operations](https://github.com/GreptimeTeam/greptimedb/pull/7467) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat(standalone): support restoring metadata from snapshot on startup](https://github.com/GreptimeTeam/greptimedb/pull/7463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix(mito2): pass partition expr explicitly to flush task for region](https://github.com/GreptimeTeam/greptimedb/pull/7461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(mito2): implement `ApplyStagingManifest` request handling](https://github.com/GreptimeTeam/greptimedb/pull/7456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [chore: pick #7148 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: introduce `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/296) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
-- [chore: pick #7101 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(repartition): implement enter staging region state](https://github.com/GreptimeTeam/greptimedb/pull/7447) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat(metric-engine): support sync logical regions from source region](https://github.com/GreptimeTeam/greptimedb/pull/7438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [chore: add note for `meta_schema_name` field](https://github.com/GreptimeTeam/docs/pull/2264) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [feat(cli): support RaftEngine store backend for metadata snapshot operations](https://github.com/GreptimeTeam/greptimedb/pull/7467) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(standalone): support restoring metadata from snapshot on startup](https://github.com/GreptimeTeam/greptimedb/pull/7463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix(mito2): pass partition expr explicitly to flush task for region](https://github.com/GreptimeTeam/greptimedb/pull/7461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(mito2): implement `ApplyStagingManifest` request handling](https://github.com/GreptimeTeam/greptimedb/pull/7456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: pick #7148 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: introduce `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/296) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
+- [chore: pick #7101 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(repartition): implement enter staging region state](https://github.com/GreptimeTeam/greptimedb/pull/7447) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat(metric-engine): support sync logical regions from source region](https://github.com/GreptimeTeam/greptimedb/pull/7438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [chore: add note for `meta_schema_name` field](https://github.com/GreptimeTeam/docs/pull/2264) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7429) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: use verified recycling method for PostgreSQL connection pool](https://github.com/GreptimeTeam/greptimedb/pull/7407) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: optimize heartbeat channel and etcd client keepalive settings](https://github.com/GreptimeTeam/greptimedb/pull/7390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: introduce `copy_region_from` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/7389) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [refactor: optimize heartbeat channel and etcd client keepalive settings](https://github.com/GreptimeTeam/greptimedb/pull/7390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: introduce `copy_region_from` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/7389) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: improve network failure detection](https://github.com/GreptimeTeam/greptimedb/pull/7382) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(procedure): update procedure state correctly during execution and on failure](https://github.com/GreptimeTeam/greptimedb/pull/7376) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add request level timeout](https://github.com/influxdata/rskafka/pull/287) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (2 weeks ago)
@@ -29,8 +29,8 @@ Hi 👋 Weny here.
 - [fix: improve network failure detection](https://github.com/GreptimeTeam/greptimedb/pull/7367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: invalidate metadata cache after leadership changed](https://github.com/influxdata/rskafka/pull/283) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (2 weeks ago)
 - [fix(meta): add default etcd client options with keep-alive settings](https://github.com/GreptimeTeam/greptimedb/pull/7363) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: pick #7344 into release v0.16 ](https://github.com/GreptimeTeam/greptimedb/pull/7345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: configure HTTP/2 keep-alive for heartbeat client to detect network failures faster](https://github.com/GreptimeTeam/greptimedb/pull/7344) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [chore: pick #7344 into release v0.16 ](https://github.com/GreptimeTeam/greptimedb/pull/7345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix: configure HTTP/2 keep-alive for heartbeat client to detect network failures faster](https://github.com/GreptimeTeam/greptimedb/pull/7344) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 weeks ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
 
