@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor(mito2): reorganize manifest storage into modular components](https://github.com/GreptimeTeam/greptimedb/pull/7483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(cli): support RaftEngine store backend for metadata snapshot operations](https://github.com/GreptimeTeam/greptimedb/pull/7467) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(standalone): support restoring metadata from snapshot on startup](https://github.com/GreptimeTeam/greptimedb/pull/7463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(mito2): pass partition expr explicitly to flush task for region](https://github.com/GreptimeTeam/greptimedb/pull/7461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: invalidate metadata cache after leadership changed](https://github.com/influxdata/rskafka/pull/283) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (2 weeks ago)
 - [fix(meta): add default etcd client options with keep-alive settings](https://github.com/GreptimeTeam/greptimedb/pull/7363) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: pick #7344 into release v0.16 ](https://github.com/GreptimeTeam/greptimedb/pull/7345) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: configure HTTP/2 keep-alive for heartbeat client to detect network failures faster](https://github.com/GreptimeTeam/greptimedb/pull/7344) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
