@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [filedonkey](https://github.com/filedonkey)
 - [AlizayAyesha](https://github.com/AlizayAyesha)
 - [yew1eb](https://github.com/yew1eb)
 - [sorayuth-pep](https://github.com/sorayuth-pep)
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 
 
