@@ -6,15 +6,15 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor(mito2): reorganize manifest storage into modular components](https://github.com/GreptimeTeam/greptimedb/pull/7483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat(cli): support RaftEngine store backend for metadata snapshot operations](https://github.com/GreptimeTeam/greptimedb/pull/7467) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(standalone): support restoring metadata from snapshot on startup](https://github.com/GreptimeTeam/greptimedb/pull/7463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix(mito2): pass partition expr explicitly to flush task for region](https://github.com/GreptimeTeam/greptimedb/pull/7461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(mito2): implement `ApplyStagingManifest` request handling](https://github.com/GreptimeTeam/greptimedb/pull/7456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [chore: pick #7148 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: introduce `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/296) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
-- [chore: pick #7101 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat(repartition): implement enter staging region state](https://github.com/GreptimeTeam/greptimedb/pull/7447) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor(mito2): reorganize manifest storage into modular components](https://github.com/GreptimeTeam/greptimedb/pull/7483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(cli): support RaftEngine store backend for metadata snapshot operations](https://github.com/GreptimeTeam/greptimedb/pull/7467) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(standalone): support restoring metadata from snapshot on startup](https://github.com/GreptimeTeam/greptimedb/pull/7463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix(mito2): pass partition expr explicitly to flush task for region](https://github.com/GreptimeTeam/greptimedb/pull/7461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(mito2): implement `ApplyStagingManifest` request handling](https://github.com/GreptimeTeam/greptimedb/pull/7456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [chore: pick #7148 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7455) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: introduce `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/296) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [chore: pick #7101 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat(repartition): implement enter staging region state](https://github.com/GreptimeTeam/greptimedb/pull/7447) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(metric-engine): support sync logical regions from source region](https://github.com/GreptimeTeam/greptimedb/pull/7438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add note for `meta_schema_name` field](https://github.com/GreptimeTeam/docs/pull/2264) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -46,14 +46,14 @@ Hi 👋 Weny here.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data (2 months ago)
 - [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (3 months ago)
 - [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (3 months ago)
-- [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (3 months ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (4 months ago)
 - [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of &#34;NCurses Disk Usage&#34; (4 months ago)
 - [dtolnay/trybuild](https://github.com/dtolnay/trybuild) - Test harness for ui tests of compiler diagnostics (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 weeks ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
