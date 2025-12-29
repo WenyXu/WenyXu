@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: update `ApplyStagingManifestRequest` to fetch manifest from central region](https://github.com/GreptimeTeam/greptimedb/pull/7493) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: use path for `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/297) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat(meta-srv): add repartition procedure skeleton](https://github.com/GreptimeTeam/greptimedb/pull/7487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [refactor(mito2): reorganize manifest storage into modular components](https://github.com/GreptimeTeam/greptimedb/pull/7483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add keepalive](https://github.com/influxdata/rskafka/pull/286) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (2 weeks ago)
 - [chore: pick #6845 #6821 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7368) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: improve network failure detection](https://github.com/GreptimeTeam/greptimedb/pull/7367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: invalidate metadata cache after leadership changed](https://github.com/influxdata/rskafka/pull/283) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
