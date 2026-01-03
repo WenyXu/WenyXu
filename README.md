@@ -6,11 +6,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: implement `RemapManifest` and `ApplyStagingManifest` for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7509) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(meta-srv): fallback to non-TLS connection when etcd TLS prefer mode fail](https://github.com/GreptimeTeam/greptimedb/pull/7507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: align backend_tls default value with example config](https://github.com/GreptimeTeam/greptimedb/pull/7496) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: update `ApplyStagingManifestRequest` to fetch manifest from central region](https://github.com/GreptimeTeam/greptimedb/pull/7493) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: use path for `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/297) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [feat: implement `RemapManifest` and `ApplyStagingManifest` for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7509) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(meta-srv): fallback to non-TLS connection when etcd TLS prefer mode fail](https://github.com/GreptimeTeam/greptimedb/pull/7507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: align backend_tls default value with example config](https://github.com/GreptimeTeam/greptimedb/pull/7496) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: update `ApplyStagingManifestRequest` to fetch manifest from central region](https://github.com/GreptimeTeam/greptimedb/pull/7493) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat: use path for `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/297) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
 - [feat(meta-srv): add repartition procedure skeleton](https://github.com/GreptimeTeam/greptimedb/pull/7487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor(mito2): reorganize manifest storage into modular components](https://github.com/GreptimeTeam/greptimedb/pull/7483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(cli): support RaftEngine store backend for metadata snapshot operations](https://github.com/GreptimeTeam/greptimedb/pull/7467) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (2 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 days ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (3 weeks ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (1 month ago)
 
