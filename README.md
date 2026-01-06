@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: force drop region](https://github.com/GreptimeTeam/greptime-proto/pull/299) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
+- [feat(repartition): implement region deallocation for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove `region_numbers` from `TableMeta` and `TableInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: implement `RemapManifest` and `ApplyStagingManifest` for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7509) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat(meta-srv): fallback to non-TLS connection when etcd TLS prefer mode fail](https://github.com/GreptimeTeam/greptimedb/pull/7507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [fix: use verified recycling method for PostgreSQL connection pool](https://github.com/GreptimeTeam/greptimedb/pull/7407) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: optimize heartbeat channel and etcd client keepalive settings](https://github.com/GreptimeTeam/greptimedb/pull/7390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: introduce `copy_region_from` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/7389) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix: improve network failure detection](https://github.com/GreptimeTeam/greptimedb/pull/7382) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix(procedure): update procedure state correctly during execution and on failure](https://github.com/GreptimeTeam/greptimedb/pull/7376) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
