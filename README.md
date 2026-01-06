@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: refactor `CreateTableProcedure` to extract reusable components](https://github.com/GreptimeTeam/greptimedb/pull/7526) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: force drop region](https://github.com/GreptimeTeam/greptime-proto/pull/299) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat(repartition): implement region deallocation for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: remove `region_numbers` from `TableMeta` and `TableInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7429) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: use verified recycling method for PostgreSQL connection pool](https://github.com/GreptimeTeam/greptimedb/pull/7407) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor: optimize heartbeat channel and etcd client keepalive settings](https://github.com/GreptimeTeam/greptimedb/pull/7390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: introduce `copy_region_from` for mito engine](https://github.com/GreptimeTeam/greptimedb/pull/7389) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
