@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: integrate repartition procedure into `DdlManager`](https://github.com/GreptimeTeam/greptimedb/pull/7548) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix SQL table identifier quoting for election](https://github.com/GreptimeTeam/greptimedb/pull/7541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add repartition proto](https://github.com/GreptimeTeam/greptime-proto/pull/300) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat(repartition): implement validation logic for repartition table](https://github.com/GreptimeTeam/greptimedb/pull/7538) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore: pick #7101 into release/v0.16](https://github.com/GreptimeTeam/greptimedb/pull/7453) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(repartition): implement enter staging region state](https://github.com/GreptimeTeam/greptimedb/pull/7447) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(metric-engine): support sync logical regions from source region](https://github.com/GreptimeTeam/greptimedb/pull/7438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: make distributed time constants and client timeouts configurable](https://github.com/GreptimeTeam/greptimedb/pull/7433) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
