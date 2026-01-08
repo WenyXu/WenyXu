@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (today)
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (today)
 - [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments (3 weeks ago)
 - [sparsemat/sprs](https://github.com/sparsemat/sprs) - sparse linear algebra library for rust (3 weeks ago)
 - [fractalbits-labs/fractalbits-main](https://github.com/fractalbits-labs/fractalbits-main) - The ultimate S3 compatible high performance object storage in the AI era. (3 weeks ago)
@@ -47,8 +49,6 @@ Hi 👋 Weny here.
 - [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (3 months ago)
 - [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (4 months ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (4 months ago)
-- [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of &#34;NCurses Disk Usage&#34; (4 months ago)
-- [dtolnay/trybuild](https://github.com/dtolnay/trybuild) - Test harness for ui tests of compiler diagnostics (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
