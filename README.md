@@ -6,12 +6,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [test(cli): fix snapshot test paths on Windows](https://github.com/GreptimeTeam/greptimedb/pull/7574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat(mito2): add repartition tests to reproduce bugs](https://github.com/GreptimeTeam/greptimedb/pull/7568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: add sync region instruction for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7562) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [test: add integration tests for mito repartition](https://github.com/GreptimeTeam/greptimedb/pull/7560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: fix topic region mapping sync and handle `region_not_found` in migration](https://github.com/GreptimeTeam/greptimedb/pull/7552) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [test(cli): fix snapshot test paths on Windows](https://github.com/GreptimeTeam/greptimedb/pull/7574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(mito2): add repartition tests to reproduce bugs](https://github.com/GreptimeTeam/greptimedb/pull/7568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: add sync region instruction for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7562) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [test: add integration tests for mito repartition](https://github.com/GreptimeTeam/greptimedb/pull/7560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: fix topic region mapping sync and handle `region_not_found` in migration](https://github.com/GreptimeTeam/greptimedb/pull/7552) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: integrate repartition procedure into `DdlManager`](https://github.com/GreptimeTeam/greptimedb/pull/7548) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix SQL table identifier quoting for election](https://github.com/GreptimeTeam/greptimedb/pull/7541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add repartition proto](https://github.com/GreptimeTeam/greptime-proto/pull/300) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -26,7 +26,7 @@ Hi 👋 Weny here.
 - [fix: align backend_tls default value with example config](https://github.com/GreptimeTeam/greptimedb/pull/7496) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: update `ApplyStagingManifestRequest` to fetch manifest from central region](https://github.com/GreptimeTeam/greptimedb/pull/7493) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: use path for `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/297) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
-- [feat(meta-srv): add repartition procedure skeleton](https://github.com/GreptimeTeam/greptimedb/pull/7487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat(meta-srv): add repartition procedure skeleton](https://github.com/GreptimeTeam/greptimedb/pull/7487) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor(mito2): reorganize manifest storage into modular components](https://github.com/GreptimeTeam/greptimedb/pull/7483) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(cli): support RaftEngine store backend for metadata snapshot operations](https://github.com/GreptimeTeam/greptimedb/pull/7467) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(standalone): support restoring metadata from snapshot on startup](https://github.com/GreptimeTeam/greptimedb/pull/7463) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (3 days ago)
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (4 days ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (1 week ago)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 week ago)
 - [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments (1 month ago)
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 - [datafusion-contrib/orc-rust](https://github.com/datafusion-contrib/orc-rust) - Rust implementation of Apache ORC (2 months ago)
