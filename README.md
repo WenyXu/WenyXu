@@ -6,13 +6,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add `wait` and `timeout` field](https://github.com/GreptimeTeam/greptime-proto/pull/303) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [chore(doc): fix documentation links for timeout configuration](https://github.com/hyperium/tonic/pull/2483) on [hyperium/tonic](https://github.com/hyperium/tonic) (today)
-- [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
-- [test(cli): fix snapshot test paths on Windows](https://github.com/GreptimeTeam/greptimedb/pull/7574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(mito2): add repartition tests to reproduce bugs](https://github.com/GreptimeTeam/greptimedb/pull/7568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add sync region instruction for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7562) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [test: add integration tests for mito repartition](https://github.com/GreptimeTeam/greptimedb/pull/7560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add `wait` and `timeout` field](https://github.com/GreptimeTeam/greptime-proto/pull/303) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [chore(doc): fix documentation links for timeout configuration](https://github.com/hyperium/tonic/pull/2483) on [hyperium/tonic](https://github.com/hyperium/tonic) (1 day ago)
+- [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
+- [test(cli): fix snapshot test paths on Windows](https://github.com/GreptimeTeam/greptimedb/pull/7574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(mito2): add repartition tests to reproduce bugs](https://github.com/GreptimeTeam/greptimedb/pull/7568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add sync region instruction for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7562) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [test: add integration tests for mito repartition](https://github.com/GreptimeTeam/greptimedb/pull/7560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix: fix topic region mapping sync and handle `region_not_found` in migration](https://github.com/GreptimeTeam/greptimedb/pull/7552) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: integrate repartition procedure into `DdlManager`](https://github.com/GreptimeTeam/greptimedb/pull/7548) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix SQL table identifier quoting for election](https://github.com/GreptimeTeam/greptimedb/pull/7541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (4 days ago)
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (5 days ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (1 week ago)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 week ago)
 - [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments (1 month ago)
@@ -47,13 +47,13 @@ Hi 👋 Weny here.
 - [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) - Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem. (3 months ago)
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (3 months ago)
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data (3 months ago)
-- [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (3 months ago)
+- [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (4 months ago)
 - [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (1 day ago)
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
