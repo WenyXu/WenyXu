@@ -6,29 +6,29 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add ddl timeout/wait options, repartition `WITH` parsing, meta-client startup refactor](https://github.com/GreptimeTeam/greptimedb/pull/7589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: fix nightly ci](https://github.com/GreptimeTeam/greptimedb/pull/7588) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat(meta): add repartition timeouts and metrics](https://github.com/GreptimeTeam/greptimedb/pull/7587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add `wait` and `timeout` field](https://github.com/GreptimeTeam/greptime-proto/pull/303) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
-- [chore(doc): fix documentation links for timeout configuration](https://github.com/hyperium/tonic/pull/2483) on [hyperium/tonic](https://github.com/hyperium/tonic) (3 days ago)
-- [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
-- [test(cli): fix snapshot test paths on Windows](https://github.com/GreptimeTeam/greptimedb/pull/7574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(mito2): add repartition tests to reproduce bugs](https://github.com/GreptimeTeam/greptimedb/pull/7568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: add sync region instruction for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7562) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [test: add integration tests for mito repartition](https://github.com/GreptimeTeam/greptimedb/pull/7560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add ddl timeout/wait options, repartition `WITH` parsing, meta-client startup refactor](https://github.com/GreptimeTeam/greptimedb/pull/7589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: fix nightly ci](https://github.com/GreptimeTeam/greptimedb/pull/7588) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(meta): add repartition timeouts and metrics](https://github.com/GreptimeTeam/greptimedb/pull/7587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add `wait` and `timeout` field](https://github.com/GreptimeTeam/greptime-proto/pull/303) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [chore(doc): fix documentation links for timeout configuration](https://github.com/hyperium/tonic/pull/2483) on [hyperium/tonic](https://github.com/hyperium/tonic) (4 days ago)
+- [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
+- [test(cli): fix snapshot test paths on Windows](https://github.com/GreptimeTeam/greptimedb/pull/7574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat(mito2): add repartition tests to reproduce bugs](https://github.com/GreptimeTeam/greptimedb/pull/7568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add sync region instruction for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7562) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [test: add integration tests for mito repartition](https://github.com/GreptimeTeam/greptimedb/pull/7560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix topic region mapping sync and handle `region_not_found` in migration](https://github.com/GreptimeTeam/greptimedb/pull/7552) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: integrate repartition procedure into `DdlManager`](https://github.com/GreptimeTeam/greptimedb/pull/7548) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: fix SQL table identifier quoting for election](https://github.com/GreptimeTeam/greptimedb/pull/7541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add repartition proto](https://github.com/GreptimeTeam/greptime-proto/pull/300) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat(repartition): implement validation logic for repartition table](https://github.com/GreptimeTeam/greptimedb/pull/7538) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(repartition): implement region allocation for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7534) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: refactor `CreateTableProcedure` to extract reusable components](https://github.com/GreptimeTeam/greptimedb/pull/7526) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: force drop region](https://github.com/GreptimeTeam/greptime-proto/pull/299) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
-- [feat(repartition): implement region deallocation for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [refactor: refactor `CreateTableProcedure` to extract reusable components](https://github.com/GreptimeTeam/greptimedb/pull/7526) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: force drop region](https://github.com/GreptimeTeam/greptime-proto/pull/299) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
+- [feat(repartition): implement region deallocation for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: remove `region_numbers` from `TableMeta` and `TableInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: implement `RemapManifest` and `ApplyStagingManifest` for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7509) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(meta-srv): fallback to non-TLS connection when etcd TLS prefer mode fail](https://github.com/GreptimeTeam/greptimedb/pull/7507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: align backend_tls default value with example config](https://github.com/GreptimeTeam/greptimedb/pull/7496) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [fix: align backend_tls default value with example config](https://github.com/GreptimeTeam/greptimedb/pull/7496) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: update `ApplyStagingManifestRequest` to fetch manifest from central region](https://github.com/GreptimeTeam/greptimedb/pull/7493) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: use path for `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/297) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 
@@ -52,10 +52,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (1 day ago)
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (4 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
 #### 👯 Check out my recent followers
