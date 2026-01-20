@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add `partial_drop` to `DropRequest`](https://github.com/GreptimeTeam/greptimedb/pull/7597) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: add `partial_drop` to `DropRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/304) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix(datanode): fetch region engine via `get_engine` for sync/remap operations](https://github.com/GreptimeTeam/greptimedb/pull/7594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add ddl timeout/wait options, repartition `WITH` parsing, meta-client startup refactor](https://github.com/GreptimeTeam/greptimedb/pull/7589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix nightly ci](https://github.com/GreptimeTeam/greptimedb/pull/7588) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [refactor: remove `region_numbers` from `TableMeta` and `TableInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: implement `RemapManifest` and `ApplyStagingManifest` for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7509) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(meta-srv): fallback to non-TLS connection when etcd TLS prefer mode fail](https://github.com/GreptimeTeam/greptimedb/pull/7507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: align backend_tls default value with example config](https://github.com/GreptimeTeam/greptimedb/pull/7496) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: update `ApplyStagingManifestRequest` to fetch manifest from central region](https://github.com/GreptimeTeam/greptimedb/pull/7493) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -53,9 +53,9 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (4 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
 #### 👯 Check out my recent followers
