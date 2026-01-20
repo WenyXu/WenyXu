@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(datanode): fetch region engine via `get_engine` for sync/remap operations](https://github.com/GreptimeTeam/greptimedb/pull/7594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add ddl timeout/wait options, repartition `WITH` parsing, meta-client startup refactor](https://github.com/GreptimeTeam/greptimedb/pull/7589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: fix nightly ci](https://github.com/GreptimeTeam/greptimedb/pull/7588) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(meta): add repartition timeouts and metrics](https://github.com/GreptimeTeam/greptimedb/pull/7587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat(meta-srv): fallback to non-TLS connection when etcd TLS prefer mode fail](https://github.com/GreptimeTeam/greptimedb/pull/7507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: align backend_tls default value with example config](https://github.com/GreptimeTeam/greptimedb/pull/7496) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: update `ApplyStagingManifestRequest` to fetch manifest from central region](https://github.com/GreptimeTeam/greptimedb/pull/7493) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: use path for `ApplyStagingManifestRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/297) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
