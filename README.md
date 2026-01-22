@@ -34,6 +34,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [ZhangHanDong/rust-skills](https://github.com/ZhangHanDong/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing (today)
+- [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills (today)
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 week ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (2 weeks ago)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (2 weeks ago)
@@ -47,8 +49,6 @@ Hi 👋 Weny here.
 - [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) - Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem. (3 months ago)
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (3 months ago)
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data (3 months ago)
-- [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) -  (4 months ago)
-- [yegor256/micromap](https://github.com/yegor256/micromap) - 📈 The fastest (for very small maps!) alternative of Rust HashMap, which doesn&#39;t use hashing and doesn&#39;t use heap (aka &#34;linear map&#34;) (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
