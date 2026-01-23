@@ -61,9 +61,9 @@ Hi 👋 Weny here.
 #### 👯 Check out my recent followers
 
 - [emilycodestar](https://github.com/emilycodestar)
-- [mikechiloane](https://github.com/mikechiloane)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
+- [AlizayAyesha](https://github.com/AlizayAyesha)
 
 
