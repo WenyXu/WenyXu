@@ -6,12 +6,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add `partial_drop` to `DropRequest`](https://github.com/GreptimeTeam/greptimedb/pull/7597) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: add `partial_drop` to `DropRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/304) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
-- [fix(datanode): fetch region engine via `get_engine` for sync/remap operations](https://github.com/GreptimeTeam/greptimedb/pull/7594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: add ddl timeout/wait options, repartition `WITH` parsing, meta-client startup refactor](https://github.com/GreptimeTeam/greptimedb/pull/7589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix: fix nightly ci](https://github.com/GreptimeTeam/greptimedb/pull/7588) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat(meta): add repartition timeouts and metrics](https://github.com/GreptimeTeam/greptimedb/pull/7587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add `partial_drop` to `DropRequest`](https://github.com/GreptimeTeam/greptimedb/pull/7597) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add `partial_drop` to `DropRequest`](https://github.com/GreptimeTeam/greptime-proto/pull/304) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (6 days ago)
+- [fix(datanode): fetch region engine via `get_engine` for sync/remap operations](https://github.com/GreptimeTeam/greptimedb/pull/7594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: add ddl timeout/wait options, repartition `WITH` parsing, meta-client startup refactor](https://github.com/GreptimeTeam/greptimedb/pull/7589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: fix nightly ci](https://github.com/GreptimeTeam/greptimedb/pull/7588) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat(meta): add repartition timeouts and metrics](https://github.com/GreptimeTeam/greptimedb/pull/7587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add `wait` and `timeout` field](https://github.com/GreptimeTeam/greptime-proto/pull/303) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [chore(doc): fix documentation links for timeout configuration](https://github.com/hyperium/tonic/pull/2483) on [hyperium/tonic](https://github.com/hyperium/tonic) (1 week ago)
 - [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
@@ -28,18 +28,18 @@ Hi 👋 Weny here.
 - [refactor: refactor `CreateTableProcedure` to extract reusable components](https://github.com/GreptimeTeam/greptimedb/pull/7526) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: force drop region](https://github.com/GreptimeTeam/greptime-proto/pull/299) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 - [feat(repartition): implement region deallocation for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7522) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: remove `region_numbers` from `TableMeta` and `TableInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [refactor: remove `region_numbers` from `TableMeta` and `TableInfo`](https://github.com/GreptimeTeam/greptimedb/pull/7519) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: implement `RemapManifest` and `ApplyStagingManifest` for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7509) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(meta-srv): fallback to non-TLS connection when etcd TLS prefer mode fail](https://github.com/GreptimeTeam/greptimedb/pull/7507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 200&#43; Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. (1 day ago)
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (1 day ago)
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (1 day ago)
-- [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing (3 days ago)
-- [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills (3 days ago)
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 week ago)
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 200&#43; Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. (2 days ago)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (2 days ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (2 days ago)
+- [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing (4 days ago)
+- [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills (4 days ago)
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (2 weeks ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (2 weeks ago)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (2 weeks ago)
 - [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments (1 month ago)
@@ -47,14 +47,14 @@ Hi 👋 Weny here.
 - [fractalbits-labs/fractalbits-main](https://github.com/fractalbits-labs/fractalbits-main) - The ultimate S3 compatible high performance object storage in the AI era. (1 month ago)
 - [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI (1 month ago)
 - [BurntSushi/memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust. (2 months ago)
-- [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go. (2 months ago)
+- [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go. (3 months ago)
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (3 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 days ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (4 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (6 days ago)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (1 week ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
