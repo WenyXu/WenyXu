@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 200&#43; Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. (3 days ago)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (3 days ago)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (3 days ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI (1 month ago)
 - [BurntSushi/memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust. (2 months ago)
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go. (3 months ago)
-- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
