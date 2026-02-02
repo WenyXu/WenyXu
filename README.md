@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add repartition docs](https://github.com/GreptimeTeam/docs/pull/2315) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: bump version rc.1](https://github.com/GreptimeTeam/greptimedb/pull/7645) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: clean up staging blob directory on clear](https://github.com/GreptimeTeam/greptimedb/pull/7642) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat: partition rule version validation for writes and staging](https://github.com/GreptimeTeam/greptimedb/pull/7628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add repartition proto](https://github.com/GreptimeTeam/greptime-proto/pull/300) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [feat(repartition): implement validation logic for repartition table](https://github.com/GreptimeTeam/greptimedb/pull/7538) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(repartition): implement region allocation for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7534) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [refactor: refactor `CreateTableProcedure` to extract reusable components](https://github.com/GreptimeTeam/greptimedb/pull/7526) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
