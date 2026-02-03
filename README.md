@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(copy): treat null inferred columns as Utf8 to preserve later values](https://github.com/GreptimeTeam/greptimedb/pull/7658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: fix styling](https://github.com/GreptimeTeam/docs/pull/2319) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [docs: add rc1 release note](https://github.com/GreptimeTeam/docs/pull/2318) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [feat: add repartition docs](https://github.com/GreptimeTeam/docs/pull/2315) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: fix topic region mapping sync and handle `region_not_found` in migration](https://github.com/GreptimeTeam/greptimedb/pull/7552) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: integrate repartition procedure into `DdlManager`](https://github.com/GreptimeTeam/greptimedb/pull/7548) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: fix SQL table identifier quoting for election](https://github.com/GreptimeTeam/greptimedb/pull/7541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add repartition proto](https://github.com/GreptimeTeam/greptime-proto/pull/300) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
