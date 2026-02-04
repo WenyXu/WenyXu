@@ -62,8 +62,8 @@ Hi 👋 Weny here.
 
 - [emilycodestar](https://github.com/emilycodestar)
 - [rodrigogalura](https://github.com/rodrigogalura)
-- [seckinyasar](https://github.com/seckinyasar)
 - [AlizayAyesha](https://github.com/AlizayAyesha)
 - [yew1eb](https://github.com/yew1eb)
+- [sorayuth-pep](https://github.com/sorayuth-pep)
 
 
