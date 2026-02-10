@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(mito2): introduce `PartitionExprChange` in staging flow and keep memtables on metadata-only updates](https://github.com/GreptimeTeam/greptimedb/pull/7695) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(repartition): reject writes on deallocating regions during region merge](https://github.com/GreptimeTeam/greptimedb/pull/7694) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test: add repartition fuzz target with partition IR and translators](https://github.com/GreptimeTeam/greptimedb/pull/7666) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(copy): treat null inferred columns as Utf8 to preserve later values](https://github.com/GreptimeTeam/greptimedb/pull/7658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat(mito2): add repartition tests to reproduce bugs](https://github.com/GreptimeTeam/greptimedb/pull/7568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add sync region instruction for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7562) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [test: add integration tests for repartition](https://github.com/GreptimeTeam/greptimedb/pull/7560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [fix: fix topic region mapping sync and handle `region_not_found` in migration](https://github.com/GreptimeTeam/greptimedb/pull/7552) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
