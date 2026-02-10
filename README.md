@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: rename partition rule version to partition expr version](https://github.com/GreptimeTeam/greptimedb/pull/7696) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: rename `PartitionExprVersion`](https://github.com/GreptimeTeam/greptime-proto/pull/309) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix(mito2): introduce `PartitionExprChange` in staging flow and keep memtables on metadata-only updates](https://github.com/GreptimeTeam/greptimedb/pull/7695) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(repartition): reject writes on deallocating regions during region merge](https://github.com/GreptimeTeam/greptimedb/pull/7694) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test: add repartition fuzz target with partition IR and translators](https://github.com/GreptimeTeam/greptimedb/pull/7666) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [test(cli): fix snapshot test paths on Windows](https://github.com/GreptimeTeam/greptimedb/pull/7574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(mito2): add repartition tests to reproduce bugs](https://github.com/GreptimeTeam/greptimedb/pull/7568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: add sync region instruction for repartition procedure](https://github.com/GreptimeTeam/greptimedb/pull/7562) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [test: add integration tests for repartition](https://github.com/GreptimeTeam/greptimedb/pull/7560) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
