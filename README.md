@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [test(fuzz): repartition validation and add dedicated CI GC profile](https://github.com/GreptimeTeam/greptimedb/pull/7703) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: rename partition rule version to partition expr version](https://github.com/GreptimeTeam/greptimedb/pull/7696) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: rename `PartitionExprVersion`](https://github.com/GreptimeTeam/greptime-proto/pull/309) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [fix(mito2): introduce `PartitionExprChange` in staging flow and keep memtables on metadata-only updates](https://github.com/GreptimeTeam/greptimedb/pull/7695) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [chore(doc): fix documentation links for timeout configuration](https://github.com/hyperium/tonic/pull/2483) on [hyperium/tonic](https://github.com/hyperium/tonic) (3 weeks ago)
 - [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 - [test(cli): fix snapshot test paths on Windows](https://github.com/GreptimeTeam/greptimedb/pull/7574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat(mito2): add repartition tests to reproduce bugs](https://github.com/GreptimeTeam/greptimedb/pull/7568) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
