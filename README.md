@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (today)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 weeks ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (1 month ago)
