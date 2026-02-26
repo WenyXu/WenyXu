@@ -6,6 +6,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add mailbox message header](https://github.com/GreptimeTeam/greptime-proto/pull/310) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
+- [feat(tracing): propagate mailbox trace context and refine procedure spans](https://github.com/GreptimeTeam/greptimedb/pull/7726) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test(fuzz): repartition validation and add dedicated CI GC profile](https://github.com/GreptimeTeam/greptimedb/pull/7703) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: rename partition rule version to partition expr version](https://github.com/GreptimeTeam/greptimedb/pull/7696) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: rename `PartitionExprVersion`](https://github.com/GreptimeTeam/greptime-proto/pull/309) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
@@ -29,8 +31,6 @@ Hi 👋 Weny here.
 - [feat(meta): add repartition timeouts and metrics](https://github.com/GreptimeTeam/greptimedb/pull/7587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add `wait` and `timeout` field](https://github.com/GreptimeTeam/greptime-proto/pull/303) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [chore(doc): fix documentation links for timeout configuration](https://github.com/hyperium/tonic/pull/2483) on [hyperium/tonic](https://github.com/hyperium/tonic) (1 month ago)
-- [feat: add procedure watch interface](https://github.com/GreptimeTeam/greptime-proto/pull/302) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
-- [test(cli): fix snapshot test paths on Windows](https://github.com/GreptimeTeam/greptimedb/pull/7574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
