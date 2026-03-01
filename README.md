@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [morimura07](https://github.com/morimura07)
 - [heiwen](https://github.com/heiwen)
 - [erenworld](https://github.com/erenworld)
 - [XiaomingX](https://github.com/XiaomingX)
 - [emilycodestar](https://github.com/emilycodestar)
-- [rodrigogalura](https://github.com/rodrigogalura)
 
 
