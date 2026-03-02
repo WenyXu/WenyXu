@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [ci: refactor monitor artifact export and include otel trace derived tables](https://github.com/GreptimeTeam/greptimedb/pull/7742) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: preserve the order of primary key indices as defined in the original table info](https://github.com/GreptimeTeam/greptimedb/pull/7740) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(ci): collect monitor logs and traces on fuzz test failures](https://github.com/GreptimeTeam/greptimedb/pull/7728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: add mailbox message header](https://github.com/GreptimeTeam/greptime-proto/pull/310) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(datanode): fetch region engine via `get_engine` for sync/remap operations](https://github.com/GreptimeTeam/greptimedb/pull/7594) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add ddl timeout/wait options, repartition `WITH` parsing, meta-client startup refactor](https://github.com/GreptimeTeam/greptimedb/pull/7589) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: fix nightly ci](https://github.com/GreptimeTeam/greptimedb/pull/7588) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat(meta): add repartition timeouts and metrics](https://github.com/GreptimeTeam/greptimedb/pull/7587) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
