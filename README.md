@@ -6,10 +6,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [test(fuzz): add metric table repartition fuzz target](https://github.com/GreptimeTeam/greptimedb/pull/7754) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add COPY support for GCS/Azblob with OSS/GCS/Azblob integration coverage](https://github.com/GreptimeTeam/greptimedb/pull/7743) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [ci: refactor monitor artifact export and include otel trace derived tables](https://github.com/GreptimeTeam/greptimedb/pull/7742) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: preserve the order of primary key indices as defined in the original table info](https://github.com/GreptimeTeam/greptimedb/pull/7740) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [test(fuzz): add metric table repartition fuzz target](https://github.com/GreptimeTeam/greptimedb/pull/7754) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add COPY support for GCS/Azblob with OSS/GCS/Azblob integration coverage](https://github.com/GreptimeTeam/greptimedb/pull/7743) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [ci: refactor monitor artifact export and include otel trace derived tables](https://github.com/GreptimeTeam/greptimedb/pull/7742) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: preserve the order of primary key indices as defined in the original table info](https://github.com/GreptimeTeam/greptimedb/pull/7740) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore(ci): collect monitor logs and traces on fuzz test failures](https://github.com/GreptimeTeam/greptimedb/pull/7728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add mailbox message header](https://github.com/GreptimeTeam/greptime-proto/pull/310) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [feat(tracing): propagate mailbox trace context and refine procedure spans](https://github.com/GreptimeTeam/greptimedb/pull/7726) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -34,7 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (4 days ago)
+- [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (5 days ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos (1 month ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (3 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (3 weeks ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 month ago)
