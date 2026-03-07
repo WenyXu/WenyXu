@@ -34,6 +34,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (today)
 - [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (5 days ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (1 month ago)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 month ago)
 - [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments (2 months ago)
-- [sparsemat/sprs](https://github.com/sparsemat/sprs) - sparse linear algebra library for rust (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
