@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [xkx-dev](https://github.com/xkx-dev)
 - [FTCHD](https://github.com/FTCHD)
 - [YaoYYoung](https://github.com/YaoYYoung)
 - [heiwen](https://github.com/heiwen)
 - [erenworld](https://github.com/erenworld)
-- [emilycodestar](https://github.com/emilycodestar)
 
 
