@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add rc2 release note](https://github.com/GreptimeTeam/docs/pull/2369) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: bump version rc.2](https://github.com/GreptimeTeam/greptimedb/pull/7788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(meta): remap route addresses when reading full table info](https://github.com/GreptimeTeam/greptimedb/pull/7778) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(mito2): avoid parquet redownload when write cache already contains file](https://github.com/GreptimeTeam/greptimedb/pull/7777) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,10 +31,10 @@ Hi 👋 Weny here.
 - [chore: bump version rc.1](https://github.com/GreptimeTeam/greptimedb/pull/7645) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: clean up staging blob directory on clear](https://github.com/GreptimeTeam/greptimedb/pull/7642) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: partition rule version validation for writes and staging](https://github.com/GreptimeTeam/greptimedb/pull/7628) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: introduce `partition_rule_version`](https://github.com/GreptimeTeam/greptime-proto/pull/306) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
+- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 (today)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (4 days ago)
 - [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (1 week ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
@@ -48,7 +49,6 @@ Hi 👋 Weny here.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode (1 month ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (2 months ago)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (2 months ago)
-- [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
