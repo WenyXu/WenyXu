@@ -35,7 +35,7 @@ Hi 👋 Weny here.
 #### ⭐ Check out my recent stars
 
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 (1 day ago)
-- [jackwener/opencli](https://github.com/jackwener/opencli) - Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction. (3 days ago)
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (3 days ago)
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (1 week ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 week ago)
 - [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (2 weeks ago)
