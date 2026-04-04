@@ -6,7 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: cancel local compaction for enter staging](https://github.com/GreptimeTeam/greptimedb/pull/7885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: cancel local compaction for enter staging](https://github.com/GreptimeTeam/greptimedb/pull/7885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [docs: add repartition section](https://github.com/GreptimeTeam/docs/pull/2380) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix: prevent stale in-flight cache refill after invalidation in CacheContainer](https://github.com/GreptimeTeam/greptimedb/pull/7825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(partition): add expression split utility](https://github.com/GreptimeTeam/greptimedb/pull/7822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -28,7 +28,7 @@ Hi 👋 Weny here.
 - [fix(mito2): introduce `PartitionExprChange` in staging flow and keep memtables on metadata-only updates](https://github.com/GreptimeTeam/greptimedb/pull/7695) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(repartition): reject writes on deallocating regions during region merge](https://github.com/GreptimeTeam/greptimedb/pull/7694) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [test: add repartition fuzz target with partition IR and translators](https://github.com/GreptimeTeam/greptimedb/pull/7666) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix(copy): treat null inferred columns as Utf8 to preserve later values](https://github.com/GreptimeTeam/greptimedb/pull/7658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
+- [fix(copy): treat null inferred columns as Utf8 to preserve later values](https://github.com/GreptimeTeam/greptimedb/pull/7658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [fix: fix styling](https://github.com/GreptimeTeam/docs/pull/2319) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 months ago)
 - [docs: add rc1 release note](https://github.com/GreptimeTeam/docs/pull/2318) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 months ago)
 
@@ -36,15 +36,15 @@ Hi 👋 Weny here.
 
 - [Cluster444/agentic](https://github.com/Cluster444/agentic) - An agentic workflow tool that provides context engineering support for opencode (1 week ago)
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode (1 week ago)
-- [170-carry/codex-tools](https://github.com/170-carry/codex-tools) - 代理,快捷切换codex 账号, 监控codex用量的工具,以及对codex进行api反代 , 支持多语言 (1 week ago)
+- [170-carry/codex-tools](https://github.com/170-carry/codex-tools) - 代理,快捷切换codex 账号, 监控codex用量的工具,以及对codex进行api反代 , 支持多语言 (2 weeks ago)
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 (2 weeks ago)
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (2 weeks ago)
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (3 weeks ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 weeks ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (4 weeks ago)
 - [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (1 month ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 month ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos (1 month ago)
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos (2 months ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 months ago)
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,340&#43; agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections. (2 months ago)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (2 months ago)
