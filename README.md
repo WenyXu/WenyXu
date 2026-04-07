@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(repartition): harden repartition rollback paths](https://github.com/GreptimeTeam/greptimedb/pull/7918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: cancel local compaction for enter staging](https://github.com/GreptimeTeam/greptimedb/pull/7885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add repartition section](https://github.com/GreptimeTeam/docs/pull/2380) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [fix: prevent stale in-flight cache refill after invalidation in CacheContainer](https://github.com/GreptimeTeam/greptimedb/pull/7825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [test: add repartition fuzz target with partition IR and translators](https://github.com/GreptimeTeam/greptimedb/pull/7666) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [fix(copy): treat null inferred columns as Utf8 to preserve later values](https://github.com/GreptimeTeam/greptimedb/pull/7658) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [fix: fix styling](https://github.com/GreptimeTeam/docs/pull/2319) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 months ago)
-- [docs: add rc1 release note](https://github.com/GreptimeTeam/docs/pull/2318) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 months ago)
 
 #### ⭐ Check out my recent stars
 
