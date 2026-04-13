@@ -6,12 +6,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: propagate staging leader through lease and heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/7950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add staging leader](https://github.com/GreptimeTeam/greptime-proto/pull/313) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
-- [fix: remap peer addresses during retries](https://github.com/GreptimeTeam/greptimedb/pull/7933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [test: add repartition chaos target](https://github.com/GreptimeTeam/greptimedb/pull/7924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [fix(repartition): harden repartition rollback paths](https://github.com/GreptimeTeam/greptimedb/pull/7918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: cancel local compaction for enter staging](https://github.com/GreptimeTeam/greptimedb/pull/7885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: propagate staging leader through lease and heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/7950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add staging leader](https://github.com/GreptimeTeam/greptime-proto/pull/313) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [fix: remap peer addresses during retries](https://github.com/GreptimeTeam/greptimedb/pull/7933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [test: add repartition chaos target](https://github.com/GreptimeTeam/greptimedb/pull/7924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix(repartition): harden repartition rollback paths](https://github.com/GreptimeTeam/greptimedb/pull/7918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: cancel local compaction for enter staging](https://github.com/GreptimeTeam/greptimedb/pull/7885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: add repartition section](https://github.com/GreptimeTeam/docs/pull/2380) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [fix: prevent stale in-flight cache refill after invalidation in CacheContainer](https://github.com/GreptimeTeam/greptimedb/pull/7825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(partition): add expression split utility](https://github.com/GreptimeTeam/greptimedb/pull/7822) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -52,7 +52,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (4 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 months ago)
