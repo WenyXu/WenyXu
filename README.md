@@ -60,10 +60,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [JJJJJJerry](https://github.com/JJJJJJerry)
 - [bietkhonhungvandi212](https://github.com/bietkhonhungvandi212)
 - [ybtsdst](https://github.com/ybtsdst)
 - [dentiny](https://github.com/dentiny)
 - [S4IL21](https://github.com/S4IL21)
-- [xkx-dev](https://github.com/xkx-dev)
 
 
