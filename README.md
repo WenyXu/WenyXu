@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: move group rollback ownership to parent repartition](https://github.com/GreptimeTeam/greptimedb/pull/7967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: propagate staging leader through lease and heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/7950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat: add staging leader](https://github.com/GreptimeTeam/greptime-proto/pull/313) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
 - [fix: remap peer addresses during retries](https://github.com/GreptimeTeam/greptimedb/pull/7933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [test(fuzz): repartition validation and add dedicated CI GC profile](https://github.com/GreptimeTeam/greptimedb/pull/7703) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [refactor: rename partition rule version to partition expr version](https://github.com/GreptimeTeam/greptimedb/pull/7696) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [refactor: rename `PartitionExprVersion`](https://github.com/GreptimeTeam/greptime-proto/pull/309) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 months ago)
-- [fix(mito2): introduce `PartitionExprChange` in staging flow and keep memtables on metadata-only updates](https://github.com/GreptimeTeam/greptimedb/pull/7695) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 
 #### ⭐ Check out my recent stars
 
