@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(meta): renew operating region leases from keeper roles](https://github.com/GreptimeTeam/greptimedb/pull/7971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: relax azblob validation requirements](https://github.com/GreptimeTeam/greptimedb/pull/7970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: move group rollback ownership to parent repartition](https://github.com/GreptimeTeam/greptimedb/pull/7967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: propagate staging leader through lease and heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/7950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [feat: add mailbox message header](https://github.com/GreptimeTeam/greptime-proto/pull/310) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [feat(tracing): propagate mailbox trace context and refine procedure spans](https://github.com/GreptimeTeam/greptimedb/pull/7726) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [test(fuzz): repartition validation and add dedicated CI GC profile](https://github.com/GreptimeTeam/greptimedb/pull/7703) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
-- [refactor: rename partition rule version to partition expr version](https://github.com/GreptimeTeam/greptimedb/pull/7696) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 
 #### ⭐ Check out my recent stars
 
@@ -52,8 +52,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 months ago)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (2 months ago)
