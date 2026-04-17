@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(cli): add metadata put key and table commands](https://github.com/GreptimeTeam/greptimedb/pull/7989) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: upgrade mysql metadata value limit to mediumblob](https://github.com/GreptimeTeam/greptimedb/pull/7985) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(meta): renew operating region leases from keeper roles](https://github.com/GreptimeTeam/greptimedb/pull/7971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: relax azblob validation requirements](https://github.com/GreptimeTeam/greptimedb/pull/7970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix: preserve the order of primary key indices as defined in the original table info](https://github.com/GreptimeTeam/greptimedb/pull/7740) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore(ci): collect monitor logs and traces on fuzz test failures](https://github.com/GreptimeTeam/greptimedb/pull/7728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add mailbox message header](https://github.com/GreptimeTeam/greptime-proto/pull/310) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
-- [feat(tracing): propagate mailbox trace context and refine procedure spans](https://github.com/GreptimeTeam/greptimedb/pull/7726) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
