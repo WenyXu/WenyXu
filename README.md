@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: cherry pick fixes and bum version to v1.0.1](https://github.com/GreptimeTeam/greptimedb/pull/8024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(cli): add metadata put key and table commands](https://github.com/GreptimeTeam/greptimedb/pull/7989) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix: upgrade mysql metadata value limit to mediumblob](https://github.com/GreptimeTeam/greptimedb/pull/7985) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(meta): renew operating region leases from keeper roles](https://github.com/GreptimeTeam/greptimedb/pull/7971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [ci: refactor monitor artifact export and include otel trace derived tables](https://github.com/GreptimeTeam/greptimedb/pull/7742) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: preserve the order of primary key indices as defined in the original table info](https://github.com/GreptimeTeam/greptimedb/pull/7740) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore(ci): collect monitor logs and traces on fuzz test failures](https://github.com/GreptimeTeam/greptimedb/pull/7728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add mailbox message header](https://github.com/GreptimeTeam/greptime-proto/pull/310) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
