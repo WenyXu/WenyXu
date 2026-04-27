@@ -6,6 +6,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: remove outdated metasrv wal timeout configs](https://github.com/GreptimeTeam/docs/pull/2445) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [refactor: make InsertForwarder use shared metasrv database operator](https://github.com/GreptimeTeam/greptimedb/pull/8033) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [refactor: unify frontend discovery with active peer discovery](https://github.com/GreptimeTeam/greptimedb/pull/8031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix(docs): update configuration.md with latest default values](https://github.com/GreptimeTeam/docs/pull/2439) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
@@ -30,7 +31,6 @@ Hi 👋 Weny here.
 - [fix(meta): remap route addresses when reading full table info](https://github.com/GreptimeTeam/greptimedb/pull/7778) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(mito2): avoid parquet redownload when write cache already contains file](https://github.com/GreptimeTeam/greptimedb/pull/7777) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(mito2): ensure enter staging waits for compaction](https://github.com/GreptimeTeam/greptimedb/pull/7776) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [test(fuzz): add metric table repartition fuzz target](https://github.com/GreptimeTeam/greptimedb/pull/7754) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
