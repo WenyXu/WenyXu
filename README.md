@@ -6,22 +6,22 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: remove outdated metasrv wal timeout configs](https://github.com/GreptimeTeam/docs/pull/2445) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
-- [refactor: make InsertForwarder use shared metasrv database operator](https://github.com/GreptimeTeam/greptimedb/pull/8033) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor: unify frontend discovery with active peer discovery](https://github.com/GreptimeTeam/greptimedb/pull/8031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix(docs): update configuration.md with latest default values](https://github.com/GreptimeTeam/docs/pull/2439) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [docs: add v1.0.1 release note ](https://github.com/GreptimeTeam/docs/pull/2437) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
-- [chore: cherry pick fixes and bum version to v1.0.1](https://github.com/GreptimeTeam/greptimedb/pull/8024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [docs: remove outdated metasrv wal timeout configs](https://github.com/GreptimeTeam/docs/pull/2445) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
+- [refactor: make InsertForwarder use shared metasrv database operator](https://github.com/GreptimeTeam/greptimedb/pull/8033) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [refactor: unify frontend discovery with active peer discovery](https://github.com/GreptimeTeam/greptimedb/pull/8031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix(docs): update configuration.md with latest default values](https://github.com/GreptimeTeam/docs/pull/2439) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [docs: add v1.0.1 release note ](https://github.com/GreptimeTeam/docs/pull/2437) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [chore: cherry pick fixes and bum version to v1.0.1](https://github.com/GreptimeTeam/greptimedb/pull/8024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat(cli): add metadata put key and table commands](https://github.com/GreptimeTeam/greptimedb/pull/7989) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: upgrade mysql metadata value limit to mediumblob](https://github.com/GreptimeTeam/greptimedb/pull/7985) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(meta): renew operating region leases from keeper roles](https://github.com/GreptimeTeam/greptimedb/pull/7971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: relax azblob validation requirements](https://github.com/GreptimeTeam/greptimedb/pull/7970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: move group rollback ownership to parent repartition](https://github.com/GreptimeTeam/greptimedb/pull/7967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [refactor: move group rollback ownership to parent repartition](https://github.com/GreptimeTeam/greptimedb/pull/7967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: propagate staging leader through lease and heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/7950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add staging leader](https://github.com/GreptimeTeam/greptime-proto/pull/313) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
 - [fix: remap peer addresses during retries](https://github.com/GreptimeTeam/greptimedb/pull/7933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [test: add repartition chaos target](https://github.com/GreptimeTeam/greptimedb/pull/7924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(repartition): harden repartition rollback paths](https://github.com/GreptimeTeam/greptimedb/pull/7918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [test: add repartition chaos target](https://github.com/GreptimeTeam/greptimedb/pull/7924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix(repartition): harden repartition rollback paths](https://github.com/GreptimeTeam/greptimedb/pull/7918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: cancel local compaction for enter staging](https://github.com/GreptimeTeam/greptimedb/pull/7885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [docs: add repartition section](https://github.com/GreptimeTeam/docs/pull/2380) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [fix: prevent stale in-flight cache refill after invalidation in CacheContainer](https://github.com/GreptimeTeam/greptimedb/pull/7825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
@@ -52,9 +52,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
-- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
+- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (5 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 months ago)
 
