@@ -1,5 +1,7 @@
 Hi 👋 Weny here.
 
+[![VibeUsage](https://vibecafe.ai/@weny/badge)](https://vibecafe.ai/@weny)
+
 💻 Interested in the database system and distributed system.
 
 ~🍺 Open to Remote/Intern Job Opportunities~
