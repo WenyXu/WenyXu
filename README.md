@@ -36,6 +36,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (today)
 - [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite &#43; FTS5, MCP server, HTTP API, CLI, and TUI. (1 day ago)
 - [supermemoryai/opencode-supermemory](https://github.com/supermemoryai/opencode-supermemory) - Supermemory plugin for OpenCode (2 weeks ago)
 - [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database (2 weeks ago)
@@ -50,7 +51,6 @@ Hi 👋 Weny here.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 months ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 months ago)
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos (2 months ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
