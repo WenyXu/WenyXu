@@ -36,6 +36,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (today)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (5 days ago)
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent (5 days ago)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility (5 days ago)
@@ -50,7 +51,6 @@ Hi 👋 Weny here.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 month ago)
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (1 month ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 months ago)
-- [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
