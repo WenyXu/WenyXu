@@ -8,8 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(services/oss): support ECS RAM role credentials](https://github.com/apache/opendal/pull/7480) on [apache/opendal](https://github.com/apache/opendal) (3 days ago)
-- [docs: remove outdated metasrv wal timeout configs](https://github.com/GreptimeTeam/docs/pull/2445) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [feat(services/oss): support ECS RAM role credentials](https://github.com/apache/opendal/pull/7480) on [apache/opendal](https://github.com/apache/opendal) (4 days ago)
+- [docs: remove outdated metasrv wal timeout configs](https://github.com/GreptimeTeam/docs/pull/2445) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [refactor: make InsertForwarder use shared metasrv database operator](https://github.com/GreptimeTeam/greptimedb/pull/8033) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: unify frontend discovery with active peer discovery](https://github.com/GreptimeTeam/greptimedb/pull/8031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(docs): update configuration.md with latest default values](https://github.com/GreptimeTeam/docs/pull/2439) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
@@ -36,8 +36,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (1 day ago)
-- [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (3 days ago)
+- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (2 days ago)
+- [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (4 days ago)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (1 week ago)
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent (1 week ago)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility (1 week ago)
@@ -54,11 +54,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (3 days ago)
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (4 days ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (2 weeks ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 weeks ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
