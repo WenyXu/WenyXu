@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: update dashboard](https://github.com/GreptimeTeam/greptimedb/pull/8098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(services/oss): support ECS RAM role credentials](https://github.com/apache/opendal/pull/7480) on [apache/opendal](https://github.com/apache/opendal) (5 days ago)
 - [docs: remove outdated metasrv wal timeout configs](https://github.com/GreptimeTeam/docs/pull/2445) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [refactor: make InsertForwarder use shared metasrv database operator](https://github.com/GreptimeTeam/greptimedb/pull/8033) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [docs: add rc2 release note](https://github.com/GreptimeTeam/docs/pull/2369) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 months ago)
 - [chore: bump version rc.2](https://github.com/GreptimeTeam/greptimedb/pull/7788) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [fix(meta): remap route addresses when reading full table info](https://github.com/GreptimeTeam/greptimedb/pull/7778) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
-- [fix(mito2): avoid parquet redownload when write cache already contains file](https://github.com/GreptimeTeam/greptimedb/pull/7777) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 
 #### ⭐ Check out my recent stars
 
