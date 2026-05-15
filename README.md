@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: use node info for active discovery](https://github.com/GreptimeTeam/greptimedb/pull/8121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [docs: add autopilot overview and repartition guides](https://github.com/GreptimeTeam/docs/pull/2478) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: classify WAL prune Kafka retry errors](https://github.com/GreptimeTeam/greptimedb/pull/8119) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: avoid stale route update during repartition allocation](https://github.com/GreptimeTeam/greptimedb/pull/8115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: remap batch table route addresses](https://github.com/GreptimeTeam/greptimedb/pull/8109) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [test: add repartition chaos target](https://github.com/GreptimeTeam/greptimedb/pull/7924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(repartition): harden repartition rollback paths](https://github.com/GreptimeTeam/greptimedb/pull/7918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: cancel local compaction for enter staging](https://github.com/GreptimeTeam/greptimedb/pull/7885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [docs: add repartition section](https://github.com/GreptimeTeam/docs/pull/2380) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [fix: prevent stale in-flight cache refill after invalidation in CacheContainer](https://github.com/GreptimeTeam/greptimedb/pull/7825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
