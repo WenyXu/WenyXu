@@ -8,13 +8,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: use node info for active discovery](https://github.com/GreptimeTeam/greptimedb/pull/8121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [docs: add autopilot overview and repartition guides](https://github.com/GreptimeTeam/docs/pull/2478) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [fix: classify WAL prune Kafka retry errors](https://github.com/GreptimeTeam/greptimedb/pull/8119) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: avoid stale route update during repartition allocation](https://github.com/GreptimeTeam/greptimedb/pull/8115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: remap batch table route addresses](https://github.com/GreptimeTeam/greptimedb/pull/8109) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [chore: update dashboards](https://github.com/GreptimeTeam/greptimedb/pull/8106) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [chore: update dashboard](https://github.com/GreptimeTeam/greptimedb/pull/8098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor: use node info for active discovery](https://github.com/GreptimeTeam/greptimedb/pull/8121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [docs: add autopilot overview and repartition guides](https://github.com/GreptimeTeam/docs/pull/2478) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [fix: classify WAL prune Kafka retry errors](https://github.com/GreptimeTeam/greptimedb/pull/8119) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: avoid stale route update during repartition allocation](https://github.com/GreptimeTeam/greptimedb/pull/8115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: remap batch table route addresses](https://github.com/GreptimeTeam/greptimedb/pull/8109) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: update dashboards](https://github.com/GreptimeTeam/greptimedb/pull/8106) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [chore: update dashboard](https://github.com/GreptimeTeam/greptimedb/pull/8098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(services/oss): support ECS RAM role credentials](https://github.com/apache/opendal/pull/7480) on [apache/opendal](https://github.com/apache/opendal) (1 week ago)
 - [docs: remove outdated metasrv wal timeout configs](https://github.com/GreptimeTeam/docs/pull/2445) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [refactor: make InsertForwarder use shared metasrv database operator](https://github.com/GreptimeTeam/greptimedb/pull/8033) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -54,8 +54,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (4 days ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 week ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (3 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
