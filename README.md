@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: decouple region request policy from role state](https://github.com/GreptimeTeam/greptimedb/pull/8135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: use node info for active discovery](https://github.com/GreptimeTeam/greptimedb/pull/8121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [docs: add autopilot overview and repartition guides](https://github.com/GreptimeTeam/docs/pull/2478) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [fix: classify WAL prune Kafka retry errors](https://github.com/GreptimeTeam/greptimedb/pull/8119) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix: remap peer addresses during retries](https://github.com/GreptimeTeam/greptimedb/pull/7933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [test: add repartition chaos target](https://github.com/GreptimeTeam/greptimedb/pull/7924) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(repartition): harden repartition rollback paths](https://github.com/GreptimeTeam/greptimedb/pull/7918) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: cancel local compaction for enter staging](https://github.com/GreptimeTeam/greptimedb/pull/7885) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -62,10 +62,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [pinkcitykid](https://github.com/pinkcitykid)
 - [BootstrapperSBL](https://github.com/BootstrapperSBL)
 - [FredericINGEN](https://github.com/FredericINGEN)
 - [cryo-zd](https://github.com/cryo-zd)
 - [JJJJJJerry](https://github.com/JJJJJJerry)
-- [bietkhonhungvandi212](https://github.com/bietkhonhungvandi212)
 
 
