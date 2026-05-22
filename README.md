@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: reject physical metric table writes](https://github.com/GreptimeTeam/greptimedb/pull/8153) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: skip sst cache preload for staging manifest](https://github.com/GreptimeTeam/greptimedb/pull/8147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: clarify region flush reasons](https://github.com/GreptimeTeam/greptimedb/pull/8146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: decouple region request policy from role state](https://github.com/GreptimeTeam/greptimedb/pull/8135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [refactor: move group rollback ownership to parent repartition](https://github.com/GreptimeTeam/greptimedb/pull/7967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: propagate staging leader through lease and heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/7950) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add staging leader](https://github.com/GreptimeTeam/greptime-proto/pull/313) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
-- [fix: remap peer addresses during retries](https://github.com/GreptimeTeam/greptimedb/pull/7933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
