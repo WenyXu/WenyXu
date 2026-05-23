@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add self-monitoring export skill](https://github.com/GreptimeTeam/docs/pull/2501) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: reregister missing heartbeat pusher](https://github.com/GreptimeTeam/greptimedb/pull/8156) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: use structured pusher key](https://github.com/GreptimeTeam/greptimedb/pull/8155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: reject physical metric table writes](https://github.com/GreptimeTeam/greptimedb/pull/8153) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix: upgrade mysql metadata value limit to mediumblob](https://github.com/GreptimeTeam/greptimedb/pull/7985) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(meta): renew operating region leases from keeper roles](https://github.com/GreptimeTeam/greptimedb/pull/7971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: relax azblob validation requirements](https://github.com/GreptimeTeam/greptimedb/pull/7970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: move group rollback ownership to parent repartition](https://github.com/GreptimeTeam/greptimedb/pull/7967) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
