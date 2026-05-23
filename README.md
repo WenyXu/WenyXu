@@ -36,6 +36,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (today)
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (today)
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (2 weeks ago)
 - [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (2 weeks ago)
@@ -50,7 +51,6 @@ Hi 👋 Weny here.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode (2 months ago)
 - [170-carry/codex-tools](https://github.com/170-carry/codex-tools) - 代理,快捷切换codex 账号, 监控codex用量的工具,以及对codex进行api反代 , 支持多语言 (2 months ago)
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 (2 months ago)
-- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
