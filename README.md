@@ -10,7 +10,7 @@ Hi 👋 Weny here.
 
 - [fix: reregister missing heartbeat pusher](https://github.com/GreptimeTeam/greptimedb/pull/8160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add self-monitoring export skill](https://github.com/GreptimeTeam/docs/pull/2501) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [fix: reregister missing heartbeat pusher](https://github.com/GreptimeTeam/greptimedb/pull/8156) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: close heartbeat streams on metasrv leader stepdown](https://github.com/GreptimeTeam/greptimedb/pull/8156) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [refactor: use structured pusher key](https://github.com/GreptimeTeam/greptimedb/pull/8155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: reject physical metric table writes](https://github.com/GreptimeTeam/greptimedb/pull/8153) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: skip sst cache preload for staging manifest](https://github.com/GreptimeTeam/greptimedb/pull/8147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (2 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 month ago)
