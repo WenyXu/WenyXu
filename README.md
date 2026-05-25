@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: reregister missing heartbeat pusher](https://github.com/GreptimeTeam/greptimedb/pull/8160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add self-monitoring export skill](https://github.com/GreptimeTeam/docs/pull/2501) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [fix: reregister missing heartbeat pusher](https://github.com/GreptimeTeam/greptimedb/pull/8156) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [refactor: use structured pusher key](https://github.com/GreptimeTeam/greptimedb/pull/8155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat(cli): add metadata put key and table commands](https://github.com/GreptimeTeam/greptimedb/pull/7989) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: upgrade mysql metadata value limit to mediumblob](https://github.com/GreptimeTeam/greptimedb/pull/7985) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(meta): renew operating region leases from keeper roles](https://github.com/GreptimeTeam/greptimedb/pull/7971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: relax azblob validation requirements](https://github.com/GreptimeTeam/greptimedb/pull/7970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
