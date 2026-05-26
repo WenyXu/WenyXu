@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(proto): support unpartitioned source in repartition](https://github.com/GreptimeTeam/greptime-proto/pull/319) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
+- [feat: support alter table partition syntax](https://github.com/GreptimeTeam/greptimedb/pull/8177) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: reset procedure manager state on stop](https://github.com/GreptimeTeam/greptimedb/pull/8174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor: split repartition region descriptors](https://github.com/GreptimeTeam/greptimedb/pull/8172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: reregister missing heartbeat pusher](https://github.com/GreptimeTeam/greptimedb/pull/8160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [refactor: unify frontend discovery with active peer discovery](https://github.com/GreptimeTeam/greptimedb/pull/8031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(docs): update configuration.md with latest default values](https://github.com/GreptimeTeam/docs/pull/2439) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [docs: add v1.0.1 release note ](https://github.com/GreptimeTeam/docs/pull/2437) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [chore: cherry pick fixes and bum version to v1.0.1](https://github.com/GreptimeTeam/greptimedb/pull/8024) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat(cli): add metadata put key and table commands](https://github.com/GreptimeTeam/greptimedb/pull/7989) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,11 +54,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (2 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 month ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 
 #### 👯 Check out my recent followers
 
