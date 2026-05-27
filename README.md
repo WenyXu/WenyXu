@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(meta-srv): support repartition for unpartitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/8186) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(proto): support unpartitioned source in repartition](https://github.com/GreptimeTeam/greptime-proto/pull/319) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat: support alter table partition syntax](https://github.com/GreptimeTeam/greptimedb/pull/8177) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: reset procedure manager state on stop](https://github.com/GreptimeTeam/greptimedb/pull/8174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [refactor: make InsertForwarder use shared metasrv database operator](https://github.com/GreptimeTeam/greptimedb/pull/8033) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: unify frontend discovery with active peer discovery](https://github.com/GreptimeTeam/greptimedb/pull/8031) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix(docs): update configuration.md with latest default values](https://github.com/GreptimeTeam/docs/pull/2439) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [docs: add v1.0.1 release note ](https://github.com/GreptimeTeam/docs/pull/2437) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
