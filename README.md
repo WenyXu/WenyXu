@@ -8,8 +8,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: extract close region helper](https://github.com/GreptimeTeam/greptimedb/pull/8201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: fuzz unpartitioned repartition](https://github.com/GreptimeTeam/greptimedb/pull/8195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: check open region capabilities](https://github.com/GreptimeTeam/greptimedb/pull/8194) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: check open region requirements](https://github.com/GreptimeTeam/greptimedb/pull/8194) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(mito): count owned SSTs in region stats](https://github.com/GreptimeTeam/greptimedb/pull/8191) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(catalog): enforce global inspect limit](https://github.com/GreptimeTeam/greptimedb/pull/8188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(meta-srv): support repartition for unpartitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/8186) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix: remap batch table route addresses](https://github.com/GreptimeTeam/greptimedb/pull/8109) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: update dashboards](https://github.com/GreptimeTeam/greptimedb/pull/8106) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: update dashboard](https://github.com/GreptimeTeam/greptimedb/pull/8098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat(services/oss): support ECS RAM role credentials](https://github.com/apache/opendal/pull/7480) on [apache/opendal](https://github.com/apache/opendal) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
