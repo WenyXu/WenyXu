@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: improve remote WAL replay checkpoint handling](https://github.com/GreptimeTeam/greptimedb/pull/8225) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: format detected IPv6 grpc address](https://github.com/GreptimeTeam/greptimedb/pull/8221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: extract close region helper](https://github.com/GreptimeTeam/greptimedb/pull/8201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [test: fuzz unpartitioned repartition](https://github.com/GreptimeTeam/greptimedb/pull/8195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix: classify WAL prune Kafka retry errors](https://github.com/GreptimeTeam/greptimedb/pull/8119) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: avoid stale route update during repartition allocation](https://github.com/GreptimeTeam/greptimedb/pull/8115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: remap batch table route addresses](https://github.com/GreptimeTeam/greptimedb/pull/8109) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: update dashboards](https://github.com/GreptimeTeam/greptimedb/pull/8106) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
