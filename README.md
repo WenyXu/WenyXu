@@ -8,11 +8,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: improve remote WAL replay checkpoint handling](https://github.com/GreptimeTeam/greptimedb/pull/8225) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: format detected IPv6 grpc address](https://github.com/GreptimeTeam/greptimedb/pull/8221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [refactor: extract close region helper](https://github.com/GreptimeTeam/greptimedb/pull/8201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [test: fuzz unpartitioned repartition](https://github.com/GreptimeTeam/greptimedb/pull/8195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: check open region requirements](https://github.com/GreptimeTeam/greptimedb/pull/8194) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: improve remote WAL replay checkpoint handling](https://github.com/GreptimeTeam/greptimedb/pull/8225) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: format detected IPv6 grpc address](https://github.com/GreptimeTeam/greptimedb/pull/8221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [refactor: extract close region helper](https://github.com/GreptimeTeam/greptimedb/pull/8201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [test: fuzz unpartitioned repartition](https://github.com/GreptimeTeam/greptimedb/pull/8195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat: check open region requirements](https://github.com/GreptimeTeam/greptimedb/pull/8194) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(mito): count owned SSTs in region stats](https://github.com/GreptimeTeam/greptimedb/pull/8191) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(catalog): enforce global inspect limit](https://github.com/GreptimeTeam/greptimedb/pull/8188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(meta-srv): support repartition for unpartitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/8186) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,13 +25,13 @@ Hi 👋 Weny here.
 - [fix: close heartbeat streams on metasrv leader stepdown](https://github.com/GreptimeTeam/greptimedb/pull/8156) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: use structured pusher key](https://github.com/GreptimeTeam/greptimedb/pull/8155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: reject physical metric table writes](https://github.com/GreptimeTeam/greptimedb/pull/8153) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: skip sst cache preload for staging manifest](https://github.com/GreptimeTeam/greptimedb/pull/8147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: clarify region flush reasons](https://github.com/GreptimeTeam/greptimedb/pull/8146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: skip sst cache preload for staging manifest](https://github.com/GreptimeTeam/greptimedb/pull/8147) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [refactor: clarify region flush reasons](https://github.com/GreptimeTeam/greptimedb/pull/8146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: decouple region request policy from role state](https://github.com/GreptimeTeam/greptimedb/pull/8135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: use node info for active discovery](https://github.com/GreptimeTeam/greptimedb/pull/8121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: add autopilot overview and repartition guides](https://github.com/GreptimeTeam/docs/pull/2478) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [fix: classify WAL prune Kafka retry errors](https://github.com/GreptimeTeam/greptimedb/pull/8119) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: avoid stale route update during repartition allocation](https://github.com/GreptimeTeam/greptimedb/pull/8115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [fix: avoid stale route update during repartition allocation](https://github.com/GreptimeTeam/greptimedb/pull/8115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix: remap batch table route addresses](https://github.com/GreptimeTeam/greptimedb/pull/8109) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
@@ -39,7 +39,7 @@ Hi 👋 Weny here.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (1 week ago)
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (3 weeks ago)
-- [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (3 weeks ago)
+- [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (4 weeks ago)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (1 month ago)
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent (1 month ago)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility (1 month ago)
@@ -54,10 +54,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (3 weeks ago)
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (4 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 month ago)
 
 #### 👯 Check out my recent followers
