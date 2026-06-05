@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: add repartition debug logs](https://github.com/GreptimeTeam/greptimedb/pull/8245) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: move CSV skip bad records coverage to integration](https://github.com/GreptimeTeam/greptimedb/pull/8237) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: avoid stale metadata cache after invalidation](https://github.com/GreptimeTeam/greptimedb/pull/8235) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: reset region detector after migration](https://github.com/GreptimeTeam/greptimedb/pull/8234) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [refactor: clarify region flush reasons](https://github.com/GreptimeTeam/greptimedb/pull/8146) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: decouple region request policy from role state](https://github.com/GreptimeTeam/greptimedb/pull/8135) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: use node info for active discovery](https://github.com/GreptimeTeam/greptimedb/pull/8121) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [docs: add autopilot overview and repartition guides](https://github.com/GreptimeTeam/docs/pull/2478) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
