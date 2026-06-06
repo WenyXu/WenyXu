@@ -8,12 +8,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: add repartition debug logs](https://github.com/GreptimeTeam/greptimedb/pull/8245) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [test: move CSV skip bad records coverage to integration](https://github.com/GreptimeTeam/greptimedb/pull/8237) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: avoid stale metadata cache after invalidation](https://github.com/GreptimeTeam/greptimedb/pull/8235) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: reset region detector after migration](https://github.com/GreptimeTeam/greptimedb/pull/8234) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: improve remote WAL replay checkpoint handling](https://github.com/GreptimeTeam/greptimedb/pull/8225) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: format detected IPv6 grpc address](https://github.com/GreptimeTeam/greptimedb/pull/8221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: add repartition debug logs](https://github.com/GreptimeTeam/greptimedb/pull/8245) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [test: move CSV skip bad records coverage to integration](https://github.com/GreptimeTeam/greptimedb/pull/8237) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: avoid stale metadata cache after invalidation](https://github.com/GreptimeTeam/greptimedb/pull/8235) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: reset region detector after migration](https://github.com/GreptimeTeam/greptimedb/pull/8234) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: improve remote WAL replay checkpoint handling](https://github.com/GreptimeTeam/greptimedb/pull/8225) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: format detected IPv6 grpc address](https://github.com/GreptimeTeam/greptimedb/pull/8221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [refactor: extract close region helper](https://github.com/GreptimeTeam/greptimedb/pull/8201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [test: fuzz unpartitioned repartition](https://github.com/GreptimeTeam/greptimedb/pull/8195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: check open region requirements](https://github.com/GreptimeTeam/greptimedb/pull/8194) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -25,7 +25,7 @@ Hi 👋 Weny here.
 - [fix: reset procedure manager state on stop](https://github.com/GreptimeTeam/greptimedb/pull/8174) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor: split repartition region descriptors](https://github.com/GreptimeTeam/greptimedb/pull/8172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: reregister missing heartbeat pusher](https://github.com/GreptimeTeam/greptimedb/pull/8160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [docs: add self-monitoring export skill](https://github.com/GreptimeTeam/docs/pull/2501) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [docs: add self-monitoring export skill](https://github.com/GreptimeTeam/docs/pull/2501) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [fix: close heartbeat streams on metasrv leader stepdown](https://github.com/GreptimeTeam/greptimedb/pull/8156) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: use structured pusher key](https://github.com/GreptimeTeam/greptimedb/pull/8155) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: reject physical metric table writes](https://github.com/GreptimeTeam/greptimedb/pull/8153) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -36,10 +36,10 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (1 week ago)
-- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (3 weeks ago)
-- [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (4 weeks ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 weeks ago)
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (2 weeks ago)
+- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (4 weeks ago)
+- [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (1 month ago)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (1 month ago)
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent (1 month ago)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility (1 month ago)
@@ -54,10 +54,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (4 weeks ago)
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 month ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 month ago)
 
 #### 👯 Check out my recent followers
