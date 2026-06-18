@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: support structured instruction reply errors](https://github.com/GreptimeTeam/greptimedb/pull/8335) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor(meta): centralize backend retry classification](https://github.com/GreptimeTeam/greptimedb/pull/8333) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: improve table sharding repartition flow](https://github.com/GreptimeTeam/docs/pull/2571) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [ci: add remote WAL logical pruning fuzz](https://github.com/GreptimeTeam/greptimedb/pull/8307) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: decouple error retryability from status codes](https://github.com/GreptimeTeam/greptimedb/pull/8301) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [feat: check open region requirements](https://github.com/GreptimeTeam/greptimedb/pull/8194) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(mito): count owned SSTs in region stats](https://github.com/GreptimeTeam/greptimedb/pull/8191) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(catalog): enforce global inspect limit](https://github.com/GreptimeTeam/greptimedb/pull/8188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat(meta-srv): support repartition for unpartitioned tables](https://github.com/GreptimeTeam/greptimedb/pull/8186) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat(proto): support unpartitioned source in repartition](https://github.com/GreptimeTeam/greptime-proto/pull/319) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (6 days ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 month ago)
