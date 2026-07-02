@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add 1.1.2 release note](https://github.com/GreptimeTeam/docs/pull/2598) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: pick fixes and bump version to v1.1.2](https://github.com/GreptimeTeam/greptimedb/pull/8404) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: report region query stats in heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/8401) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: invalidate comment DDL cache and lock by object ID](https://github.com/GreptimeTeam/greptimedb/pull/8390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix: improve remote WAL replay checkpoint handling](https://github.com/GreptimeTeam/greptimedb/pull/8225) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: format detected IPv6 grpc address](https://github.com/GreptimeTeam/greptimedb/pull/8221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: extract close region helper](https://github.com/GreptimeTeam/greptimedb/pull/8201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [test: fuzz unpartitioned repartition](https://github.com/GreptimeTeam/greptimedb/pull/8195) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
