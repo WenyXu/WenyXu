@@ -8,16 +8,16 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: add 1.1.2 release note](https://github.com/GreptimeTeam/docs/pull/2598) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
-- [chore: pick fixes and bump version to v1.1.2](https://github.com/GreptimeTeam/greptimedb/pull/8404) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: report region query stats in heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/8401) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: invalidate comment DDL cache and lock by object ID](https://github.com/GreptimeTeam/greptimedb/pull/8390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [docs: add 1.1.2 release note](https://github.com/GreptimeTeam/docs/pull/2598) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
+- [chore: pick fixes and bump version to v1.1.2](https://github.com/GreptimeTeam/greptimedb/pull/8404) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: report region query stats in heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/8401) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: invalidate comment DDL cache and lock by object ID](https://github.com/GreptimeTeam/greptimedb/pull/8390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: support structured instruction reply errors](https://github.com/GreptimeTeam/greptimedb/pull/8335) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor(meta): centralize backend retry classification](https://github.com/GreptimeTeam/greptimedb/pull/8333) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: improve table sharding repartition flow](https://github.com/GreptimeTeam/docs/pull/2571) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [ci: add remote WAL logical pruning fuzz](https://github.com/GreptimeTeam/greptimedb/pull/8307) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: decouple error retryability from status codes](https://github.com/GreptimeTeam/greptimedb/pull/8301) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add repartition column hint](https://github.com/GreptimeTeam/greptimedb/pull/8291) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: add repartition column hint](https://github.com/GreptimeTeam/greptimedb/pull/8291) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: pass Kafka pruned entry id when creating regions](https://github.com/GreptimeTeam/greptimedb/pull/8282) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: support create region requirements](https://github.com/GreptimeTeam/greptimedb/pull/8281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add RegionRequirements field](https://github.com/GreptimeTeam/greptime-proto/pull/324) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
@@ -26,11 +26,11 @@ Hi 👋 Weny here.
 - [fix(ci): retry repartition chaos row validation](https://github.com/GreptimeTeam/greptimedb/pull/8271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: add debug logs](https://github.com/GreptimeTeam/greptimedb/pull/8264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: support remote WAL logical pruning](https://github.com/GreptimeTeam/greptimedb/pull/8259) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: add repartition debug logs](https://github.com/GreptimeTeam/greptimedb/pull/8245) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [chore: add repartition debug logs](https://github.com/GreptimeTeam/greptimedb/pull/8245) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [test: move CSV skip bad records coverage to integration](https://github.com/GreptimeTeam/greptimedb/pull/8237) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: avoid stale metadata cache after invalidation](https://github.com/GreptimeTeam/greptimedb/pull/8235) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 - [fix: reset region detector after migration](https://github.com/GreptimeTeam/greptimedb/pull/8234) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [fix: improve remote WAL replay checkpoint handling](https://github.com/GreptimeTeam/greptimedb/pull/8225) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [fix: improve remote WAL replay checkpoint handling](https://github.com/GreptimeTeam/greptimedb/pull/8225) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: format detected IPv6 grpc address](https://github.com/GreptimeTeam/greptimedb/pull/8221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: extract close region helper](https://github.com/GreptimeTeam/greptimedb/pull/8201) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
@@ -54,9 +54,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (2 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 weeks ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 month ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (2 months ago)
 
