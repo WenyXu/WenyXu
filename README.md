@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore(ci): stabilize remote wal fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/8436) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: document auto repartition column hint](https://github.com/GreptimeTeam/docs/pull/2601) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [docs: add 1.1.2 release note](https://github.com/GreptimeTeam/docs/pull/2598) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
 - [chore: pick fixes and bump version to v1.1.2](https://github.com/GreptimeTeam/greptimedb/pull/8404) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix: avoid stale metadata cache after invalidation](https://github.com/GreptimeTeam/greptimedb/pull/8235) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: reset region detector after migration](https://github.com/GreptimeTeam/greptimedb/pull/8234) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [fix: improve remote WAL replay checkpoint handling](https://github.com/GreptimeTeam/greptimedb/pull/8225) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [fix: format detected IPv6 grpc address](https://github.com/GreptimeTeam/greptimedb/pull/8221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
