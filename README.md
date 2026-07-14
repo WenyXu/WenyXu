@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore(skill): Add ca-certificates to Dockerfile](https://github.com/GreptimeTeam/greptimedb/pull/8507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: disable WAL index creation by default](https://github.com/GreptimeTeam/greptimedb/pull/8505) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: require metasrv GC for repartition](https://github.com/GreptimeTeam/greptimedb/pull/8497) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor: remove deprecated kafka wal index dump](https://github.com/GreptimeTeam/greptimedb/pull/8489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat: add RegionRequirements field](https://github.com/GreptimeTeam/greptime-proto/pull/324) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 - [feat: support repartition with target partition columns](https://github.com/GreptimeTeam/greptimedb/pull/8278) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat(proto): support target partition columns in repartition](https://github.com/GreptimeTeam/greptime-proto/pull/323) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
-- [fix(ci): retry repartition chaos row validation](https://github.com/GreptimeTeam/greptimedb/pull/8271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
