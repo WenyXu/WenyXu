@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: correct release note](https://github.com/GreptimeTeam/docs/pull/2631) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [feat(procedure): support trigger-aware procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add 1.1.3 release note](https://github.com/GreptimeTeam/docs/pull/2629) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: pick fixes and bump version to v1.1.3](https://github.com/GreptimeTeam/greptimedb/pull/8545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(log-store): deduplicate Kafka WAL multipart records](https://github.com/GreptimeTeam/greptimedb/pull/8514) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [ci: add remote WAL logical pruning fuzz](https://github.com/GreptimeTeam/greptimedb/pull/8307) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: decouple error retryability from status codes](https://github.com/GreptimeTeam/greptimedb/pull/8301) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: add repartition column hint](https://github.com/GreptimeTeam/greptimedb/pull/8291) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: pass Kafka pruned entry id when creating regions](https://github.com/GreptimeTeam/greptimedb/pull/8282) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: support create region requirements](https://github.com/GreptimeTeam/greptimedb/pull/8281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,9 +54,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (2 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (2 months ago)
 
