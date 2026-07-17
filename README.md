@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add 1.1.3 release note](https://github.com/GreptimeTeam/docs/pull/2629) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: pick fixes and bump version to v1.1.3](https://github.com/GreptimeTeam/greptimedb/pull/8545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(log-store): deduplicate Kafka WAL multipart records](https://github.com/GreptimeTeam/greptimedb/pull/8514) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore(skill): Add ca-certificates to Dockerfile](https://github.com/GreptimeTeam/greptimedb/pull/8507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat: add repartition column hint](https://github.com/GreptimeTeam/greptimedb/pull/8291) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: pass Kafka pruned entry id when creating regions](https://github.com/GreptimeTeam/greptimedb/pull/8282) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: support create region requirements](https://github.com/GreptimeTeam/greptimedb/pull/8281) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add RegionRequirements field](https://github.com/GreptimeTeam/greptime-proto/pull/324) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
