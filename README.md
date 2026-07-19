@@ -8,15 +8,15 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: correct release note](https://github.com/GreptimeTeam/docs/pull/2631) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [feat(procedure): support trigger-aware procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: add 1.1.3 release note](https://github.com/GreptimeTeam/docs/pull/2629) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [chore: pick fixes and bump version to v1.1.3](https://github.com/GreptimeTeam/greptimedb/pull/8545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix(log-store): deduplicate Kafka WAL multipart records](https://github.com/GreptimeTeam/greptimedb/pull/8514) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [chore(skill): Add ca-certificates to Dockerfile](https://github.com/GreptimeTeam/greptimedb/pull/8507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: disable WAL index creation by default](https://github.com/GreptimeTeam/greptimedb/pull/8505) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: require metasrv GC for repartition](https://github.com/GreptimeTeam/greptimedb/pull/8497) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [refactor: remove deprecated kafka wal index dump](https://github.com/GreptimeTeam/greptimedb/pull/8489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [chore: correct release note](https://github.com/GreptimeTeam/docs/pull/2631) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [feat(procedure): support trigger-aware procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: add 1.1.3 release note](https://github.com/GreptimeTeam/docs/pull/2629) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [chore: pick fixes and bump version to v1.1.3](https://github.com/GreptimeTeam/greptimedb/pull/8545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix(log-store): deduplicate Kafka WAL multipart records](https://github.com/GreptimeTeam/greptimedb/pull/8514) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [chore(skill): Add ca-certificates to Dockerfile](https://github.com/GreptimeTeam/greptimedb/pull/8507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: disable WAL index creation by default](https://github.com/GreptimeTeam/greptimedb/pull/8505) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: require metasrv GC for repartition](https://github.com/GreptimeTeam/greptimedb/pull/8497) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor: remove deprecated kafka wal index dump](https://github.com/GreptimeTeam/greptimedb/pull/8489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [ci: increase Kafka resource requests](https://github.com/GreptimeTeam/greptimedb/pull/8482) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add development Docker image skill](https://github.com/GreptimeTeam/greptimedb/pull/8477) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [ci: check kafka readiness before fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/8461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -54,9 +54,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
-- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 day ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (4 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (2 months ago)
 
