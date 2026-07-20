@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: update configuration reference with new options and formatting](https://github.com/GreptimeTeam/docs/pull/2636) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: correct release note](https://github.com/GreptimeTeam/docs/pull/2631) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [feat(procedure): support trigger-aware procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [docs: add 1.1.3 release note](https://github.com/GreptimeTeam/docs/pull/2629) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [docs: improve table sharding repartition flow](https://github.com/GreptimeTeam/docs/pull/2571) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [ci: add remote WAL logical pruning fuzz](https://github.com/GreptimeTeam/greptimedb/pull/8307) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: decouple error retryability from status codes](https://github.com/GreptimeTeam/greptimedb/pull/8301) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: add repartition column hint](https://github.com/GreptimeTeam/greptimedb/pull/8291) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
