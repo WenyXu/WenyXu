@@ -62,10 +62,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Nai64](https://github.com/Nai64)
 - [MilleniumSpark](https://github.com/MilleniumSpark)
 - [X-joint](https://github.com/X-joint)
 - [pinkcitykid](https://github.com/pinkcitykid)
 - [BootstrapperSBL](https://github.com/BootstrapperSBL)
-- [FredericINGEN](https://github.com/FredericINGEN)
 
 
