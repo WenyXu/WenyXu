@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: update region balancer read load options](https://github.com/GreptimeTeam/docs/pull/2640) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [ci: split export import v2 e2e test](https://github.com/GreptimeTeam/greptimedb/pull/8564) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: update configuration reference with new options and formatting](https://github.com/GreptimeTeam/docs/pull/2636) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: correct release note](https://github.com/GreptimeTeam/docs/pull/2631) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [feat(procedure): support trigger-aware procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [feat: support structured instruction reply errors](https://github.com/GreptimeTeam/greptimedb/pull/8335) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor(meta): centralize backend retry classification](https://github.com/GreptimeTeam/greptimedb/pull/8333) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [docs: improve table sharding repartition flow](https://github.com/GreptimeTeam/docs/pull/2571) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
-- [ci: add remote WAL logical pruning fuzz](https://github.com/GreptimeTeam/greptimedb/pull/8307) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: decouple error retryability from status codes](https://github.com/GreptimeTeam/greptimedb/pull/8301) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (3 days ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (5 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
