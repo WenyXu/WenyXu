@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(mito): chunk manifest object writes](https://github.com/GreptimeTeam/greptimedb/pull/8567) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [docs: update region balancer read load options](https://github.com/GreptimeTeam/docs/pull/2640) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [ci: split export import v2 e2e test](https://github.com/GreptimeTeam/greptimedb/pull/8564) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat: report region query stats in heartbeat](https://github.com/GreptimeTeam/greptimedb/pull/8401) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: invalidate comment DDL cache and lock by object ID](https://github.com/GreptimeTeam/greptimedb/pull/8390) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: support structured instruction reply errors](https://github.com/GreptimeTeam/greptimedb/pull/8335) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor(meta): centralize backend retry classification](https://github.com/GreptimeTeam/greptimedb/pull/8333) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
