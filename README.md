@@ -8,17 +8,17 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8583) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: add release cherry-pick skill](https://github.com/GreptimeTeam/greptimedb/pull/8577) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(mito): chunk manifest object writes](https://github.com/GreptimeTeam/greptimedb/pull/8567) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: update region balancer read load options](https://github.com/GreptimeTeam/docs/pull/2640) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [ci: split export import v2 e2e test](https://github.com/GreptimeTeam/greptimedb/pull/8564) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: update configuration reference with new options and formatting](https://github.com/GreptimeTeam/docs/pull/2636) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [chore: correct release note](https://github.com/GreptimeTeam/docs/pull/2631) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
-- [feat(procedure): support trigger-aware procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [docs: add 1.1.3 release note](https://github.com/GreptimeTeam/docs/pull/2629) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
-- [chore: pick fixes and bump version to v1.1.3](https://github.com/GreptimeTeam/greptimedb/pull/8545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8583) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add release cherry-pick skill](https://github.com/GreptimeTeam/greptimedb/pull/8577) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(mito): chunk manifest object writes](https://github.com/GreptimeTeam/greptimedb/pull/8567) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: update region balancer read load options](https://github.com/GreptimeTeam/docs/pull/2640) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [ci: split export import v2 e2e test](https://github.com/GreptimeTeam/greptimedb/pull/8564) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: update configuration reference with new options and formatting](https://github.com/GreptimeTeam/docs/pull/2636) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [chore: correct release note](https://github.com/GreptimeTeam/docs/pull/2631) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [feat(procedure): support trigger-aware procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [docs: add 1.1.3 release note](https://github.com/GreptimeTeam/docs/pull/2629) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [chore: pick fixes and bump version to v1.1.3](https://github.com/GreptimeTeam/greptimedb/pull/8545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(log-store): deduplicate Kafka WAL multipart records](https://github.com/GreptimeTeam/greptimedb/pull/8514) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore(skill): Add ca-certificates to Dockerfile](https://github.com/GreptimeTeam/greptimedb/pull/8507) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: disable WAL index creation by default](https://github.com/GreptimeTeam/greptimedb/pull/8505) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -40,8 +40,8 @@ Hi 👋 Weny here.
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks (1 week ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (1 week ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 month ago)
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (1 month ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 months ago)
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (2 months ago)
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (2 months ago)
 - [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (2 months ago)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (2 months ago)
@@ -54,9 +54,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
-- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (4 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (5 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (2 months ago)
 
