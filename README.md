@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(meta): add database DDL procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(meta): configure gRPC message limits](https://github.com/GreptimeTeam/greptimedb/pull/8616) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8583) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat: add release cherry-pick skill](https://github.com/GreptimeTeam/greptimedb/pull/8577) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [chore(ci): stabilize remote wal fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/8436) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: document auto repartition column hint](https://github.com/GreptimeTeam/docs/pull/2601) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [docs: add 1.1.2 release note](https://github.com/GreptimeTeam/docs/pull/2598) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
-- [chore: pick fixes and bump version to v1.1.2](https://github.com/GreptimeTeam/greptimedb/pull/8404) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
