@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add 1.1.4 release note](https://github.com/GreptimeTeam/docs/pull/2647) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [feat: add procedure events for Flow DDL](https://github.com/GreptimeTeam/greptimedb/pull/8632) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: pick fixes and bump version to v1.1.4](https://github.com/GreptimeTeam/greptimedb/pull/8630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add table DDL procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add events for create and drop view](https://github.com/GreptimeTeam/greptimedb/pull/8626) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [refactor: remove deprecated kafka wal index dump](https://github.com/GreptimeTeam/greptimedb/pull/8489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [ci: increase Kafka resource requests](https://github.com/GreptimeTeam/greptimedb/pull/8482) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: add development Docker image skill](https://github.com/GreptimeTeam/greptimedb/pull/8477) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [ci: check kafka readiness before fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/8461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add fuzz CI failure investigation skill](https://github.com/GreptimeTeam/greptimedb/pull/8456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
