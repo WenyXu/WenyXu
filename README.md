@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: pick fixes and bump version to v1.1.4](https://github.com/GreptimeTeam/greptimedb/pull/8630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add table DDL procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add events for create and drop view](https://github.com/GreptimeTeam/greptimedb/pull/8626) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add database DDL procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [chore: add development Docker image skill](https://github.com/GreptimeTeam/greptimedb/pull/8477) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [ci: check kafka readiness before fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/8461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add fuzz CI failure investigation skill](https://github.com/GreptimeTeam/greptimedb/pull/8456) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore(ci): stabilize remote wal fuzz tests](https://github.com/GreptimeTeam/greptimedb/pull/8436) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
