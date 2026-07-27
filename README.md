@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(event-recorder): configure lifecycle event recording](https://github.com/GreptimeTeam/greptimedb/pull/8648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add 1.1.4 release note](https://github.com/GreptimeTeam/docs/pull/2647) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [feat: add procedure events for Flow DDL](https://github.com/GreptimeTeam/greptimedb/pull/8632) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore: pick fixes and bump version to v1.1.4](https://github.com/GreptimeTeam/greptimedb/pull/8630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix: require metasrv GC for repartition](https://github.com/GreptimeTeam/greptimedb/pull/8497) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: remove deprecated kafka wal index dump](https://github.com/GreptimeTeam/greptimedb/pull/8489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [ci: increase Kafka resource requests](https://github.com/GreptimeTeam/greptimedb/pull/8482) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [chore: add development Docker image skill](https://github.com/GreptimeTeam/greptimedb/pull/8477) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
