@@ -9,7 +9,7 @@ Hi 👋 Weny here.
 #### 🔨 Check out my recent pull requests
 
 - [ci: limit fuzz test parallelism](https://github.com/GreptimeTeam/greptimedb/pull/8690) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: select available frontend for metasrv forwarding](https://github.com/GreptimeTeam/greptimedb/pull/8684) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: add health-aware gRPC client routing](https://github.com/GreptimeTeam/greptimedb/pull/8684) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(metasrv): record WAL prune procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8677) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(metasrv): add batch GC lifecycle events](https://github.com/GreptimeTeam/greptimedb/pull/8673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(metasrv): add repartition lifecycle events](https://github.com/GreptimeTeam/greptimedb/pull/8665) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
