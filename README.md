@@ -8,7 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [ci: batch fuzz targets in GitHub Actions](https://github.com/GreptimeTeam/greptimedb/pull/8710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [ci: optimize fuzz and split workflows](https://github.com/GreptimeTeam/greptimedb/pull/8710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add lifecycle event recorder configuration](https://github.com/GreptimeTeam/docs/pull/2678) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix(meta): preserve legacy WAL options compatibility](https://github.com/GreptimeTeam/greptimedb/pull/8707) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor(event): store procedure trigger as JSONB](https://github.com/GreptimeTeam/greptimedb/pull/8700) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
