@@ -8,16 +8,16 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [ci: optimize fuzz and split workflows](https://github.com/GreptimeTeam/greptimedb/pull/8710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [docs: add lifecycle event recorder configuration](https://github.com/GreptimeTeam/docs/pull/2678) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
-- [fix(meta): preserve legacy WAL options compatibility](https://github.com/GreptimeTeam/greptimedb/pull/8707) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [refactor(event): store procedure trigger as JSONB](https://github.com/GreptimeTeam/greptimedb/pull/8700) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [ci: limit fuzz test parallelism](https://github.com/GreptimeTeam/greptimedb/pull/8690) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: add health-aware gRPC client routing](https://github.com/GreptimeTeam/greptimedb/pull/8684) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(metasrv): record WAL prune procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8677) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(metasrv): add batch GC lifecycle events](https://github.com/GreptimeTeam/greptimedb/pull/8673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(metasrv): add repartition lifecycle events](https://github.com/GreptimeTeam/greptimedb/pull/8665) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat(event-recorder): configure lifecycle event recording](https://github.com/GreptimeTeam/greptimedb/pull/8648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [ci: optimize fuzz and split workflows](https://github.com/GreptimeTeam/greptimedb/pull/8710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [docs: add lifecycle event recorder configuration](https://github.com/GreptimeTeam/docs/pull/2678) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
+- [fix(meta): preserve legacy WAL options compatibility](https://github.com/GreptimeTeam/greptimedb/pull/8707) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [refactor(event): store procedure trigger as JSONB](https://github.com/GreptimeTeam/greptimedb/pull/8700) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [ci: limit fuzz test parallelism](https://github.com/GreptimeTeam/greptimedb/pull/8690) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: add health-aware gRPC client routing](https://github.com/GreptimeTeam/greptimedb/pull/8684) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(metasrv): record WAL prune procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8677) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(metasrv): add batch GC lifecycle events](https://github.com/GreptimeTeam/greptimedb/pull/8673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(metasrv): add repartition lifecycle events](https://github.com/GreptimeTeam/greptimedb/pull/8665) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat(event-recorder): configure lifecycle event recording](https://github.com/GreptimeTeam/greptimedb/pull/8648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [docs: add 1.1.4 release note](https://github.com/GreptimeTeam/docs/pull/2647) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat: add procedure events for Flow DDL](https://github.com/GreptimeTeam/greptimedb/pull/8632) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [chore: pick fixes and bump version to v1.1.4](https://github.com/GreptimeTeam/greptimedb/pull/8630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
