@@ -62,10 +62,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [fatpa](https://github.com/fatpa)
 - [HongZhang87](https://github.com/HongZhang87)
 - [yangzhengjie](https://github.com/yangzhengjie)
 - [Nai64](https://github.com/Nai64)
 - [MilleniumSpark](https://github.com/MilleniumSpark)
-- [X-joint](https://github.com/X-joint)
 
 
