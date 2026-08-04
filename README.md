@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(event): add trigger context to procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8734) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(grafana): add events dashboard](https://github.com/GreptimeTeam/greptimedb/pull/8725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [ci: optimize fuzz and split workflows](https://github.com/GreptimeTeam/greptimedb/pull/8710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [docs: add lifecycle event recorder configuration](https://github.com/GreptimeTeam/docs/pull/2678) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix(mito): chunk manifest object writes](https://github.com/GreptimeTeam/greptimedb/pull/8567) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: update region balancer read load options](https://github.com/GreptimeTeam/docs/pull/2640) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [ci: split export import v2 e2e test](https://github.com/GreptimeTeam/greptimedb/pull/8564) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [docs: update configuration reference with new options and formatting](https://github.com/GreptimeTeam/docs/pull/2636) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
