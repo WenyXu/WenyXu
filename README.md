@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(operator): invalidate local cache after dropping view](https://github.com/GreptimeTeam/greptimedb/pull/8748) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(sample-loader): add periodic remote-write benchmark](https://github.com/GreptimeTeam/metrics-bench-suite/pull/12) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
 - [fix: resolve Go lint findings](https://github.com/GreptimeTeam/metrics-bench-suite/pull/11) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
 - [feat: add partition query loader](https://github.com/GreptimeTeam/metrics-bench-suite/pull/10) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix(meta): configure gRPC message limits](https://github.com/GreptimeTeam/greptimedb/pull/8616) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8583) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: add release cherry-pick skill](https://github.com/GreptimeTeam/greptimedb/pull/8577) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
