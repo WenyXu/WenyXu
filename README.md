@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: resolve Go lint findings](https://github.com/GreptimeTeam/metrics-bench-suite/pull/11) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
+- [feat: add partition query loader](https://github.com/GreptimeTeam/metrics-bench-suite/pull/10) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
 - [feat(event): add trigger context to procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8734) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(grafana): add events dashboard](https://github.com/GreptimeTeam/greptimedb/pull/8725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [ci: optimize fuzz and split workflows](https://github.com/GreptimeTeam/greptimedb/pull/8710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [feat: add release cherry-pick skill](https://github.com/GreptimeTeam/greptimedb/pull/8577) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8576) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(mito): chunk manifest object writes](https://github.com/GreptimeTeam/greptimedb/pull/8567) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [docs: update region balancer read load options](https://github.com/GreptimeTeam/docs/pull/2640) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [ci: split export import v2 e2e test](https://github.com/GreptimeTeam/greptimedb/pull/8564) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
