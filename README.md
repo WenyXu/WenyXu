@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(sample-loader): add scheduler-aware autopilot cases](https://github.com/GreptimeTeam/metrics-bench-suite/pull/18) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
 - [feat: sync Grafana events dashboard](https://github.com/GreptimeTeam/helm-charts/pull/438) on [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) (today)
 - [fix(sample-loader): preserve baseline during bursts](https://github.com/GreptimeTeam/metrics-bench-suite/pull/17) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
 - [fix(sample-loader): bound periodic burst scheduling](https://github.com/GreptimeTeam/metrics-bench-suite/pull/16) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat(metasrv): add repartition lifecycle events](https://github.com/GreptimeTeam/greptimedb/pull/8665) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(event-recorder): configure lifecycle event recording](https://github.com/GreptimeTeam/greptimedb/pull/8648) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add 1.1.4 release note](https://github.com/GreptimeTeam/docs/pull/2647) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
-- [feat: add procedure events for Flow DDL](https://github.com/GreptimeTeam/greptimedb/pull/8632) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
