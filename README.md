@@ -8,6 +8,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(sample-loader): stabilize periodic burst pressure](https://github.com/GreptimeTeam/metrics-bench-suite/pull/15) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
+- [feat(sample-loader): add continuous hotspot bursts](https://github.com/GreptimeTeam/metrics-bench-suite/pull/14) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
+- [fix(partition): accept quoted partition columns](https://github.com/GreptimeTeam/metrics-bench-suite/pull/13) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (today)
 - [fix(meta): release region guards after drop rollback](https://github.com/GreptimeTeam/greptimedb/pull/8751) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(operator): invalidate local cache after dropping view](https://github.com/GreptimeTeam/greptimedb/pull/8748) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(sample-loader): add periodic remote-write benchmark](https://github.com/GreptimeTeam/metrics-bench-suite/pull/12) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (1 day ago)
@@ -30,9 +33,6 @@ Hi 👋 Weny here.
 - [chore: pick fixes and bump version to v1.1.4](https://github.com/GreptimeTeam/greptimedb/pull/8630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add table DDL procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add events for create and drop view](https://github.com/GreptimeTeam/greptimedb/pull/8626) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: add database DDL procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(meta): configure gRPC message limits](https://github.com/GreptimeTeam/greptimedb/pull/8616) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: preserve leader cache configuration and record cache hits](https://github.com/GreptimeTeam/greptimedb/pull/8583) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
