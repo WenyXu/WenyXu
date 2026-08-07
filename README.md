@@ -23,7 +23,7 @@ Hi 👋 Weny here.
 - [feat(sample-loader): add periodic remote-write benchmark](https://github.com/GreptimeTeam/metrics-bench-suite/pull/12) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (3 days ago)
 - [fix: resolve Go lint findings](https://github.com/GreptimeTeam/metrics-bench-suite/pull/11) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (3 days ago)
 - [feat: add partition query loader](https://github.com/GreptimeTeam/metrics-bench-suite/pull/10) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (3 days ago)
-- [feat(event): add trigger context to procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8734) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(event): add event context to procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8734) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(grafana): add events dashboard](https://github.com/GreptimeTeam/greptimedb/pull/8725) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [ci: optimize fuzz and split workflows](https://github.com/GreptimeTeam/greptimedb/pull/8710) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add lifecycle event recorder configuration](https://github.com/GreptimeTeam/docs/pull/2678) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
