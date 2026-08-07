@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(event): preserve procedure lifecycle locators](https://github.com/GreptimeTeam/greptimedb/pull/8787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(sample-loader): stabilize autopilot scheduler traffic](https://github.com/GreptimeTeam/metrics-bench-suite/pull/20) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (1 day ago)
 - [feat(sample-loader): add autopilot scheduler cases](https://github.com/GreptimeTeam/metrics-bench-suite/pull/19) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (1 day ago)
 - [feat(sample-loader): add scheduler-aware autopilot cases](https://github.com/GreptimeTeam/metrics-bench-suite/pull/18) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat: add health-aware gRPC client routing](https://github.com/GreptimeTeam/greptimedb/pull/8684) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(metasrv): record WAL prune procedure events](https://github.com/GreptimeTeam/greptimedb/pull/8677) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(metasrv): add batch GC lifecycle events](https://github.com/GreptimeTeam/greptimedb/pull/8673) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(metasrv): add repartition lifecycle events](https://github.com/GreptimeTeam/greptimedb/pull/8665) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
