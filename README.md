@@ -14,7 +14,7 @@ Hi 👋 Weny here.
 - [feat: add procedure submission context to meta RPC](https://github.com/GreptimeTeam/greptime-proto/pull/335) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat(procedure): record event actor](https://github.com/GreptimeTeam/greptimedb/pull/8849) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(mito2): retry manifest recovery after checkpoint cleanup](https://github.com/GreptimeTeam/greptimedb/pull/8847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: document Metasrv operational events](https://github.com/GreptimeTeam/docs/pull/2734) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [docs: document Region and maintenance events](https://github.com/GreptimeTeam/docs/pull/2734) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [docs: add Events query and DDL guides](https://github.com/GreptimeTeam/docs/pull/2733) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [feat(event): record admin function executions](https://github.com/GreptimeTeam/greptimedb/pull/8835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor(procedure): centralize event context handling](https://github.com/GreptimeTeam/greptimedb/pull/8834) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
