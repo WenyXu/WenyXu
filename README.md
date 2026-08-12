@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor(event): separate procedure submission context](https://github.com/GreptimeTeam/greptimedb/pull/8856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: add procedure submission context to meta RPC](https://github.com/GreptimeTeam/greptime-proto/pull/335) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat(procedure): record event actor](https://github.com/GreptimeTeam/greptimedb/pull/8849) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(mito2): retry manifest recovery after checkpoint cleanup](https://github.com/GreptimeTeam/greptimedb/pull/8847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix(operator): invalidate local cache after dropping view](https://github.com/GreptimeTeam/greptimedb/pull/8748) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(sample-loader): add periodic remote-write benchmark](https://github.com/GreptimeTeam/metrics-bench-suite/pull/12) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (1 week ago)
 - [fix: resolve Go lint findings](https://github.com/GreptimeTeam/metrics-bench-suite/pull/11) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (1 week ago)
-- [feat: add partition query loader](https://github.com/GreptimeTeam/metrics-bench-suite/pull/10) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
