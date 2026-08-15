@@ -8,20 +8,20 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: document ADMIN function events](https://github.com/GreptimeTeam/docs/pull/2746) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [docs: add Events reference for 1.2](https://github.com/GreptimeTeam/docs/pull/2737) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [chore: add Markdown format check](https://github.com/GreptimeTeam/docs/pull/2736) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [refactor(event): separate procedure submission context](https://github.com/GreptimeTeam/greptimedb/pull/8856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add procedure submission context to meta RPC](https://github.com/GreptimeTeam/greptime-proto/pull/335) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
-- [feat(procedure): record event actor](https://github.com/GreptimeTeam/greptimedb/pull/8849) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix(mito2): retry manifest recovery after checkpoint cleanup](https://github.com/GreptimeTeam/greptimedb/pull/8847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [docs: document Region and maintenance events](https://github.com/GreptimeTeam/docs/pull/2734) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
-- [docs: add Events query and DDL guides](https://github.com/GreptimeTeam/docs/pull/2733) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
-- [feat(event): record admin function executions](https://github.com/GreptimeTeam/greptimedb/pull/8835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [refactor(procedure): centralize event context handling](https://github.com/GreptimeTeam/greptimedb/pull/8834) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [test: fix unknown channel event context expectation](https://github.com/GreptimeTeam/greptimedb/pull/8832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [docs: document Kafka WAL create_index option](https://github.com/GreptimeTeam/docs/pull/2731) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
-- [refactor: share query channel definition](https://github.com/GreptimeTeam/greptimedb/pull/8825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [docs: document ADMIN function events](https://github.com/GreptimeTeam/docs/pull/2746) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [docs: add Events reference for 1.2](https://github.com/GreptimeTeam/docs/pull/2737) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [chore: add Markdown format check](https://github.com/GreptimeTeam/docs/pull/2736) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [refactor(event): separate procedure submission context](https://github.com/GreptimeTeam/greptimedb/pull/8856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add procedure submission context to meta RPC](https://github.com/GreptimeTeam/greptime-proto/pull/335) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [feat(procedure): record event actor](https://github.com/GreptimeTeam/greptimedb/pull/8849) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix(mito2): retry manifest recovery after checkpoint cleanup](https://github.com/GreptimeTeam/greptimedb/pull/8847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [docs: document Region and maintenance events](https://github.com/GreptimeTeam/docs/pull/2734) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [docs: add Events query and DDL guides](https://github.com/GreptimeTeam/docs/pull/2733) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [feat(event): record admin function executions](https://github.com/GreptimeTeam/greptimedb/pull/8835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [refactor(procedure): centralize event context handling](https://github.com/GreptimeTeam/greptimedb/pull/8834) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [test: fix unknown channel event context expectation](https://github.com/GreptimeTeam/greptimedb/pull/8832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [docs: document Kafka WAL create_index option](https://github.com/GreptimeTeam/docs/pull/2731) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [refactor: share query channel definition](https://github.com/GreptimeTeam/greptimedb/pull/8825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [fix(event): preserve procedure lifecycle locators](https://github.com/GreptimeTeam/greptimedb/pull/8787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(sample-loader): stabilize autopilot scheduler traffic](https://github.com/GreptimeTeam/metrics-bench-suite/pull/20) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (1 week ago)
 - [feat(sample-loader): add autopilot scheduler cases](https://github.com/GreptimeTeam/metrics-bench-suite/pull/19) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (1 week ago)
@@ -54,9 +54,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (3 months ago)
 
