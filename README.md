@@ -8,8 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(meta): avoid blocking runtime on stats cache lock](https://github.com/GreptimeTeam/greptimedb/pull/8910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: document event actors](https://github.com/GreptimeTeam/docs/pull/2753) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [fix(meta): avoid blocking runtime on stats cache lock](https://github.com/GreptimeTeam/greptimedb/pull/8910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: document event actors](https://github.com/GreptimeTeam/docs/pull/2753) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [docs: document ADMIN function events](https://github.com/GreptimeTeam/docs/pull/2746) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [docs: add Events reference for 1.2](https://github.com/GreptimeTeam/docs/pull/2737) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [chore: add Markdown format check](https://github.com/GreptimeTeam/docs/pull/2736) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -24,7 +24,7 @@ Hi 👋 Weny here.
 - [test: fix unknown channel event context expectation](https://github.com/GreptimeTeam/greptimedb/pull/8832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: document Kafka WAL create_index option](https://github.com/GreptimeTeam/docs/pull/2731) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [refactor: share query channel definition](https://github.com/GreptimeTeam/greptimedb/pull/8825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(event): preserve procedure lifecycle locators](https://github.com/GreptimeTeam/greptimedb/pull/8787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix(event): preserve procedure lifecycle locators](https://github.com/GreptimeTeam/greptimedb/pull/8787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(sample-loader): stabilize autopilot scheduler traffic](https://github.com/GreptimeTeam/metrics-bench-suite/pull/20) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 weeks ago)
 - [feat(sample-loader): add autopilot scheduler cases](https://github.com/GreptimeTeam/metrics-bench-suite/pull/19) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 weeks ago)
 - [feat(sample-loader): add scheduler-aware autopilot cases](https://github.com/GreptimeTeam/metrics-bench-suite/pull/18) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 weeks ago)
@@ -37,15 +37,15 @@ Hi 👋 Weny here.
 #### ⭐ Check out my recent stars
 
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift (4 weeks ago)
-- [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management (4 weeks ago)
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (4 weeks ago)
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100&#43; specialized Claude Code subagents covering a wide range of development use cases (4 weeks ago)
+- [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management (1 month ago)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 month ago)
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100&#43; specialized Claude Code subagents covering a wide range of development use cases (1 month ago)
 - [LukasNiessen/kubernetes-skill](https://github.com/LukasNiessen/kubernetes-skill) - Kubernetes Skill for Claude Code and Codex. LLMs hallucinate a lot with K8s - KubeShark fixes this. It eliminates hallucinations and grounds your Kubernetes, Helm etc official best practices. (1 month ago)
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks (1 month ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 month ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (1 month ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 months ago)
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (2 months ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (3 months ago)
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (3 months ago)
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (3 months ago)
 - [krzko/otelgen](https://github.com/krzko/otelgen) - 🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces using OTLP (gRPC and HTTP) (3 months ago)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (3 months ago)
@@ -54,10 +54,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
-- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 week ago)
+- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (2 weeks ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (3 months ago)
 
 #### 👯 Check out my recent followers
