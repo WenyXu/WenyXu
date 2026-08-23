@@ -8,10 +8,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(meta): allow manual migration from offline datanodes](https://github.com/GreptimeTeam/greptimedb/pull/8934) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix(operator): reconcile internal events schema](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix(meta): avoid blocking runtime on stats cache lock](https://github.com/GreptimeTeam/greptimedb/pull/8910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [docs: document event actors](https://github.com/GreptimeTeam/docs/pull/2753) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [fix(meta): allow manual migration from offline datanodes](https://github.com/GreptimeTeam/greptimedb/pull/8934) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix(operator): reconcile internal events schema](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix(meta): avoid blocking runtime on stats cache lock](https://github.com/GreptimeTeam/greptimedb/pull/8910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [docs: document event actors](https://github.com/GreptimeTeam/docs/pull/2753) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
 - [docs: document ADMIN function events](https://github.com/GreptimeTeam/docs/pull/2746) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [docs: add Events reference for 1.2](https://github.com/GreptimeTeam/docs/pull/2737) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [chore: add Markdown format check](https://github.com/GreptimeTeam/docs/pull/2736) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -36,8 +36,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (today)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (today)
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 day ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 day ago)
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift (1 month ago)
 - [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management (1 month ago)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 month ago)
@@ -54,8 +54,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (3 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (4 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (2 weeks ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (3 months ago)
