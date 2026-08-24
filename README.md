@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(flight): apply timeout to DoGet establishment](https://github.com/GreptimeTeam/greptimedb/pull/8943) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(meta): allow manual migration from offline datanodes](https://github.com/GreptimeTeam/greptimedb/pull/8934) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix(operator): reconcile internal events schema](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix(meta): avoid blocking runtime on stats cache lock](https://github.com/GreptimeTeam/greptimedb/pull/8910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat(sample-loader): add scheduler-aware autopilot cases](https://github.com/GreptimeTeam/metrics-bench-suite/pull/18) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 weeks ago)
 - [feat: sync Grafana events dashboard](https://github.com/GreptimeTeam/helm-charts/pull/438) on [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) (2 weeks ago)
 - [fix(sample-loader): preserve baseline during bursts](https://github.com/GreptimeTeam/metrics-bench-suite/pull/17) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 weeks ago)
-- [fix(sample-loader): bound periodic burst scheduling](https://github.com/GreptimeTeam/metrics-bench-suite/pull/16) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
