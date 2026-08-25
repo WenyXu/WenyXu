@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor(flight): add request builder and defer DoGet execution](https://github.com/GreptimeTeam/greptimedb/pull/8953) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(flight): bound DoGet response wait](https://github.com/GreptimeTeam/greptimedb/pull/8943) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(meta): allow manual migration from offline datanodes](https://github.com/GreptimeTeam/greptimedb/pull/8934) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix(operator): reconcile internal events schema](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat(sample-loader): add autopilot scheduler cases](https://github.com/GreptimeTeam/metrics-bench-suite/pull/19) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 weeks ago)
 - [feat(sample-loader): add scheduler-aware autopilot cases](https://github.com/GreptimeTeam/metrics-bench-suite/pull/18) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 weeks ago)
 - [feat: sync Grafana events dashboard](https://github.com/GreptimeTeam/helm-charts/pull/438) on [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) (2 weeks ago)
-- [fix(sample-loader): preserve baseline during bursts](https://github.com/GreptimeTeam/metrics-bench-suite/pull/17) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
