@@ -8,11 +8,11 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(flow): restore FrontendClient::sql API](https://github.com/GreptimeTeam/greptimedb/pull/8963) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: document internal events schema reconciliation](https://github.com/GreptimeTeam/docs/pull/2791) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [test: renew etcd TLS certificates](https://github.com/GreptimeTeam/greptimedb/pull/8956) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [refactor(flight): add request builder and defer DoGet execution](https://github.com/GreptimeTeam/greptimedb/pull/8953) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix(flight): bound DoGet response wait](https://github.com/GreptimeTeam/greptimedb/pull/8943) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix(flow): restore FrontendClient::sql API](https://github.com/GreptimeTeam/greptimedb/pull/8963) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: document internal events schema reconciliation](https://github.com/GreptimeTeam/docs/pull/2791) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [test: renew etcd TLS certificates](https://github.com/GreptimeTeam/greptimedb/pull/8956) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [refactor(flight): add request builder and defer DoGet execution](https://github.com/GreptimeTeam/greptimedb/pull/8953) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix(flight): bound DoGet response wait](https://github.com/GreptimeTeam/greptimedb/pull/8943) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [fix(meta): allow manual migration from offline datanodes](https://github.com/GreptimeTeam/greptimedb/pull/8934) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(operator): whitelist private system table auto create](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(meta): avoid blocking runtime on stats cache lock](https://github.com/GreptimeTeam/greptimedb/pull/8910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -36,9 +36,9 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode &amp; 20&#43; CLIs via BYOK. (4 days ago)
-- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (6 days ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (6 days ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode &amp; 20&#43; CLIs via BYOK. (5 days ago)
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 week ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 week ago)
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift (1 month ago)
 - [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management (1 month ago)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 month ago)
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (3 weeks ago)
