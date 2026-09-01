@@ -8,10 +8,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(flow): restore FrontendClient::sql API](https://github.com/GreptimeTeam/greptimedb/pull/8963) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [docs: document events and slow query table reconciliation](https://github.com/GreptimeTeam/docs/pull/2791) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
-- [test: renew etcd TLS certificates](https://github.com/GreptimeTeam/greptimedb/pull/8956) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [refactor(flight): add request builder and defer DoGet execution](https://github.com/GreptimeTeam/greptimedb/pull/8953) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix(flow): restore FrontendClient::sql API](https://github.com/GreptimeTeam/greptimedb/pull/8963) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [docs: document events and slow query table reconciliation](https://github.com/GreptimeTeam/docs/pull/2791) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [test: renew etcd TLS certificates](https://github.com/GreptimeTeam/greptimedb/pull/8956) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor(flight): add request builder and defer DoGet execution](https://github.com/GreptimeTeam/greptimedb/pull/8953) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(flight): bound DoGet response wait](https://github.com/GreptimeTeam/greptimedb/pull/8943) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(meta): allow manual migration from offline datanodes](https://github.com/GreptimeTeam/greptimedb/pull/8934) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(operator): whitelist private system table auto create](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -21,9 +21,9 @@ Hi 👋 Weny here.
 - [docs: add Events reference for 1.2](https://github.com/GreptimeTeam/docs/pull/2737) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [chore: add Markdown format check](https://github.com/GreptimeTeam/docs/pull/2736) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [refactor(event): separate procedure submission context](https://github.com/GreptimeTeam/greptimedb/pull/8856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat: add procedure submission context to meta RPC](https://github.com/GreptimeTeam/greptime-proto/pull/335) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 weeks ago)
-- [feat(procedure): record event actor](https://github.com/GreptimeTeam/greptimedb/pull/8849) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(mito2): fence checkpoints during region transitions](https://github.com/GreptimeTeam/greptimedb/pull/8847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: add procedure submission context to meta RPC](https://github.com/GreptimeTeam/greptime-proto/pull/335) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
+- [feat(procedure): record event actor](https://github.com/GreptimeTeam/greptimedb/pull/8849) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix(mito2): fence checkpoints during region transitions](https://github.com/GreptimeTeam/greptimedb/pull/8847) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: document Region and maintenance events](https://github.com/GreptimeTeam/docs/pull/2734) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [docs: add Events query and DDL guides](https://github.com/GreptimeTeam/docs/pull/2733) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [feat(event): record admin function executions](https://github.com/GreptimeTeam/greptimedb/pull/8835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (4 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (3 weeks ago)
