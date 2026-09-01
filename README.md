@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(telemetry): add log directory size retention](https://github.com/GreptimeTeam/greptimedb/pull/8997) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(flow): restore FrontendClient::sql API](https://github.com/GreptimeTeam/greptimedb/pull/8963) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [docs: document events and slow query table reconciliation](https://github.com/GreptimeTeam/docs/pull/2791) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
 - [test: renew etcd TLS certificates](https://github.com/GreptimeTeam/greptimedb/pull/8956) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [docs: document Kafka WAL create_index option](https://github.com/GreptimeTeam/docs/pull/2731) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [refactor: share query channel definition](https://github.com/GreptimeTeam/greptimedb/pull/8825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(event): preserve procedure lifecycle locators](https://github.com/GreptimeTeam/greptimedb/pull/8787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix(sample-loader): stabilize autopilot scheduler traffic](https://github.com/GreptimeTeam/metrics-bench-suite/pull/20) on [GreptimeTeam/metrics-bench-suite](https://github.com/GreptimeTeam/metrics-bench-suite) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
