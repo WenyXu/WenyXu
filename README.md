@@ -62,10 +62,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [okwuedemprecious-boop](https://github.com/okwuedemprecious-boop)
 - [dhruvxvaishnav](https://github.com/dhruvxvaishnav)
 - [trungnghiahoang96](https://github.com/trungnghiahoang96)
 - [fatpa](https://github.com/fatpa)
 - [HongZhang87](https://github.com/HongZhang87)
-- [yangzhengjie](https://github.com/yangzhengjie)
 
 
