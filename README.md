@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [ci: trigger downstream updates for prereleases](https://github.com/GreptimeTeam/greptimedb/pull/9008) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(telemetry): add log directory size retention](https://github.com/GreptimeTeam/greptimedb/pull/8997) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(flow): restore FrontendClient::sql API](https://github.com/GreptimeTeam/greptimedb/pull/8963) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [docs: document events and slow query table reconciliation](https://github.com/GreptimeTeam/docs/pull/2791) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [test: fix unknown channel event context expectation](https://github.com/GreptimeTeam/greptimedb/pull/8832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: document Kafka WAL create_index option](https://github.com/GreptimeTeam/docs/pull/2731) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [refactor: share query channel definition](https://github.com/GreptimeTeam/greptimedb/pull/8825) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix(event): preserve procedure lifecycle locators](https://github.com/GreptimeTeam/greptimedb/pull/8787) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
