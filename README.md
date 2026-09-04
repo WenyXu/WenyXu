@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/1) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (today)
 - [chore: bump version to 1.3.0-alpha.1](https://github.com/GreptimeTeam/greptimedb/pull/9014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [docs: add 1.3.0-alpha.1 release note](https://github.com/GreptimeTeam/docs/pull/2816) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [ci: trigger downstream updates for prereleases](https://github.com/GreptimeTeam/greptimedb/pull/9008) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [docs: add Events query and DDL guides](https://github.com/GreptimeTeam/docs/pull/2733) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [feat(event): record admin function executions](https://github.com/GreptimeTeam/greptimedb/pull/8835) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor(procedure): centralize event context handling](https://github.com/GreptimeTeam/greptimedb/pull/8834) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [test: fix unknown channel event context expectation](https://github.com/GreptimeTeam/greptimedb/pull/8832) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
