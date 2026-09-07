@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [chore(deps): switch rskafka to upstream main](https://github.com/GreptimeTeam/greptimedb/pull/9047) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: include message send in request timeout](https://github.com/influxdata/rskafka/pull/300) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (3 days ago)
 - [feat: return response size](https://github.com/influxdata/rskafka/pull/299) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (3 days ago)
 - [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/3) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (3 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [chore: add Markdown format check](https://github.com/GreptimeTeam/docs/pull/2736) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [refactor(event): separate procedure submission context](https://github.com/GreptimeTeam/greptimedb/pull/8856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: add procedure submission context to meta RPC](https://github.com/GreptimeTeam/greptime-proto/pull/335) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 weeks ago)
-- [feat(procedure): record event actor](https://github.com/GreptimeTeam/greptimedb/pull/8849) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,8 +54,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (3 days ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (3 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 month ago)
