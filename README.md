@@ -8,25 +8,25 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: include message send in request timeout](https://github.com/influxdata/rskafka/pull/300) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (2 days ago)
-- [feat: return response size](https://github.com/influxdata/rskafka/pull/299) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (2 days ago)
-- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/3) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (2 days ago)
-- [feat: return encoded response size](https://github.com/GreptimeTeam/rskafka/pull/2) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (2 days ago)
-- [fix(wal): bound Kafka requests and extend latency buckets](https://github.com/GreptimeTeam/greptimedb/pull/9026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/1) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (2 days ago)
-- [chore: bump version to 1.3.0-alpha.1](https://github.com/GreptimeTeam/greptimedb/pull/9014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [docs: add 1.3.0-alpha.1 release note](https://github.com/GreptimeTeam/docs/pull/2816) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
-- [ci: trigger downstream updates for prereleases](https://github.com/GreptimeTeam/greptimedb/pull/9008) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(telemetry): add log directory size retention](https://github.com/GreptimeTeam/greptimedb/pull/8997) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: include message send in request timeout](https://github.com/influxdata/rskafka/pull/300) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (3 days ago)
+- [feat: return response size](https://github.com/influxdata/rskafka/pull/299) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (3 days ago)
+- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/3) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (3 days ago)
+- [feat: return encoded response size](https://github.com/GreptimeTeam/rskafka/pull/2) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (3 days ago)
+- [fix(wal): bound Kafka requests and extend latency buckets](https://github.com/GreptimeTeam/greptimedb/pull/9026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/1) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (3 days ago)
+- [chore: bump version to 1.3.0-alpha.1](https://github.com/GreptimeTeam/greptimedb/pull/9014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [docs: add 1.3.0-alpha.1 release note](https://github.com/GreptimeTeam/docs/pull/2816) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
+- [ci: trigger downstream updates for prereleases](https://github.com/GreptimeTeam/greptimedb/pull/9008) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat(telemetry): add log directory size retention](https://github.com/GreptimeTeam/greptimedb/pull/8997) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(flow): restore FrontendClient::sql API](https://github.com/GreptimeTeam/greptimedb/pull/8963) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: document events and slow query table reconciliation](https://github.com/GreptimeTeam/docs/pull/2791) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [test: renew etcd TLS certificates](https://github.com/GreptimeTeam/greptimedb/pull/8956) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor(flight): add request builder and defer DoGet execution](https://github.com/GreptimeTeam/greptimedb/pull/8953) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(flight): bound DoGet response wait](https://github.com/GreptimeTeam/greptimedb/pull/8943) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix(flight): bound DoGet response wait](https://github.com/GreptimeTeam/greptimedb/pull/8943) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(meta): allow manual migration from offline datanodes](https://github.com/GreptimeTeam/greptimedb/pull/8934) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(operator): whitelist private system table auto create](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(meta): avoid blocking runtime on stats cache lock](https://github.com/GreptimeTeam/greptimedb/pull/8910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [docs: document event actors](https://github.com/GreptimeTeam/docs/pull/2753) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
+- [docs: document event actors](https://github.com/GreptimeTeam/docs/pull/2753) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [docs: document ADMIN function events](https://github.com/GreptimeTeam/docs/pull/2746) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [docs: add Events reference for 1.2](https://github.com/GreptimeTeam/docs/pull/2737) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [chore: add Markdown format check](https://github.com/GreptimeTeam/docs/pull/2736) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
@@ -36,7 +36,7 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode &amp; 20&#43; CLIs via BYOK. (1 week ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode &amp; 20&#43; CLIs via BYOK. (2 weeks ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (2 weeks ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (2 weeks ago)
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift (1 month ago)
@@ -54,9 +54,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (2 days ago)
-- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (3 days ago)
+- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (3 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 weeks ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 month ago)
 
