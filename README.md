@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add repartition partition count hint](https://github.com/GreptimeTeam/greptimedb/pull/9080) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(deps): switch rskafka to upstream main](https://github.com/GreptimeTeam/greptimedb/pull/9047) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: include message send in request timeout](https://github.com/influxdata/rskafka/pull/300) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (5 days ago)
 - [feat: return response size](https://github.com/influxdata/rskafka/pull/299) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (5 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [docs: add Events reference for 1.2](https://github.com/GreptimeTeam/docs/pull/2737) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [chore: add Markdown format check](https://github.com/GreptimeTeam/docs/pull/2736) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [refactor(event): separate procedure submission context](https://github.com/GreptimeTeam/greptimedb/pull/8856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [feat: add procedure submission context to meta RPC](https://github.com/GreptimeTeam/greptime-proto/pull/335) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
