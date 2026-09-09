@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: support request-level WAL skipping for ordinary inserts](https://github.com/GreptimeTeam/greptimedb/pull/9088) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(proto): add request-level skip_wal to region inserts](https://github.com/GreptimeTeam/greptime-proto/pull/338) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat: add repartition partition count hint](https://github.com/GreptimeTeam/greptimedb/pull/9080) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore(deps): switch rskafka to upstream main](https://github.com/GreptimeTeam/greptimedb/pull/9047) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: include message send in request timeout](https://github.com/influxdata/rskafka/pull/300) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (5 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [docs: document event actors](https://github.com/GreptimeTeam/docs/pull/2753) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [docs: document ADMIN function events](https://github.com/GreptimeTeam/docs/pull/2746) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [docs: add Events reference for 1.2](https://github.com/GreptimeTeam/docs/pull/2737) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
-- [chore: add Markdown format check](https://github.com/GreptimeTeam/docs/pull/2736) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
-- [refactor(event): separate procedure submission context](https://github.com/GreptimeTeam/greptimedb/pull/8856) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -62,10 +62,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [buraksocial](https://github.com/buraksocial)
 - [okwuedemprecious-boop](https://github.com/okwuedemprecious-boop)
 - [dhruvxvaishnav](https://github.com/dhruvxvaishnav)
 - [trungnghiahoang96](https://github.com/trungnghiahoang96)
 - [fatpa](https://github.com/fatpa)
-- [HongZhang87](https://github.com/HongZhang87)
 
 
