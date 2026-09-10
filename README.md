@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(proto): add request-level skip_wal to bulk inserts](https://github.com/GreptimeTeam/greptime-proto/pull/339) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [test: cover request-level insert WAL skipping end to end](https://github.com/GreptimeTeam/greptimedb/pull/9093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: support request-level insert WAL skipping](https://github.com/GreptimeTeam/greptimedb/pull/9088) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(proto): add request-level skip_wal to region inserts](https://github.com/GreptimeTeam/greptime-proto/pull/338) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix(operator): whitelist private system table auto create](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(meta): avoid blocking runtime on stats cache lock](https://github.com/GreptimeTeam/greptimedb/pull/8910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: document event actors](https://github.com/GreptimeTeam/docs/pull/2753) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
-- [docs: document ADMIN function events](https://github.com/GreptimeTeam/docs/pull/2746) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
