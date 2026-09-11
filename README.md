@@ -8,19 +8,19 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support request-level WAL skipping for bulk inserts](https://github.com/GreptimeTeam/greptimedb/pull/9110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat(proto): add request-level skip_wal to bulk inserts](https://github.com/GreptimeTeam/greptime-proto/pull/339) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [test: cover request-level insert WAL skipping end to end](https://github.com/GreptimeTeam/greptimedb/pull/9093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: support request-level insert WAL skipping](https://github.com/GreptimeTeam/greptimedb/pull/9088) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(proto): add request-level skip_wal to region inserts](https://github.com/GreptimeTeam/greptime-proto/pull/338) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
-- [feat: add repartition partition count hint](https://github.com/GreptimeTeam/greptimedb/pull/9080) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [chore(deps): switch rskafka to upstream main](https://github.com/GreptimeTeam/greptimedb/pull/9047) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: include message send in request timeout](https://github.com/influxdata/rskafka/pull/300) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (6 days ago)
-- [feat: return response size](https://github.com/influxdata/rskafka/pull/299) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (6 days ago)
-- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/3) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (6 days ago)
-- [feat: return encoded response size](https://github.com/GreptimeTeam/rskafka/pull/2) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (6 days ago)
-- [fix(wal): bound Kafka requests and extend latency buckets](https://github.com/GreptimeTeam/greptimedb/pull/9026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/1) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (6 days ago)
+- [feat: support request-level WAL skipping for bulk inserts](https://github.com/GreptimeTeam/greptimedb/pull/9110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(proto): add request-level skip_wal to bulk inserts](https://github.com/GreptimeTeam/greptime-proto/pull/339) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [test: cover request-level insert WAL skipping end to end](https://github.com/GreptimeTeam/greptimedb/pull/9093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: support request-level insert WAL skipping](https://github.com/GreptimeTeam/greptimedb/pull/9088) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(proto): add request-level skip_wal to region inserts](https://github.com/GreptimeTeam/greptime-proto/pull/338) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
+- [feat: add repartition partition count hint](https://github.com/GreptimeTeam/greptimedb/pull/9080) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [chore(deps): switch rskafka to upstream main](https://github.com/GreptimeTeam/greptimedb/pull/9047) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: include message send in request timeout](https://github.com/influxdata/rskafka/pull/300) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 week ago)
+- [feat: return response size](https://github.com/influxdata/rskafka/pull/299) on [influxdata/rskafka](https://github.com/influxdata/rskafka) (1 week ago)
+- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/3) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (1 week ago)
+- [feat: return encoded response size](https://github.com/GreptimeTeam/rskafka/pull/2) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (1 week ago)
+- [fix(wal): bound Kafka requests and extend latency buckets](https://github.com/GreptimeTeam/greptimedb/pull/9026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/1) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (1 week ago)
 - [chore: bump version to 1.3.0-alpha.1](https://github.com/GreptimeTeam/greptimedb/pull/9014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add 1.3.0-alpha.1 release note](https://github.com/GreptimeTeam/docs/pull/2816) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [ci: trigger downstream updates for prereleases](https://github.com/GreptimeTeam/greptimedb/pull/9008) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,8 +30,8 @@ Hi 👋 Weny here.
 - [test: renew etcd TLS certificates](https://github.com/GreptimeTeam/greptimedb/pull/8956) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor(flight): add request builder and defer DoGet execution](https://github.com/GreptimeTeam/greptimedb/pull/8953) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(flight): bound DoGet response wait](https://github.com/GreptimeTeam/greptimedb/pull/8943) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(meta): allow manual migration from offline datanodes](https://github.com/GreptimeTeam/greptimedb/pull/8934) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(operator): whitelist private system table auto create](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [fix(meta): allow manual migration from offline datanodes](https://github.com/GreptimeTeam/greptimedb/pull/8934) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [fix(operator): whitelist private system table auto create](https://github.com/GreptimeTeam/greptimedb/pull/8930) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [fix(meta): avoid blocking runtime on stats cache lock](https://github.com/GreptimeTeam/greptimedb/pull/8910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
@@ -54,10 +54,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
-- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 days ago)
+- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 week ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 month ago)
 
 #### 👯 Check out my recent followers
