@@ -8,6 +8,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(ci): add observability benchmark and lifecycle summaries](https://github.com/GreptimeTeam/greptimedb/pull/9215) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: isolate logical table preparation and reuse Flow notifications](https://github.com/GreptimeTeam/greptimedb/pull/9212) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: isolate logical batch scheduling and flushing](https://github.com/GreptimeTeam/greptimedb/pull/9211) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor: reorganize logical table batching and isolate encoding](https://github.com/GreptimeTeam/greptimedb/pull/9210) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(ci): repair agent observability dispatch and runner cleanup](https://github.com/GreptimeTeam/greptimedb/pull/9204) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: preserve primary key order when syncing columns](https://github.com/GreptimeTeam/greptimedb/pull/9189) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: add ordinary table batching workers](https://github.com/GreptimeTeam/greptimedb/pull/9187) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -29,10 +33,6 @@ Hi 👋 Weny here.
 - [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/3) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (1 week ago)
 - [feat: return encoded response size](https://github.com/GreptimeTeam/rskafka/pull/2) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (1 week ago)
 - [fix(wal): bound Kafka requests and extend latency buckets](https://github.com/GreptimeTeam/greptimedb/pull/9026) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: bound messenger send by request timeout](https://github.com/GreptimeTeam/rskafka/pull/1) on [GreptimeTeam/rskafka](https://github.com/GreptimeTeam/rskafka) (1 week ago)
-- [chore: bump version to 1.3.0-alpha.1](https://github.com/GreptimeTeam/greptimedb/pull/9014) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [docs: add 1.3.0-alpha.1 release note](https://github.com/GreptimeTeam/docs/pull/2816) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [ci: trigger downstream updates for prereleases](https://github.com/GreptimeTeam/greptimedb/pull/9008) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -62,10 +62,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [aayush0325](https://github.com/aayush0325)
 - [arvelquigley99](https://github.com/arvelquigley99)
 - [DecarbonizedGlucose](https://github.com/DecarbonizedGlucose)
 - [Aetherance](https://github.com/Aetherance)
 - [buraksocial](https://github.com/buraksocial)
-- [okwuedemprecious-boop](https://github.com/okwuedemprecious-boop)
 
 
