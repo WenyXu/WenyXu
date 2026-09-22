@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: support pending rows batching for MySQL and PostgreSQL](https://github.com/GreptimeTeam/greptimedb/pull/9302) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: share logical table batching with OTLP metrics](https://github.com/GreptimeTeam/greptimedb/pull/9288) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(ci): repair draft PR command dispatch](https://github.com/GreptimeTeam/greptimedb/pull/9271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(ci): stabilize long-range benchmark execution and artifact collection](https://github.com/GreptimeTeam/greptimedb/pull/9241) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat(proto): add request-level skip_wal to bulk inserts](https://github.com/GreptimeTeam/greptime-proto/pull/339) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [test: cover request-level insert WAL skipping end to end](https://github.com/GreptimeTeam/greptimedb/pull/9093) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: support request-level insert WAL skipping](https://github.com/GreptimeTeam/greptimedb/pull/9088) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(proto): add request-level skip_wal to region inserts](https://github.com/GreptimeTeam/greptime-proto/pull/338) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
