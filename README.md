@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(ci): grant PR write permission for CI command replies](https://github.com/GreptimeTeam/greptimedb/pull/9331) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [ci: add optional AWS runners for observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/9322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: document OSS RRSA authentication and upgrade workaround](https://github.com/GreptimeTeam/docs/pull/2915) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix(services/oss): prefer OIDC credentials over ECS metadata](https://github.com/apache/opendal/pull/8339) on [apache/opendal](https://github.com/apache/opendal) (today)
 - [fix: address Windows test failures and run full Windows CI](https://github.com/GreptimeTeam/greptimedb/pull/9305) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [fix: preserve count correctness after repartition](https://github.com/GreptimeTeam/greptimedb/pull/9154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(ci): check Windows test targets before merge](https://github.com/GreptimeTeam/greptimedb/pull/9116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: batch ordinary table writes across HTTP protocols](https://github.com/GreptimeTeam/greptimedb/pull/9115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor: reuse common batching components in Prom ingestion](https://github.com/GreptimeTeam/greptimedb/pull/9114) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: support request-level WAL skipping for bulk inserts](https://github.com/GreptimeTeam/greptimedb/pull/9110) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
