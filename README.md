@@ -62,10 +62,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [Aumnertic](https://github.com/Aumnertic)
 - [malus2077](https://github.com/malus2077)
 - [aayush0325](https://github.com/aayush0325)
 - [arvelquigley99](https://github.com/arvelquigley99)
 - [DecarbonizedGlucose](https://github.com/DecarbonizedGlucose)
-- [Aetherance](https://github.com/Aetherance)
 
 
