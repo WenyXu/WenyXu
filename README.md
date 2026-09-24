@@ -17,7 +17,7 @@ Hi 👋 Weny here.
 - [feat: share logical table batching with OTLP metrics](https://github.com/GreptimeTeam/greptimedb/pull/9288) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(ci): repair draft PR command dispatch](https://github.com/GreptimeTeam/greptimedb/pull/9271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix(ci): stabilize long-range benchmark execution and artifact collection](https://github.com/GreptimeTeam/greptimedb/pull/9241) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [docs: document ordinary table write batching](https://github.com/GreptimeTeam/docs/pull/2895) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [docs: update pending rows batching](https://github.com/GreptimeTeam/docs/pull/2895) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
 - [ci: gate draft PR checks behind slash commands](https://github.com/GreptimeTeam/greptimedb/pull/9221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: refine Rust style guide](https://github.com/GreptimeTeam/greptimedb/pull/9220) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(ci): add long-range metrics benchmark on ECS](https://github.com/GreptimeTeam/greptimedb/pull/9218) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
