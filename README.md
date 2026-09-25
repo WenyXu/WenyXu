@@ -8,16 +8,16 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(ci): grant PR write permission for CI command replies](https://github.com/GreptimeTeam/greptimedb/pull/9331) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [ci: add optional AWS runners for observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/9322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: document OSS RRSA authentication and upgrade workaround](https://github.com/GreptimeTeam/docs/pull/2915) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [fix(services/oss): prefer OIDC credentials over ECS metadata](https://github.com/apache/opendal/pull/8339) on [apache/opendal](https://github.com/apache/opendal) (1 day ago)
-- [fix: address Windows test failures and run full Windows CI](https://github.com/GreptimeTeam/greptimedb/pull/9305) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: support pending rows batching for MySQL and PostgreSQL](https://github.com/GreptimeTeam/greptimedb/pull/9302) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: share logical table batching with OTLP metrics](https://github.com/GreptimeTeam/greptimedb/pull/9288) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix(ci): repair draft PR command dispatch](https://github.com/GreptimeTeam/greptimedb/pull/9271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix(ci): stabilize long-range benchmark execution and artifact collection](https://github.com/GreptimeTeam/greptimedb/pull/9241) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [docs: update pending rows batching](https://github.com/GreptimeTeam/docs/pull/2895) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [fix(ci): grant PR write permission for CI command replies](https://github.com/GreptimeTeam/greptimedb/pull/9331) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [ci: add optional AWS runners for observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/9322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: document OSS RRSA authentication and upgrade workaround](https://github.com/GreptimeTeam/docs/pull/2915) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [fix(services/oss): prefer OIDC credentials over ECS metadata](https://github.com/apache/opendal/pull/8339) on [apache/opendal](https://github.com/apache/opendal) (2 days ago)
+- [fix: address Windows test failures and run full Windows CI](https://github.com/GreptimeTeam/greptimedb/pull/9305) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: support pending rows batching for MySQL and PostgreSQL](https://github.com/GreptimeTeam/greptimedb/pull/9302) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: share logical table batching with OTLP metrics](https://github.com/GreptimeTeam/greptimedb/pull/9288) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix(ci): repair draft PR command dispatch](https://github.com/GreptimeTeam/greptimedb/pull/9271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix(ci): stabilize long-range benchmark execution and artifact collection](https://github.com/GreptimeTeam/greptimedb/pull/9241) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [docs: update pending rows batching](https://github.com/GreptimeTeam/docs/pull/2895) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [ci: gate draft PR checks behind slash commands](https://github.com/GreptimeTeam/greptimedb/pull/9221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: refine Rust style guide](https://github.com/GreptimeTeam/greptimedb/pull/9220) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(ci): add long-range metrics benchmark on ECS](https://github.com/GreptimeTeam/greptimedb/pull/9218) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -31,8 +31,8 @@ Hi 👋 Weny here.
 - [feat: add prepared batch write primitives](https://github.com/GreptimeTeam/greptimedb/pull/9186) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [ci: add manual agent observability benchmarks on Aliyun ECS](https://github.com/GreptimeTeam/greptimedb/pull/9179) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: preserve count correctness after repartition](https://github.com/GreptimeTeam/greptimedb/pull/9154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(ci): check Windows test targets before merge](https://github.com/GreptimeTeam/greptimedb/pull/9116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: batch ordinary table writes across HTTP protocols](https://github.com/GreptimeTeam/greptimedb/pull/9115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix(ci): check Windows test targets before merge](https://github.com/GreptimeTeam/greptimedb/pull/9116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [feat: batch ordinary table writes across HTTP protocols](https://github.com/GreptimeTeam/greptimedb/pull/9115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,11 +54,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (2 days ago)
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
-- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 weeks ago)
+- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
