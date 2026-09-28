@@ -8,6 +8,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [ci: update Agent and Traces benchmark runtime](https://github.com/GreptimeTeam/greptimedb/pull/9383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(ci): update the shared Actions runner to v2.337.0](https://github.com/GreptimeTeam/greptimedb/pull/9376) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [docs: use revision-based etcd auto compaction](https://github.com/GreptimeTeam/docs/pull/2923) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [ci: add manually triggered tracesbench workflow](https://github.com/GreptimeTeam/greptimedb/pull/9372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(ci): grant PR write permission for CI command replies](https://github.com/GreptimeTeam/greptimedb/pull/9331) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [ci: add optional AWS runners for observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/9322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -18,7 +21,7 @@ Hi 👋 Weny here.
 - [feat: share logical table batching with OTLP metrics](https://github.com/GreptimeTeam/greptimedb/pull/9288) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(ci): repair draft PR command dispatch](https://github.com/GreptimeTeam/greptimedb/pull/9271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(ci): stabilize long-range benchmark execution and artifact collection](https://github.com/GreptimeTeam/greptimedb/pull/9241) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [docs: update pending rows batching](https://github.com/GreptimeTeam/docs/pull/2895) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
+- [docs: document server-side write batching](https://github.com/GreptimeTeam/docs/pull/2895) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [ci: gate draft PR checks behind slash commands](https://github.com/GreptimeTeam/greptimedb/pull/9221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: refine Rust style guide](https://github.com/GreptimeTeam/greptimedb/pull/9220) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(ci): add long-range metrics benchmark on ECS](https://github.com/GreptimeTeam/greptimedb/pull/9218) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -30,9 +33,6 @@ Hi 👋 Weny here.
 - [fix: preserve primary key order when syncing columns](https://github.com/GreptimeTeam/greptimedb/pull/9189) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add ordinary table batching workers](https://github.com/GreptimeTeam/greptimedb/pull/9187) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: add prepared batch write primitives](https://github.com/GreptimeTeam/greptimedb/pull/9186) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [ci: add manual agent observability benchmarks on Aliyun ECS](https://github.com/GreptimeTeam/greptimedb/pull/9179) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: preserve count correctness after repartition](https://github.com/GreptimeTeam/greptimedb/pull/9154) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(ci): check Windows test targets before merge](https://github.com/GreptimeTeam/greptimedb/pull/9116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
