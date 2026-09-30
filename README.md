@@ -10,7 +10,7 @@ Hi 👋 Weny here.
 
 - [docs: add 1.3.0-beta.1 release note](https://github.com/GreptimeTeam/docs/pull/2926) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [chore: bump version to 1.3.0-beta.1](https://github.com/GreptimeTeam/greptimedb/pull/9392) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [ci: update Agent and Traces benchmark runtime](https://github.com/GreptimeTeam/greptimedb/pull/9383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [ci: enhance benchmark workflows with version comparisons and diagnostics](https://github.com/GreptimeTeam/greptimedb/pull/9383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(ci): update the shared Actions runner to v2.337.0](https://github.com/GreptimeTeam/greptimedb/pull/9376) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [docs: use revision-based etcd auto compaction](https://github.com/GreptimeTeam/docs/pull/2923) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [ci: add manually triggered tracesbench workflow](https://github.com/GreptimeTeam/greptimedb/pull/9372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
