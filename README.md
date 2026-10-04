@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(mito): flush memtables containing skip-WAL writes on region close](https://github.com/GreptimeTeam/greptimedb/pull/9440) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(metasrv): retry failed heartbeat address updates](https://github.com/GreptimeTeam/greptimedb/pull/9437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(catalog): skip backend batch_get on full cache hits](https://github.com/GreptimeTeam/greptimedb/pull/9431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [docs: add 1.3.0-beta.1 release note](https://github.com/GreptimeTeam/docs/pull/2926) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat(ci): add observability benchmark and lifecycle summaries](https://github.com/GreptimeTeam/greptimedb/pull/9215) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: isolate logical table preparation and reuse Flow notifications](https://github.com/GreptimeTeam/greptimedb/pull/9212) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [refactor: isolate logical batch scheduling and flushing](https://github.com/GreptimeTeam/greptimedb/pull/9211) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: reorganize logical table batching and isolate encoding](https://github.com/GreptimeTeam/greptimedb/pull/9210) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
