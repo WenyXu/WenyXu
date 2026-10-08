@@ -8,9 +8,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(mito): flush memtables containing skip-WAL writes on region close](https://github.com/GreptimeTeam/greptimedb/pull/9440) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix(metasrv): retry failed heartbeat address updates](https://github.com/GreptimeTeam/greptimedb/pull/9437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [fix(catalog): skip backend batch_get on full cache hits](https://github.com/GreptimeTeam/greptimedb/pull/9431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix(mito): flush memtables containing skip-WAL writes on region close](https://github.com/GreptimeTeam/greptimedb/pull/9440) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix(metasrv): retry failed heartbeat address updates](https://github.com/GreptimeTeam/greptimedb/pull/9437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix(catalog): skip backend batch_get on full cache hits](https://github.com/GreptimeTeam/greptimedb/pull/9431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add 1.3.0-beta.1 release note](https://github.com/GreptimeTeam/docs/pull/2926) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [chore: bump version to 1.3.0-beta.1](https://github.com/GreptimeTeam/greptimedb/pull/9392) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [ci: enhance benchmark workflows with version comparisons and diagnostics](https://github.com/GreptimeTeam/greptimedb/pull/9383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -27,12 +27,12 @@ Hi 👋 Weny here.
 - [fix(ci): repair draft PR command dispatch](https://github.com/GreptimeTeam/greptimedb/pull/9271) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(ci): stabilize long-range benchmark execution and artifact collection](https://github.com/GreptimeTeam/greptimedb/pull/9241) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: document server-side write batching](https://github.com/GreptimeTeam/docs/pull/2895) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [ci: gate draft PR checks behind slash commands](https://github.com/GreptimeTeam/greptimedb/pull/9221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [docs: refine Rust style guide](https://github.com/GreptimeTeam/greptimedb/pull/9220) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat(ci): add long-range metrics benchmark on ECS](https://github.com/GreptimeTeam/greptimedb/pull/9218) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [feat(ci): add observability benchmark and lifecycle summaries](https://github.com/GreptimeTeam/greptimedb/pull/9215) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: isolate logical table preparation and reuse Flow notifications](https://github.com/GreptimeTeam/greptimedb/pull/9212) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [refactor: isolate logical batch scheduling and flushing](https://github.com/GreptimeTeam/greptimedb/pull/9211) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
+- [ci: gate draft PR checks behind slash commands](https://github.com/GreptimeTeam/greptimedb/pull/9221) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [docs: refine Rust style guide](https://github.com/GreptimeTeam/greptimedb/pull/9220) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [feat(ci): add long-range metrics benchmark on ECS](https://github.com/GreptimeTeam/greptimedb/pull/9218) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [feat(ci): add observability benchmark and lifecycle summaries](https://github.com/GreptimeTeam/greptimedb/pull/9215) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [refactor: isolate logical table preparation and reuse Flow notifications](https://github.com/GreptimeTeam/greptimedb/pull/9212) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [refactor: isolate logical batch scheduling and flushing](https://github.com/GreptimeTeam/greptimedb/pull/9211) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -43,10 +43,10 @@ Hi 👋 Weny here.
 - [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management (2 months ago)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (2 months ago)
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100&#43; specialized Claude Code subagents covering a wide range of development use cases (2 months ago)
-- [LukasNiessen/kubernetes-skill](https://github.com/LukasNiessen/kubernetes-skill) - Kubernetes Skill for Claude Code and Codex. LLMs hallucinate a lot with K8s - KubeShark fixes this. It eliminates hallucinations and grounds your Kubernetes, Helm etc official best practices. (2 months ago)
-- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks (2 months ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 months ago)
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (2 months ago)
+- [LukasNiessen/kubernetes-skill](https://github.com/LukasNiessen/kubernetes-skill) - Kubernetes Skill for Claude Code and Codex. LLMs hallucinate a lot with K8s - KubeShark fixes this. It eliminates hallucinations and grounds your Kubernetes, Helm etc official best practices. (3 months ago)
+- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks (3 months ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 months ago)
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (3 months ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (4 months ago)
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (4 months ago)
 - [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (5 months ago)
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (5 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (6 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (3 weeks ago)
