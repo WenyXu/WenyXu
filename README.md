@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add 1.3.0-beta.2 release note](https://github.com/GreptimeTeam/docs/pull/2954) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [fix(operator): reuse catalog table resolution for write retries](https://github.com/GreptimeTeam/greptimedb/pull/9574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(frontend): backport write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9569) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor!: remove datanode remote WAL index](https://github.com/GreptimeTeam/greptimedb/pull/9563) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(session): respect supported read preferences in wire tests](https://github.com/GreptimeTeam/greptimedb/pull/9550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [ci: add optional AWS runners for observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/9322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [docs: document OSS RRSA authentication and upgrade workaround](https://github.com/GreptimeTeam/docs/pull/2915) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 - [fix(services/oss): prefer OIDC credentials over ECS metadata](https://github.com/apache/opendal/pull/8339) on [apache/opendal](https://github.com/apache/opendal) (3 weeks ago)
-- [fix: address Windows test failures and run full Windows CI](https://github.com/GreptimeTeam/greptimedb/pull/9305) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat: support pending rows batching for MySQL and PostgreSQL](https://github.com/GreptimeTeam/greptimedb/pull/9302) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,8 +54,8 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (3 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
