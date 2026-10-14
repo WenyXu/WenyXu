@@ -8,15 +8,15 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor!: remove datanode remote WAL index](https://github.com/GreptimeTeam/greptimedb/pull/9563) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(session): respect supported read preferences in wire tests](https://github.com/GreptimeTeam/greptimedb/pull/9550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(mito2): ignore missing inverted indexes in old SSTs](https://github.com/GreptimeTeam/greptimedb/pull/9545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(frontend): retry transient distributed write failures](https://github.com/GreptimeTeam/greptimedb/pull/9543) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(operator): retry failed writes with refreshed partitions](https://github.com/GreptimeTeam/greptimedb/pull/9542) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [refactor(operator): centralize write partitioning and dispatch](https://github.com/GreptimeTeam/greptimedb/pull/9541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(client): support region request reuse and route refresh hints](https://github.com/GreptimeTeam/greptimedb/pull/9540) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [chore: backport selected changes for 1.3.0-beta.2](https://github.com/GreptimeTeam/greptimedb/pull/9529) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix(deps): bump OpenDAL to 0.59.4 for OSS RRSA credentials](https://github.com/GreptimeTeam/greptimedb/pull/9520) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [refactor!: remove datanode remote WAL index](https://github.com/GreptimeTeam/greptimedb/pull/9563) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(session): respect supported read preferences in wire tests](https://github.com/GreptimeTeam/greptimedb/pull/9550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(mito2): ignore missing inverted indexes in old SSTs](https://github.com/GreptimeTeam/greptimedb/pull/9545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(frontend): retry transient distributed write failures](https://github.com/GreptimeTeam/greptimedb/pull/9543) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(operator): retry failed writes with refreshed partitions](https://github.com/GreptimeTeam/greptimedb/pull/9542) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [refactor(operator): centralize write partitioning and dispatch](https://github.com/GreptimeTeam/greptimedb/pull/9541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(client): support region request reuse and route refresh hints](https://github.com/GreptimeTeam/greptimedb/pull/9540) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [chore: backport selected changes for 1.3.0-beta.2](https://github.com/GreptimeTeam/greptimedb/pull/9529) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix(deps): bump OpenDAL to 0.59.4 for OSS RRSA credentials](https://github.com/GreptimeTeam/greptimedb/pull/9520) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(mito): flush memtables containing skip-WAL writes on region close](https://github.com/GreptimeTeam/greptimedb/pull/9440) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(metasrv): retry failed heartbeat address updates](https://github.com/GreptimeTeam/greptimedb/pull/9437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(catalog): skip backend batch_get on full cache hits](https://github.com/GreptimeTeam/greptimedb/pull/9431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -26,10 +26,10 @@ Hi 👋 Weny here.
 - [fix(ci): update the shared Actions runner to v2.337.0](https://github.com/GreptimeTeam/greptimedb/pull/9376) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: use revision-based etcd auto compaction](https://github.com/GreptimeTeam/docs/pull/2923) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [ci: add manually triggered tracesbench workflow](https://github.com/GreptimeTeam/greptimedb/pull/9372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(ci): grant PR write permission for CI command replies](https://github.com/GreptimeTeam/greptimedb/pull/9331) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [ci: add optional AWS runners for observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/9322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [docs: document OSS RRSA authentication and upgrade workaround](https://github.com/GreptimeTeam/docs/pull/2915) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [fix(services/oss): prefer OIDC credentials over ECS metadata](https://github.com/apache/opendal/pull/8339) on [apache/opendal](https://github.com/apache/opendal) (2 weeks ago)
+- [fix(ci): grant PR write permission for CI command replies](https://github.com/GreptimeTeam/greptimedb/pull/9331) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [ci: add optional AWS runners for observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/9322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
+- [docs: document OSS RRSA authentication and upgrade workaround](https://github.com/GreptimeTeam/docs/pull/2915) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
+- [fix(services/oss): prefer OIDC credentials over ECS metadata](https://github.com/apache/opendal/pull/8339) on [apache/opendal](https://github.com/apache/opendal) (3 weeks ago)
 - [fix: address Windows test failures and run full Windows CI](https://github.com/GreptimeTeam/greptimedb/pull/9305) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: support pending rows batching for MySQL and PostgreSQL](https://github.com/GreptimeTeam/greptimedb/pull/9302) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: share logical table batching with OTLP metrics](https://github.com/GreptimeTeam/greptimedb/pull/9288) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
@@ -54,10 +54,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (2 weeks ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (4 weeks ago)
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (3 weeks ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
 #### 👯 Check out my recent followers
