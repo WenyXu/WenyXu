@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(meta): apply affinity to failover and repartition](https://github.com/GreptimeTeam/greptimedb/pull/9604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(meta): add affinity hooks](https://github.com/GreptimeTeam/greptimedb/pull/9596) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(operator): backport catalog-based write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9584) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [docs: add 1.3.0-beta.2 release note](https://github.com/GreptimeTeam/docs/pull/2954) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [docs: use revision-based etcd auto compaction](https://github.com/GreptimeTeam/docs/pull/2923) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [ci: add manually triggered tracesbench workflow](https://github.com/GreptimeTeam/greptimedb/pull/9372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(ci): grant PR write permission for CI command replies](https://github.com/GreptimeTeam/greptimedb/pull/9331) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [ci: add optional AWS runners for observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/9322) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
