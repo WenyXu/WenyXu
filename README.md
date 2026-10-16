@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(meta): allow affinity fallback during failover](https://github.com/GreptimeTeam/greptimedb/pull/9641) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [docs: prepare v1.3.0 security acknowledgment](https://github.com/GreptimeTeam/docs/pull/2959) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [feat(meta): apply affinity to failover and repartition](https://github.com/GreptimeTeam/greptimedb/pull/9604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(meta): add affinity hooks](https://github.com/GreptimeTeam/greptimedb/pull/9596) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(operator): backport catalog-based write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9584) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [ci: enhance benchmark workflows with version comparisons and diagnostics](https://github.com/GreptimeTeam/greptimedb/pull/9383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(ci): update the shared Actions runner to v2.337.0](https://github.com/GreptimeTeam/greptimedb/pull/9376) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: use revision-based etcd auto compaction](https://github.com/GreptimeTeam/docs/pull/2923) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [ci: add manually triggered tracesbench workflow](https://github.com/GreptimeTeam/greptimedb/pull/9372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(ci): grant PR write permission for CI command replies](https://github.com/GreptimeTeam/greptimedb/pull/9331) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,18 +54,18 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (3 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 month ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
 #### 👯 Check out my recent followers
 
-- [0vm](https://github.com/0vm)
 - [whoashish115](https://github.com/whoashish115)
 - [therealhieu](https://github.com/therealhieu)
 - [lczllx](https://github.com/lczllx)
 - [ZahraAlipour703](https://github.com/ZahraAlipour703)
+- [jason234381](https://github.com/jason234381)
 
 
