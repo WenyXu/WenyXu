@@ -8,7 +8,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: preserve region write batching with partial failure retries](https://github.com/GreptimeTeam/greptimedb/pull/9720) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(mito): coalesce concurrent SST metadata loads](https://github.com/GreptimeTeam/greptimedb/pull/9729) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat: return per-entry region write failures](https://github.com/GreptimeTeam/greptimedb/pull/9728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: preserve datanode write batches when retrying](https://github.com/GreptimeTeam/greptimedb/pull/9720) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(proto): add batched region requests with per-entry errors](https://github.com/GreptimeTeam/greptime-proto/pull/346) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix(meta): allow affinity fallback during failover](https://github.com/GreptimeTeam/greptimedb/pull/9641) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [docs: prepare v1.3.0 security acknowledgment](https://github.com/GreptimeTeam/docs/pull/2959) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [fix(metasrv): retry failed heartbeat address updates](https://github.com/GreptimeTeam/greptimedb/pull/9437) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(catalog): skip backend batch_get on full cache hits](https://github.com/GreptimeTeam/greptimedb/pull/9431) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [docs: add 1.3.0-beta.1 release note](https://github.com/GreptimeTeam/docs/pull/2926) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [chore: bump version to 1.3.0-beta.1](https://github.com/GreptimeTeam/greptimedb/pull/9392) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [ci: enhance benchmark workflows with version comparisons and diagnostics](https://github.com/GreptimeTeam/greptimedb/pull/9383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
