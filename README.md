@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: preserve region write batching with partial failure retries](https://github.com/GreptimeTeam/greptimedb/pull/9720) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(proto): add batched region requests with per-entry errors](https://github.com/GreptimeTeam/greptime-proto/pull/346) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix(meta): allow affinity fallback during failover](https://github.com/GreptimeTeam/greptimedb/pull/9641) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [docs: prepare v1.3.0 security acknowledgment](https://github.com/GreptimeTeam/docs/pull/2959) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [feat(meta): apply affinity to failover and repartition](https://github.com/GreptimeTeam/greptimedb/pull/9604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [docs: add 1.3.0-beta.1 release note](https://github.com/GreptimeTeam/docs/pull/2926) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [chore: bump version to 1.3.0-beta.1](https://github.com/GreptimeTeam/greptimedb/pull/9392) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [ci: enhance benchmark workflows with version comparisons and diagnostics](https://github.com/GreptimeTeam/greptimedb/pull/9383) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [fix(ci): update the shared Actions runner to v2.337.0](https://github.com/GreptimeTeam/greptimedb/pull/9376) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [docs: use revision-based etcd auto compaction](https://github.com/GreptimeTeam/docs/pull/2923) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
