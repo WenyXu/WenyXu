@@ -8,7 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: restore batched series merges across ranges](https://github.com/GreptimeTeam/greptimedb/pull/9818) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(datanode): release region map guard before awaiting role changes](https://github.com/GreptimeTeam/greptimedb/pull/9824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(mito2): restore source splitting for cross-range series merges](https://github.com/GreptimeTeam/greptimedb/pull/9818) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: share complete range results across concurrent scans](https://github.com/GreptimeTeam/greptimedb/pull/9794) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: share Parquet byte pages with configurable cache blocks](https://github.com/GreptimeTeam/greptimedb/pull/9793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: share Puffin metadata and index page loads](https://github.com/GreptimeTeam/greptimedb/pull/9792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat(frontend): retry transient distributed write failures](https://github.com/GreptimeTeam/greptimedb/pull/9543) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(operator): retry failed writes with refreshed partitions](https://github.com/GreptimeTeam/greptimedb/pull/9542) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [refactor(operator): centralize write partitioning and dispatch](https://github.com/GreptimeTeam/greptimedb/pull/9541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(client): support region request reuse and route refresh hints](https://github.com/GreptimeTeam/greptimedb/pull/9540) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,18 +54,18 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (5 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 days ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (4 weeks ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
 #### 👯 Check out my recent followers
 
+- [Linden1113](https://github.com/Linden1113)
 - [void-ptr974](https://github.com/void-ptr974)
 - [whoashish115](https://github.com/whoashish115)
 - [therealhieu](https://github.com/therealhieu)
 - [lczllx](https://github.com/lczllx)
-- [ZahraAlipour703](https://github.com/ZahraAlipour703)
 
 
