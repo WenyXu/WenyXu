@@ -8,6 +8,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: track per-node scheduling state and fence region placement](https://github.com/GreptimeTeam/greptimedb/pull/9884) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: backport partial region write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9881) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(test): avoid MinIO connection reuse after conditional writes](https://github.com/GreptimeTeam/greptimedb/pull/9877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(proto): backport region write failures to release/5e02efa9](https://github.com/GreptimeTeam/greptime-proto/pull/347) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [ci: allow independent Linux release architecture selection](https://github.com/GreptimeTeam/greptimedb/pull/9865) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(meta): release all PostgreSQL election advisory locks on step-down](https://github.com/GreptimeTeam/greptimedb/pull/9864) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(mito): add an environment switch to disable compaction](https://github.com/GreptimeTeam/greptimedb/pull/9863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -29,10 +33,6 @@ Hi 👋 Weny here.
 - [fix(operator): backport catalog-based write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9584) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add 1.3.0-beta.2 release note](https://github.com/GreptimeTeam/docs/pull/2954) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix(operator): reuse catalog table resolution for write retries](https://github.com/GreptimeTeam/greptimedb/pull/9574) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(frontend): backport write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9569) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [refactor!: remove datanode remote WAL index](https://github.com/GreptimeTeam/greptimedb/pull/9563) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(session): respect supported read preferences in wire tests](https://github.com/GreptimeTeam/greptimedb/pull/9550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(mito2): ignore missing inverted indexes in old SSTs](https://github.com/GreptimeTeam/greptimedb/pull/9545) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
