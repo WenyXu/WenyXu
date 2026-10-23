@@ -8,6 +8,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [perf: stream SST manifest scans and push down timestamp top-k](https://github.com/GreptimeTeam/greptimedb/pull/9931) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [ci: gate integration long-tail jobs by diff scope](https://github.com/GreptimeTeam/greptimedb/pull/9927) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: upload staging manifests in chunks](https://github.com/GreptimeTeam/greptimedb/pull/9919) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(meta): add drain datanode procedure](https://github.com/GreptimeTeam/greptimedb/pull/9910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(meta): add drain datanode procedure](https://github.com/WenyXu/greptimedb/pull/5) on [WenyXu/greptimedb](https://github.com/WenyXu/greptimedb) (today)
 - [fix(ci): specify Kind storage class for datanodes](https://github.com/GreptimeTeam/greptimedb/pull/9908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -30,9 +33,6 @@ Hi 👋 Weny here.
 - [fix: preserve datanode write batches when retrying](https://github.com/GreptimeTeam/greptimedb/pull/9720) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat(proto): add batched region requests with per-entry errors](https://github.com/GreptimeTeam/greptime-proto/pull/346) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
 - [fix(meta): allow affinity fallback during failover](https://github.com/GreptimeTeam/greptimedb/pull/9641) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [docs: prepare v1.3.0 security acknowledgment](https://github.com/GreptimeTeam/docs/pull/2959) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
-- [feat(meta): apply affinity to failover and repartition](https://github.com/GreptimeTeam/greptimedb/pull/9604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(meta): add affinity hooks](https://github.com/GreptimeTeam/greptimedb/pull/9596) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
