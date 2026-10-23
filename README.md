@@ -8,26 +8,26 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: track per-node scheduling state and fence region placement](https://github.com/GreptimeTeam/greptimedb/pull/9884) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix: backport partial region write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9881) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(test): avoid MinIO connection reuse after conditional writes](https://github.com/GreptimeTeam/greptimedb/pull/9877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(proto): backport region write failures to release/5e02efa9](https://github.com/GreptimeTeam/greptime-proto/pull/347) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
-- [ci: allow independent Linux release architecture selection](https://github.com/GreptimeTeam/greptimedb/pull/9865) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(meta): release all PostgreSQL election advisory locks on step-down](https://github.com/GreptimeTeam/greptimedb/pull/9864) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat(mito): add an environment switch to disable compaction](https://github.com/GreptimeTeam/greptimedb/pull/9863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(datanode): release region map guard before awaiting role changes](https://github.com/GreptimeTeam/greptimedb/pull/9824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix(mito2): restore source splitting for cross-range series merges](https://github.com/GreptimeTeam/greptimedb/pull/9818) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: share complete range results across scans](https://github.com/GreptimeTeam/greptimedb/pull/9794) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: share Parquet byte page loads](https://github.com/GreptimeTeam/greptimedb/pull/9793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: share Puffin metadata and index page loads](https://github.com/GreptimeTeam/greptimedb/pull/9792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add reusable paged byte cache](https://github.com/GreptimeTeam/greptimedb/pull/9791) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: add shared asynchronous cache primitives](https://github.com/GreptimeTeam/greptimedb/pull/9790) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat: share concurrent SST metadata loads](https://github.com/GreptimeTeam/greptimedb/pull/9729) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat: return per-entry region write failures](https://github.com/GreptimeTeam/greptimedb/pull/9728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: preserve datanode write batches when retrying](https://github.com/GreptimeTeam/greptimedb/pull/9720) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat(proto): add batched region requests with per-entry errors](https://github.com/GreptimeTeam/greptime-proto/pull/346) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
-- [fix(meta): allow affinity fallback during failover](https://github.com/GreptimeTeam/greptimedb/pull/9641) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [docs: prepare v1.3.0 security acknowledgment](https://github.com/GreptimeTeam/docs/pull/2959) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
+- [feat: track per-node scheduling state and fence region placement](https://github.com/GreptimeTeam/greptimedb/pull/9884) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: backport partial region write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9881) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(test): avoid MinIO connection reuse after conditional writes](https://github.com/GreptimeTeam/greptimedb/pull/9877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(proto): backport region write failures to release/5e02efa9](https://github.com/GreptimeTeam/greptime-proto/pull/347) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [ci: allow independent Linux release architecture selection](https://github.com/GreptimeTeam/greptimedb/pull/9865) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(meta): release all PostgreSQL election advisory locks on step-down](https://github.com/GreptimeTeam/greptimedb/pull/9864) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(mito): add an environment switch to disable compaction](https://github.com/GreptimeTeam/greptimedb/pull/9863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(datanode): release region map guard before awaiting role changes](https://github.com/GreptimeTeam/greptimedb/pull/9824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix(mito2): restore source splitting for cross-range series merges](https://github.com/GreptimeTeam/greptimedb/pull/9818) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: share complete range results across scans](https://github.com/GreptimeTeam/greptimedb/pull/9794) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: share Parquet byte page loads](https://github.com/GreptimeTeam/greptimedb/pull/9793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: share Puffin metadata and index page loads](https://github.com/GreptimeTeam/greptimedb/pull/9792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add reusable paged byte cache](https://github.com/GreptimeTeam/greptimedb/pull/9791) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: add shared asynchronous cache primitives](https://github.com/GreptimeTeam/greptimedb/pull/9790) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat: share concurrent SST metadata loads](https://github.com/GreptimeTeam/greptimedb/pull/9729) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat: return per-entry region write failures](https://github.com/GreptimeTeam/greptimedb/pull/9728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: preserve datanode write batches when retrying](https://github.com/GreptimeTeam/greptimedb/pull/9720) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat(proto): add batched region requests with per-entry errors](https://github.com/GreptimeTeam/greptime-proto/pull/346) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
+- [fix(meta): allow affinity fallback during failover](https://github.com/GreptimeTeam/greptimedb/pull/9641) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [docs: prepare v1.3.0 security acknowledgment](https://github.com/GreptimeTeam/docs/pull/2959) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat(meta): apply affinity to failover and repartition](https://github.com/GreptimeTeam/greptimedb/pull/9604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(meta): add affinity hooks](https://github.com/GreptimeTeam/greptimedb/pull/9596) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(operator): backport catalog-based write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9584) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -36,8 +36,8 @@ Hi 👋 Weny here.
 
 #### ⭐ Check out my recent stars
 
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 day ago)
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. (1 month ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (2 days ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. (2 months ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (2 months ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (2 months ago)
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator library in Swift with AppKit, UIKit, WebAssembly, Web, headless frontends. (3 months ago)
@@ -54,10 +54,10 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (6 days ago)
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (4 weeks ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 month ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
 #### 👯 Check out my recent followers
