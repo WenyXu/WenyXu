@@ -8,11 +8,18 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(meta): share peer discovery with plugin hooks](https://github.com/GreptimeTeam/greptimedb/pull/9977) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [docs: add compaction advisor skill](https://github.com/GreptimeTeam/docs/pull/2992) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [fix(ci): scope Aliyun janitor sweeps to the owning repository](https://github.com/GreptimeTeam/greptimedb/pull/9966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: preserve frontend write batches and retry failed entries [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(meta): migrate leader regions off a draining datanode](https://github.com/GreptimeTeam/greptimedb/pull/9961) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(meta): fence a draining datanode and plan the drain](https://github.com/GreptimeTeam/greptimedb/pull/9960) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(test): avoid MinIO connection reuse after conditional writes [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9959) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [perf: push down SST manifest scalar aggregates](https://github.com/GreptimeTeam/greptimedb/pull/9949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [perf: stream and prune SST manifest scans](https://github.com/GreptimeTeam/greptimedb/pull/9931) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [chore(ci): gate fuzz, E2E and KV backends by diff scope](https://github.com/GreptimeTeam/greptimedb/pull/9927) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: upload staging manifests in chunks](https://github.com/GreptimeTeam/greptimedb/pull/9919) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat(meta): add drain datanode procedure](https://github.com/GreptimeTeam/greptimedb/pull/9910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(meta): migrate leader regions off a draining datanode](https://github.com/GreptimeTeam/greptimedb/pull/9910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(meta): add drain datanode procedure](https://github.com/WenyXu/greptimedb/pull/5) on [WenyXu/greptimedb](https://github.com/WenyXu/greptimedb) (3 days ago)
 - [fix(ci): specify Kind storage class for datanodes](https://github.com/GreptimeTeam/greptimedb/pull/9908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(meta): track per-node scheduling state and fence region placement](https://github.com/GreptimeTeam/greptimedb/pull/9884) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -26,13 +33,6 @@ Hi 👋 Weny here.
 - [fix(mito2): restore source splitting for cross-range series merges](https://github.com/GreptimeTeam/greptimedb/pull/9818) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat: share streaming range results across scans](https://github.com/GreptimeTeam/greptimedb/pull/9794) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat: share Parquet byte page loads](https://github.com/GreptimeTeam/greptimedb/pull/9793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: share Puffin metadata and index page loads](https://github.com/GreptimeTeam/greptimedb/pull/9792) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: add reusable paged byte cache](https://github.com/GreptimeTeam/greptimedb/pull/9791) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: add shared asynchronous cache primitives](https://github.com/GreptimeTeam/greptimedb/pull/9790) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: share concurrent SST metadata loads](https://github.com/GreptimeTeam/greptimedb/pull/9729) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: return per-entry region write failures](https://github.com/GreptimeTeam/greptimedb/pull/9728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: preserve datanode write batches when retrying](https://github.com/GreptimeTeam/greptimedb/pull/9720) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(proto): add batched region requests with per-entry errors](https://github.com/GreptimeTeam/greptime-proto/pull/346) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,9 +54,9 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (5 days ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 month ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
