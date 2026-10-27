@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(procedure): support detached subprocedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/10009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: backport selected fixes and JSON2 indexing to v1.3](https://github.com/GreptimeTeam/greptimedb/pull/10006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(meta): share peer discovery with plugin hooks](https://github.com/GreptimeTeam/greptimedb/pull/9977) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [docs: add compaction advisor skill](https://github.com/GreptimeTeam/docs/pull/2992) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
 - [fix(ci): scope Aliyun janitor sweeps to the owning repository](https://github.com/GreptimeTeam/greptimedb/pull/9966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [feat(mito): add an environment switch to disable compaction](https://github.com/GreptimeTeam/greptimedb/pull/9863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [fix(datanode): release region map guard before awaiting role changes](https://github.com/GreptimeTeam/greptimedb/pull/9824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(mito2): restore source splitting for cross-range series merges](https://github.com/GreptimeTeam/greptimedb/pull/9818) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: share streaming range results across scans](https://github.com/GreptimeTeam/greptimedb/pull/9794) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: share Parquet byte page loads](https://github.com/GreptimeTeam/greptimedb/pull/9793) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
