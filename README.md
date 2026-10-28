@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(ci): support optional Docker targets for query regression](https://github.com/GreptimeTeam/greptimedb/pull/10028) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(procedure): support detached subprocedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/10009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: backport selected fixes to v1.3](https://github.com/GreptimeTeam/greptimedb/pull/10006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(meta): share peer discovery with plugin hooks](https://github.com/GreptimeTeam/greptimedb/pull/9977) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix(meta): release all PostgreSQL election advisory locks on step-down](https://github.com/GreptimeTeam/greptimedb/pull/9864) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat(mito): add an environment switch to disable compaction](https://github.com/GreptimeTeam/greptimedb/pull/9863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(datanode): release region map guard before awaiting role changes](https://github.com/GreptimeTeam/greptimedb/pull/9824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(mito2): restore source splitting for cross-range series merges](https://github.com/GreptimeTeam/greptimedb/pull/9818) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
