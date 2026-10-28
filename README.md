@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [ci: throttle integration matrices by open PR count](https://github.com/GreptimeTeam/greptimedb/pull/10049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [ci: reduce duplicate and PR-scoped Rust cache writes](https://github.com/GreptimeTeam/greptimedb/pull/10047) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [ci: reduce repeated Windows and fuzz tests on pull requests](https://github.com/GreptimeTeam/greptimedb/pull/10043) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [ci: enqueue eligible pull requests during the nightly window](https://github.com/GreptimeTeam/greptimedb/pull/10040) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add v1.3.0 release note](https://github.com/GreptimeTeam/docs/pull/3003) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [fix(ci): specify Kind storage class for datanodes](https://github.com/GreptimeTeam/greptimedb/pull/9908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat(meta): track per-node scheduling state and fence region placement](https://github.com/GreptimeTeam/greptimedb/pull/9884) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix: backport partial region write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9881) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix(test): avoid MinIO connection reuse after conditional writes](https://github.com/GreptimeTeam/greptimedb/pull/9877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix(proto): backport region write failures to release/5e02efa9](https://github.com/GreptimeTeam/greptime-proto/pull/347) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
