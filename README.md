@@ -8,6 +8,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [ci: reduce repeated Windows and fuzz tests on pull requests](https://github.com/GreptimeTeam/greptimedb/pull/10043) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [ci: enqueue eligible pull requests during the nightly window](https://github.com/GreptimeTeam/greptimedb/pull/10040) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [docs: add v1.3.0 release note](https://github.com/GreptimeTeam/docs/pull/3003) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [feat(meta): add drain migration batch operations](https://github.com/GreptimeTeam/greptimedb/pull/10035) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(ci): support optional Docker targets for query regression](https://github.com/GreptimeTeam/greptimedb/pull/10028) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(procedure): support detached subprocedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/10009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: backport selected fixes to v1.3](https://github.com/GreptimeTeam/greptimedb/pull/10006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -15,7 +19,7 @@ Hi 👋 Weny here.
 - [docs: add compaction advisor skill](https://github.com/GreptimeTeam/docs/pull/2992) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
 - [fix(ci): scope Aliyun janitor sweeps to the owning repository](https://github.com/GreptimeTeam/greptimedb/pull/9966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix: preserve frontend write batches and retry failed entries [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(meta): migrate leader regions off a draining datanode](https://github.com/GreptimeTeam/greptimedb/pull/9961) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(meta): orchestrate datanode draining with detached migrations](https://github.com/GreptimeTeam/greptimedb/pull/9961) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(meta): fence a draining datanode and plan the drain](https://github.com/GreptimeTeam/greptimedb/pull/9960) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [fix(test): avoid MinIO connection reuse after conditional writes [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9959) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [perf: push down SST manifest scalar aggregates](https://github.com/GreptimeTeam/greptimedb/pull/9949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -29,10 +33,6 @@ Hi 👋 Weny here.
 - [fix: backport partial region write retries to release/5e02efa9](https://github.com/GreptimeTeam/greptimedb/pull/9881) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(test): avoid MinIO connection reuse after conditional writes](https://github.com/GreptimeTeam/greptimedb/pull/9877) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(proto): backport region write failures to release/5e02efa9](https://github.com/GreptimeTeam/greptime-proto/pull/347) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (6 days ago)
-- [ci: allow independent Linux release architecture selection](https://github.com/GreptimeTeam/greptimedb/pull/9865) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix(meta): release all PostgreSQL election advisory locks on step-down](https://github.com/GreptimeTeam/greptimedb/pull/9864) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat(mito): add an environment switch to disable compaction](https://github.com/GreptimeTeam/greptimedb/pull/9863) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix(datanode): release region map guard before awaiting role changes](https://github.com/GreptimeTeam/greptimedb/pull/9824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 month ago)
