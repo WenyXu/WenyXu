@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add v1.3.0 compatibility and benchmark results](https://github.com/GreptimeTeam/docs/pull/3008) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [ci: authenticate ECR Public pulls in benchmark workflows](https://github.com/GreptimeTeam/greptimedb/pull/10056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [ci: backport scoped heavy CI to narthex](https://github.com/GreptimeTeam/greptimedb/pull/10053) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [ci: throttle integration matrices by open PR count](https://github.com/GreptimeTeam/greptimedb/pull/10049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [ci: reduce duplicate and PR-scoped Rust cache writes](https://github.com/GreptimeTeam/greptimedb/pull/10047) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [fix: upload staging manifests in chunks](https://github.com/GreptimeTeam/greptimedb/pull/9919) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat(meta): migrate leader regions off a draining datanode](https://github.com/GreptimeTeam/greptimedb/pull/9910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat(meta): add drain datanode procedure](https://github.com/WenyXu/greptimedb/pull/5) on [WenyXu/greptimedb](https://github.com/WenyXu/greptimedb) (6 days ago)
-- [fix(ci): specify Kind storage class for datanodes](https://github.com/GreptimeTeam/greptimedb/pull/9908) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat(meta): track per-node scheduling state and fence region placement](https://github.com/GreptimeTeam/greptimedb/pull/9884) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -55,10 +55,10 @@ Hi 👋 Weny here.
 #### 👷 Check out what I'm currently working on
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
+- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 month ago)
-- [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 month ago)
 
 #### 👯 Check out my recent followers
 
