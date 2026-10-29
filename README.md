@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [test(meta): cover datanode draining with Kafka and local WAL](https://github.com/GreptimeTeam/greptimedb/pull/10060) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add v1.3.0 compatibility and benchmark results](https://github.com/GreptimeTeam/docs/pull/3008) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [ci: authenticate ECR Public pulls in benchmark workflows](https://github.com/GreptimeTeam/greptimedb/pull/10056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [ci: backport scoped heavy CI to narthex](https://github.com/GreptimeTeam/greptimedb/pull/10053) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [chore(ci): gate fuzz, E2E and KV backends by diff scope](https://github.com/GreptimeTeam/greptimedb/pull/9927) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix: upload staging manifests in chunks](https://github.com/GreptimeTeam/greptimedb/pull/9919) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat(meta): migrate leader regions off a draining datanode](https://github.com/GreptimeTeam/greptimedb/pull/9910) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat(meta): add drain datanode procedure](https://github.com/WenyXu/greptimedb/pull/5) on [WenyXu/greptimedb](https://github.com/WenyXu/greptimedb) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
