@@ -8,30 +8,30 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(mito2): track per-region flushed Parquet bytes](https://github.com/GreptimeTeam/greptimedb/pull/10070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat(meta): stream datanode drain batches by WAL topic](https://github.com/GreptimeTeam/greptimedb/pull/10068) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [docs: acknowledge VRL security report in v1.3.0 release notes](https://github.com/GreptimeTeam/docs/pull/3015) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
-- [fix(ci): skip unsupported stacked PRs in nightly merge](https://github.com/GreptimeTeam/greptimedb/pull/10063) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [test(meta): cover datanode draining with Kafka and local WAL](https://github.com/GreptimeTeam/greptimedb/pull/10060) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: add v1.3.0 compatibility and benchmark results](https://github.com/GreptimeTeam/docs/pull/3008) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [ci: authenticate ECR Public pulls in benchmark workflows](https://github.com/GreptimeTeam/greptimedb/pull/10056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [ci: backport scoped heavy CI to narthex](https://github.com/GreptimeTeam/greptimedb/pull/10053) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [ci: throttle integration matrices by open PR count](https://github.com/GreptimeTeam/greptimedb/pull/10049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [ci: reduce duplicate and PR-scoped Rust cache writes](https://github.com/GreptimeTeam/greptimedb/pull/10047) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [ci: reduce repeated Windows and fuzz tests on pull requests](https://github.com/GreptimeTeam/greptimedb/pull/10043) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [ci: enqueue eligible pull requests during the nightly window](https://github.com/GreptimeTeam/greptimedb/pull/10040) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [docs: add v1.3.0 release note](https://github.com/GreptimeTeam/docs/pull/3003) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
-- [feat(meta): add drain migration batch operations](https://github.com/GreptimeTeam/greptimedb/pull/10035) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(ci): support optional Docker targets for query regression](https://github.com/GreptimeTeam/greptimedb/pull/10028) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(procedure): support detached subprocedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/10009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix: backport selected fixes to v1.3](https://github.com/GreptimeTeam/greptimedb/pull/10006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix(meta): share peer discovery with plugin hooks](https://github.com/GreptimeTeam/greptimedb/pull/9977) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [docs: add compaction advisor skill](https://github.com/GreptimeTeam/docs/pull/2992) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
-- [fix(ci): scope Aliyun janitor sweeps to the owning repository](https://github.com/GreptimeTeam/greptimedb/pull/9966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: preserve frontend write batches and retry failed entries [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(meta): orchestrate datanode draining with detached migrations](https://github.com/GreptimeTeam/greptimedb/pull/9961) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(meta): fence a draining datanode and plan the drain](https://github.com/GreptimeTeam/greptimedb/pull/9960) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(test): avoid MinIO connection reuse after conditional writes [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9959) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [feat(mito2): track per-region flushed Parquet bytes](https://github.com/GreptimeTeam/greptimedb/pull/10070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(meta): stream datanode drain batches by WAL topic](https://github.com/GreptimeTeam/greptimedb/pull/10068) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [docs: acknowledge VRL security report in v1.3.0 release notes](https://github.com/GreptimeTeam/docs/pull/3015) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
+- [fix(ci): skip unsupported stacked PRs in nightly merge](https://github.com/GreptimeTeam/greptimedb/pull/10063) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [test(meta): cover datanode draining with Kafka and local WAL](https://github.com/GreptimeTeam/greptimedb/pull/10060) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: add v1.3.0 compatibility and benchmark results](https://github.com/GreptimeTeam/docs/pull/3008) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [ci: authenticate ECR Public pulls in benchmark workflows](https://github.com/GreptimeTeam/greptimedb/pull/10056) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [ci: backport scoped heavy CI to narthex](https://github.com/GreptimeTeam/greptimedb/pull/10053) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [ci: throttle integration matrices by open PR count](https://github.com/GreptimeTeam/greptimedb/pull/10049) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [ci: reduce duplicate and PR-scoped Rust cache writes](https://github.com/GreptimeTeam/greptimedb/pull/10047) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [ci: reduce repeated Windows and fuzz tests on pull requests](https://github.com/GreptimeTeam/greptimedb/pull/10043) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [ci: enqueue eligible pull requests during the nightly window](https://github.com/GreptimeTeam/greptimedb/pull/10040) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [docs: add v1.3.0 release note](https://github.com/GreptimeTeam/docs/pull/3003) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [feat(meta): add drain migration batch operations](https://github.com/GreptimeTeam/greptimedb/pull/10035) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(ci): support optional Docker targets for query regression](https://github.com/GreptimeTeam/greptimedb/pull/10028) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(procedure): support detached subprocedure recovery](https://github.com/GreptimeTeam/greptimedb/pull/10009) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix: backport selected fixes to v1.3](https://github.com/GreptimeTeam/greptimedb/pull/10006) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix(meta): share peer discovery with plugin hooks](https://github.com/GreptimeTeam/greptimedb/pull/9977) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [docs: add compaction advisor skill](https://github.com/GreptimeTeam/docs/pull/2992) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 days ago)
+- [fix(ci): scope Aliyun janitor sweeps to the owning repository](https://github.com/GreptimeTeam/greptimedb/pull/9966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix: preserve frontend write batches and retry failed entries [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat(meta): orchestrate datanode draining with detached migrations](https://github.com/GreptimeTeam/greptimedb/pull/9961) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat(meta): fence a draining datanode and plan the drain](https://github.com/GreptimeTeam/greptimedb/pull/9960) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix(test): avoid MinIO connection reuse after conditional writes [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9959) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [perf: push down COUNT and SUM for SST manifest queries](https://github.com/GreptimeTeam/greptimedb/pull/9949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
@@ -54,18 +54,18 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (today)
-- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
+- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (2 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (1 month ago)
 
 #### 👯 Check out my recent followers
 
 - [Linden1113](https://github.com/Linden1113)
-- [void-ptr974](https://github.com/void-ptr974)
 - [whoashish115](https://github.com/whoashish115)
 - [therealhieu](https://github.com/therealhieu)
 - [lczllx](https://github.com/lczllx)
+- [ZahraAlipour703](https://github.com/ZahraAlipour703)
 
 
