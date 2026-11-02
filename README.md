@@ -8,9 +8,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(meta): expose idempotent datanode drain HTTP APIs](https://github.com/GreptimeTeam/greptimedb/pull/10083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [test(meta): verify streamed drain recovery and grouped migration children](https://github.com/GreptimeTeam/greptimedb/pull/10102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(meta): forward flushed Parquet bytes in region statistics](https://github.com/GreptimeTeam/greptimedb/pull/10100) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor(meta): separate migration construction and drain child tracking](https://github.com/GreptimeTeam/greptimedb/pull/10098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(meta): expose datanode drain and scheduling HTTP APIs](https://github.com/GreptimeTeam/greptimedb/pull/10083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(mito2): track per-region flushed Parquet bytes](https://github.com/GreptimeTeam/greptimedb/pull/10070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat(meta): stream datanode drain batches by WAL topic](https://github.com/GreptimeTeam/greptimedb/pull/10068) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(meta): stream and batch datanode drain migrations](https://github.com/GreptimeTeam/greptimedb/pull/10068) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [docs: acknowledge VRL security report in v1.3.0 release notes](https://github.com/GreptimeTeam/docs/pull/3015) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [fix(ci): skip unsupported stacked PRs in nightly merge](https://github.com/GreptimeTeam/greptimedb/pull/10063) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [test(meta): cover datanode draining with Kafka and local WAL](https://github.com/GreptimeTeam/greptimedb/pull/10060) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
@@ -30,9 +33,6 @@ Hi 👋 Weny here.
 - [docs: add compaction advisor skill](https://github.com/GreptimeTeam/docs/pull/2992) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix(ci): scope Aliyun janitor sweeps to the owning repository](https://github.com/GreptimeTeam/greptimedb/pull/9966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: preserve frontend write batches and retry failed entries [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(meta): orchestrate datanode draining with detached migrations](https://github.com/GreptimeTeam/greptimedb/pull/9961) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(meta): fence a draining datanode and plan the drain](https://github.com/GreptimeTeam/greptimedb/pull/9960) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(test): avoid MinIO connection reuse after conditional writes [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9959) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
