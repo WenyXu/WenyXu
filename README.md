@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(meta): expose idempotent datanode drain HTTP APIs](https://github.com/GreptimeTeam/greptimedb/pull/10083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(mito2): track per-region flushed Parquet bytes](https://github.com/GreptimeTeam/greptimedb/pull/10070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [feat(meta): stream datanode drain batches by WAL topic](https://github.com/GreptimeTeam/greptimedb/pull/10068) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [docs: acknowledge VRL security report in v1.3.0 release notes](https://github.com/GreptimeTeam/docs/pull/3015) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat(meta): orchestrate datanode draining with detached migrations](https://github.com/GreptimeTeam/greptimedb/pull/9961) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(meta): fence a draining datanode and plan the drain](https://github.com/GreptimeTeam/greptimedb/pull/9960) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(test): avoid MinIO connection reuse after conditional writes [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9959) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [perf: push down COUNT and SUM for SST manifest queries](https://github.com/GreptimeTeam/greptimedb/pull/9949) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (4 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
