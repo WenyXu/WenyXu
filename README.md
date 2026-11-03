@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: include peer context in distributed query errors](https://github.com/GreptimeTeam/greptimedb/pull/10118) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test(meta): verify streamed drain recovery and grouped migration children](https://github.com/GreptimeTeam/greptimedb/pull/10102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(meta): forward flushed Parquet bytes in region statistics](https://github.com/GreptimeTeam/greptimedb/pull/10100) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor(meta): separate migration construction and drain child tracking](https://github.com/GreptimeTeam/greptimedb/pull/10098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix(meta): share peer discovery with plugin hooks](https://github.com/GreptimeTeam/greptimedb/pull/9977) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [docs: add compaction advisor skill](https://github.com/GreptimeTeam/docs/pull/2992) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [fix(ci): scope Aliyun janitor sweeps to the owning repository](https://github.com/GreptimeTeam/greptimedb/pull/9966) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix: preserve frontend write batches and retry failed entries [Backport release/v1.3]](https://github.com/GreptimeTeam/greptimedb/pull/9965) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (5 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
@@ -63,9 +63,9 @@ Hi 👋 Weny here.
 #### 👯 Check out my recent followers
 
 - [Linden1113](https://github.com/Linden1113)
+- [void-ptr974](https://github.com/void-ptr974)
 - [whoashish115](https://github.com/whoashish115)
 - [therealhieu](https://github.com/therealhieu)
 - [lczllx](https://github.com/lczllx)
-- [ZahraAlipour703](https://github.com/ZahraAlipour703)
 
 
