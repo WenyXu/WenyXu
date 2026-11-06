@@ -8,6 +8,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: support cancelling compaction tasks by task ID](https://github.com/GreptimeTeam/greptimedb/pull/10229) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(proto): add task-specific compaction cancellation RPC](https://github.com/GreptimeTeam/greptime-proto/pull/352) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
+- [fix(meta-srv): invalidate leader cache on transaction errors](https://github.com/GreptimeTeam/greptimedb/pull/10219) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(meta): configure drain parallelism and strategy over HTTP](https://github.com/GreptimeTeam/greptimedb/pull/10218) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(meta-srv): expose leader cache backend](https://github.com/GreptimeTeam/greptimedb/pull/10217) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(mito2): suppress redundant leader conversion warnings](https://github.com/GreptimeTeam/greptimedb/pull/10213) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [docs: document datanode drain and scheduling admin APIs](https://github.com/GreptimeTeam/docs/pull/3025) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [ci: add Prometheus to the long-range metrics benchmark](https://github.com/GreptimeTeam/greptimedb/pull/10188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [ci: compare GreptimeDB File and S3 in observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/10187) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(common-recordbatch): prune SQL UInt64 predicates in SST manifest scans](https://github.com/GreptimeTeam/greptimedb/pull/10182) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -26,13 +33,6 @@ Hi 👋 Weny here.
 - [fix(mito): use stored recovery-set bytes for manifest size](https://github.com/GreptimeTeam/greptimedb/pull/10142) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(meta): stream and batch datanode drain migrations](https://github.com/GreptimeTeam/greptimedb/pull/10131) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor(meta): separate migration construction and drain child tracking](https://github.com/GreptimeTeam/greptimedb/pull/10130) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: include peer context in distributed query errors](https://github.com/GreptimeTeam/greptimedb/pull/10118) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [test(meta): verify streamed drain recovery and grouped migration children](https://github.com/GreptimeTeam/greptimedb/pull/10102) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(meta): forward flushed Parquet bytes in region statistics](https://github.com/GreptimeTeam/greptimedb/pull/10100) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [refactor(meta): separate migration construction and drain child tracking](https://github.com/GreptimeTeam/greptimedb/pull/10098) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(meta): expose datanode drain and scheduling HTTP APIs](https://github.com/GreptimeTeam/greptimedb/pull/10083) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(mito2): track per-region flushed Parquet bytes](https://github.com/GreptimeTeam/greptimedb/pull/10070) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(meta): stream and batch datanode drain migrations](https://github.com/GreptimeTeam/greptimedb/pull/10068) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 week ago)
@@ -62,10 +62,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [0vm](https://github.com/0vm)
 - [Linden1113](https://github.com/Linden1113)
 - [void-ptr974](https://github.com/void-ptr974)
 - [whoashish115](https://github.com/whoashish115)
 - [therealhieu](https://github.com/therealhieu)
-- [lczllx](https://github.com/lczllx)
 
 
