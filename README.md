@@ -8,6 +8,14 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(mito2): integrate extension indexes with compaction and rebuild](https://github.com/GreptimeTeam/greptimedb/pull/10298) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(mito2): support extension index providers and input reuse](https://github.com/GreptimeTeam/greptimedb/pull/10297) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(mito2): expose Region-bound sketch readers](https://github.com/GreptimeTeam/greptimedb/pull/10296) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(mito2): add column sketch options and index metadata](https://github.com/GreptimeTeam/greptimedb/pull/10295) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [perf(puffin): reuse reader metadata and scoped cache keys](https://github.com/GreptimeTeam/greptimedb/pull/10294) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [refactor(mito2): unify builtin index planning and execution](https://github.com/GreptimeTeam/greptimedb/pull/10293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(meta-srv): stop failing over regions that are still opening](https://github.com/GreptimeTeam/greptimedb/pull/10290) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(proto): report operating regions in datanode heartbeat](https://github.com/GreptimeTeam/greptime-proto/pull/353) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [feat(log-store): add a read-only object store WAL reader](https://github.com/GreptimeTeam/greptimedb/pull/10269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs(rfc): propose a sketch reader framework](https://github.com/GreptimeTeam/greptimedb/pull/10265) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: prepare v1.3.1 backport candidate](https://github.com/GreptimeTeam/greptimedb/pull/10264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -25,14 +33,6 @@ Hi 👋 Weny here.
 - [docs: document datanode drain and scheduling admin APIs](https://github.com/GreptimeTeam/docs/pull/3025) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [ci: add Prometheus and align Traces benchmark artifact auditing](https://github.com/GreptimeTeam/greptimedb/pull/10188) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [ci: compare GreptimeDB File and S3 in observability benchmarks](https://github.com/GreptimeTeam/greptimedb/pull/10187) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(common-recordbatch): prune SQL UInt64 predicates in SST manifest scans](https://github.com/GreptimeTeam/greptimedb/pull/10182) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(mito): decode cached manifest payloads](https://github.com/GreptimeTeam/greptimedb/pull/10179) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat: add information_schema.compaction_tasks](https://github.com/GreptimeTeam/greptimedb/pull/10173) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(mito2): expose live compaction task state](https://github.com/GreptimeTeam/greptimedb/pull/10172) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [ci: add standalone validation, documentation and tagged releases](https://github.com/GreptimeTeam/compaction-cli/pull/2) on [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) (4 days ago)
-- [feat: add bounded compaction CLI with resumable execution](https://github.com/GreptimeTeam/compaction-cli/pull/1) on [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) (4 days ago)
-- [feat: expose live compaction tasks in information schema](https://github.com/GreptimeTeam/greptimedb/pull/10161) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [fix(grafana): correct autopilot counters and show baseline reasons](https://github.com/GreptimeTeam/greptimedb/pull/10160) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 
 #### ⭐ Check out my recent stars
 
@@ -63,9 +63,9 @@ Hi 👋 Weny here.
 #### 👯 Check out my recent followers
 
 - [kyoku-seii](https://github.com/kyoku-seii)
-- [0vm](https://github.com/0vm)
 - [Linden1113](https://github.com/Linden1113)
 - [void-ptr974](https://github.com/void-ptr974)
 - [whoashish115](https://github.com/whoashish115)
+- [therealhieu](https://github.com/therealhieu)
 
 
