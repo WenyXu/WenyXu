@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: persist bounded WAL releases on region close](https://github.com/GreptimeTeam/greptimedb/pull/10329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(proto): add region sketch stat and query requests](https://github.com/GreptimeTeam/greptime-proto/pull/354) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [fix(mito): enforce explicit flush-on-close](https://github.com/GreptimeTeam/greptimedb/pull/10319) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: flush regions under object store WAL retention pressure](https://github.com/GreptimeTeam/greptimedb/pull/10309) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: document compaction tasks and cancellation](https://github.com/GreptimeTeam/docs/pull/3032) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
@@ -18,7 +20,7 @@ Hi 👋 Weny here.
 - [perf(puffin): reuse reader metadata and scoped cache keys](https://github.com/GreptimeTeam/greptimedb/pull/10294) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor(mito2): unify builtin index planning and execution](https://github.com/GreptimeTeam/greptimedb/pull/10293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(meta-srv): stop failing over regions that are still opening](https://github.com/GreptimeTeam/greptimedb/pull/10290) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(proto): report operating regions in datanode heartbeat](https://github.com/GreptimeTeam/greptime-proto/pull/353) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
+- [feat(proto): report opening regions in datanode heartbeat](https://github.com/GreptimeTeam/greptime-proto/pull/353) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [feat(log-store): add a read-only object store WAL reader](https://github.com/GreptimeTeam/greptimedb/pull/10269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [docs(rfc): propose a sketch reader framework](https://github.com/GreptimeTeam/greptimedb/pull/10265) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: prepare v1.3.1 backport candidate](https://github.com/GreptimeTeam/greptimedb/pull/10264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [feat(region): add task-specific compaction cancellation request](https://github.com/GreptimeTeam/greptime-proto/pull/352) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
 - [fix(meta-srv): invalidate leader cache on transaction errors](https://github.com/GreptimeTeam/greptimedb/pull/10219) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat(meta): configure drain parallelism and strategy over HTTP](https://github.com/GreptimeTeam/greptimedb/pull/10218) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(meta-srv): expose leader cache backend](https://github.com/GreptimeTeam/greptimedb/pull/10217) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(mito2): suppress redundant leader conversion warnings](https://github.com/GreptimeTeam/greptimedb/pull/10213) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 
 #### ⭐ Check out my recent stars
 
