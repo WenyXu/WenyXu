@@ -8,12 +8,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(mito2): support index plugins in compaction](https://github.com/GreptimeTeam/greptimedb/pull/10333) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: persist bounded WAL releases on region close](https://github.com/GreptimeTeam/greptimedb/pull/10329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(proto): add region sketch stat and query requests](https://github.com/GreptimeTeam/greptime-proto/pull/354) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [fix(mito): enforce explicit flush-on-close](https://github.com/GreptimeTeam/greptimedb/pull/10319) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: flush regions under object store WAL retention pressure](https://github.com/GreptimeTeam/greptimedb/pull/10309) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [docs: document compaction tasks and cancellation](https://github.com/GreptimeTeam/docs/pull/3032) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [feat(mito2): integrate extension indexes with compaction and rebuild](https://github.com/GreptimeTeam/greptimedb/pull/10298) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(mito2): support index plugins in region creation and rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/10298) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(mito2): support extension index providers and input reuse](https://github.com/GreptimeTeam/greptimedb/pull/10297) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(mito2): expose Region-bound sketch readers](https://github.com/GreptimeTeam/greptimedb/pull/10296) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(mito2): add column sketch options and index metadata](https://github.com/GreptimeTeam/greptimedb/pull/10295) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat: support cancelling compaction tasks by task ID](https://github.com/GreptimeTeam/greptimedb/pull/10229) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat(region): add task-specific compaction cancellation request](https://github.com/GreptimeTeam/greptime-proto/pull/352) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
 - [fix(meta-srv): invalidate leader cache on transaction errors](https://github.com/GreptimeTeam/greptimedb/pull/10219) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat(meta): configure drain parallelism and strategy over HTTP](https://github.com/GreptimeTeam/greptimedb/pull/10218) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 
 #### ⭐ Check out my recent stars
 
