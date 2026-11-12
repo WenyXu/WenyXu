@@ -8,6 +8,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(metric-engine): reuse existing column ids when adding columns is retried](https://github.com/GreptimeTeam/greptimedb/pull/10372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(meta): skip metric engine identity columns when merging partition columns](https://github.com/GreptimeTeam/greptimedb/pull/10368) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(mito2): project sparse compaction batches with the reader&#39;s projection](https://github.com/GreptimeTeam/greptimedb/pull/10367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(metric): route logical table writes by internal table id](https://github.com/GreptimeTeam/greptimedb/pull/10366) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(datanode): keep flush task error status code and retry hint](https://github.com/GreptimeTeam/greptimedb/pull/10360) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [perf(mito): reduce SST metadata memory overhead](https://github.com/GreptimeTeam/greptimedb/pull/10356) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(mito2): coordinate region edits with repartition lifecycle requests](https://github.com/GreptimeTeam/greptimedb/pull/10354) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
@@ -29,10 +33,6 @@ Hi 👋 Weny here.
 - [docs(rfc): propose a sketch reader framework](https://github.com/GreptimeTeam/greptimedb/pull/10265) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: prepare v1.3.1 backport candidate](https://github.com/GreptimeTeam/greptimedb/pull/10264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [docs(rfc): introduce explicit index build plans](https://github.com/GreptimeTeam/greptimedb/pull/10263) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [refactor: rename flushed_parquet_bytes to ingested_parquet_bytes](https://github.com/GreptimeTeam/greptimedb/pull/10258) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [feat(mito2): add compaction index provider hooks](https://github.com/GreptimeTeam/greptimedb/pull/10236) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat(http): expose supported hints and defaults](https://github.com/GreptimeTeam/greptimedb/pull/10233) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat(query): allow partial datanode inspection results](https://github.com/GreptimeTeam/greptimedb/pull/10230) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
 - [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (1 week ago)
