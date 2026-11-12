@@ -8,31 +8,31 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(mito2): support index plugins in compaction](https://github.com/GreptimeTeam/greptimedb/pull/10333) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat: persist bounded WAL releases on region close](https://github.com/GreptimeTeam/greptimedb/pull/10329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat(proto): add region sketch stat and query requests](https://github.com/GreptimeTeam/greptime-proto/pull/354) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
-- [fix(mito): enforce explicit flush-on-close](https://github.com/GreptimeTeam/greptimedb/pull/10319) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [feat: flush regions under object store WAL retention pressure](https://github.com/GreptimeTeam/greptimedb/pull/10309) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [docs: document compaction tasks and cancellation](https://github.com/GreptimeTeam/docs/pull/3032) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 day ago)
-- [feat(mito2): support index plugins in region creation and rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/10298) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(mito2): support extension index providers and input reuse](https://github.com/GreptimeTeam/greptimedb/pull/10297) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(mito2): expose Region-bound sketch readers](https://github.com/GreptimeTeam/greptimedb/pull/10296) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(mito2): add column sketch options and index metadata](https://github.com/GreptimeTeam/greptimedb/pull/10295) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [perf(puffin): reuse reader metadata and scoped cache keys](https://github.com/GreptimeTeam/greptimedb/pull/10294) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [refactor(mito2): unify builtin index planning and execution](https://github.com/GreptimeTeam/greptimedb/pull/10293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix(meta-srv): stop failing over regions that are still opening](https://github.com/GreptimeTeam/greptimedb/pull/10290) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(proto): report opening regions in datanode heartbeat](https://github.com/GreptimeTeam/greptime-proto/pull/353) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
-- [feat(log-store): add a read-only object store WAL reader](https://github.com/GreptimeTeam/greptimedb/pull/10269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [docs(rfc): propose a sketch reader framework](https://github.com/GreptimeTeam/greptimedb/pull/10265) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix: prepare v1.3.1 backport candidate](https://github.com/GreptimeTeam/greptimedb/pull/10264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [docs(rfc): introduce explicit index build plans](https://github.com/GreptimeTeam/greptimedb/pull/10263) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [refactor: rename flushed_parquet_bytes to ingested_parquet_bytes](https://github.com/GreptimeTeam/greptimedb/pull/10258) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [feat(mito2): add compaction index provider hooks](https://github.com/GreptimeTeam/greptimedb/pull/10236) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(http): expose supported hints and defaults](https://github.com/GreptimeTeam/greptimedb/pull/10233) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat(query): allow partial datanode inspection results](https://github.com/GreptimeTeam/greptimedb/pull/10230) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat: support cancelling compaction tasks by task ID](https://github.com/GreptimeTeam/greptimedb/pull/10229) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [feat(region): add task-specific compaction cancellation request](https://github.com/GreptimeTeam/greptime-proto/pull/352) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (5 days ago)
-- [fix(meta-srv): invalidate leader cache on transaction errors](https://github.com/GreptimeTeam/greptimedb/pull/10219) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat(mito2): support index plugins in compaction](https://github.com/GreptimeTeam/greptimedb/pull/10333) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat: persist bounded WAL releases on region close](https://github.com/GreptimeTeam/greptimedb/pull/10329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat(proto): add region sketch stat and query requests](https://github.com/GreptimeTeam/greptime-proto/pull/354) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
+- [fix(mito): enforce explicit flush-on-close](https://github.com/GreptimeTeam/greptimedb/pull/10319) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: flush regions under object store WAL retention pressure](https://github.com/GreptimeTeam/greptimedb/pull/10309) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [docs: document compaction tasks and cancellation](https://github.com/GreptimeTeam/docs/pull/3032) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 days ago)
+- [feat(mito2): support index plugins in region creation and rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/10298) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(mito2): support extension index providers and input reuse](https://github.com/GreptimeTeam/greptimedb/pull/10297) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(mito2): expose Region-bound sketch readers](https://github.com/GreptimeTeam/greptimedb/pull/10296) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(mito2): add column sketch options and index metadata](https://github.com/GreptimeTeam/greptimedb/pull/10295) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [perf(puffin): reuse reader metadata and scoped cache keys](https://github.com/GreptimeTeam/greptimedb/pull/10294) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [refactor(mito2): unify builtin index planning and execution](https://github.com/GreptimeTeam/greptimedb/pull/10293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix(meta-srv): stop failing over regions that are still opening](https://github.com/GreptimeTeam/greptimedb/pull/10290) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(proto): report opening regions in datanode heartbeat](https://github.com/GreptimeTeam/greptime-proto/pull/353) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (3 days ago)
+- [feat(log-store): add a read-only object store WAL reader](https://github.com/GreptimeTeam/greptimedb/pull/10269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [docs(rfc): propose a sketch reader framework](https://github.com/GreptimeTeam/greptimedb/pull/10265) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix: prepare v1.3.1 backport candidate](https://github.com/GreptimeTeam/greptimedb/pull/10264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [docs(rfc): introduce explicit index build plans](https://github.com/GreptimeTeam/greptimedb/pull/10263) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [refactor: rename flushed_parquet_bytes to ingested_parquet_bytes](https://github.com/GreptimeTeam/greptimedb/pull/10258) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(mito2): add compaction index provider hooks](https://github.com/GreptimeTeam/greptimedb/pull/10236) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat(http): expose supported hints and defaults](https://github.com/GreptimeTeam/greptimedb/pull/10233) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat(query): allow partial datanode inspection results](https://github.com/GreptimeTeam/greptimedb/pull/10230) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat: support cancelling compaction tasks by task ID](https://github.com/GreptimeTeam/greptimedb/pull/10229) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [feat(region): add task-specific compaction cancellation request](https://github.com/GreptimeTeam/greptime-proto/pull/352) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (6 days ago)
+- [fix(meta-srv): invalidate leader cache on transaction errors](https://github.com/GreptimeTeam/greptimedb/pull/10219) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,11 +54,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 day ago)
-- [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (6 days ago)
-- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 week ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 days ago)
+- [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (1 week ago)
+- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
