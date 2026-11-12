@@ -8,6 +8,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(datanode): keep flush task error status code and retry hint](https://github.com/GreptimeTeam/greptimedb/pull/10360) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [perf(mito): reduce SST metadata memory overhead](https://github.com/GreptimeTeam/greptimedb/pull/10356) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(mito2): coordinate region edits with repartition lifecycle requests](https://github.com/GreptimeTeam/greptimedb/pull/10354) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(mito2): support index plugins in compaction](https://github.com/GreptimeTeam/greptimedb/pull/10333) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat: persist bounded WAL releases on region close](https://github.com/GreptimeTeam/greptimedb/pull/10329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [feat(proto): add region sketch stat and query requests](https://github.com/GreptimeTeam/greptime-proto/pull/354) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (2 days ago)
@@ -30,9 +33,6 @@ Hi 👋 Weny here.
 - [feat(mito2): add compaction index provider hooks](https://github.com/GreptimeTeam/greptimedb/pull/10236) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [feat(http): expose supported hints and defaults](https://github.com/GreptimeTeam/greptimedb/pull/10233) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [feat(query): allow partial datanode inspection results](https://github.com/GreptimeTeam/greptimedb/pull/10230) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat: support cancelling compaction tasks by task ID](https://github.com/GreptimeTeam/greptimedb/pull/10229) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat(region): add task-specific compaction cancellation request](https://github.com/GreptimeTeam/greptime-proto/pull/352) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (6 days ago)
-- [fix(meta-srv): invalidate leader cache on transaction errors](https://github.com/GreptimeTeam/greptimedb/pull/10219) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
