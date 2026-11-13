@@ -8,6 +8,13 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add 1.3.1 release note](https://github.com/GreptimeTeam/docs/pull/3039) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
+- [feat(log-store): fence object store WAL I/O with node leases](https://github.com/GreptimeTeam/greptimedb/pull/10438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(auth): backport physical metric permission targets to v1.3](https://github.com/GreptimeTeam/greptimedb/pull/10434) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(common-meta): make RDS metadata backends closable](https://github.com/GreptimeTeam/greptimedb/pull/10417) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(mito2): cancel compaction merges at batch boundaries](https://github.com/GreptimeTeam/greptimedb/pull/10411) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [perf(mito2): optimize sparse tag materialization](https://github.com/GreptimeTeam/greptimedb/pull/10399) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(mito2): notify flush waiters after failure cleanup](https://github.com/GreptimeTeam/greptimedb/pull/10398) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(metric-engine): reuse existing column ids when adding columns is retried](https://github.com/GreptimeTeam/greptimedb/pull/10372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(meta): skip metric engine identity columns when merging partition columns](https://github.com/GreptimeTeam/greptimedb/pull/10368) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(mito2): project sparse compaction batches with the reader&#39;s projection](https://github.com/GreptimeTeam/greptimedb/pull/10367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -26,13 +33,6 @@ Hi 👋 Weny here.
 - [feat(mito2): expose Region-bound sketch readers](https://github.com/GreptimeTeam/greptimedb/pull/10296) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [feat(mito2): add column sketch options and index metadata](https://github.com/GreptimeTeam/greptimedb/pull/10295) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [perf(puffin): reuse reader metadata and scoped cache keys](https://github.com/GreptimeTeam/greptimedb/pull/10294) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [refactor(mito2): unify builtin index planning and execution](https://github.com/GreptimeTeam/greptimedb/pull/10293) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(meta-srv): stop failing over regions that are still opening](https://github.com/GreptimeTeam/greptimedb/pull/10290) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(proto): report opening regions in datanode heartbeat](https://github.com/GreptimeTeam/greptime-proto/pull/353) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 days ago)
-- [feat(log-store): add a read-only object store WAL reader](https://github.com/GreptimeTeam/greptimedb/pull/10269) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [docs(rfc): propose a sketch reader framework](https://github.com/GreptimeTeam/greptimedb/pull/10265) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix: prepare v1.3.1 backport candidate](https://github.com/GreptimeTeam/greptimedb/pull/10264) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [docs(rfc): introduce explicit index build plans](https://github.com/GreptimeTeam/greptimedb/pull/10263) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 days ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (1 week ago)
