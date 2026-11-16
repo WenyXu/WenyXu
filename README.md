@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(proto): add region sketch RPCs and optional file sampling](https://github.com/GreptimeTeam/greptime-proto/pull/358) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (today)
 - [docs: add 1.3.1 release note](https://github.com/GreptimeTeam/docs/pull/3039) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
 - [feat(log-store): fence object store WAL I/O with node leases](https://github.com/GreptimeTeam/greptimedb/pull/10438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix(auth): backport physical metric permission targets to v1.3](https://github.com/GreptimeTeam/greptimedb/pull/10434) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [feat(mito2): support extension index providers and input reuse](https://github.com/GreptimeTeam/greptimedb/pull/10297) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(mito2): expose Region-bound sketch readers](https://github.com/GreptimeTeam/greptimedb/pull/10296) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(mito2): add column sketch options and index metadata](https://github.com/GreptimeTeam/greptimedb/pull/10295) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [perf(puffin): reuse reader metadata and scoped cache keys](https://github.com/GreptimeTeam/greptimedb/pull/10294) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
