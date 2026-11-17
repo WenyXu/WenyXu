@@ -8,6 +8,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: chunk PostgreSQL batch gets below the parameter limit](https://github.com/GreptimeTeam/greptimedb/pull/10489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [test(operator): allow memory admission before metering rejection](https://github.com/GreptimeTeam/greptimedb/pull/10486) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix: return file logging initialization errors instead of panicking](https://github.com/GreptimeTeam/greptimedb/pull/10478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat(meta-srv): add enterprise-gated object store WAL configuration](https://github.com/GreptimeTeam/greptimedb/pull/10475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [perf: batch logical table cleanup when dropping databases](https://github.com/GreptimeTeam/greptimedb/pull/10461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(proto): add region sketch RPCs and optional file sampling](https://github.com/GreptimeTeam/greptime-proto/pull/358) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
@@ -30,9 +33,6 @@ Hi 👋 Weny here.
 - [feat(proto): add region sketch stat and query requests](https://github.com/GreptimeTeam/greptime-proto/pull/354) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [fix(mito): enforce explicit flush-on-close](https://github.com/GreptimeTeam/greptimedb/pull/10319) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat: flush regions under object store WAL retention pressure](https://github.com/GreptimeTeam/greptimedb/pull/10309) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [docs: document compaction tasks and cancellation](https://github.com/GreptimeTeam/docs/pull/3032) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
-- [feat(mito2): support index plugins in region creation and rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/10298) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(mito2): support extension index providers and input reuse](https://github.com/GreptimeTeam/greptimedb/pull/10297) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
