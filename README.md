@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(meta-srv): add enterprise-gated object store WAL configuration](https://github.com/GreptimeTeam/greptimedb/pull/10475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [perf: batch logical table cleanup when dropping databases](https://github.com/GreptimeTeam/greptimedb/pull/10461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(proto): add region sketch RPCs and optional file sampling](https://github.com/GreptimeTeam/greptime-proto/pull/358) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 day ago)
 - [docs: add 1.3.1 release note](https://github.com/GreptimeTeam/docs/pull/3039) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [docs: document compaction tasks and cancellation](https://github.com/GreptimeTeam/docs/pull/3032) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [feat(mito2): support index plugins in region creation and rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/10298) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(mito2): support extension index providers and input reuse](https://github.com/GreptimeTeam/greptimedb/pull/10297) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(mito2): expose Region-bound sketch readers](https://github.com/GreptimeTeam/greptimedb/pull/10296) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (6 days ago)
 - [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (1 week ago)
