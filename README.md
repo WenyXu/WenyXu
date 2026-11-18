@@ -8,7 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: chunk PostgreSQL batch gets below the parameter limit](https://github.com/GreptimeTeam/greptimedb/pull/10489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix: chunk RDS batch operations within parameter limits](https://github.com/GreptimeTeam/greptimedb/pull/10489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [test(operator): allow memory admission before metering rejection](https://github.com/GreptimeTeam/greptimedb/pull/10486) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: return file logging initialization errors instead of panicking](https://github.com/GreptimeTeam/greptimedb/pull/10478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(meta-srv): add enterprise-gated object store WAL configuration](https://github.com/GreptimeTeam/greptimedb/pull/10475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (1 week ago)
