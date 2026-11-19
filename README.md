@@ -8,6 +8,12 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(mito-codec): align sparse metric rows with physical region fields](https://github.com/GreptimeTeam/greptimedb/pull/10543) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [perf(catalog): batch cached metadata reads for information schema scans](https://github.com/GreptimeTeam/greptimedb/pull/10542) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(metric-engine): pause target compaction during metadata sync](https://github.com/GreptimeTeam/greptimedb/pull/10541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [perf(metric-engine): share logical column metadata by physical table](https://github.com/GreptimeTeam/greptimedb/pull/10536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [perf(metric-engine): stream metadata copies during repartition](https://github.com/GreptimeTeam/greptimedb/pull/10535) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(meta): add shared batch lookups for table metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(metasrv): reserve repartition region numbers before creating regions](https://github.com/GreptimeTeam/greptimedb/pull/10524) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs(rfc): clarify repartition rollback](https://github.com/GreptimeTeam/greptimedb/pull/10513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: chunk RDS batch operations within parameter limits](https://github.com/GreptimeTeam/greptimedb/pull/10489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -27,12 +33,6 @@ Hi 👋 Weny here.
 - [fix(meta): skip metric engine identity columns when merging partition columns](https://github.com/GreptimeTeam/greptimedb/pull/10368) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(mito2): project sparse compaction batches with the reader&#39;s projection](https://github.com/GreptimeTeam/greptimedb/pull/10367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(metric): route logical table writes by internal table id](https://github.com/GreptimeTeam/greptimedb/pull/10366) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(datanode): keep flush task error status code and retry hint](https://github.com/GreptimeTeam/greptimedb/pull/10360) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [perf(mito): reduce SST metadata memory overhead](https://github.com/GreptimeTeam/greptimedb/pull/10356) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(mito2): coordinate region edits with repartition lifecycle requests](https://github.com/GreptimeTeam/greptimedb/pull/10354) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(mito2): support index plugins in compaction](https://github.com/GreptimeTeam/greptimedb/pull/10333) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat: persist bounded WAL releases on region close](https://github.com/GreptimeTeam/greptimedb/pull/10329) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [feat(proto): add region sketch stat and query requests](https://github.com/GreptimeTeam/greptime-proto/pull/354) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
