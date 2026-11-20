@@ -8,9 +8,10 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor(meta): make coordinated invalidation the default for metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(mito-codec): align sparse metric rows with physical region fields](https://github.com/GreptimeTeam/greptimedb/pull/10543) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [perf(catalog): batch cached metadata reads for information schema scans](https://github.com/GreptimeTeam/greptimedb/pull/10542) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix(metric-engine): pause target compaction during metadata sync](https://github.com/GreptimeTeam/greptimedb/pull/10541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(repartition): pause metadata compaction and clean up copied SSTs during sync](https://github.com/GreptimeTeam/greptimedb/pull/10541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [perf(metric-engine): share logical column metadata by physical table](https://github.com/GreptimeTeam/greptimedb/pull/10536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [perf(metric-engine): stream metadata copies during repartition](https://github.com/GreptimeTeam/greptimedb/pull/10535) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(meta): add shared batch lookups for table metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix(metric-engine): reuse existing column ids when adding columns is retried](https://github.com/GreptimeTeam/greptimedb/pull/10372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(meta): skip metric engine identity columns when merging partition columns](https://github.com/GreptimeTeam/greptimedb/pull/10368) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(mito2): project sparse compaction batches with the reader&#39;s projection](https://github.com/GreptimeTeam/greptimedb/pull/10367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(metric): route logical table writes by internal table id](https://github.com/GreptimeTeam/greptimedb/pull/10366) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
