@@ -8,19 +8,19 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor(meta): make coordinated invalidation the default for metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix(mito-codec): align sparse metric rows with physical region fields](https://github.com/GreptimeTeam/greptimedb/pull/10543) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [perf(catalog): batch cached metadata reads for information schema scans](https://github.com/GreptimeTeam/greptimedb/pull/10542) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(repartition): pause metadata compaction and clean up copied SSTs during sync](https://github.com/GreptimeTeam/greptimedb/pull/10541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [perf(metric-engine): share logical column metadata by physical table](https://github.com/GreptimeTeam/greptimedb/pull/10536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [perf(metric-engine): stream metadata copies during repartition](https://github.com/GreptimeTeam/greptimedb/pull/10535) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [feat(meta): add shared batch lookups for table metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [fix(metasrv): reserve repartition region numbers before creating regions](https://github.com/GreptimeTeam/greptimedb/pull/10524) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
-- [docs(rfc): clarify repartition rollback](https://github.com/GreptimeTeam/greptimedb/pull/10513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
-- [fix: chunk RDS batch operations within parameter limits](https://github.com/GreptimeTeam/greptimedb/pull/10489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [test(operator): allow memory admission before metering rejection](https://github.com/GreptimeTeam/greptimedb/pull/10486) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [fix: return file logging initialization errors instead of panicking](https://github.com/GreptimeTeam/greptimedb/pull/10478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [feat(meta-srv): add enterprise-gated object store WAL configuration](https://github.com/GreptimeTeam/greptimedb/pull/10475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [refactor(meta): make coordinated invalidation the default for metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix(mito-codec): align sparse metric rows with physical region fields](https://github.com/GreptimeTeam/greptimedb/pull/10543) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [perf(catalog): batch cached metadata reads for information schema scans](https://github.com/GreptimeTeam/greptimedb/pull/10542) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix(repartition): pause metadata compaction and clean up copied SSTs during sync](https://github.com/GreptimeTeam/greptimedb/pull/10541) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [perf(metric-engine): share logical column metadata by physical table](https://github.com/GreptimeTeam/greptimedb/pull/10536) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [perf(metric-engine): stream metadata copies during repartition](https://github.com/GreptimeTeam/greptimedb/pull/10535) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [feat(meta): add shared batch lookups for table metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10527) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [fix(metasrv): reserve repartition region numbers before creating regions](https://github.com/GreptimeTeam/greptimedb/pull/10524) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
+- [docs(rfc): clarify repartition rollback](https://github.com/GreptimeTeam/greptimedb/pull/10513) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [fix: chunk RDS batch operations within parameter limits](https://github.com/GreptimeTeam/greptimedb/pull/10489) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [test(operator): allow memory admission before metering rejection](https://github.com/GreptimeTeam/greptimedb/pull/10486) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [fix: return file logging initialization errors instead of panicking](https://github.com/GreptimeTeam/greptimedb/pull/10478) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
+- [feat(meta-srv): add enterprise-gated object store WAL configuration](https://github.com/GreptimeTeam/greptimedb/pull/10475) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [perf: batch logical table cleanup when dropping databases](https://github.com/GreptimeTeam/greptimedb/pull/10461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(proto): add region sketch RPCs and optional file sampling](https://github.com/GreptimeTeam/greptime-proto/pull/358) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [docs: add 1.3.1 release note](https://github.com/GreptimeTeam/docs/pull/3039) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (2 weeks ago)
