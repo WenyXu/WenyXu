@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(procedure): recover from the last readable checkpoint](https://github.com/GreptimeTeam/greptimedb/pull/10612) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(meta): persist segmented procedure checkpoints atomically on RDS](https://github.com/GreptimeTeam/greptimedb/pull/10604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [refactor(meta): make coordinated invalidation the default for metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [fix(mito-codec): align sparse metric rows with physical region fields](https://github.com/GreptimeTeam/greptimedb/pull/10543) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [perf(catalog): batch cached metadata reads for information schema scans](https://github.com/GreptimeTeam/greptimedb/pull/10542) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [perf(mito2): optimize sparse tag materialization](https://github.com/GreptimeTeam/greptimedb/pull/10399) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(mito2): notify flush waiters after failure cleanup](https://github.com/GreptimeTeam/greptimedb/pull/10398) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(metric-engine): reuse existing column ids when adding columns is retried](https://github.com/GreptimeTeam/greptimedb/pull/10372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(meta): skip metric engine identity columns when merging partition columns](https://github.com/GreptimeTeam/greptimedb/pull/10368) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(mito2): project sparse compaction batches with the reader&#39;s projection](https://github.com/GreptimeTeam/greptimedb/pull/10367) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (1 week ago)
 - [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (2 weeks ago)
@@ -62,10 +62,10 @@ Hi 👋 Weny here.
 
 #### 👯 Check out my recent followers
 
+- [zhangfann](https://github.com/zhangfann)
 - [Tojan-Naiem](https://github.com/Tojan-Naiem)
 - [kyoku-seii](https://github.com/kyoku-seii)
 - [Linden1113](https://github.com/Linden1113)
 - [void-ptr974](https://github.com/void-ptr974)
-- [whoashish115](https://github.com/whoashish115)
 
 
