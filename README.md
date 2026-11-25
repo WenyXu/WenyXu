@@ -8,6 +8,8 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: skip inactive datanodes during inspection and expire stale registrations](https://github.com/GreptimeTeam/greptimedb/pull/10630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [chore: prepare v1.3.2 release candidate](https://github.com/GreptimeTeam/greptimedb/pull/10627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(procedure): recover from the last readable checkpoint](https://github.com/GreptimeTeam/greptimedb/pull/10612) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(meta): persist segmented procedure checkpoints atomically on RDS](https://github.com/GreptimeTeam/greptimedb/pull/10604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [refactor(meta): make coordinated invalidation the default for metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [feat(common-meta): make RDS metadata backends closable](https://github.com/GreptimeTeam/greptimedb/pull/10417) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(mito2): cancel compaction merges at batch boundaries](https://github.com/GreptimeTeam/greptimedb/pull/10411) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [perf(mito2): optimize sparse tag materialization](https://github.com/GreptimeTeam/greptimedb/pull/10399) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(mito2): notify flush waiters after failure cleanup](https://github.com/GreptimeTeam/greptimedb/pull/10398) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [fix(metric-engine): reuse existing column ids when adding columns is retried](https://github.com/GreptimeTeam/greptimedb/pull/10372) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
