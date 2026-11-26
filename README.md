@@ -8,6 +8,7 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(mito2): make table compaction publication retries idempotent](https://github.com/GreptimeTeam/greptimedb/pull/10651) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix: skip inactive datanodes during inspection and expire stale registrations](https://github.com/GreptimeTeam/greptimedb/pull/10630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: prepare v1.3.2 release candidate](https://github.com/GreptimeTeam/greptimedb/pull/10627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix(procedure): recover from the last readable checkpoint](https://github.com/GreptimeTeam/greptimedb/pull/10612) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -32,7 +33,6 @@ Hi 👋 Weny here.
 - [fix(auth): backport physical metric permission targets to v1.3](https://github.com/GreptimeTeam/greptimedb/pull/10434) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(common-meta): make RDS metadata backends closable](https://github.com/GreptimeTeam/greptimedb/pull/10417) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(mito2): cancel compaction merges at batch boundaries](https://github.com/GreptimeTeam/greptimedb/pull/10411) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
-- [perf(mito2): optimize sparse tag materialization](https://github.com/GreptimeTeam/greptimedb/pull/10399) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
@@ -54,7 +54,7 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (3 weeks ago)
