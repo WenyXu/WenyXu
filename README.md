@@ -8,7 +8,9 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(mito): build time-windowed column sketches as native indexes](https://github.com/GreptimeTeam/greptimedb/pull/10698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(index): align MG capacity with KLL and add indexed Puffin blob lookups](https://github.com/GreptimeTeam/greptimedb/pull/10711) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [fix(mito2): read committed compaction inputs during edit and alter](https://github.com/GreptimeTeam/greptimedb/pull/10706) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
+- [feat(index): extend column indexing](https://github.com/GreptimeTeam/greptimedb/pull/10698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(mito2): allow table compaction publication after adding nullable sparse tags](https://github.com/GreptimeTeam/greptimedb/pull/10681) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [fix(mito2): make table compaction publication retries idempotent](https://github.com/GreptimeTeam/greptimedb/pull/10651) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [fix: skip inactive datanodes during inspection and expire stale registrations](https://github.com/GreptimeTeam/greptimedb/pull/10630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
@@ -31,8 +33,6 @@ Hi 👋 Weny here.
 - [perf: batch logical table cleanup when dropping databases](https://github.com/GreptimeTeam/greptimedb/pull/10461) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(proto): add region sketch RPCs and optional file sampling](https://github.com/GreptimeTeam/greptime-proto/pull/358) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (1 week ago)
 - [docs: add 1.3.1 release note](https://github.com/GreptimeTeam/docs/pull/3039) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [feat(log-store): fence object store WAL I/O with node leases](https://github.com/GreptimeTeam/greptimedb/pull/10438) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(auth): backport physical metric permission targets to v1.3](https://github.com/GreptimeTeam/greptimedb/pull/10434) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
