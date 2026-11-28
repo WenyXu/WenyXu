@@ -8,15 +8,15 @@ Hi 👋 Weny here.
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(index): align MG capacity with KLL and add indexed Puffin blob lookups](https://github.com/GreptimeTeam/greptimedb/pull/10711) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(mito2): read committed compaction inputs during edit and alter](https://github.com/GreptimeTeam/greptimedb/pull/10706) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [feat(index): extend column indexing](https://github.com/GreptimeTeam/greptimedb/pull/10698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(mito2): allow table compaction publication after adding nullable sparse tags](https://github.com/GreptimeTeam/greptimedb/pull/10681) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
-- [fix(mito2): make table compaction publication retries idempotent](https://github.com/GreptimeTeam/greptimedb/pull/10651) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
-- [fix: skip inactive datanodes during inspection and expire stale registrations](https://github.com/GreptimeTeam/greptimedb/pull/10630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [chore: prepare v1.3.2 release candidate](https://github.com/GreptimeTeam/greptimedb/pull/10627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
-- [fix(procedure): recover from the last readable checkpoint](https://github.com/GreptimeTeam/greptimedb/pull/10612) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
-- [fix(meta): persist segmented procedure checkpoints atomically on RDS](https://github.com/GreptimeTeam/greptimedb/pull/10604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [feat(index): align MG capacity with KLL and add indexed Puffin blob lookups](https://github.com/GreptimeTeam/greptimedb/pull/10711) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(mito2): read committed compaction inputs during edit and alter](https://github.com/GreptimeTeam/greptimedb/pull/10706) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [feat(index): extend column indexing](https://github.com/GreptimeTeam/greptimedb/pull/10698) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(mito2): allow table compaction publication after adding nullable sparse tags](https://github.com/GreptimeTeam/greptimedb/pull/10681) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
+- [fix(mito2): make table compaction publication retries idempotent](https://github.com/GreptimeTeam/greptimedb/pull/10651) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [fix: skip inactive datanodes during inspection and expire stale registrations](https://github.com/GreptimeTeam/greptimedb/pull/10630) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [chore: prepare v1.3.2 release candidate](https://github.com/GreptimeTeam/greptimedb/pull/10627) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
+- [fix(procedure): recover from the last readable checkpoint](https://github.com/GreptimeTeam/greptimedb/pull/10612) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
+- [fix(meta): persist segmented procedure checkpoints atomically on RDS](https://github.com/GreptimeTeam/greptimedb/pull/10604) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [refactor(meta): make coordinated invalidation the default for metadata caches](https://github.com/GreptimeTeam/greptimedb/pull/10550) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix(mito-codec): align sparse metric rows with physical region fields](https://github.com/GreptimeTeam/greptimedb/pull/10543) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [perf(catalog): batch cached metadata reads for information schema scans](https://github.com/GreptimeTeam/greptimedb/pull/10542) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -54,11 +54,11 @@ Hi 👋 Weny here.
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (today)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (1 week ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. (1 day ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (2 weeks ago)
 - [GreptimeTeam/compaction-cli](https://github.com/GreptimeTeam/compaction-cli) -  (3 weeks ago)
-- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (4 weeks ago)
+- [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) - Helm charts for GreptimeDB deployment. (1 month ago)
 
 #### 👯 Check out my recent followers
 
